@@ -15,8 +15,8 @@ os.makedirs("docs", exist_ok=True)
 
 for file in ["wyverndb.js"]:
     shutil.copy2(file, os.path.join("docs", file))
-# for dir in ["data"]:
-#     shutil.copytree(dir, os.path.join("docs", dir), dirs_exist_ok=True)
+for dir in ["data"]:
+    shutil.copytree(dir, os.path.join("docs", dir), dirs_exist_ok=True)
 
 cards = {}
 CARDS_DIR = os.path.join("data", "cards")
@@ -70,7 +70,6 @@ for card in cards.values():
                 BASE_URL=BASE_URL,
             )
         )
-        break
 
 for set_ in sets.values():
     with open(os.path.join("docs", set_["id"] + ".html"), "w") as output_html_file:
