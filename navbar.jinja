@@ -28,7 +28,7 @@
             >Sets</a
           >
           <ul class="dropdown-menu">
-            {% for set in sets.values() %}
+            {% for set in sets.values()|sort(attribute="order") %}
             <li>
               <a class="dropdown-item" href="{{ set['id'] }}.html">{{
                 set["name"]

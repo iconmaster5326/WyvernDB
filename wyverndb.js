@@ -195,7 +195,6 @@ function parseTerm(query) {
   }
 
   [...query].forEach((c) => {
-    console.log(groupStack);
     if (escape) {
       currentWord += c;
       escape = false;
