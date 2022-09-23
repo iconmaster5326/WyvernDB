@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>{{ set["id"] }} - Wyvern DB</title>
+    <title>{{ set["name"] }} - Wyvern DB</title>
     <link
       href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css"
       rel="stylesheet"
@@ -19,7 +19,7 @@
     ></script>
     {% include 'navbar.jinja' %}
 
-    <h1 class="text-center">{{ set["id"] }}</h1>
+    <h1 class="text-center">{{ set["name"] }}</h1>
     <div class="text-center">{{ len(set["cards"]) }} cards in set</div>
     <div class="d-flex justify-content-center p-4 flex-wrap">
       {% for cardID in set["cards"] %}

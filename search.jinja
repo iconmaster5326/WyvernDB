@@ -44,7 +44,7 @@
               cardDiv.setAttribute("href", result["id"]+".html")
 
               var name = document.createElement("div");
-              name.innerText = result["name"] + " ("+result["set"] + " #" + result["number"] + ")";
+              name.innerText = result["name"] + " ("+sets[result["set"]]["name"] + " #" + result["number"] + ")";
               cardDiv.appendChild(name);
 
               var img = document.createElement("img");
