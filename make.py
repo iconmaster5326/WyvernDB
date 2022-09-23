@@ -43,7 +43,7 @@ for card in cards.values():
     cards_by_name.setdefault(card["name"], [])
     cards_by_name[card["name"]].append(card["id"])
 
-for page in ["index", "search"]:
+for page in ["index", "search", "random"]:
     with open(os.path.join("docs", page + ".html"), "w") as output_html_file:
         output_html_file.write(
             jinja_env.get_template(page + ".jinja").render(
@@ -52,6 +52,7 @@ for page in ["index", "search"]:
                 cards_by_name=cards_by_name,
                 repr=repr,
                 len=len,
+                list=list,
                 BASE_URL=BASE_URL,
             )
         )
@@ -67,6 +68,7 @@ for card in cards.values():
                 cards_by_name=cards_by_name,
                 repr=repr,
                 len=len,
+                list=list,
                 BASE_URL=BASE_URL,
             )
         )
@@ -81,6 +83,7 @@ for set_ in sets.values():
                 cards_by_name=cards_by_name,
                 repr=repr,
                 len=len,
+                list=list,
                 BASE_URL=BASE_URL,
             )
         )

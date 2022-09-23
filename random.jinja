@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Wyvern DB</title>
+  </head>
+  <body>
+    <script>
+      const cardIDs = {{ list(cards.keys()) }};
+      window.location.replace(cardIDs[Math.floor(Math.random() * cardIDs.length)]+".html");
+    </script>
+  </body>
+</html>

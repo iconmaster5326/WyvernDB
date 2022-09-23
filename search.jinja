@@ -34,15 +34,7 @@
         resultsDiv.innerHTML = "";
 
         var query = new URLSearchParams(window.location.search).get("query") || "";
-        var results = [];
-        if (query in cards) {
-          results.push(cards[query]);
-        }
-        Object.keys(cardsByName).forEach(name => {
-          if (name.toLowerCase().includes(query.trim().toLowerCase())) {
-              cardsByName[name].forEach(id => results.push(cards[id]));
-          }
-        });
+        var results = new SearchEnv().filter(Object.values(cards), parseTerm(query));
         if (results.length === 1) {
           window.location.replace(results[0]["id"] + ".html");
         } else {
