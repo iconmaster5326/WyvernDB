@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Wyvern DB</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT"
+      crossorigin="anonymous"
+    />
+  </head>
+  <body>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8"
+      crossorigin="anonymous"
+    ></script>
+    {% include 'navbar.jinja' %}
+    <div class="text-center p-4">
+      <h1>Search Syntax</h1>
+      <p>
+        WyvernDB sports a <a href="https://scryfall.com/">Scryfall</a>-inspired
+        search syntax, allowing you to find your cards easily and quickly using
+        nothing but the text bar.
+      </p>
+      <p>
+        By default, it will search for cards containing text including every
+        word you type in. Use quotes if you need to include spaces.
+      </p>
+      <div class="container justify-content-center">
+        <table class="table border">
+          <thead>
+            <tr>
+              <th scope="col">Example</th>
+              <th scope="col">What It Finds</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><tt>wyvern</tt></td>
+              <td>All cards with "wyvern" in them</td>
+            </tr>
+            <tr>
+              <td><tt>action fire</tt></td>
+              <td>All cards with both the words "action" and "fire" in them</td>
+            </tr>
+            <tr>
+              <td><tt>"flag of"</tt></td>
+              <td>All cards with the exact phrase "flag of" in them</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <h2>Negation</h2>
+      <p>
+        If you precede a search term with <tt>!</tt>, it will search for all
+        cards that do NOT match that term.
+      </p>
+      <div class="container justify-content-center">
+        <table class="table border">
+          <thead>
+            <tr>
+              <th scope="col">Example</th>
+              <th scope="col">What It Finds</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><tt>!fire</tt></td>
+              <td>All cards without "fire" in them</td>
+            </tr>
+            <tr>
+              <td><tt>wyvern !shadow</tt></td>
+              <td>
+                All cards with "wyvern" in them, except for Wyvern's Shadow
+              </td>
+            </tr>
+            <tr>
+              <td><tt>s:premiere !r:promo</tt></td>
+              <td>All non-promotional cards from Premiere</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <h2>Filters</h2>
+      <p>
+        You can further narrow your search with filters. These generally take
+        the form of <tt>X:Y</tt>, where <tt>X</tt> is the category of thing
+        you're searching in, and <tt>Y</tt> is the value you want to filter to.
+        For example, search card names only with the <tt>name:</tt> filter, or
+        by rarity with the <tt>rarity:</tt> filter. All available filters are
+        the following:
+      </p>
+      <div class="container justify-content-center">
+        <table class="table border">
+          <thead>
+            <tr>
+              <th scope="col">Filter</th>
+              <th scope="col">Description</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><tt>name:</tt>, <tt>n:</tt></td>
+              <td>The card's name</td>
+            </tr>
+            <tr>
+              <td><tt>set:</tt>, <tt>s:</tt></td>
+              <td>The set the card came from</td>
+            </tr>
+            <tr>
+              <td><tt>rarity:</tt>, <tt>r:</tt></td>
+              <td>The card's rarity (common, uncommon, rare, or promo)</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <p>
+        You can also use <tt>=</tt> instead of <tt>:</tt> when filtering, to
+        search for an exact match. For filters where it makes sense, you can
+        also use the other relational operators, like <tt>&lt;</tt> and
+        <tt>&gt;=</tt>.
+      </p>
+      <div class="container justify-content-center">
+        <table class="table border">
+          <thead>
+            <tr>
+              <th scope="col">Example</th>
+              <th scope="col">What It Finds</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><tt>s:pheonix</tt></td>
+              <td>All cards from the Pheonix expansion</td>
+            </tr>
+            <tr>
+              <td><tt>name=wyvern</tt></td>
+              <td>All cards named exactly Wyvern</td>
+            </tr>
+            <tr>
+              <td><tt>s:pheonix r>=uncommon</tt></td>
+              <td>All uncommon and rare cards from the Pheonix expansion</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <h2>Logic</h2>
+      <p>
+        Instead of searching for cards that meet all criteria, you can search
+        for cards that meet one of the given criteria. Simply intersperse your
+        search terms with <tt>|</tt>. For your grouping needs, use parentheses.
+      </p>
+      <div class="container justify-content-center">
+        <table class="table border">
+          <thead>
+            <tr>
+              <th scope="col">Example</th>
+              <th scope="col">What It Finds</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><tt>s:pheonix | s:chameleon</tt></td>
+              <td>All cards from expansion sets</td>
+            </tr>
+            <tr>
+              <td><tt>(s:pheonix r:common) | (s:kingdom r:rare)</tt></td>
+              <td>All common Pheonix and rare Kingdom Unlimited cards</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </body>
+</html>

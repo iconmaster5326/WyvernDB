@@ -43,7 +43,7 @@ for card in cards.values():
     cards_by_name.setdefault(card["name"], [])
     cards_by_name[card["name"]].append(card["id"])
 
-for page in ["index", "search", "random"]:
+for page in ["index", "search", "random", "syntax"]:
     with open(os.path.join("docs", page + ".html"), "w") as output_html_file:
         output_html_file.write(
             jinja_env.get_template(page + ".jinja").render(
