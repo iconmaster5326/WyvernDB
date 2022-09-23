@@ -1,0 +1,14 @@
+{
+    "id": "0edfe3c0-8de2-452f-b8b7-94940a4db2ee",
+    "name": "Pit",
+    "set": "kingdom",
+    "number": "36",
+    "image": "https://iconmaster.info/wyverndb/data/images/0edfe3c0-8de2-452f-b8b7-94940a4db2ee.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/0edfe3c0-8de2-452f-b8b7-94940a4db2ee.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/321350/pit"
+    },
+    "rarity": "uncommon"
+}

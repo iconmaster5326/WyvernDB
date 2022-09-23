@@ -1,0 +1,14 @@
+{
+    "id": "d19fa82c-9ddb-4395-a2a5-f0e127520920",
+    "name": "Desert",
+    "set": "limited",
+    "number": "40",
+    "image": "https://iconmaster.info/wyverndb/data/images/d19fa82c-9ddb-4395-a2a5-f0e127520920.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/d19fa82c-9ddb-4395-a2a5-f0e127520920.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/32621/desert"
+    },
+    "rarity": "common"
+}

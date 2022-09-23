@@ -1,0 +1,14 @@
+{
+    "id": "53242e64-9f74-4efa-bcc0-1007ae5cd5d1",
+    "name": "Pit",
+    "set": "limited",
+    "number": "36",
+    "image": "https://iconmaster.info/wyverndb/data/images/53242e64-9f74-4efa-bcc0-1007ae5cd5d1.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/53242e64-9f74-4efa-bcc0-1007ae5cd5d1.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/32617/pit"
+    },
+    "rarity": "uncommon"
+}

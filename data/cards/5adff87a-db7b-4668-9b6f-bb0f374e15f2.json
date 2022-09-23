@@ -1,0 +1,14 @@
+{
+    "id": "5adff87a-db7b-4668-9b6f-bb0f374e15f2",
+    "name": "Treasure Fire",
+    "set": "chameleon",
+    "number": "42",
+    "image": "https://iconmaster.info/wyverndb/data/images/5adff87a-db7b-4668-9b6f-bb0f374e15f2.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/5adff87a-db7b-4668-9b6f-bb0f374e15f2.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/321266/treasure-fire"
+    },
+    "rarity": "common"
+}

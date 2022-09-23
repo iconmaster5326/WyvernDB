@@ -1,0 +1,14 @@
+{
+    "id": "b53775ad-eee9-4eab-ac59-2eb2b87b4fda",
+    "name": "Help",
+    "set": "limited",
+    "number": "66",
+    "image": "https://iconmaster.info/wyverndb/data/images/b53775ad-eee9-4eab-ac59-2eb2b87b4fda.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/b53775ad-eee9-4eab-ac59-2eb2b87b4fda.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/32647/help"
+    },
+    "rarity": "common"
+}

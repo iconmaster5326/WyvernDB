@@ -1,0 +1,14 @@
+{
+    "id": "d29a7856-78f1-4fff-9c16-c0442efab77e",
+    "name": "Stolen Equipment",
+    "set": "chameleon",
+    "number": "35",
+    "image": "https://iconmaster.info/wyverndb/data/images/d29a7856-78f1-4fff-9c16-c0442efab77e.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/d29a7856-78f1-4fff-9c16-c0442efab77e.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/321259/stolen-equipment"
+    },
+    "rarity": "common"
+}

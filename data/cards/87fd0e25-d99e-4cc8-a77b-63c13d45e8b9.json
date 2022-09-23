@@ -1,0 +1,14 @@
+{
+    "id": "87fd0e25-d99e-4cc8-a77b-63c13d45e8b9",
+    "name": "Hercules",
+    "set": "kingdom",
+    "number": "190",
+    "image": "https://iconmaster.info/wyverndb/data/images/87fd0e25-d99e-4cc8-a77b-63c13d45e8b9.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/87fd0e25-d99e-4cc8-a77b-63c13d45e8b9.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/321504/hercules"
+    },
+    "rarity": "common"
+}

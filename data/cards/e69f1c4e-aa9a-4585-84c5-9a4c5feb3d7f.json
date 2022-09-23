@@ -1,0 +1,14 @@
+{
+    "id": "e69f1c4e-aa9a-4585-84c5-9a4c5feb3d7f",
+    "name": "Gold",
+    "set": "limited",
+    "number": "57",
+    "image": "https://iconmaster.info/wyverndb/data/images/e69f1c4e-aa9a-4585-84c5-9a4c5feb3d7f.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/e69f1c4e-aa9a-4585-84c5-9a4c5feb3d7f.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/32638/gold"
+    },
+    "rarity": "common"
+}

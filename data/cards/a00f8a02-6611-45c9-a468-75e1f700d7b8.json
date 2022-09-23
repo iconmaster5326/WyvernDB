@@ -1,0 +1,14 @@
+{
+    "id": "a00f8a02-6611-45c9-a468-75e1f700d7b8",
+    "name": "Giant Anteater",
+    "set": "kingdom",
+    "number": "234",
+    "image": "https://iconmaster.info/wyverndb/data/images/a00f8a02-6611-45c9-a468-75e1f700d7b8.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/a00f8a02-6611-45c9-a468-75e1f700d7b8.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/321548/giant-anteater"
+    },
+    "rarity": "rare"
+}

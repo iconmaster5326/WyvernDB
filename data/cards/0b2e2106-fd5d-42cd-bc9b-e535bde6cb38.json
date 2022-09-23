@@ -1,0 +1,14 @@
+{
+    "id": "0b2e2106-fd5d-42cd-bc9b-e535bde6cb38",
+    "name": "Subterranean Lair",
+    "set": "limited",
+    "number": "209",
+    "image": "https://iconmaster.info/wyverndb/data/images/0b2e2106-fd5d-42cd-bc9b-e535bde6cb38.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/0b2e2106-fd5d-42cd-bc9b-e535bde6cb38.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/32790/subterranean-lair"
+    },
+    "rarity": "uncommon"
+}

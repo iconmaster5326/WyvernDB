@@ -1,0 +1,14 @@
+{
+    "id": "e8b9e405-0bbc-43d6-bf84-36afcae58ec7",
+    "name": "Forest",
+    "set": "kingdom",
+    "number": "43",
+    "image": "https://iconmaster.info/wyverndb/data/images/e8b9e405-0bbc-43d6-bf84-36afcae58ec7.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/e8b9e405-0bbc-43d6-bf84-36afcae58ec7.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/321357/forest"
+    },
+    "rarity": "common"
+}

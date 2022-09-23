@@ -1,0 +1,14 @@
+{
+    "id": "81a61bdb-ace9-4f49-9474-08f35b4eb4da",
+    "name": "Gold Find",
+    "set": "kingdom",
+    "number": "228",
+    "image": "https://iconmaster.info/wyverndb/data/images/81a61bdb-ace9-4f49-9474-08f35b4eb4da.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/81a61bdb-ace9-4f49-9474-08f35b4eb4da.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/321542/gold-find"
+    },
+    "rarity": "common"
+}

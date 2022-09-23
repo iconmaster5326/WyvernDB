@@ -1,0 +1,14 @@
+{
+    "id": "f7015e4d-d1db-4999-8649-01cb9b62eac9",
+    "name": "Mount Chung",
+    "set": "kingdom",
+    "number": "161",
+    "image": "https://iconmaster.info/wyverndb/data/images/f7015e4d-d1db-4999-8649-01cb9b62eac9.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/f7015e4d-d1db-4999-8649-01cb9b62eac9.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/321475/mount-chung"
+    },
+    "rarity": "uncommon"
+}

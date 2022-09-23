@@ -1,0 +1,14 @@
+{
+    "id": "5b4280fe-e0b7-4785-bd52-445fd2101866",
+    "name": "Treasure Room",
+    "set": "limited",
+    "number": "119",
+    "image": "https://iconmaster.info/wyverndb/data/images/5b4280fe-e0b7-4785-bd52-445fd2101866.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/5b4280fe-e0b7-4785-bd52-445fd2101866.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/32700/treasure-room"
+    },
+    "rarity": "common"
+}

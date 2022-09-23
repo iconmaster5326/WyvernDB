@@ -1,0 +1,14 @@
+{
+    "id": "a6730a1a-4d77-4c03-aa79-ce0c710d73f9",
+    "name": "King Arthur",
+    "set": "kingdom",
+    "number": "193",
+    "image": "https://iconmaster.info/wyverndb/data/images/a6730a1a-4d77-4c03-aa79-ce0c710d73f9.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/a6730a1a-4d77-4c03-aa79-ce0c710d73f9.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/321507/king-arthur"
+    },
+    "rarity": "rare"
+}

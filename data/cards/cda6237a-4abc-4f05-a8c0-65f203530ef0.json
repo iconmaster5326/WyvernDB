@@ -1,0 +1,14 @@
+{
+    "id": "cda6237a-4abc-4f05-a8c0-65f203530ef0",
+    "name": "Dwarven Gold Mine",
+    "set": "limited",
+    "number": "212",
+    "image": "https://iconmaster.info/wyverndb/data/images/cda6237a-4abc-4f05-a8c0-65f203530ef0.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/cda6237a-4abc-4f05-a8c0-65f203530ef0.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/32793/dwarven-gold-mine"
+    },
+    "rarity": "rare"
+}

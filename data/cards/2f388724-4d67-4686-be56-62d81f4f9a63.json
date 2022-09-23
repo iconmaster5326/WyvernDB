@@ -1,0 +1,14 @@
+{
+    "id": "2f388724-4d67-4686-be56-62d81f4f9a63",
+    "name": "Bribery",
+    "set": "kingdom",
+    "number": "254",
+    "image": "https://iconmaster.info/wyverndb/data/images/2f388724-4d67-4686-be56-62d81f4f9a63.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/2f388724-4d67-4686-be56-62d81f4f9a63.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/321568/bribery"
+    },
+    "rarity": "uncommon"
+}

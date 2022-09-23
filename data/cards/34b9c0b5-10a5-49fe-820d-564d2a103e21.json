@@ -1,0 +1,14 @@
+{
+    "id": "34b9c0b5-10a5-49fe-820d-564d2a103e21",
+    "name": "Help",
+    "set": "kingdom",
+    "number": "66",
+    "image": "https://iconmaster.info/wyverndb/data/images/34b9c0b5-10a5-49fe-820d-564d2a103e21.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/34b9c0b5-10a5-49fe-820d-564d2a103e21.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/321380/help"
+    },
+    "rarity": "common"
+}

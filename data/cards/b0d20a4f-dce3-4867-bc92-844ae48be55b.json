@@ -1,0 +1,14 @@
+{
+    "id": "b0d20a4f-dce3-4867-bc92-844ae48be55b",
+    "name": "Power Switch",
+    "set": "limited",
+    "number": "127",
+    "image": "https://iconmaster.info/wyverndb/data/images/b0d20a4f-dce3-4867-bc92-844ae48be55b.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/b0d20a4f-dce3-4867-bc92-844ae48be55b.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/32708/power-switch"
+    },
+    "rarity": "rare"
+}

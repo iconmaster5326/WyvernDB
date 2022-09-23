@@ -1,0 +1,14 @@
+{
+    "id": "3382db91-e50c-4d57-ab00-51416fc57748",
+    "name": "Desert",
+    "set": "kingdom",
+    "number": "40",
+    "image": "https://iconmaster.info/wyverndb/data/images/3382db91-e50c-4d57-ab00-51416fc57748.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/3382db91-e50c-4d57-ab00-51416fc57748.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/321354/desert"
+    },
+    "rarity": "common"
+}

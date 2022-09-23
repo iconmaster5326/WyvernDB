@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{{ set["id"] }} - Wyvern DB</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT"
+      crossorigin="anonymous"
+    />
+  </head>
+  <body>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8"
+      crossorigin="anonymous"
+    ></script>
+    {% include 'navbar.jinja' %}
+
+    <h1 class="text-center">{{ set["id"] }}</h1>
+    <div class="text-center">{{ len(set["cards"]) }} cards in set</div>
+    <div class="d-flex justify-content-center p-4 flex-wrap">
+      {% for cardID in set["cards"] %}
+      <a class="text-center border p-2 flex-fill w-25" href="{{ cardID }}.html">
+        <div>{{ cards[cardID]["name"] }} (#{{ cards[cardID]["number"] }})</div>
+        <img
+          height="200"
+          src="{{ cards[cardID]['image'].replace(BASE_URL, '') }}"
+        />
+      </a>
+      {% endfor %}
+    </div>
+  </body>
+</html>

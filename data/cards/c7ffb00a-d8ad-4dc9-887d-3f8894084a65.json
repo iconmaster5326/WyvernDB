@@ -1,0 +1,14 @@
+{
+    "id": "c7ffb00a-d8ad-4dc9-887d-3f8894084a65",
+    "name": "Swamp",
+    "set": "kingdom",
+    "number": "34",
+    "image": "https://iconmaster.info/wyverndb/data/images/c7ffb00a-d8ad-4dc9-887d-3f8894084a65.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/c7ffb00a-d8ad-4dc9-887d-3f8894084a65.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/321348/swamp"
+    },
+    "rarity": "common"
+}

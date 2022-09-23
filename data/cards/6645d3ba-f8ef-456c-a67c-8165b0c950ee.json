@@ -1,0 +1,14 @@
+{
+    "id": "6645d3ba-f8ef-456c-a67c-8165b0c950ee",
+    "name": "Scylla",
+    "set": "limited",
+    "number": "23",
+    "image": "https://iconmaster.info/wyverndb/data/images/6645d3ba-f8ef-456c-a67c-8165b0c950ee.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/6645d3ba-f8ef-456c-a67c-8165b0c950ee.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/32604/scylla"
+    },
+    "rarity": "uncommon"
+}

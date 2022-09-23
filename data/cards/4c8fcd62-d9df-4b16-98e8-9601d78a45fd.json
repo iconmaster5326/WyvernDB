@@ -1,0 +1,14 @@
+{
+    "id": "4c8fcd62-d9df-4b16-98e8-9601d78a45fd",
+    "name": "Cave",
+    "set": "limited",
+    "number": "41",
+    "image": "https://iconmaster.info/wyverndb/data/images/4c8fcd62-d9df-4b16-98e8-9601d78a45fd.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/4c8fcd62-d9df-4b16-98e8-9601d78a45fd.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/32622/cave"
+    },
+    "rarity": "common"
+}

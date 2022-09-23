@@ -1,0 +1,14 @@
+{
+    "id": "b9bd526b-c096-4e6d-ab05-04a84901119f",
+    "name": "Gold",
+    "set": "kingdom",
+    "number": "57",
+    "image": "https://iconmaster.info/wyverndb/data/images/b9bd526b-c096-4e6d-ab05-04a84901119f.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/b9bd526b-c096-4e6d-ab05-04a84901119f.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/321371/gold"
+    },
+    "rarity": "common"
+}

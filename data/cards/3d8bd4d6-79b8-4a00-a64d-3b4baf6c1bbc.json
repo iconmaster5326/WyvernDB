@@ -1,0 +1,14 @@
+{
+    "id": "3d8bd4d6-79b8-4a00-a64d-3b4baf6c1bbc",
+    "name": "Abbey",
+    "set": "kingdom",
+    "number": "202",
+    "image": "https://iconmaster.info/wyverndb/data/images/3d8bd4d6-79b8-4a00-a64d-3b4baf6c1bbc.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/3d8bd4d6-79b8-4a00-a64d-3b4baf6c1bbc.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/321516/abbey"
+    },
+    "rarity": "uncommon"
+}

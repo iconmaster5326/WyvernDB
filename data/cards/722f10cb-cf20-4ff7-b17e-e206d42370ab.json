@@ -1,0 +1,14 @@
+{
+    "id": "722f10cb-cf20-4ff7-b17e-e206d42370ab",
+    "name": "Earthquake",
+    "set": "limited",
+    "number": "81",
+    "image": "https://iconmaster.info/wyverndb/data/images/722f10cb-cf20-4ff7-b17e-e206d42370ab.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/722f10cb-cf20-4ff7-b17e-e206d42370ab.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/32662/earthquake"
+    },
+    "rarity": "common"
+}

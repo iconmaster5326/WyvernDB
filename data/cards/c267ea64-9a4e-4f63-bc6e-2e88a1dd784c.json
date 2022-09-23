@@ -1,0 +1,14 @@
+{
+    "id": "c267ea64-9a4e-4f63-bc6e-2e88a1dd784c",
+    "name": "Underwater Cave",
+    "set": "limited",
+    "number": "110",
+    "image": "https://iconmaster.info/wyverndb/data/images/c267ea64-9a4e-4f63-bc6e-2e88a1dd784c.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/c267ea64-9a4e-4f63-bc6e-2e88a1dd784c.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/32691/underwater-cave"
+    },
+    "rarity": "uncommon"
+}

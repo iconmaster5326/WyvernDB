@@ -1,0 +1,14 @@
+{
+    "id": "612faed1-37c5-47ec-a6a4-953f9b0ed7d2",
+    "name": "Magic Potion",
+    "set": "premiere",
+    "number": "114",
+    "image": "https://iconmaster.info/wyverndb/data/images/612faed1-37c5-47ec-a6a4-953f9b0ed7d2.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/612faed1-37c5-47ec-a6a4-953f9b0ed7d2.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/32934/magic-potion"
+    },
+    "rarity": "common"
+}

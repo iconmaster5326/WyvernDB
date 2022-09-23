@@ -1,0 +1,14 @@
+{
+    "id": "43c1ecc0-1cce-44e1-a507-1d934060a0c0",
+    "name": "Poison Chalice",
+    "set": "kingdom",
+    "number": "78",
+    "image": "https://iconmaster.info/wyverndb/data/images/43c1ecc0-1cce-44e1-a507-1d934060a0c0.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/43c1ecc0-1cce-44e1-a507-1d934060a0c0.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/321392/poison-chalice"
+    },
+    "rarity": "rare"
+}

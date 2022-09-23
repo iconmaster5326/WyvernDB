@@ -1,0 +1,14 @@
+{
+    "id": "2afa4795-4eec-443c-bae3-4d24673c78ba",
+    "name": "Gold Thief",
+    "set": "kingdom",
+    "number": "225",
+    "image": "https://iconmaster.info/wyverndb/data/images/2afa4795-4eec-443c-bae3-4d24673c78ba.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/2afa4795-4eec-443c-bae3-4d24673c78ba.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/321539/gold-thief"
+    },
+    "rarity": "common"
+}

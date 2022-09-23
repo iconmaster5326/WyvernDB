@@ -1,0 +1,14 @@
+{
+    "id": "b470a7c5-30ef-4ed3-8e56-67ce2bb0cb32",
+    "name": "Royal Archers",
+    "set": "chameleon",
+    "number": "53",
+    "image": "https://iconmaster.info/wyverndb/data/images/b470a7c5-30ef-4ed3-8e56-67ce2bb0cb32.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/b470a7c5-30ef-4ed3-8e56-67ce2bb0cb32.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/321277/royal-archers"
+    },
+    "rarity": "common"
+}

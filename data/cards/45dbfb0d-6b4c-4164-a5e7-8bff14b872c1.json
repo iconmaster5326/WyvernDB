@@ -1,0 +1,14 @@
+{
+    "id": "45dbfb0d-6b4c-4164-a5e7-8bff14b872c1",
+    "name": "Underwater Cave",
+    "set": "kingdom",
+    "number": "110",
+    "image": "https://iconmaster.info/wyverndb/data/images/45dbfb0d-6b4c-4164-a5e7-8bff14b872c1.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/45dbfb0d-6b4c-4164-a5e7-8bff14b872c1.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/321424/underwater-cave"
+    },
+    "rarity": "uncommon"
+}

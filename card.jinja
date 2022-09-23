@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{{ card["name"] }} - Wyvern DB</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT"
+      crossorigin="anonymous"
+    />
+  </head>
+  <body>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8"
+      crossorigin="anonymous"
+    ></script>
+    {% include 'navbar.jinja' %}
+
+    <div class="container">
+      <div class="row">
+        <div class="col">
+          <img src="{{ card['image'].replace(BASE_URL, '') }}" />
+        </div>
+        <div class="col">
+          <h1 class="text-center">{{ card["name"] }}</h1>
+          <div class="container">
+            <div class="row">
+              <strong class="col">Type:</strong
+              ><span class="col">{{ card["type"] }}</span>
+            </div>
+            <div class="row">
+              <strong class="col">Gold cost:</strong
+              ><span class="col">{{ card["gold_cost"] }}</span>
+            </div>
+            <div class="row">
+                <strong class="col">Rarity:</strong
+                ><span class="col">{{ card["rarity"] }}</span>
+              </div>
+            <div class="row">
+              <strong class="col">Set:</strong
+              ><span class="col">{{ card["set"] }}</span>
+            </div>
+            <div class="row">
+              <strong class="col">Number:</strong
+              ><span class="col">{{ card["number"] }}</span>
+            </div>
+          </div>
+          {% if card["type"] == "dragon" %}
+          <div>
+            <span>STRENGTH:</span>
+            <span>{{ card["strength"] }}</span>
+            {% for ability in card.get("abilities") %}
+            <span>{{ ability }}</span>
+            {% endfor %}
+          </div>
+          {% endif %} {% if "special_abilities" in card %}
+          <div>
+            {{ card["special_abilities"] }}
+          </div>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

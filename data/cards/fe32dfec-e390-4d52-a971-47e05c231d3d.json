@@ -1,0 +1,14 @@
+{
+    "id": "fe32dfec-e390-4d52-a971-47e05c231d3d",
+    "name": "Gold Shortage",
+    "set": "limited",
+    "number": "227",
+    "image": "https://iconmaster.info/wyverndb/data/images/fe32dfec-e390-4d52-a971-47e05c231d3d.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/fe32dfec-e390-4d52-a971-47e05c231d3d.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/32808/gold-shortage"
+    },
+    "rarity": "common"
+}

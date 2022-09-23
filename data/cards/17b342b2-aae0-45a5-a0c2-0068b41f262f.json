@@ -1,0 +1,14 @@
+{
+    "id": "17b342b2-aae0-45a5-a0c2-0068b41f262f",
+    "name": "Bait",
+    "set": "kingdom",
+    "number": "146",
+    "image": "https://iconmaster.info/wyverndb/data/images/17b342b2-aae0-45a5-a0c2-0068b41f262f.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/17b342b2-aae0-45a5-a0c2-0068b41f262f.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/321460/bait"
+    },
+    "rarity": "uncommon"
+}

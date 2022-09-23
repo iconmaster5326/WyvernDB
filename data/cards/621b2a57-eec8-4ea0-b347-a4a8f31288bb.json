@@ -1,0 +1,14 @@
+{
+    "id": "621b2a57-eec8-4ea0-b347-a4a8f31288bb",
+    "name": "Golem",
+    "set": "chameleon",
+    "number": "33",
+    "image": "https://iconmaster.info/wyverndb/data/images/621b2a57-eec8-4ea0-b347-a4a8f31288bb.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/621b2a57-eec8-4ea0-b347-a4a8f31288bb.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/321257/golem"
+    },
+    "rarity": "uncommon"
+}

@@ -1,0 +1,14 @@
+{
+    "id": "c56dd031-76bf-4e24-8a3e-c4a0c54bd16a",
+    "name": "Atlantis",
+    "set": "kingdom",
+    "number": "246",
+    "image": "https://iconmaster.info/wyverndb/data/images/c56dd031-76bf-4e24-8a3e-c4a0c54bd16a.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/c56dd031-76bf-4e24-8a3e-c4a0c54bd16a.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/321560/atlantis"
+    },
+    "rarity": "uncommon"
+}

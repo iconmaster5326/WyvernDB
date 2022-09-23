@@ -1,0 +1,14 @@
+{
+    "id": "000d2de2-1825-4c3f-bedc-982ce1b355d1",
+    "name": "Wandering Rocks",
+    "set": "kingdom",
+    "number": "265",
+    "image": "https://iconmaster.info/wyverndb/data/images/000d2de2-1825-4c3f-bedc-982ce1b355d1.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/000d2de2-1825-4c3f-bedc-982ce1b355d1.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/321579/wandering-rocks"
+    },
+    "rarity": "common"
+}

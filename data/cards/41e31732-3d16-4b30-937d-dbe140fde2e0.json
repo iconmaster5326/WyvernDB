@@ -1,0 +1,14 @@
+{
+    "id": "41e31732-3d16-4b30-937d-dbe140fde2e0",
+    "name": "Hero",
+    "set": "kingdom",
+    "number": "68",
+    "image": "https://iconmaster.info/wyverndb/data/images/41e31732-3d16-4b30-937d-dbe140fde2e0.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/41e31732-3d16-4b30-937d-dbe140fde2e0.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/321382/hero"
+    },
+    "rarity": "rare"
+}

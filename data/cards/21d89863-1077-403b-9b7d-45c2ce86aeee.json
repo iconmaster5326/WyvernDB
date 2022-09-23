@@ -1,0 +1,14 @@
+{
+    "id": "21d89863-1077-403b-9b7d-45c2ce86aeee",
+    "name": "Magic Potion",
+    "set": "limited",
+    "number": "114",
+    "image": "https://iconmaster.info/wyverndb/data/images/21d89863-1077-403b-9b7d-45c2ce86aeee.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/21d89863-1077-403b-9b7d-45c2ce86aeee.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/32695/magic-potion"
+    },
+    "rarity": "common"
+}

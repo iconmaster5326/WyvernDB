@@ -1,0 +1,14 @@
+{
+    "id": "ac0bbadf-a67e-459d-bffd-d09f867c8baf",
+    "name": "Dwarven Army",
+    "set": "kingdom",
+    "number": "129",
+    "image": "https://iconmaster.info/wyverndb/data/images/ac0bbadf-a67e-459d-bffd-d09f867c8baf.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/ac0bbadf-a67e-459d-bffd-d09f867c8baf.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/321443/dwarven-army"
+    },
+    "rarity": "common"
+}

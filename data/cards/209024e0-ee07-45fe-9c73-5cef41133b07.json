@@ -1,0 +1,14 @@
+{
+    "id": "209024e0-ee07-45fe-9c73-5cef41133b07",
+    "name": "Treasure Room",
+    "set": "kingdom",
+    "number": "119",
+    "image": "https://iconmaster.info/wyverndb/data/images/209024e0-ee07-45fe-9c73-5cef41133b07.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/209024e0-ee07-45fe-9c73-5cef41133b07.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/321433/treasure-room"
+    },
+    "rarity": "common"
+}

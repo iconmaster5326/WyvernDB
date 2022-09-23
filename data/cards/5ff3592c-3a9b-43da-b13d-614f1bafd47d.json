@@ -1,0 +1,14 @@
+{
+    "id": "5ff3592c-3a9b-43da-b13d-614f1bafd47d",
+    "name": "Possession Spell",
+    "set": "limited",
+    "number": "131",
+    "image": "https://iconmaster.info/wyverndb/data/images/5ff3592c-3a9b-43da-b13d-614f1bafd47d.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/5ff3592c-3a9b-43da-b13d-614f1bafd47d.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/32712/possession-spell"
+    },
+    "rarity": "common"
+}

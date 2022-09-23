@@ -1,0 +1,14 @@
+{
+    "id": "e54033c1-6498-4e0e-8b7f-36f17a1d0b7e",
+    "name": "Possession Spell",
+    "set": "kingdom",
+    "number": "131",
+    "image": "https://iconmaster.info/wyverndb/data/images/e54033c1-6498-4e0e-8b7f-36f17a1d0b7e.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/e54033c1-6498-4e0e-8b7f-36f17a1d0b7e.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/321445/possession-spell"
+    },
+    "rarity": "common"
+}

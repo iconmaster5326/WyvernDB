@@ -1,0 +1,14 @@
+{
+    "id": "5cf059b8-9048-4eec-b7b2-2e831302a2ff",
+    "name": "Minotaur",
+    "set": "kingdom",
+    "number": "243",
+    "image": "https://iconmaster.info/wyverndb/data/images/5cf059b8-9048-4eec-b7b2-2e831302a2ff.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/5cf059b8-9048-4eec-b7b2-2e831302a2ff.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/321557/minotaur"
+    },
+    "rarity": "common"
+}

@@ -1,0 +1,14 @@
+{
+    "id": "b78e88f7-27bf-4d2d-aa84-57d3b45c08ea",
+    "name": "Power Switch",
+    "set": "kingdom",
+    "number": "127",
+    "image": "https://iconmaster.info/wyverndb/data/images/b78e88f7-27bf-4d2d-aa84-57d3b45c08ea.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/b78e88f7-27bf-4d2d-aa84-57d3b45c08ea.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/321441/power-switch"
+    },
+    "rarity": "rare"
+}

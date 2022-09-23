@@ -1,0 +1,14 @@
+{
+    "id": "bc16fc96-57d2-486d-8cdd-c6c64a80e220",
+    "name": "City",
+    "set": "limited",
+    "number": "199",
+    "image": "https://iconmaster.info/wyverndb/data/images/bc16fc96-57d2-486d-8cdd-c6c64a80e220.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/bc16fc96-57d2-486d-8cdd-c6c64a80e220.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/32780/city"
+    },
+    "rarity": "common"
+}

@@ -1,0 +1,14 @@
+{
+    "id": "7f88232c-1d3f-4d24-a85b-ef2791d3a2f9",
+    "name": "Wall",
+    "set": "kingdom",
+    "number": "39",
+    "image": "https://iconmaster.info/wyverndb/data/images/7f88232c-1d3f-4d24-a85b-ef2791d3a2f9.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/7f88232c-1d3f-4d24-a85b-ef2791d3a2f9.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/321353/wall"
+    },
+    "rarity": "uncommon"
+}

@@ -1,0 +1,14 @@
+{
+    "id": "b000eaeb-74f0-4d1a-a1a1-5c2dabac9cf8",
+    "name": "Kulkulcan",
+    "set": "kingdom",
+    "number": "101",
+    "image": "https://iconmaster.info/wyverndb/data/images/b000eaeb-74f0-4d1a-a1a1-5c2dabac9cf8.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/b000eaeb-74f0-4d1a-a1a1-5c2dabac9cf8.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/321415/kulkulcan"
+    },
+    "rarity": "uncommon"
+}

@@ -1,0 +1,14 @@
+{
+    "id": "abc5b1f8-0a2f-49c6-8ac9-b8d71c01ae7c",
+    "name": "Brush Fire",
+    "set": "kingdom",
+    "number": "109",
+    "image": "https://iconmaster.info/wyverndb/data/images/abc5b1f8-0a2f-49c6-8ac9-b8d71c01ae7c.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/abc5b1f8-0a2f-49c6-8ac9-b8d71c01ae7c.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/321423/brush-fire"
+    },
+    "rarity": "uncommon"
+}

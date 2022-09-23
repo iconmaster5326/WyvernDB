@@ -1,0 +1,14 @@
+{
+    "id": "220cedf5-03bd-4c27-ab0c-dc76c267e54d",
+    "name": "Poison Forest",
+    "set": "chameleon",
+    "number": "64",
+    "image": "https://iconmaster.info/wyverndb/data/images/220cedf5-03bd-4c27-ab0c-dc76c267e54d.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/220cedf5-03bd-4c27-ab0c-dc76c267e54d.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/321288/poison-forest"
+    },
+    "rarity": "common"
+}

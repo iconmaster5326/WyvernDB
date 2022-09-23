@@ -1,0 +1,14 @@
+{
+    "id": "e4fa7f74-376b-4b0e-b07d-1ecfb470b511",
+    "name": "Hurricane",
+    "set": "kingdom",
+    "number": "204",
+    "image": "https://iconmaster.info/wyverndb/data/images/e4fa7f74-376b-4b0e-b07d-1ecfb470b511.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/e4fa7f74-376b-4b0e-b07d-1ecfb470b511.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/321518/hurricane"
+    },
+    "rarity": "uncommon"
+}

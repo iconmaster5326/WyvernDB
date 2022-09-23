@@ -1,0 +1,14 @@
+{
+    "id": "b2e292de-bd9a-43e6-9fff-c7216a9d80f5",
+    "name": "Sale",
+    "set": "pheonix",
+    "number": "34",
+    "image": "https://iconmaster.info/wyverndb/data/images/b2e292de-bd9a-43e6-9fff-c7216a9d80f5.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/b2e292de-bd9a-43e6-9fff-c7216a9d80f5.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/321168/sale"
+    },
+    "rarity": "uncommon"
+}

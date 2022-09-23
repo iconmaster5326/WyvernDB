@@ -1,0 +1,14 @@
+{
+    "id": "3e58f428-0266-43e7-8dcb-9ae72790ab82",
+    "name": "Meteor Shower",
+    "set": "kingdom",
+    "number": "124",
+    "image": "https://iconmaster.info/wyverndb/data/images/3e58f428-0266-43e7-8dcb-9ae72790ab82.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/3e58f428-0266-43e7-8dcb-9ae72790ab82.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/321438/meteor-shower"
+    },
+    "rarity": "common"
+}

@@ -1,0 +1,14 @@
+{
+    "id": "db163c5c-7c10-46f6-8f81-1b0bb965fde8",
+    "name": "Gold Shortage",
+    "set": "kingdom",
+    "number": "227",
+    "image": "https://iconmaster.info/wyverndb/data/images/db163c5c-7c10-46f6-8f81-1b0bb965fde8.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/db163c5c-7c10-46f6-8f81-1b0bb965fde8.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/321541/gold-shortage"
+    },
+    "rarity": "common"
+}

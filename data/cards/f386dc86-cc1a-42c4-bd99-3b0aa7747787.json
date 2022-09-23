@@ -1,0 +1,14 @@
+{
+    "id": "f386dc86-cc1a-42c4-bd99-3b0aa7747787",
+    "name": "Inflation",
+    "set": "pheonix",
+    "number": "30",
+    "image": "https://iconmaster.info/wyverndb/data/images/f386dc86-cc1a-42c4-bd99-3b0aa7747787.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/f386dc86-cc1a-42c4-bd99-3b0aa7747787.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/321164/inflation"
+    },
+    "rarity": "uncommon"
+}

@@ -1,0 +1,47 @@
+<script src="wyverndb.js"></script>
+<nav class="navbar navbar-expand-lg bg-light">
+  <div class="container-fluid">
+    <a href="{{ BASE_URL }}" class="navbar-brand">Wyvern DB</a>
+    <button
+      class="navbar-toggler"
+      type="button"
+      data-mdb-toggle="collapse"
+      data-mdb-target="#wdbNavbar"
+      aria-controls="wdbNavbar"
+      aria-expanded="false"
+      aria-label="Toggle navigation"
+    >
+      <i class="fas fa-bars"></i>
+    </button>
+    <div class="collapse navbar-collapse" id="wdbNavbar">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link" href="search.html">Cards</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a
+            class="nav-link dropdown-toggle"
+            href="#"
+            role="button"
+            data-bs-toggle="dropdown"
+            aria-expanded="false"
+            >Sets</a
+          >
+          <ul class="dropdown-menu">
+            {% for set in sets.values() %}
+            <li>
+              <a class="dropdown-item" href="{{ set['id'] }}.html">{{
+                set["id"]
+              }}</a>
+            </li>
+            {% endfor %}
+          </ul>
+        </li>
+      </ul>
+      <form class="d-flex" role="search" action="search.html">
+        <input type="text" class="form-control" name="query" />
+        <button type="submit" class="btn btn-primary">Search</button>
+      </form>
+    </div>
+  </div>
+</nav>

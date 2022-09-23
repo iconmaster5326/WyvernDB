@@ -1,0 +1,14 @@
+{
+    "id": "29ce57dc-8fc4-4d1e-bad3-91253a20fc4b",
+    "name": "Magic Wand",
+    "set": "limited",
+    "number": "115",
+    "image": "https://iconmaster.info/wyverndb/data/images/29ce57dc-8fc4-4d1e-bad3-91253a20fc4b.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/29ce57dc-8fc4-4d1e-bad3-91253a20fc4b.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/32696/magic-wand"
+    },
+    "rarity": "common"
+}

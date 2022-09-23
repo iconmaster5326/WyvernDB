@@ -1,0 +1,14 @@
+{
+    "id": "9eff9551-96a7-493e-94c3-2b274d215a7f",
+    "name": "Dragon Egg",
+    "set": "kingdom",
+    "number": "55",
+    "image": "https://iconmaster.info/wyverndb/data/images/9eff9551-96a7-493e-94c3-2b274d215a7f.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/9eff9551-96a7-493e-94c3-2b274d215a7f.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/321369/dragon-egg"
+    },
+    "rarity": "rare"
+}

@@ -1,0 +1,14 @@
+{
+    "id": "2c88ee2c-09cb-4ce1-bfb9-c5cf2e6f7c6b",
+    "name": "Forest",
+    "set": "limited",
+    "number": "43",
+    "image": "https://iconmaster.info/wyverndb/data/images/2c88ee2c-09cb-4ce1-bfb9-c5cf2e6f7c6b.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/2c88ee2c-09cb-4ce1-bfb9-c5cf2e6f7c6b.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/32624/forest"
+    },
+    "rarity": "common"
+}

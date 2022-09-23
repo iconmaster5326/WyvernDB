@@ -1,0 +1,14 @@
+{
+    "id": "c3c0246a-bed9-4347-a4b6-19342a0244e2",
+    "name": "Wyvern",
+    "set": "kingdom",
+    "number": "1",
+    "image": "https://iconmaster.info/wyverndb/data/images/c3c0246a-bed9-4347-a4b6-19342a0244e2.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/c3c0246a-bed9-4347-a4b6-19342a0244e2.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/321315/wyvern"
+    },
+    "rarity": "common"
+}

@@ -1,0 +1,14 @@
+{
+    "id": "5d2b328b-4166-4a9b-b0ca-f006b6ea108c",
+    "name": "Secret Treasure",
+    "set": "kingdom",
+    "number": "118",
+    "image": "https://iconmaster.info/wyverndb/data/images/5d2b328b-4166-4a9b-b0ca-f006b6ea108c.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/5d2b328b-4166-4a9b-b0ca-f006b6ea108c.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/321432/secret-treasure"
+    },
+    "rarity": "common"
+}

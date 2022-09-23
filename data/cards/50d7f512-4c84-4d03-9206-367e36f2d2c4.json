@@ -1,0 +1,14 @@
+{
+    "id": "50d7f512-4c84-4d03-9206-367e36f2d2c4",
+    "name": "Magic Potion",
+    "set": "kingdom",
+    "number": "114",
+    "image": "https://iconmaster.info/wyverndb/data/images/50d7f512-4c84-4d03-9206-367e36f2d2c4.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/50d7f512-4c84-4d03-9206-367e36f2d2c4.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/321428/magic-potion"
+    },
+    "rarity": "common"
+}

@@ -1,0 +1,14 @@
+{
+    "id": "d19d49a9-88db-418d-be00-08be9cb3b28b",
+    "name": "Medea's Spell",
+    "set": "kingdom",
+    "number": "75",
+    "image": "https://iconmaster.info/wyverndb/data/images/d19d49a9-88db-418d-be00-08be9cb3b28b.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/d19d49a9-88db-418d-be00-08be9cb3b28b.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/321389/medeas-spell"
+    },
+    "rarity": "rare"
+}

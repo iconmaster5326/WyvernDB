@@ -1,0 +1,14 @@
+{
+    "id": "cb7171a4-9d91-49a3-ad52-d9e5028a8425",
+    "name": "Volcanic Eruption",
+    "set": "kingdom",
+    "number": "123",
+    "image": "https://iconmaster.info/wyverndb/data/images/cb7171a4-9d91-49a3-ad52-d9e5028a8425.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/cb7171a4-9d91-49a3-ad52-d9e5028a8425.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/321437/volcanic-eruption"
+    },
+    "rarity": "common"
+}

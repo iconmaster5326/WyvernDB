@@ -1,0 +1,14 @@
+{
+    "id": "aab32f10-b6a6-42cf-9866-fd1f6947c27c",
+    "name": "Brain Drain",
+    "set": "chameleon",
+    "number": "39",
+    "image": "https://iconmaster.info/wyverndb/data/images/aab32f10-b6a6-42cf-9866-fd1f6947c27c.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/aab32f10-b6a6-42cf-9866-fd1f6947c27c.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/321263/brain-drain"
+    },
+    "rarity": "common"
+}

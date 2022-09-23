@@ -1,0 +1,14 @@
+{
+    "id": "225c8df9-503f-48f0-a82e-b718d6c6a456",
+    "name": "Scylla",
+    "set": "kingdom",
+    "number": "23",
+    "image": "https://iconmaster.info/wyverndb/data/images/225c8df9-503f-48f0-a82e-b718d6c6a456.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/225c8df9-503f-48f0-a82e-b718d6c6a456.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/321337/scylla"
+    },
+    "rarity": "uncommon"
+}

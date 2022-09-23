@@ -1,0 +1,14 @@
+{
+    "id": "5b3eac0a-3b6c-42bf-8af7-83113f023b15",
+    "name": "Town",
+    "set": "kingdom",
+    "number": "201",
+    "image": "https://iconmaster.info/wyverndb/data/images/5b3eac0a-3b6c-42bf-8af7-83113f023b15.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/5b3eac0a-3b6c-42bf-8af7-83113f023b15.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/321515/town"
+    },
+    "rarity": "rare"
+}

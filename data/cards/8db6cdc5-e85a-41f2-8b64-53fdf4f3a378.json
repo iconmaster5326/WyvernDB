@@ -1,0 +1,14 @@
+{
+    "id": "8db6cdc5-e85a-41f2-8b64-53fdf4f3a378",
+    "name": "Ryu",
+    "set": "kingdom",
+    "number": "145",
+    "image": "https://iconmaster.info/wyverndb/data/images/8db6cdc5-e85a-41f2-8b64-53fdf4f3a378.jpeg",
+    "type": "",
+    "gold_cost": 0,
+    "links": {
+        "wyverndb": "https://iconmaster.info/wyverndb/8db6cdc5-e85a-41f2-8b64-53fdf4f3a378.html",
+        "ccgtrader": "https://www.ccgtrader.net/card/321459/ryu"
+    },
+    "rarity": "uncommon"
+}
