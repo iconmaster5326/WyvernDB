@@ -1,14 +1,21 @@
 {
-    "id": "9a6cc1f9-097c-4f3d-9840-c9dafd52424d",
-    "name": "Pick a Treasure",
-    "set": "premiere",
-    "number": "116",
-    "image": "https://iconmaster.info/wyverndb/data/images/9a6cc1f9-097c-4f3d-9840-c9dafd52424d.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/9a6cc1f9-097c-4f3d-9840-c9dafd52424d.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32936/pick-a-treasure"
-    },
-    "rarity": "common"
+  "id": "9a6cc1f9-097c-4f3d-9840-c9dafd52424d",
+  "name": "Pick a Treasure",
+  "set": "premiere",
+  "number": "116",
+  "image": "https://iconmaster.info/wyverndb/data/images/9a6cc1f9-097c-4f3d-9840-c9dafd52424d.jpeg",
+  "type": "treasure",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/9a6cc1f9-097c-4f3d-9840-c9dafd52424d.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32936/pick-a-treasure"
+  },
+  "rarity": "common",
+  "special_abilities": "ACTION: DISCARD THIS TREASURE FROM YOUR BATTLEFIELD AND PUT A TREASURE FROM YOUR OPPONENT'S BATTLEFIELD IN ITS PLACE.  BE SURE TO RETURN THE TREASURE TO ITS OWNER AFTER GAME.",
+  "lore": "",
+  "all_printings": [
+    "50251282-c511-4e0f-8b7f-94a524fff24c",
+    "9a6cc1f9-097c-4f3d-9840-c9dafd52424d",
+    "f15a3993-daa0-434c-860f-fe50304211f0"
+  ]
 }

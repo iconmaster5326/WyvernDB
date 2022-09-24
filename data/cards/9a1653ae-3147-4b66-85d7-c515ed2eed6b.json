@@ -1,14 +1,23 @@
 {
-    "id": "9a1653ae-3147-4b66-85d7-c515ed2eed6b",
-    "name": "Vittra",
-    "set": "premiere",
-    "number": "7",
-    "image": "https://iconmaster.info/wyverndb/data/images/9a1653ae-3147-4b66-85d7-c515ed2eed6b.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/9a1653ae-3147-4b66-85d7-c515ed2eed6b.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32827/vittra"
-    },
-    "rarity": "uncommon"
+  "id": "9a1653ae-3147-4b66-85d7-c515ed2eed6b",
+  "name": "Vittra",
+  "set": "premiere",
+  "number": "7",
+  "image": "https://iconmaster.info/wyverndb/data/images/9a1653ae-3147-4b66-85d7-c515ed2eed6b.jpeg",
+  "type": "dragon",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/9a1653ae-3147-4b66-85d7-c515ed2eed6b.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32827/vittra"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "FLYING DRAGONS LOSE 2 STRENGTH FOR THE REST OF A BATTLE THAT VITTRA IS PART OF.",
+  "lore": "Vittra is a dragon of India that creates storms instead of fire.",
+  "all_printings": [
+    "8dbad7e8-fdb4-442a-a757-2d5577c56e87",
+    "9a1653ae-3147-4b66-85d7-c515ed2eed6b",
+    "ac14d665-e1bc-459a-8ed7-731bf397054e"
+  ],
+  "strength": 3,
+  "abilities": []
 }

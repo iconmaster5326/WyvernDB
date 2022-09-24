@@ -1,14 +1,21 @@
 {
-    "id": "05f081bb-6b6f-4c86-a80c-b2395bbf79b4",
-    "name": "Invisibility",
-    "set": "kingdom",
-    "number": "239",
-    "image": "https://iconmaster.info/wyverndb/data/images/05f081bb-6b6f-4c86-a80c-b2395bbf79b4.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/05f081bb-6b6f-4c86-a80c-b2395bbf79b4.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321553/invisibility"
-    },
-    "rarity": "rare"
+  "id": "05f081bb-6b6f-4c86-a80c-b2395bbf79b4",
+  "name": "Invisibility",
+  "set": "kingdom",
+  "number": "239",
+  "image": "https://iconmaster.info/wyverndb/data/images/05f081bb-6b6f-4c86-a80c-b2395bbf79b4.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/05f081bb-6b6f-4c86-a80c-b2395bbf79b4.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321553/invisibility"
+  },
+  "rarity": "rare",
+  "subtype": "action",
+  "special_abilities": "ALL CARDS STARTING BATTLE FACE DOWN STAY FACE DOWN AND ALL BATTLE ACTION CARDS ARE PLAYED FACE DOWN.  AFTER ALL CARDS ARE PLAYED THEY ARE REVEALED IN THE ORDER PLAYED.  ALL BATTLE ACTION CARDS MUST BE PAID FOR EVEN IF A TERRAIN CARD WAS DISCOVERED.",
+  "lore": "",
+  "all_printings": [
+    "05f081bb-6b6f-4c86-a80c-b2395bbf79b4",
+    "9b0cc1a6-3a96-4bbd-99ea-e42b7efa877e"
+  ]
 }

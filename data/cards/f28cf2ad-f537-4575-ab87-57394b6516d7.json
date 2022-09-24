@@ -1,14 +1,19 @@
 {
-    "id": "f28cf2ad-f537-4575-ab87-57394b6516d7",
-    "name": "Crag",
-    "set": "chameleon",
-    "number": "74",
-    "image": "https://iconmaster.info/wyverndb/data/images/f28cf2ad-f537-4575-ab87-57394b6516d7.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/f28cf2ad-f537-4575-ab87-57394b6516d7.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321298/crag"
-    },
-    "rarity": "uncommon"
+  "id": "f28cf2ad-f537-4575-ab87-57394b6516d7",
+  "name": "Crag",
+  "set": "chameleon",
+  "number": "74",
+  "image": "https://iconmaster.info/wyverndb/data/images/f28cf2ad-f537-4575-ab87-57394b6516d7.jpeg",
+  "type": "terrain",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/f28cf2ad-f537-4575-ab87-57394b6516d7.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321298/crag"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "STRENGTH MODIFIER: -1 CHAMELEON REACTION: PAY THREE GOLD PIECES TO CHANGE CRAG TO A STRENGTH 2 SUBTERRANEAN DRAGON FOR THE REST OF THE GAME.",
+  "lore": "",
+  "all_printings": [
+    "f28cf2ad-f537-4575-ab87-57394b6516d7"
+  ]
 }

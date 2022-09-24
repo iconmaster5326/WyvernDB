@@ -1,14 +1,22 @@
 {
-    "id": "b53775ad-eee9-4eab-ac59-2eb2b87b4fda",
-    "name": "Help",
-    "set": "limited",
-    "number": "66",
-    "image": "https://iconmaster.info/wyverndb/data/images/b53775ad-eee9-4eab-ac59-2eb2b87b4fda.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/b53775ad-eee9-4eab-ac59-2eb2b87b4fda.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32647/help"
-    },
-    "rarity": "common"
+  "id": "b53775ad-eee9-4eab-ac59-2eb2b87b4fda",
+  "name": "Help",
+  "set": "limited",
+  "number": "66",
+  "image": "https://iconmaster.info/wyverndb/data/images/b53775ad-eee9-4eab-ac59-2eb2b87b4fda.jpeg",
+  "type": "action",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/b53775ad-eee9-4eab-ac59-2eb2b87b4fda.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32647/help"
+  },
+  "rarity": "common",
+  "special_abilities": "YOU MAY BRING ONE DRAGON ONE CARD AWAY INTO THIS BATTLE.  FLYING DRAGONS CAN COME FROM ANYWHERE IN YOUR BATTLEFIELD.",
+  "lore": "",
+  "all_printings": [
+    "34b9c0b5-10a5-49fe-820d-564d2a103e21",
+    "b53775ad-eee9-4eab-ac59-2eb2b87b4fda",
+    "ec2c534e-c32a-4728-a1de-da7999d6855c"
+  ],
+  "subtype": "battle_action"
 }

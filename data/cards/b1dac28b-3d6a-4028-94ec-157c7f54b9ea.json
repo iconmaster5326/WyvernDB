@@ -1,14 +1,25 @@
 {
-    "id": "b1dac28b-3d6a-4028-94ec-157c7f54b9ea",
-    "name": "Chimera",
-    "set": "limited",
-    "number": "18",
-    "image": "https://iconmaster.info/wyverndb/data/images/b1dac28b-3d6a-4028-94ec-157c7f54b9ea.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/b1dac28b-3d6a-4028-94ec-157c7f54b9ea.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32599/chimera"
-    },
-    "rarity": "uncommon"
+  "id": "b1dac28b-3d6a-4028-94ec-157c7f54b9ea",
+  "name": "Chimera",
+  "set": "limited",
+  "number": "18",
+  "image": "https://iconmaster.info/wyverndb/data/images/b1dac28b-3d6a-4028-94ec-157c7f54b9ea.jpeg",
+  "type": "dragon",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/b1dac28b-3d6a-4028-94ec-157c7f54b9ea.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32599/chimera"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "CHIMERA ATTACKS AT 1 STRENGTH FROM FACE DOWN.",
+  "lore": "",
+  "all_printings": [
+    "9a54c35f-68ba-427f-be2b-a70f392a8212",
+    "b1dac28b-3d6a-4028-94ec-157c7f54b9ea",
+    "e99144d5-0fb6-4ae5-b576-7f06cbf3e34f"
+  ],
+  "strength": 0,
+  "abilities": [
+    "scout"
+  ]
 }

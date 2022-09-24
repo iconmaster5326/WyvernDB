@@ -1,14 +1,20 @@
 {
-    "id": "3bc12b95-6a0f-4c5e-970c-4be7d498a6ff",
-    "name": "Dwarf King",
-    "set": "phoenix",
-    "number": "28",
-    "image": "https://iconmaster.info/wyverndb/data/images/3bc12b95-6a0f-4c5e-970c-4be7d498a6ff.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/3bc12b95-6a0f-4c5e-970c-4be7d498a6ff.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321162/dwarf-king"
-    },
-    "rarity": "common"
+  "id": "3bc12b95-6a0f-4c5e-970c-4be7d498a6ff",
+  "name": "Dwarf King",
+  "set": "phoenix",
+  "number": "28",
+  "image": "https://iconmaster.info/wyverndb/data/images/3bc12b95-6a0f-4c5e-970c-4be7d498a6ff.jpeg",
+  "type": "treasure",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/3bc12b95-6a0f-4c5e-970c-4be7d498a6ff.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321162/dwarf-king"
+  },
+  "rarity": "common",
+  "special_abilities": "YOU DO NOT HAVE TO SHOW YOUR HAND TO ANY PLAYER AND ALL ACTIONS THAT REQUIRE THIS ARE COUNTERED.",
+  "lore": "",
+  "all_printings": [
+    "3bc12b95-6a0f-4c5e-970c-4be7d498a6ff",
+    "92a07da0-482e-4231-9852-69b4a66614bd"
+  ]
 }

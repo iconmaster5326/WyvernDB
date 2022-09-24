@@ -1,14 +1,22 @@
 {
-    "id": "ae7ee991-4c1a-4094-a97a-486288240f48",
-    "name": "Avalanche",
-    "set": "premiere",
-    "number": "80",
-    "image": "https://iconmaster.info/wyverndb/data/images/ae7ee991-4c1a-4094-a97a-486288240f48.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/ae7ee991-4c1a-4094-a97a-486288240f48.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32900/avalanche"
-    },
-    "rarity": "common"
+  "id": "ae7ee991-4c1a-4094-a97a-486288240f48",
+  "name": "Avalanche",
+  "set": "premiere",
+  "number": "80",
+  "image": "https://iconmaster.info/wyverndb/data/images/ae7ee991-4c1a-4094-a97a-486288240f48.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/ae7ee991-4c1a-4094-a97a-486288240f48.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32900/avalanche"
+  },
+  "rarity": "common",
+  "special_abilities": "ALL FACE UP DRAGONS ARE TURNED FACE DOWN.",
+  "lore": "",
+  "all_printings": [
+    "92900695-cc5b-47bf-8186-6b50e94e5136",
+    "ae7ee991-4c1a-4094-a97a-486288240f48",
+    "daee61ff-fb3d-4907-9ae6-21521811d135"
+  ],
+  "subtype": "action"
 }

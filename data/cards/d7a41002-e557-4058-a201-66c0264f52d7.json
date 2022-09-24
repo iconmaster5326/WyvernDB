@@ -1,14 +1,20 @@
 {
-    "id": "d7a41002-e557-4058-a201-66c0264f52d7",
-    "name": "Growth Spurt",
-    "set": "kingdom",
-    "number": "220",
-    "image": "https://iconmaster.info/wyverndb/data/images/d7a41002-e557-4058-a201-66c0264f52d7.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/d7a41002-e557-4058-a201-66c0264f52d7.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321534/growth-spurt"
-    },
-    "rarity": "rare"
+  "id": "d7a41002-e557-4058-a201-66c0264f52d7",
+  "name": "Growth Spurt",
+  "set": "kingdom",
+  "number": "220",
+  "image": "https://iconmaster.info/wyverndb/data/images/d7a41002-e557-4058-a201-66c0264f52d7.jpeg",
+  "type": "treasure",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/d7a41002-e557-4058-a201-66c0264f52d7.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321534/growth-spurt"
+  },
+  "rarity": "rare",
+  "special_abilities": "ALL DRAGONS OF 2 OR LESS BASE STRENGTH GAIN +2 STRENGTH AS LONG AS GROWTH SPURT IS IN PLAY.",
+  "lore": "",
+  "all_printings": [
+    "1f97b60f-dfb3-4e9f-bac8-aa167675d114",
+    "d7a41002-e557-4058-a201-66c0264f52d7"
+  ]
 }

@@ -1,14 +1,23 @@
 {
-    "id": "ad84b9e7-fc70-4308-af1a-4bddb8bc5ccf",
-    "name": "Amphisbena",
-    "set": "limited",
-    "number": "26",
-    "image": "https://iconmaster.info/wyverndb/data/images/ad84b9e7-fc70-4308-af1a-4bddb8bc5ccf.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/ad84b9e7-fc70-4308-af1a-4bddb8bc5ccf.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32607/amphisbena"
-    },
-    "rarity": "rare"
+  "id": "ad84b9e7-fc70-4308-af1a-4bddb8bc5ccf",
+  "name": "Amphisbena",
+  "set": "limited",
+  "number": "26",
+  "image": "https://iconmaster.info/wyverndb/data/images/ad84b9e7-fc70-4308-af1a-4bddb8bc5ccf.jpeg",
+  "type": "dragon",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/ad84b9e7-fc70-4308-af1a-4bddb8bc5ccf.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32607/amphisbena"
+  },
+  "rarity": "rare",
+  "special_abilities": "",
+  "lore": "Amphisbena loves the cold weather climates.",
+  "all_printings": [
+    "ad84b9e7-fc70-4308-af1a-4bddb8bc5ccf",
+    "b5bb72ef-0f4a-4c18-ab56-88ad7580f4ff",
+    "dadd4d7d-35f2-4669-828f-4c2d4c58b159"
+  ],
+  "strength": 6,
+  "abilities": []
 }

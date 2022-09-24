@@ -1,14 +1,22 @@
 {
-    "id": "11983b14-ec35-418e-a92a-6b290fe69b89",
-    "name": "Green Dragon",
-    "set": "phoenix",
-    "number": "90",
-    "image": "https://iconmaster.info/wyverndb/data/images/11983b14-ec35-418e-a92a-6b290fe69b89.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/11983b14-ec35-418e-a92a-6b290fe69b89.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321224/green-dragon"
-    },
-    "rarity": "common"
+  "id": "11983b14-ec35-418e-a92a-6b290fe69b89",
+  "name": "Green Dragon",
+  "set": "phoenix",
+  "number": "90",
+  "image": "https://iconmaster.info/wyverndb/data/images/11983b14-ec35-418e-a92a-6b290fe69b89.jpeg",
+  "type": "dragon",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/11983b14-ec35-418e-a92a-6b290fe69b89.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321224/green-dragon"
+  },
+  "rarity": "common",
+  "strength": 1,
+  "abilities": [],
+  "special_abilities": "WHEN GREEN DRAGON LOSES A BATTLE WINNING DRAGON LOSES ANY SPECIAL ABILITIES FOR THE REST OF THE GAME.",
+  "lore": "Green Dragon is a Chinesse Dragon in Feng-shui myth.",
+  "all_printings": [
+    "11983b14-ec35-418e-a92a-6b290fe69b89",
+    "3678a32d-36d4-434d-8a9d-6fb15d2802ab"
+  ]
 }

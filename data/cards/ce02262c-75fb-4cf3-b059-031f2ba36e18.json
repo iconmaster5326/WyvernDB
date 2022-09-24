@@ -1,14 +1,22 @@
 {
-    "id": "ce02262c-75fb-4cf3-b059-031f2ba36e18",
-    "name": "Golden Apple",
-    "set": "limited",
-    "number": "82",
-    "image": "https://iconmaster.info/wyverndb/data/images/ce02262c-75fb-4cf3-b059-031f2ba36e18.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/ce02262c-75fb-4cf3-b059-031f2ba36e18.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32663/golden-apple"
-    },
-    "rarity": "common"
+  "id": "ce02262c-75fb-4cf3-b059-031f2ba36e18",
+  "name": "Golden Apple",
+  "set": "limited",
+  "number": "82",
+  "image": "https://iconmaster.info/wyverndb/data/images/ce02262c-75fb-4cf3-b059-031f2ba36e18.jpeg",
+  "type": "action",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/ce02262c-75fb-4cf3-b059-031f2ba36e18.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32663/golden-apple"
+  },
+  "rarity": "common",
+  "special_abilities": "THE DRAGON YOU PLAY THE GOLDEN APPLE ON SURVIVES THIS BATTLE EVEN IF HE LOSES.",
+  "lore": "",
+  "all_printings": [
+    "b4254099-777d-4448-b7f2-2b02bebb593c",
+    "bac24c0b-6d3c-45a2-a6c2-18aa0d03f6d7",
+    "ce02262c-75fb-4cf3-b059-031f2ba36e18"
+  ],
+  "subtype": "battle_action"
 }

@@ -1,14 +1,21 @@
 {
-    "id": "ff41af0e-125d-4100-95be-667b827542b4",
-    "name": "Mucilinda",
-    "set": "chameleon",
-    "number": "3",
-    "image": "https://iconmaster.info/wyverndb/data/images/ff41af0e-125d-4100-95be-667b827542b4.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/ff41af0e-125d-4100-95be-667b827542b4.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321227/mucilinda"
-    },
-    "rarity": "uncommon"
+  "id": "ff41af0e-125d-4100-95be-667b827542b4",
+  "name": "Mucilinda",
+  "set": "chameleon",
+  "number": "3",
+  "image": "https://iconmaster.info/wyverndb/data/images/ff41af0e-125d-4100-95be-667b827542b4.jpeg",
+  "type": "dragon",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/ff41af0e-125d-4100-95be-667b827542b4.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321227/mucilinda"
+  },
+  "rarity": "uncommon",
+  "strength": 4,
+  "abilities": [],
+  "special_abilities": "IMMUNE TO DRAGON SLAYERS.  WHILE MUCILINDA IS FACE UP, ALL OF YOUR NAGAS GET +1 STRENGTH.  ACTION: TURN ANY NAGA FACE DOWN.",
+  "lore": "",
+  "all_printings": [
+    "ff41af0e-125d-4100-95be-667b827542b4"
+  ]
 }

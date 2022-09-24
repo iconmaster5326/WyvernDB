@@ -1,14 +1,21 @@
 {
-    "id": "18ca6047-94ff-466c-8a19-9ac8598c888f",
-    "name": "Pirendeus Tree",
-    "set": "limited",
-    "number": "184",
-    "image": "https://iconmaster.info/wyverndb/data/images/18ca6047-94ff-466c-8a19-9ac8598c888f.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/18ca6047-94ff-466c-8a19-9ac8598c888f.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32765/pirendeus-tree"
-    },
-    "rarity": "common"
+  "id": "18ca6047-94ff-466c-8a19-9ac8598c888f",
+  "name": "Pirendeus Tree",
+  "set": "limited",
+  "number": "184",
+  "image": "https://iconmaster.info/wyverndb/data/images/18ca6047-94ff-466c-8a19-9ac8598c888f.jpeg",
+  "type": "action",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/18ca6047-94ff-466c-8a19-9ac8598c888f.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32765/pirendeus-tree"
+  },
+  "rarity": "common",
+  "special_abilities": "THE CARD YOU PLAY THE PIRENDEUS TREE ON CANNOT BE ATTACKED BY A DRAGON THIS TURN.",
+  "lore": "Dragons always avoid the Pirendeus Tree.",
+  "all_printings": [
+    "18ca6047-94ff-466c-8a19-9ac8598c888f",
+    "732b06e9-e11b-4a08-a029-8070bb501de2"
+  ],
+  "subtype": "action"
 }

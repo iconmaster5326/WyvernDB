@@ -1,14 +1,23 @@
 {
-    "id": "8990e6e8-e156-4b97-87ca-8b0ecd3afd01",
-    "name": "Phrygian",
-    "set": "limited",
-    "number": "27",
-    "image": "https://iconmaster.info/wyverndb/data/images/8990e6e8-e156-4b97-87ca-8b0ecd3afd01.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/8990e6e8-e156-4b97-87ca-8b0ecd3afd01.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32608/phrygian"
-    },
-    "rarity": "rare"
+  "id": "8990e6e8-e156-4b97-87ca-8b0ecd3afd01",
+  "name": "Phrygian",
+  "set": "limited",
+  "number": "27",
+  "image": "https://iconmaster.info/wyverndb/data/images/8990e6e8-e156-4b97-87ca-8b0ecd3afd01.jpeg",
+  "type": "dragon",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/8990e6e8-e156-4b97-87ca-8b0ecd3afd01.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32608/phrygian"
+  },
+  "rarity": "rare",
+  "special_abilities": "PHRYGIAN MAY GET HELP FROM A DRAGON ONE CARD AWAY IN THIS BATTLE.  FLYERS MAY HELP PHRYGIAN FROM ANYWHERE IN YOUR BATTLEFIELD.",
+  "lore": "",
+  "all_printings": [
+    "8990e6e8-e156-4b97-87ca-8b0ecd3afd01",
+    "9f25fbf2-ced2-473e-b73b-705763e4294d",
+    "e468e3d2-eabd-4c1f-a159-eb0d992f3acb"
+  ],
+  "strength": 3,
+  "abilities": []
 }

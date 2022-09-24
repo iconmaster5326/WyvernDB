@@ -1,14 +1,22 @@
 {
-    "id": "881846db-678d-4b25-988c-02bef8da106a",
-    "name": "Frost Breathing",
-    "set": "limited",
-    "number": "67",
-    "image": "https://iconmaster.info/wyverndb/data/images/881846db-678d-4b25-988c-02bef8da106a.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/881846db-678d-4b25-988c-02bef8da106a.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32648/frost-breathing"
-    },
-    "rarity": "common"
+  "id": "881846db-678d-4b25-988c-02bef8da106a",
+  "name": "Frost Breathing",
+  "set": "limited",
+  "number": "67",
+  "image": "https://iconmaster.info/wyverndb/data/images/881846db-678d-4b25-988c-02bef8da106a.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/881846db-678d-4b25-988c-02bef8da106a.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32648/frost-breathing"
+  },
+  "rarity": "common",
+  "special_abilities": "NO FIRE BREATHING CAN BE PLAYED DURING THIS BATTLE.",
+  "lore": "",
+  "all_printings": [
+    "14558821-54c4-470b-8c4e-f5175cd26b2c",
+    "2381dc35-29d9-4846-9f4f-6df702fad121",
+    "881846db-678d-4b25-988c-02bef8da106a"
+  ],
+  "subtype": "battle_action"
 }

@@ -1,14 +1,20 @@
 {
-    "id": "1b099622-7364-4587-8c5b-2ce7cec1312f",
-    "name": "Atlantis",
-    "set": "phoenix",
-    "number": "18",
-    "image": "https://iconmaster.info/wyverndb/data/images/1b099622-7364-4587-8c5b-2ce7cec1312f.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/1b099622-7364-4587-8c5b-2ce7cec1312f.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321152/atlantis"
-    },
-    "rarity": "uncommon"
+  "id": "1b099622-7364-4587-8c5b-2ce7cec1312f",
+  "name": "Atlantis",
+  "set": "phoenix",
+  "number": "18",
+  "image": "https://iconmaster.info/wyverndb/data/images/1b099622-7364-4587-8c5b-2ce7cec1312f.jpeg",
+  "type": "treasure",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/1b099622-7364-4587-8c5b-2ce7cec1312f.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321152/atlantis"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "DRAW PHASE: YOU MAY DRAW CARD FROM YOUR DRAGON LAIR DRAW PILE AND PLACE IT UNDER ATLANTIS.  BATTLE PHASE: IF YOU DISCARD FROM YOUR BATTLEFIELD YOU MAY REPLACE WITH A CARD FROM ATLANTIS.  IF ATLANTIS IS REMOVED FROM PLAY, ALL CARDS UNDER IT ARE DISCARDED.",
+  "lore": "",
+  "all_printings": [
+    "1b099622-7364-4587-8c5b-2ce7cec1312f",
+    "c56dd031-76bf-4e24-8a3e-c4a0c54bd16a"
+  ]
 }

@@ -1,14 +1,21 @@
 {
-    "id": "2c27a808-4989-48e4-9643-e8edf89895b9",
-    "name": "Snowdrifts",
-    "set": "kingdom",
-    "number": "107",
-    "image": "https://iconmaster.info/wyverndb/data/images/2c27a808-4989-48e4-9643-e8edf89895b9.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/2c27a808-4989-48e4-9643-e8edf89895b9.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321421/snowdrifts"
-    },
-    "rarity": "uncommon"
+  "id": "2c27a808-4989-48e4-9643-e8edf89895b9",
+  "name": "Snowdrifts",
+  "set": "kingdom",
+  "number": "107",
+  "image": "https://iconmaster.info/wyverndb/data/images/2c27a808-4989-48e4-9643-e8edf89895b9.jpeg",
+  "type": "terrain",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/2c27a808-4989-48e4-9643-e8edf89895b9.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321421/snowdrifts"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "A DRAGON CAUGHT IN A SNOWDRIFT MUST PAY ONE GOLD PIECE TO ATTACK.",
+  "lore": "",
+  "all_printings": [
+    "00024b88-1ab2-4288-8107-12d96704ce71",
+    "2c27a808-4989-48e4-9643-e8edf89895b9",
+    "8f5b0ca0-98b4-4034-aa60-482635dde0a9"
+  ]
 }

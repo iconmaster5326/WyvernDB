@@ -1,14 +1,20 @@
 {
-    "id": "4556f442-e0ff-47e7-9624-25dedc9e388d",
-    "name": "Centaurs",
-    "set": "phoenix",
-    "number": "25",
-    "image": "https://iconmaster.info/wyverndb/data/images/4556f442-e0ff-47e7-9624-25dedc9e388d.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/4556f442-e0ff-47e7-9624-25dedc9e388d.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321159/centaurs"
-    },
-    "rarity": "common"
+  "id": "4556f442-e0ff-47e7-9624-25dedc9e388d",
+  "name": "Centaurs",
+  "set": "phoenix",
+  "number": "25",
+  "image": "https://iconmaster.info/wyverndb/data/images/4556f442-e0ff-47e7-9624-25dedc9e388d.jpeg",
+  "type": "action",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/4556f442-e0ff-47e7-9624-25dedc9e388d.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321159/centaurs"
+  },
+  "rarity": "common",
+  "subtype": "action",
+  "special_abilities": "OPPONENT PAYS ONE GOLD TO THE GOLD MINE FOR EACH TREASURE HE HAS IN PLAY.  ANY TREASURE NOT PAID FOR IS REMOVED FROM PLAY.",
+  "lore": "",
+  "all_printings": [
+    "4556f442-e0ff-47e7-9624-25dedc9e388d"
+  ]
 }

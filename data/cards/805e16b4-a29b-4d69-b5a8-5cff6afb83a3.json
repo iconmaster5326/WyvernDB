@@ -1,14 +1,20 @@
 {
-    "id": "805e16b4-a29b-4d69-b5a8-5cff6afb83a3",
-    "name": "Dragon Bones",
-    "set": "kingdom",
-    "number": "173",
-    "image": "https://iconmaster.info/wyverndb/data/images/805e16b4-a29b-4d69-b5a8-5cff6afb83a3.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/805e16b4-a29b-4d69-b5a8-5cff6afb83a3.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321487/dragon-bones"
-    },
-    "rarity": "rare"
+  "id": "805e16b4-a29b-4d69-b5a8-5cff6afb83a3",
+  "name": "Dragon Bones",
+  "set": "kingdom",
+  "number": "173",
+  "image": "https://iconmaster.info/wyverndb/data/images/805e16b4-a29b-4d69-b5a8-5cff6afb83a3.jpeg",
+  "type": "treasure",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/805e16b4-a29b-4d69-b5a8-5cff6afb83a3.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321487/dragon-bones"
+  },
+  "rarity": "rare",
+  "special_abilities": "ACTION: PAY ONE GOLD PIECE TO REMOVE AS MANY CARDS AS YOU WANT FROM ONE DRAGON IN THIS ROW.",
+  "lore": "Dragon Bones are used for medicinal purposes.",
+  "all_printings": [
+    "31d8559d-4682-4df0-b02b-8cb129376fa0",
+    "805e16b4-a29b-4d69-b5a8-5cff6afb83a3"
+  ]
 }

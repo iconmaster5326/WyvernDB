@@ -1,14 +1,21 @@
 {
-    "id": "3382db91-e50c-4d57-ab00-51416fc57748",
-    "name": "Desert",
-    "set": "kingdom",
-    "number": "40",
-    "image": "https://iconmaster.info/wyverndb/data/images/3382db91-e50c-4d57-ab00-51416fc57748.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/3382db91-e50c-4d57-ab00-51416fc57748.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321354/desert"
-    },
-    "rarity": "common"
+  "id": "3382db91-e50c-4d57-ab00-51416fc57748",
+  "name": "Desert",
+  "set": "kingdom",
+  "number": "40",
+  "image": "https://iconmaster.info/wyverndb/data/images/3382db91-e50c-4d57-ab00-51416fc57748.jpeg",
+  "type": "terrain",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/3382db91-e50c-4d57-ab00-51416fc57748.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321354/desert"
+  },
+  "rarity": "common",
+  "special_abilities": "STRENGTH MODIFIER: -1",
+  "lore": "",
+  "all_printings": [
+    "23601587-8d52-4a52-ac4a-7e6c9dab0ead",
+    "3382db91-e50c-4d57-ab00-51416fc57748",
+    "d19fa82c-9ddb-4395-a2a5-f0e127520920"
+  ]
 }

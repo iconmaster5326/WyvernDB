@@ -1,14 +1,21 @@
 {
-    "id": "0a9b0e94-2206-49b5-8102-67db1e0e969c",
-    "name": "Cliff",
-    "set": "premiere",
-    "number": "37",
-    "image": "https://iconmaster.info/wyverndb/data/images/0a9b0e94-2206-49b5-8102-67db1e0e969c.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/0a9b0e94-2206-49b5-8102-67db1e0e969c.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32857/cliff"
-    },
-    "rarity": "uncommon"
+  "id": "0a9b0e94-2206-49b5-8102-67db1e0e969c",
+  "name": "Cliff",
+  "set": "premiere",
+  "number": "37",
+  "image": "https://iconmaster.info/wyverndb/data/images/0a9b0e94-2206-49b5-8102-67db1e0e969c.jpeg",
+  "type": "terrain",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/0a9b0e94-2206-49b5-8102-67db1e0e969c.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32857/cliff"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "STRENGTH MODIFIER: -2",
+  "lore": "",
+  "all_printings": [
+    "0a9b0e94-2206-49b5-8102-67db1e0e969c",
+    "6bd2d4f2-9cf0-428e-8f17-e2bdd9f04d6d",
+    "de7278e7-6d82-4474-8e9f-0bc235333758"
+  ]
 }

@@ -1,14 +1,23 @@
 {
-    "id": "8073adad-8736-427d-b1a4-f73c0f0fd0a9",
-    "name": "Tarasque",
-    "set": "kingdom",
-    "number": "6",
-    "image": "https://iconmaster.info/wyverndb/data/images/8073adad-8736-427d-b1a4-f73c0f0fd0a9.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/8073adad-8736-427d-b1a4-f73c0f0fd0a9.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321320/tarasque"
-    },
-    "rarity": "uncommon"
+  "id": "8073adad-8736-427d-b1a4-f73c0f0fd0a9",
+  "name": "Tarasque",
+  "set": "kingdom",
+  "number": "6",
+  "image": "https://iconmaster.info/wyverndb/data/images/8073adad-8736-427d-b1a4-f73c0f0fd0a9.jpeg",
+  "type": "dragon",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/8073adad-8736-427d-b1a4-f73c0f0fd0a9.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321320/tarasque"
+  },
+  "rarity": "uncommon",
+  "strength": 3,
+  "abilities": [],
+  "special_abilities": "",
+  "lore": "Tarasque can only be killed by Holy Water.",
+  "all_printings": [
+    "8073adad-8736-427d-b1a4-f73c0f0fd0a9",
+    "a284fcc9-1762-41e3-842c-67fd57267927",
+    "cda9b95b-aaf1-46dc-8f7b-f5923a440bf9"
+  ]
 }

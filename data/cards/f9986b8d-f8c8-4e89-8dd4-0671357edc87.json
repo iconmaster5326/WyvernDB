@@ -1,14 +1,20 @@
 {
-    "id": "f9986b8d-f8c8-4e89-8dd4-0671357edc87",
-    "name": "Subterranean Gold Mine",
-    "set": "kingdom",
-    "number": "208",
-    "image": "https://iconmaster.info/wyverndb/data/images/f9986b8d-f8c8-4e89-8dd4-0671357edc87.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/f9986b8d-f8c8-4e89-8dd4-0671357edc87.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321522/subterranean-gold-mine"
-    },
-    "rarity": "rare"
+  "id": "f9986b8d-f8c8-4e89-8dd4-0671357edc87",
+  "name": "Subterranean Gold Mine",
+  "set": "kingdom",
+  "number": "208",
+  "image": "https://iconmaster.info/wyverndb/data/images/f9986b8d-f8c8-4e89-8dd4-0671357edc87.jpeg",
+  "type": "treasure",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/f9986b8d-f8c8-4e89-8dd4-0671357edc87.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321522/subterranean-gold-mine"
+  },
+  "rarity": "rare",
+  "special_abilities": "ALL YOUR SUBTERRANEAN DRAGONS GAIN +1 STRENGTH WHEN ATTACKING.",
+  "lore": "",
+  "all_printings": [
+    "3080fca9-95f7-44c7-8ac1-8c6bae3d177d",
+    "f9986b8d-f8c8-4e89-8dd4-0671357edc87"
+  ]
 }

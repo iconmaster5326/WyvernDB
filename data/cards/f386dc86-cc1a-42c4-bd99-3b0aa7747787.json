@@ -1,14 +1,19 @@
 {
-    "id": "f386dc86-cc1a-42c4-bd99-3b0aa7747787",
-    "name": "Inflation",
-    "set": "phoenix",
-    "number": "30",
-    "image": "https://iconmaster.info/wyverndb/data/images/f386dc86-cc1a-42c4-bd99-3b0aa7747787.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/f386dc86-cc1a-42c4-bd99-3b0aa7747787.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321164/inflation"
-    },
-    "rarity": "uncommon"
+  "id": "f386dc86-cc1a-42c4-bd99-3b0aa7747787",
+  "name": "Inflation",
+  "set": "phoenix",
+  "number": "30",
+  "image": "https://iconmaster.info/wyverndb/data/images/f386dc86-cc1a-42c4-bd99-3b0aa7747787.jpeg",
+  "type": "treasure",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/f386dc86-cc1a-42c4-bd99-3b0aa7747787.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321164/inflation"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "ALL DRAGONS COST ONE MORE GOLD AS LONG AS INFLATION IS IN PLAY.",
+  "lore": "",
+  "all_printings": [
+    "f386dc86-cc1a-42c4-bd99-3b0aa7747787"
+  ]
 }

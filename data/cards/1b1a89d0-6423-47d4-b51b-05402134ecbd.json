@@ -1,14 +1,24 @@
 {
-    "id": "1b1a89d0-6423-47d4-b51b-05402134ecbd",
-    "name": "Blue",
-    "set": "kingdom",
-    "number": "157",
-    "image": "https://iconmaster.info/wyverndb/data/images/1b1a89d0-6423-47d4-b51b-05402134ecbd.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/1b1a89d0-6423-47d4-b51b-05402134ecbd.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321471/blue"
-    },
-    "rarity": "rare"
+  "id": "1b1a89d0-6423-47d4-b51b-05402134ecbd",
+  "name": "Blue",
+  "set": "kingdom",
+  "number": "157",
+  "image": "https://iconmaster.info/wyverndb/data/images/1b1a89d0-6423-47d4-b51b-05402134ecbd.jpeg",
+  "type": "dragon",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/1b1a89d0-6423-47d4-b51b-05402134ecbd.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321471/blue"
+  },
+  "rarity": "rare",
+  "strength": 5,
+  "abilities": [
+    "super_flying"
+  ],
+  "special_abilities": "IMMUNE TO DRAGON SLAYERS.  CAN ATTACK ANY CARD.  DRAW AN EXTRA CARD IN EACH OF YOUR DRAW PHASES THAT BLUE IS FACE UP.",
+  "lore": "Chinese Dragon that rules spring.",
+  "all_printings": [
+    "1b1a89d0-6423-47d4-b51b-05402134ecbd",
+    "363ff506-6b08-47f7-a98e-fb06dca4dfa2"
+  ]
 }

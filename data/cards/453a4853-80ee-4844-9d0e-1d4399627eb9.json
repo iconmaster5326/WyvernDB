@@ -1,14 +1,20 @@
 {
-    "id": "453a4853-80ee-4844-9d0e-1d4399627eb9",
-    "name": "Possession From Beyond",
-    "set": "chameleon",
-    "number": "54",
-    "image": "https://iconmaster.info/wyverndb/data/images/453a4853-80ee-4844-9d0e-1d4399627eb9.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/453a4853-80ee-4844-9d0e-1d4399627eb9.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321278/possession-from-beyond"
-    },
-    "rarity": "common"
+  "id": "453a4853-80ee-4844-9d0e-1d4399627eb9",
+  "name": "Possession From Beyond",
+  "set": "chameleon",
+  "number": "54",
+  "image": "https://iconmaster.info/wyverndb/data/images/453a4853-80ee-4844-9d0e-1d4399627eb9.jpeg",
+  "type": "action",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/453a4853-80ee-4844-9d0e-1d4399627eb9.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321278/possession-from-beyond"
+  },
+  "rarity": "common",
+  "subtype": "battle_action",
+  "special_abilities": "ADD THE BASE STRENGTH OF ANY DRAGON THAT IS THE TOP CARD OF ANY DRAGON LAIR DISCARD PILE TO YOUR SIDE IN THIS BATTLE.  THE POSSESSED DRAGON'S BASE STRENGTH BECOMES ZERO FOR THE REST OF THIS BATTLE.",
+  "lore": "",
+  "all_printings": [
+    "453a4853-80ee-4844-9d0e-1d4399627eb9"
+  ]
 }

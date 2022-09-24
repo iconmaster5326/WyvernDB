@@ -1,14 +1,23 @@
 {
-    "id": "998bb8b1-2153-45cd-88fc-78fc1205e03a",
-    "name": "Chao-Fung",
-    "set": "chameleon",
-    "number": "4",
-    "image": "https://iconmaster.info/wyverndb/data/images/998bb8b1-2153-45cd-88fc-78fc1205e03a.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/998bb8b1-2153-45cd-88fc-78fc1205e03a.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321228/chao-fung"
-    },
-    "rarity": "common"
+  "id": "998bb8b1-2153-45cd-88fc-78fc1205e03a",
+  "name": "Chao-Fung",
+  "set": "chameleon",
+  "number": "4",
+  "image": "https://iconmaster.info/wyverndb/data/images/998bb8b1-2153-45cd-88fc-78fc1205e03a.jpeg",
+  "type": "dragon",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/998bb8b1-2153-45cd-88fc-78fc1205e03a.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321228/chao-fung"
+  },
+  "rarity": "common",
+  "strength": 3,
+  "abilities": [
+    "flying"
+  ],
+  "special_abilities": "GAIN ONE GOLD PIECE FROM THE GOLD MINE FOR EACH CARD PLAYED BY AN OPPONENT DURING YOUR ACTION PHASES.",
+  "lore": "",
+  "all_printings": [
+    "998bb8b1-2153-45cd-88fc-78fc1205e03a"
+  ]
 }

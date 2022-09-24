@@ -1,14 +1,20 @@
 {
-    "id": "f0d09413-141a-490a-8a11-1fafb2a4c3a1",
-    "name": "Achilles",
-    "set": "phoenix",
-    "number": "7",
-    "image": "https://iconmaster.info/wyverndb/data/images/f0d09413-141a-490a-8a11-1fafb2a4c3a1.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/f0d09413-141a-490a-8a11-1fafb2a4c3a1.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321141/achilles"
-    },
-    "rarity": "uncommon"
+  "id": "f0d09413-141a-490a-8a11-1fafb2a4c3a1",
+  "name": "Achilles",
+  "set": "phoenix",
+  "number": "7",
+  "image": "https://iconmaster.info/wyverndb/data/images/f0d09413-141a-490a-8a11-1fafb2a4c3a1.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/f0d09413-141a-490a-8a11-1fafb2a4c3a1.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321141/achilles"
+  },
+  "rarity": "uncommon",
+  "subtype": "hidden_action",
+  "special_abilities": "PLACE FACE DOWN AND SIDEWAYS UNDER AN OPPONENT'S FACE DOWN CARD.  IF IT IS UNDER A DRAGON, THAT DRAGON LOSES 1 STRENGTH WHEN DEFENDING AS LONG AS ACHILLES IS ON THE DRAGON.  DISCARD ACHILLES IF UNDER A TERRAIN CARD.",
+  "lore": "Achilles was a Greek hero who was killed when Paris shot him in the heel with a poisoned arrow.",
+  "all_printings": [
+    "f0d09413-141a-490a-8a11-1fafb2a4c3a1"
+  ]
 }

@@ -1,14 +1,20 @@
 {
-    "id": "d7271c3b-f360-4099-83b4-395530d1797e",
-    "name": "Treasure Find",
-    "set": "chameleon",
-    "number": "37",
-    "image": "https://iconmaster.info/wyverndb/data/images/d7271c3b-f360-4099-83b4-395530d1797e.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/d7271c3b-f360-4099-83b4-395530d1797e.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321261/treasure-find"
-    },
-    "rarity": "uncommon"
+  "id": "d7271c3b-f360-4099-83b4-395530d1797e",
+  "name": "Treasure Find",
+  "set": "chameleon",
+  "number": "37",
+  "image": "https://iconmaster.info/wyverndb/data/images/d7271c3b-f360-4099-83b4-395530d1797e.jpeg",
+  "type": "action",
+  "gold_cost": 3,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/d7271c3b-f360-4099-83b4-395530d1797e.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321261/treasure-find"
+  },
+  "rarity": "uncommon",
+  "subtype": "action",
+  "special_abilities": "SEARCH YOUR TREASURE HORDE DRAW PILE FOR ANY TREASURE AND PUT IT DIRECTLY INTO PLAY, PAYING FOR IT NORMALLY.",
+  "lore": "",
+  "all_printings": [
+    "d7271c3b-f360-4099-83b4-395530d1797e"
+  ]
 }

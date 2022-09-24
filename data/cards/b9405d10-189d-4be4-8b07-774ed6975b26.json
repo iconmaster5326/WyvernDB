@@ -1,14 +1,20 @@
 {
-    "id": "b9405d10-189d-4be4-8b07-774ed6975b26",
-    "name": "City in the Sky",
-    "set": "limited",
-    "number": "210",
-    "image": "https://iconmaster.info/wyverndb/data/images/b9405d10-189d-4be4-8b07-774ed6975b26.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/b9405d10-189d-4be4-8b07-774ed6975b26.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32791/city-in-the-sky"
-    },
-    "rarity": "rare"
+  "id": "b9405d10-189d-4be4-8b07-774ed6975b26",
+  "name": "City in the Sky",
+  "set": "limited",
+  "number": "210",
+  "image": "https://iconmaster.info/wyverndb/data/images/b9405d10-189d-4be4-8b07-774ed6975b26.jpeg",
+  "type": "treasure",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/b9405d10-189d-4be4-8b07-774ed6975b26.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32791/city-in-the-sky"
+  },
+  "rarity": "rare",
+  "special_abilities": "ALL YOUR FLYING DRAGONS GAIN +1 STRENGTH WHEN ATTACKING.",
+  "lore": "",
+  "all_printings": [
+    "0625553b-08dc-493d-a669-2136c64f8782",
+    "b9405d10-189d-4be4-8b07-774ed6975b26"
+  ]
 }

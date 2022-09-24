@@ -1,14 +1,20 @@
 {
-    "id": "0fef0584-65a2-4bf1-b1fc-7b75609dc030",
-    "name": "Lost City",
-    "set": "chameleon",
-    "number": "32",
-    "image": "https://iconmaster.info/wyverndb/data/images/0fef0584-65a2-4bf1-b1fc-7b75609dc030.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/0fef0584-65a2-4bf1-b1fc-7b75609dc030.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321256/lost-city"
-    },
-    "rarity": "common"
+  "id": "0fef0584-65a2-4bf1-b1fc-7b75609dc030",
+  "name": "Lost City",
+  "set": "chameleon",
+  "number": "32",
+  "image": "https://iconmaster.info/wyverndb/data/images/0fef0584-65a2-4bf1-b1fc-7b75609dc030.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/0fef0584-65a2-4bf1-b1fc-7b75609dc030.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321256/lost-city"
+  },
+  "rarity": "common",
+  "subtype": "action",
+  "special_abilities": "OPPONENT MAY NOT LOOK AT ANY FACE DOWN CARDS IN THEIR BATTLEFIELD DURING THE REMAINDER OF THIS TURN AND THE NEXT.",
+  "lore": "",
+  "all_printings": [
+    "0fef0584-65a2-4bf1-b1fc-7b75609dc030"
+  ]
 }

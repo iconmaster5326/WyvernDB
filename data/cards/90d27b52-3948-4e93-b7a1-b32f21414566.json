@@ -1,14 +1,22 @@
 {
-    "id": "90d27b52-3948-4e93-b7a1-b32f21414566",
-    "name": "Fireball",
-    "set": "limited",
-    "number": "76",
-    "image": "https://iconmaster.info/wyverndb/data/images/90d27b52-3948-4e93-b7a1-b32f21414566.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/90d27b52-3948-4e93-b7a1-b32f21414566.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32657/fireball"
-    },
-    "rarity": "common"
+  "id": "90d27b52-3948-4e93-b7a1-b32f21414566",
+  "name": "Fireball",
+  "set": "limited",
+  "number": "76",
+  "image": "https://iconmaster.info/wyverndb/data/images/90d27b52-3948-4e93-b7a1-b32f21414566.jpeg",
+  "type": "action",
+  "gold_cost": 3,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/90d27b52-3948-4e93-b7a1-b32f21414566.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32657/fireball"
+  },
+  "rarity": "common",
+  "special_abilities": "STRENGTH MODIFIER: +4",
+  "lore": "",
+  "all_printings": [
+    "23bac286-d3dc-4c94-84dd-9802dbf9c91f",
+    "90d27b52-3948-4e93-b7a1-b32f21414566",
+    "9443618e-8061-4329-865b-0a99d1c2050f"
+  ],
+  "subtype": "battle_action"
 }

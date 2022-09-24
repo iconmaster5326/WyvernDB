@@ -1,14 +1,20 @@
 {
-    "id": "aa13c774-c353-4b3b-b081-35c8af3ee677",
-    "name": "Ajax",
-    "set": "phoenix",
-    "number": "10",
-    "image": "https://iconmaster.info/wyverndb/data/images/aa13c774-c353-4b3b-b081-35c8af3ee677.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/aa13c774-c353-4b3b-b081-35c8af3ee677.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321144/ajax"
-    },
-    "rarity": "common"
+  "id": "aa13c774-c353-4b3b-b081-35c8af3ee677",
+  "name": "Ajax",
+  "set": "phoenix",
+  "number": "10",
+  "image": "https://iconmaster.info/wyverndb/data/images/aa13c774-c353-4b3b-b081-35c8af3ee677.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/aa13c774-c353-4b3b-b081-35c8af3ee677.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321144/ajax"
+  },
+  "rarity": "common",
+  "subtype": "reaction",
+  "special_abilities": "AJAX COUNTERS THE PLAY OF ANY INTERCEPT ACTION.",
+  "lore": "Ajax is a giant Greek warrior who fought in the Trojan war.",
+  "all_printings": [
+    "aa13c774-c353-4b3b-b081-35c8af3ee677"
+  ]
 }

@@ -1,14 +1,23 @@
 {
-    "id": "a91f7b24-f48e-442d-b986-40a746ce77b2",
-    "name": "Scylla",
-    "set": "premiere",
-    "number": "23",
-    "image": "https://iconmaster.info/wyverndb/data/images/a91f7b24-f48e-442d-b986-40a746ce77b2.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/a91f7b24-f48e-442d-b986-40a746ce77b2.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32843/scylla"
-    },
-    "rarity": "uncommon"
+  "id": "a91f7b24-f48e-442d-b986-40a746ce77b2",
+  "name": "Scylla",
+  "set": "premiere",
+  "number": "23",
+  "image": "https://iconmaster.info/wyverndb/data/images/a91f7b24-f48e-442d-b986-40a746ce77b2.jpeg",
+  "type": "dragon",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/a91f7b24-f48e-442d-b986-40a746ce77b2.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32843/scylla"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "SCYLLA DEFENDS AT 5 STRENGTH FROM FACE DOWN AND ATTACKS AT 3 STRENGTH FROM FACE UP.",
+  "lore": "",
+  "all_printings": [
+    "225c8df9-503f-48f0-a82e-b718d6c6a456",
+    "6645d3ba-f8ef-456c-a67c-8165b0c950ee",
+    "a91f7b24-f48e-442d-b986-40a746ce77b2"
+  ],
+  "strength": 4,
+  "abilities": []
 }

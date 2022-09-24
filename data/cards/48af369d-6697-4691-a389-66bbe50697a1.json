@@ -1,14 +1,20 @@
 {
-    "id": "48af369d-6697-4691-a389-66bbe50697a1",
-    "name": "Subterranean Tunnels",
-    "set": "kingdom",
-    "number": "211",
-    "image": "https://iconmaster.info/wyverndb/data/images/48af369d-6697-4691-a389-66bbe50697a1.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/48af369d-6697-4691-a389-66bbe50697a1.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321525/subterranean-tunnels"
-    },
-    "rarity": "common"
+  "id": "48af369d-6697-4691-a389-66bbe50697a1",
+  "name": "Subterranean Tunnels",
+  "set": "kingdom",
+  "number": "211",
+  "image": "https://iconmaster.info/wyverndb/data/images/48af369d-6697-4691-a389-66bbe50697a1.jpeg",
+  "type": "treasure",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/48af369d-6697-4691-a389-66bbe50697a1.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321525/subterranean-tunnels"
+  },
+  "rarity": "common",
+  "special_abilities": "ALL YOUR SUBTERRANEAN DRAGONS CAN NOW ATTACK ANY CARD IN THE BATTLEFIELD.",
+  "lore": "",
+  "all_printings": [
+    "249ab99c-1b38-4005-a32e-ffbb645407bc",
+    "48af369d-6697-4691-a389-66bbe50697a1"
+  ]
 }

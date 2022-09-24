@@ -1,14 +1,21 @@
 {
-    "id": "6281716c-d91c-404b-8c4a-68476d3e4052",
-    "name": "Princess Libya",
-    "set": "kingdom",
-    "number": "58",
-    "image": "https://iconmaster.info/wyverndb/data/images/6281716c-d91c-404b-8c4a-68476d3e4052.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/6281716c-d91c-404b-8c4a-68476d3e4052.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321372/princess-libya"
-    },
-    "rarity": "common"
+  "id": "6281716c-d91c-404b-8c4a-68476d3e4052",
+  "name": "Princess Libya",
+  "set": "kingdom",
+  "number": "58",
+  "image": "https://iconmaster.info/wyverndb/data/images/6281716c-d91c-404b-8c4a-68476d3e4052.jpeg",
+  "type": "treasure",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/6281716c-d91c-404b-8c4a-68476d3e4052.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321372/princess-libya"
+  },
+  "rarity": "common",
+  "special_abilities": "ST. GEORGE MUST RESCUE PRINCESS LIBYA INSTEAD OF REMOVING ANY OTHER TREASURE IN YOUR BATTLEFIELD.",
+  "lore": "",
+  "all_printings": [
+    "44b58359-7c1c-40e7-bb12-495f6c534c75",
+    "6281716c-d91c-404b-8c4a-68476d3e4052",
+    "7ca5c26e-5090-4b32-bd42-44e4ab9dd3ec"
+  ]
 }

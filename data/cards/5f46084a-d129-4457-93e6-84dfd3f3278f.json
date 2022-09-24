@@ -1,14 +1,23 @@
 {
-    "id": "5f46084a-d129-4457-93e6-84dfd3f3278f",
-    "name": "Mushussu",
-    "set": "kingdom",
-    "number": "20",
-    "image": "https://iconmaster.info/wyverndb/data/images/5f46084a-d129-4457-93e6-84dfd3f3278f.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/5f46084a-d129-4457-93e6-84dfd3f3278f.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321334/mushussu"
-    },
-    "rarity": "uncommon"
+  "id": "5f46084a-d129-4457-93e6-84dfd3f3278f",
+  "name": "Mushussu",
+  "set": "kingdom",
+  "number": "20",
+  "image": "https://iconmaster.info/wyverndb/data/images/5f46084a-d129-4457-93e6-84dfd3f3278f.jpeg",
+  "type": "dragon",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/5f46084a-d129-4457-93e6-84dfd3f3278f.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321334/mushussu"
+  },
+  "rarity": "uncommon",
+  "strength": 1,
+  "abilities": [],
+  "special_abilities": "2 STRENGTH WHEN ATTACKING FROM FACE DOWN.  0 STRENGTH WHEN ATTACKING FROM FACE UP.",
+  "lore": "",
+  "all_printings": [
+    "487e1a4c-9849-43eb-9514-dd64154318c4",
+    "5f46084a-d129-4457-93e6-84dfd3f3278f",
+    "f50c7d32-5f32-4344-9999-2c2bebb97220"
+  ]
 }

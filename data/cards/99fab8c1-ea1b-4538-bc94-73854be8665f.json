@@ -1,14 +1,21 @@
 {
-    "id": "99fab8c1-ea1b-4538-bc94-73854be8665f",
-    "name": "Sea Goat",
-    "set": "chameleon",
-    "number": "16",
-    "image": "https://iconmaster.info/wyverndb/data/images/99fab8c1-ea1b-4538-bc94-73854be8665f.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/99fab8c1-ea1b-4538-bc94-73854be8665f.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321240/sea-goat"
-    },
-    "rarity": "uncommon"
+  "id": "99fab8c1-ea1b-4538-bc94-73854be8665f",
+  "name": "Sea Goat",
+  "set": "chameleon",
+  "number": "16",
+  "image": "https://iconmaster.info/wyverndb/data/images/99fab8c1-ea1b-4538-bc94-73854be8665f.jpeg",
+  "type": "dragon",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/99fab8c1-ea1b-4538-bc94-73854be8665f.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321240/sea-goat"
+  },
+  "rarity": "uncommon",
+  "strength": 4,
+  "abilities": [],
+  "special_abilities": "GAIN TWO GOLD PIECES FROM THE GOLD MINE EACH TIME AN OPPONENT PLAYS A REACTION CARD.",
+  "lore": "",
+  "all_printings": [
+    "99fab8c1-ea1b-4538-bc94-73854be8665f"
+  ]
 }

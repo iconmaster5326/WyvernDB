@@ -1,14 +1,22 @@
 {
-    "id": "3a903359-3ddf-4caf-9d60-94396a007685",
-    "name": "Bride's Serpent",
-    "set": "limited",
-    "number": "156",
-    "image": "https://iconmaster.info/wyverndb/data/images/3a903359-3ddf-4caf-9d60-94396a007685.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/3a903359-3ddf-4caf-9d60-94396a007685.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32737/brides-serpent"
-    },
-    "rarity": "uncommon"
+  "id": "3a903359-3ddf-4caf-9d60-94396a007685",
+  "name": "Bride's Serpent",
+  "set": "limited",
+  "number": "156",
+  "image": "https://iconmaster.info/wyverndb/data/images/3a903359-3ddf-4caf-9d60-94396a007685.jpeg",
+  "type": "dragon",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/3a903359-3ddf-4caf-9d60-94396a007685.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32737/brides-serpent"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "WHEN BRIDE'S SERPENT WINS A BATTLE LOSER MUST DISCARD ONE CARD FROM HAND AT RANDOM.",
+  "lore": "The Bride's Serpent is a Scottish Dragon.",
+  "all_printings": [
+    "3a903359-3ddf-4caf-9d60-94396a007685",
+    "963d5017-9bcc-47fa-bffd-db34a563099d"
+  ],
+  "strength": 3,
+  "abilities": []
 }

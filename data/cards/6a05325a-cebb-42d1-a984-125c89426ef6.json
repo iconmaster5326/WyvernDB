@@ -1,14 +1,25 @@
 {
-    "id": "6a05325a-cebb-42d1-a984-125c89426ef6",
-    "name": "Shan",
-    "set": "kingdom",
-    "number": "91",
-    "image": "https://iconmaster.info/wyverndb/data/images/6a05325a-cebb-42d1-a984-125c89426ef6.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/6a05325a-cebb-42d1-a984-125c89426ef6.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321405/shan"
-    },
-    "rarity": "uncommon"
+  "id": "6a05325a-cebb-42d1-a984-125c89426ef6",
+  "name": "Shan",
+  "set": "kingdom",
+  "number": "91",
+  "image": "https://iconmaster.info/wyverndb/data/images/6a05325a-cebb-42d1-a984-125c89426ef6.jpeg",
+  "type": "dragon",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/6a05325a-cebb-42d1-a984-125c89426ef6.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321405/shan"
+  },
+  "rarity": "uncommon",
+  "strength": 1,
+  "abilities": [
+    "flying"
+  ],
+  "special_abilities": "IF SHAN DRAGON LOSES A BATTLE YOU DRAW ONE CARD FROM YOUR TREASURE HORDE DRAW PILE.",
+  "lore": "The Shan Dragon breathes mist and illusions.",
+  "all_printings": [
+    "63d74cb8-a07a-4346-9a03-2a625b182ee4",
+    "6a05325a-cebb-42d1-a984-125c89426ef6",
+    "81235c2f-0533-4f80-8dc2-3985a9fd2bf6"
+  ]
 }

@@ -1,14 +1,21 @@
 {
-    "id": "e7e083bd-f192-4fe0-ab57-75c5ef48a2e7",
-    "name": "Oceanus",
-    "set": "chameleon",
-    "number": "15",
-    "image": "https://iconmaster.info/wyverndb/data/images/e7e083bd-f192-4fe0-ab57-75c5ef48a2e7.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/e7e083bd-f192-4fe0-ab57-75c5ef48a2e7.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321239/oceanus"
-    },
-    "rarity": "uncommon"
+  "id": "e7e083bd-f192-4fe0-ab57-75c5ef48a2e7",
+  "name": "Oceanus",
+  "set": "chameleon",
+  "number": "15",
+  "image": "https://iconmaster.info/wyverndb/data/images/e7e083bd-f192-4fe0-ab57-75c5ef48a2e7.jpeg",
+  "type": "dragon",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/e7e083bd-f192-4fe0-ab57-75c5ef48a2e7.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321239/oceanus"
+  },
+  "rarity": "uncommon",
+  "strength": 1,
+  "abilities": [],
+  "special_abilities": "NATIVE TERRAIN: OCEAN.  BATTLE ACTION: DISCARD A SEAWEED CARD FROM YOUR HAND; OCEANUS SURVIVES THIS BATTLE.",
+  "lore": "",
+  "all_printings": [
+    "e7e083bd-f192-4fe0-ab57-75c5ef48a2e7"
+  ]
 }

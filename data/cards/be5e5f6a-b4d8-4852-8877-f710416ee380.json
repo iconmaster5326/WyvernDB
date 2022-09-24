@@ -1,14 +1,21 @@
 {
-    "id": "be5e5f6a-b4d8-4852-8877-f710416ee380",
-    "name": "Cadmus",
-    "set": "kingdom",
-    "number": "181",
-    "image": "https://iconmaster.info/wyverndb/data/images/be5e5f6a-b4d8-4852-8877-f710416ee380.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/be5e5f6a-b4d8-4852-8877-f710416ee380.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321495/cadmus"
-    },
-    "rarity": "common"
+  "id": "be5e5f6a-b4d8-4852-8877-f710416ee380",
+  "name": "Cadmus",
+  "set": "kingdom",
+  "number": "181",
+  "image": "https://iconmaster.info/wyverndb/data/images/be5e5f6a-b4d8-4852-8877-f710416ee380.jpeg",
+  "type": "action",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/be5e5f6a-b4d8-4852-8877-f710416ee380.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321495/cadmus"
+  },
+  "rarity": "common",
+  "subtype": "slayer_action",
+  "special_abilities": "CADMUS KILLS ANY FLYING DRAGON.",
+  "lore": "Cadmus is a Greek Dragon Slayer.",
+  "all_printings": [
+    "159fab83-34e3-49af-95d7-80a46d308a35",
+    "be5e5f6a-b4d8-4852-8877-f710416ee380"
+  ]
 }

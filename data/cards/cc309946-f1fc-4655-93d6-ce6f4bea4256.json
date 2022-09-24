@@ -1,14 +1,20 @@
 {
-    "id": "cc309946-f1fc-4655-93d6-ce6f4bea4256",
-    "name": "Rainbox",
-    "set": "chameleon",
-    "number": "45",
-    "image": "https://iconmaster.info/wyverndb/data/images/cc309946-f1fc-4655-93d6-ce6f4bea4256.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/cc309946-f1fc-4655-93d6-ce6f4bea4256.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321269/rainbox"
-    },
-    "rarity": "common"
+  "id": "cc309946-f1fc-4655-93d6-ce6f4bea4256",
+  "name": "Rainbox",
+  "set": "chameleon",
+  "number": "45",
+  "image": "https://iconmaster.info/wyverndb/data/images/cc309946-f1fc-4655-93d6-ce6f4bea4256.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/cc309946-f1fc-4655-93d6-ce6f4bea4256.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321269/rainbox"
+  },
+  "rarity": "common",
+  "subtype": "action",
+  "special_abilities": "TURN AS MANY OF YOUR DRAGONS AS YOU WISH FACE UP (PAYING FOR THEM, IF REQUIRED).  GAIN ONE GOLD PIECE FROM THE GOLD MINE FOR EACH DRAGON TURNED FACE UP BY THIS ACTION.",
+  "lore": "",
+  "all_printings": [
+    "cc309946-f1fc-4655-93d6-ce6f4bea4256"
+  ]
 }

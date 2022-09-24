@@ -1,14 +1,26 @@
 {
-    "id": "ccdfd590-1fd4-4f0e-9274-121b3b841ebe",
-    "name": "Amphiptere",
-    "set": "kingdom",
-    "number": "2",
-    "image": "https://iconmaster.info/wyverndb/data/images/ccdfd590-1fd4-4f0e-9274-121b3b841ebe.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/ccdfd590-1fd4-4f0e-9274-121b3b841ebe.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321316/amphiptere"
-    },
-    "rarity": "common"
+  "id": "ccdfd590-1fd4-4f0e-9274-121b3b841ebe",
+  "name": "Amphiptere",
+  "set": "kingdom",
+  "number": "2",
+  "image": "https://iconmaster.info/wyverndb/data/images/ccdfd590-1fd4-4f0e-9274-121b3b841ebe.jpeg",
+  "type": "dragon",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/ccdfd590-1fd4-4f0e-9274-121b3b841ebe.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321316/amphiptere"
+  },
+  "rarity": "common",
+  "strength": 0,
+  "abilities": [
+    "flying",
+    "scout"
+  ],
+  "special_abilities": "",
+  "lore": "",
+  "all_printings": [
+    "c10033ff-2a14-4af6-9903-36407b8214b5",
+    "ccdfd590-1fd4-4f0e-9274-121b3b841ebe",
+    "ea1c0dbc-f6cc-4a44-9d8a-1993af276be1"
+  ]
 }

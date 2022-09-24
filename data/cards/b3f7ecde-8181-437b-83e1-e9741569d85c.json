@@ -1,14 +1,19 @@
 {
-    "id": "b3f7ecde-8181-437b-83e1-e9741569d85c",
-    "name": "Arctic Winds",
-    "set": "chameleon",
-    "number": "63",
-    "image": "https://iconmaster.info/wyverndb/data/images/b3f7ecde-8181-437b-83e1-e9741569d85c.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/b3f7ecde-8181-437b-83e1-e9741569d85c.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321287/arctic-winds"
-    },
-    "rarity": "common"
+  "id": "b3f7ecde-8181-437b-83e1-e9741569d85c",
+  "name": "Arctic Winds",
+  "set": "chameleon",
+  "number": "63",
+  "image": "https://iconmaster.info/wyverndb/data/images/b3f7ecde-8181-437b-83e1-e9741569d85c.jpeg",
+  "type": "terrain",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/b3f7ecde-8181-437b-83e1-e9741569d85c.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321287/arctic-winds"
+  },
+  "rarity": "common",
+  "special_abilities": "DRAGON WITH ARCTIC WINDS ON IT MAY NOT MOVE DURING ITS OWNER'S MOVEMENT PHASE.",
+  "lore": "",
+  "all_printings": [
+    "b3f7ecde-8181-437b-83e1-e9741569d85c"
+  ]
 }

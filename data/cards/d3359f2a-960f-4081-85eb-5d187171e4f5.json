@@ -1,14 +1,21 @@
 {
-    "id": "d3359f2a-960f-4081-85eb-5d187171e4f5",
-    "name": "Zeus",
-    "set": "limited",
-    "number": "189",
-    "image": "https://iconmaster.info/wyverndb/data/images/d3359f2a-960f-4081-85eb-5d187171e4f5.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/d3359f2a-960f-4081-85eb-5d187171e4f5.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32770/zeus"
-    },
-    "rarity": "common"
+  "id": "d3359f2a-960f-4081-85eb-5d187171e4f5",
+  "name": "Zeus",
+  "set": "limited",
+  "number": "189",
+  "image": "https://iconmaster.info/wyverndb/data/images/d3359f2a-960f-4081-85eb-5d187171e4f5.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/d3359f2a-960f-4081-85eb-5d187171e4f5.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32770/zeus"
+  },
+  "rarity": "common",
+  "special_abilities": "NO SCOUTS CAN ATTACK THIS TURN.",
+  "lore": "",
+  "all_printings": [
+    "022d4eb9-93c1-496e-ad36-60207c6ff579",
+    "d3359f2a-960f-4081-85eb-5d187171e4f5"
+  ],
+  "subtype": "action"
 }

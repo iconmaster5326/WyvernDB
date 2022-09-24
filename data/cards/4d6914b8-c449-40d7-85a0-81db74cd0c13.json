@@ -1,14 +1,21 @@
 {
-    "id": "4d6914b8-c449-40d7-85a0-81db74cd0c13",
-    "name": "The Gambler",
-    "set": "kingdom",
-    "number": "218",
-    "image": "https://iconmaster.info/wyverndb/data/images/4d6914b8-c449-40d7-85a0-81db74cd0c13.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/4d6914b8-c449-40d7-85a0-81db74cd0c13.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321532/the-gambler"
-    },
-    "rarity": "rare"
+  "id": "4d6914b8-c449-40d7-85a0-81db74cd0c13",
+  "name": "The Gambler",
+  "set": "kingdom",
+  "number": "218",
+  "image": "https://iconmaster.info/wyverndb/data/images/4d6914b8-c449-40d7-85a0-81db74cd0c13.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/4d6914b8-c449-40d7-85a0-81db74cd0c13.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321532/the-gambler"
+  },
+  "rarity": "rare",
+  "subtype": "action",
+  "special_abilities": "GUESS WHETHER YOU WILL DISCOVER A TERRAIN OR DRAGON WHEN YOU ATTACK A FACE DOWN CARD THIS TURN.  IF YOU ARE RIGHT GET TWO GOLD FROM THE GOLD MINE.  IF YOU ARE WRONG PAY TWO GOLD TO THE GOLD MINE.",
+  "lore": "",
+  "all_printings": [
+    "4d6914b8-c449-40d7-85a0-81db74cd0c13",
+    "f5626747-6c21-454f-871a-428756979303"
+  ]
 }

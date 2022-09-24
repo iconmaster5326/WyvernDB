@@ -1,14 +1,21 @@
 {
-    "id": "6815cae8-149f-4149-ad1c-7add08e5cfd5",
-    "name": "Han-Riu",
-    "set": "phoenix",
-    "number": "76",
-    "image": "https://iconmaster.info/wyverndb/data/images/6815cae8-149f-4149-ad1c-7add08e5cfd5.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/6815cae8-149f-4149-ad1c-7add08e5cfd5.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321210/han-riu"
-    },
-    "rarity": "common"
+  "id": "6815cae8-149f-4149-ad1c-7add08e5cfd5",
+  "name": "Han-Riu",
+  "set": "phoenix",
+  "number": "76",
+  "image": "https://iconmaster.info/wyverndb/data/images/6815cae8-149f-4149-ad1c-7add08e5cfd5.jpeg",
+  "type": "dragon",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/6815cae8-149f-4149-ad1c-7add08e5cfd5.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321210/han-riu"
+  },
+  "rarity": "common",
+  "strength": 2,
+  "abilities": [],
+  "special_abilities": "NIGHT CANNOT BE PLAYED IN A BATTLE IN WHICH HAN-RIU IS PARTICIPATING.",
+  "lore": "Han-Riu is a 40 foot long Dragon who can never reach heaven.",
+  "all_printings": [
+    "6815cae8-149f-4149-ad1c-7add08e5cfd5"
+  ]
 }

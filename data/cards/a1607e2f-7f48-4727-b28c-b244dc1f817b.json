@@ -1,14 +1,20 @@
 {
-    "id": "a1607e2f-7f48-4727-b28c-b244dc1f817b",
-    "name": "Forest Fire",
-    "set": "kingdom",
-    "number": "108",
-    "image": "https://iconmaster.info/wyverndb/data/images/a1607e2f-7f48-4727-b28c-b244dc1f817b.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/a1607e2f-7f48-4727-b28c-b244dc1f817b.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321422/forest-fire"
-    },
-    "rarity": "uncommon"
+  "id": "a1607e2f-7f48-4727-b28c-b244dc1f817b",
+  "name": "Forest Fire",
+  "set": "kingdom",
+  "number": "108",
+  "image": "https://iconmaster.info/wyverndb/data/images/a1607e2f-7f48-4727-b28c-b244dc1f817b.jpeg",
+  "type": "terrain",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/a1607e2f-7f48-4727-b28c-b244dc1f817b.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321422/forest-fire"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "KILLS ANY DRAGON THAT DISCOVERS IT.  REPLACE FOREST FIRE THEN GIVE IT TO OPPONENT WHO CAN NOW DESTROY ANY CARD IN PLAY.",
+  "lore": "",
+  "all_printings": [
+    "4e432fe6-ae87-4f77-a171-ebdac429c4d0",
+    "a1607e2f-7f48-4727-b28c-b244dc1f817b"
+  ]
 }

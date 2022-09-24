@@ -1,14 +1,21 @@
 {
-    "id": "e69f1c4e-aa9a-4585-84c5-9a4c5feb3d7f",
-    "name": "Gold",
-    "set": "limited",
-    "number": "57",
-    "image": "https://iconmaster.info/wyverndb/data/images/e69f1c4e-aa9a-4585-84c5-9a4c5feb3d7f.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/e69f1c4e-aa9a-4585-84c5-9a4c5feb3d7f.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32638/gold"
-    },
-    "rarity": "common"
+  "id": "e69f1c4e-aa9a-4585-84c5-9a4c5feb3d7f",
+  "name": "Gold",
+  "set": "limited",
+  "number": "57",
+  "image": "https://iconmaster.info/wyverndb/data/images/e69f1c4e-aa9a-4585-84c5-9a4c5feb3d7f.jpeg",
+  "type": "treasure",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/e69f1c4e-aa9a-4585-84c5-9a4c5feb3d7f.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32638/gold"
+  },
+  "rarity": "common",
+  "special_abilities": "WHEN A DRAGON IN THIS ROW WINS A BATTLE YOU GET A GOLD PIECE.",
+  "lore": "",
+  "all_printings": [
+    "41e104e7-791b-4c9b-a162-92ed9f272105",
+    "b9bd526b-c096-4e6d-ab05-04a84901119f",
+    "e69f1c4e-aa9a-4585-84c5-9a4c5feb3d7f"
+  ]
 }

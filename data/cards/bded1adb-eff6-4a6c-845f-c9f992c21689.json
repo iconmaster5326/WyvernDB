@@ -1,14 +1,21 @@
 {
-    "id": "bded1adb-eff6-4a6c-845f-c9f992c21689",
-    "name": "Maiden in Distress",
-    "set": "limited",
-    "number": "60",
-    "image": "https://iconmaster.info/wyverndb/data/images/bded1adb-eff6-4a6c-845f-c9f992c21689.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/bded1adb-eff6-4a6c-845f-c9f992c21689.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32641/maiden-in-distress"
-    },
-    "rarity": "common"
+  "id": "bded1adb-eff6-4a6c-845f-c9f992c21689",
+  "name": "Maiden in Distress",
+  "set": "limited",
+  "number": "60",
+  "image": "https://iconmaster.info/wyverndb/data/images/bded1adb-eff6-4a6c-845f-c9f992c21689.jpeg",
+  "type": "treasure",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/bded1adb-eff6-4a6c-845f-c9f992c21689.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32641/maiden-in-distress"
+  },
+  "rarity": "common",
+  "special_abilities": "DRAGONS IN THIS ROW CAN'T BE KILLED BY DRAGON SLAYERS.  ANY DRAGON SLAYER CAN REMOVE MAIDEN IN DISTRESS FROM GAME.",
+  "lore": "",
+  "all_printings": [
+    "372f44b3-b516-4859-b868-1458fbbe5e7f",
+    "a4629262-6f7b-4aef-a1c0-a5a80ee6334d",
+    "bded1adb-eff6-4a6c-845f-c9f992c21689"
+  ]
 }

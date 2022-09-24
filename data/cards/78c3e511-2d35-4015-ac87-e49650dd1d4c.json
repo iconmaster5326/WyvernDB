@@ -1,14 +1,22 @@
 {
-    "id": "78c3e511-2d35-4015-ac87-e49650dd1d4c",
-    "name": "Ananta",
-    "set": "limited",
-    "number": "162",
-    "image": "https://iconmaster.info/wyverndb/data/images/78c3e511-2d35-4015-ac87-e49650dd1d4c.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/78c3e511-2d35-4015-ac87-e49650dd1d4c.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32743/ananta"
-    },
-    "rarity": "uncommon"
+  "id": "78c3e511-2d35-4015-ac87-e49650dd1d4c",
+  "name": "Ananta",
+  "set": "limited",
+  "number": "162",
+  "image": "https://iconmaster.info/wyverndb/data/images/78c3e511-2d35-4015-ac87-e49650dd1d4c.jpeg",
+  "type": "dragon",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/78c3e511-2d35-4015-ac87-e49650dd1d4c.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32743/ananta"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "SUBTERRANEAN DRAGONS LOSE TWO STRENGTH FOR REST OF BATTLE THAT ANANTA IS PART OF.",
+  "lore": "Ananta is an Indian serpent with nine heads.",
+  "all_printings": [
+    "78c3e511-2d35-4015-ac87-e49650dd1d4c",
+    "8a18276e-06cb-4f97-a0c4-88e82b70145a"
+  ],
+  "strength": 3,
+  "abilities": []
 }

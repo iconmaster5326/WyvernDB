@@ -1,14 +1,21 @@
 {
-    "id": "ac0fb6f0-afe3-4a53-acef-4abfb604468f",
-    "name": "Shipwreck",
-    "set": "premiere",
-    "number": "117",
-    "image": "https://iconmaster.info/wyverndb/data/images/ac0fb6f0-afe3-4a53-acef-4abfb604468f.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/ac0fb6f0-afe3-4a53-acef-4abfb604468f.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32937/shipwreck"
-    },
-    "rarity": "common"
+  "id": "ac0fb6f0-afe3-4a53-acef-4abfb604468f",
+  "name": "Shipwreck",
+  "set": "premiere",
+  "number": "117",
+  "image": "https://iconmaster.info/wyverndb/data/images/ac0fb6f0-afe3-4a53-acef-4abfb604468f.jpeg",
+  "type": "treasure",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/ac0fb6f0-afe3-4a53-acef-4abfb604468f.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32937/shipwreck"
+  },
+  "rarity": "common",
+  "special_abilities": "ALL TERRAIN IN THIS ROW GETS A -1 STRENGTH MODIFIER IN ADDITION TO ANY ON THE CARD.",
+  "lore": "",
+  "all_printings": [
+    "32583c48-9b95-4448-8b8b-d54d2de0326d",
+    "7df8ff5a-16bf-4e85-8eee-b6b93dc9238d",
+    "ac0fb6f0-afe3-4a53-acef-4abfb604468f"
+  ]
 }

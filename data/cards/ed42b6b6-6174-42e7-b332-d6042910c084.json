@@ -1,14 +1,25 @@
 {
-    "id": "ed42b6b6-6174-42e7-b332-d6042910c084",
-    "name": "Ri-Riu",
-    "set": "phoenix",
-    "number": "78",
-    "image": "https://iconmaster.info/wyverndb/data/images/ed42b6b6-6174-42e7-b332-d6042910c084.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/ed42b6b6-6174-42e7-b332-d6042910c084.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321212/ri-riu"
-    },
-    "rarity": "common"
+  "id": "ed42b6b6-6174-42e7-b332-d6042910c084",
+  "name": "Ri-Riu",
+  "set": "phoenix",
+  "number": "78",
+  "image": "https://iconmaster.info/wyverndb/data/images/ed42b6b6-6174-42e7-b332-d6042910c084.jpeg",
+  "type": "dragon",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/ed42b6b6-6174-42e7-b332-d6042910c084.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321212/ri-riu"
+  },
+  "rarity": "common",
+  "strength": 0,
+  "abilities": [
+    "scout",
+    "super_flying"
+  ],
+  "special_abilities": "RI-RIU CAN ATTACK ANY CARD.",
+  "lore": "Ri-Riu can see more than a mile.",
+  "all_printings": [
+    "c5c836bf-1ac3-47fc-ad7f-1d51827dc789",
+    "ed42b6b6-6174-42e7-b332-d6042910c084"
+  ]
 }

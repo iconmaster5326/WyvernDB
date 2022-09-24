@@ -1,14 +1,21 @@
 {
-    "id": "5b3eac0a-3b6c-42bf-8af7-83113f023b15",
-    "name": "Town",
-    "set": "kingdom",
-    "number": "201",
-    "image": "https://iconmaster.info/wyverndb/data/images/5b3eac0a-3b6c-42bf-8af7-83113f023b15.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/5b3eac0a-3b6c-42bf-8af7-83113f023b15.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321515/town"
-    },
-    "rarity": "rare"
+  "id": "5b3eac0a-3b6c-42bf-8af7-83113f023b15",
+  "name": "Town",
+  "set": "kingdom",
+  "number": "201",
+  "image": "https://iconmaster.info/wyverndb/data/images/5b3eac0a-3b6c-42bf-8af7-83113f023b15.jpeg",
+  "type": "action",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/5b3eac0a-3b6c-42bf-8af7-83113f023b15.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321515/town"
+  },
+  "rarity": "rare",
+  "subtype": "action",
+  "special_abilities": "YOU MAY REPLACE TWO DRAGON OR TERRAIN CARDS IN YOUR BATTLEFIELD THIS TURN AND STILL DO A DRAGON SLAYER ACTION OR A BATTLE PHASE.",
+  "lore": "",
+  "all_printings": [
+    "02b68285-ebc4-499c-b3a6-af8b57e4a561",
+    "5b3eac0a-3b6c-42bf-8af7-83113f023b15"
+  ]
 }

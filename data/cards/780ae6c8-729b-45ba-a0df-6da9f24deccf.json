@@ -1,14 +1,19 @@
 {
-    "id": "780ae6c8-729b-45ba-a0df-6da9f24deccf",
-    "name": "Shoal",
-    "set": "chameleon",
-    "number": "72",
-    "image": "https://iconmaster.info/wyverndb/data/images/780ae6c8-729b-45ba-a0df-6da9f24deccf.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/780ae6c8-729b-45ba-a0df-6da9f24deccf.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321296/shoal"
-    },
-    "rarity": "uncommon"
+  "id": "780ae6c8-729b-45ba-a0df-6da9f24deccf",
+  "name": "Shoal",
+  "set": "chameleon",
+  "number": "72",
+  "image": "https://iconmaster.info/wyverndb/data/images/780ae6c8-729b-45ba-a0df-6da9f24deccf.jpeg",
+  "type": "terrain",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/780ae6c8-729b-45ba-a0df-6da9f24deccf.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321296/shoal"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "STRENGTH MODIFIER: -1 CHAMELEON REACTION: PAY FIVE GOLD PIECES TO CHANGE SHOAL TO A STRENGTH 4 SUBTERRANEAN DRAGON FOR THE REST OF THE GAME.",
+  "lore": "",
+  "all_printings": [
+    "780ae6c8-729b-45ba-a0df-6da9f24deccf"
+  ]
 }

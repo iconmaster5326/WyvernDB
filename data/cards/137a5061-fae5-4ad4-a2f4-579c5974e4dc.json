@@ -1,14 +1,20 @@
 {
-    "id": "137a5061-fae5-4ad4-a2f4-579c5974e4dc",
-    "name": "Island",
-    "set": "kingdom",
-    "number": "205",
-    "image": "https://iconmaster.info/wyverndb/data/images/137a5061-fae5-4ad4-a2f4-579c5974e4dc.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/137a5061-fae5-4ad4-a2f4-579c5974e4dc.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321519/island"
-    },
-    "rarity": "uncommon"
+  "id": "137a5061-fae5-4ad4-a2f4-579c5974e4dc",
+  "name": "Island",
+  "set": "kingdom",
+  "number": "205",
+  "image": "https://iconmaster.info/wyverndb/data/images/137a5061-fae5-4ad4-a2f4-579c5974e4dc.jpeg",
+  "type": "terrain",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/137a5061-fae5-4ad4-a2f4-579c5974e4dc.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321519/island"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "ANY FLYING DRAGON NOW BELONGS TO YOU.  DRAGON STAYS ON ISLAND IN YOUR BATTLEFIELD.  IF ISLAND IS REMOVED DRAGON GOES BACK TO ORIGINAL OWNER'S BATTLEFIELD.",
+  "lore": "",
+  "all_printings": [
+    "137a5061-fae5-4ad4-a2f4-579c5974e4dc",
+    "4311ac41-4ce3-409c-b053-a373fe852c7d"
+  ]
 }

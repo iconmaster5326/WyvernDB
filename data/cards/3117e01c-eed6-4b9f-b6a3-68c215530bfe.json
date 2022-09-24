@@ -1,14 +1,23 @@
 {
-    "id": "3117e01c-eed6-4b9f-b6a3-68c215530bfe",
-    "name": "Vouivre",
-    "set": "kingdom",
-    "number": "24",
-    "image": "https://iconmaster.info/wyverndb/data/images/3117e01c-eed6-4b9f-b6a3-68c215530bfe.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/3117e01c-eed6-4b9f-b6a3-68c215530bfe.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321338/vouivre"
-    },
-    "rarity": "rare"
+  "id": "3117e01c-eed6-4b9f-b6a3-68c215530bfe",
+  "name": "Vouivre",
+  "set": "kingdom",
+  "number": "24",
+  "image": "https://iconmaster.info/wyverndb/data/images/3117e01c-eed6-4b9f-b6a3-68c215530bfe.jpeg",
+  "type": "dragon",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/3117e01c-eed6-4b9f-b6a3-68c215530bfe.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321338/vouivre"
+  },
+  "rarity": "rare",
+  "strength": 2,
+  "abilities": [],
+  "special_abilities": "VOUIVRE MAY GET HELP FROM A DRAGON ONE CARD AWAY IN THIS BATTLE.  FLYERS MAY HELP VOUIVRE FROM ANYWHERE IN YOUR BATTLEFIELD.",
+  "lore": "Vouivre has a red carbuncle for an eye which when removed leaves him blind.",
+  "all_printings": [
+    "180dd840-d8fb-416c-9bb6-9775b58ac531",
+    "3117e01c-eed6-4b9f-b6a3-68c215530bfe",
+    "b93c2912-3017-407f-a21a-3ec382b45d89"
+  ]
 }

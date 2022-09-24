@@ -1,14 +1,21 @@
 {
-    "id": "f18fafff-5153-4ff0-a8cb-8e7fac63cd7d",
-    "name": "Swamp Hole",
-    "set": "limited",
-    "number": "44",
-    "image": "https://iconmaster.info/wyverndb/data/images/f18fafff-5153-4ff0-a8cb-8e7fac63cd7d.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/f18fafff-5153-4ff0-a8cb-8e7fac63cd7d.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32625/swamp-hole"
-    },
-    "rarity": "uncommon"
+  "id": "f18fafff-5153-4ff0-a8cb-8e7fac63cd7d",
+  "name": "Swamp Hole",
+  "set": "limited",
+  "number": "44",
+  "image": "https://iconmaster.info/wyverndb/data/images/f18fafff-5153-4ff0-a8cb-8e7fac63cd7d.jpeg",
+  "type": "terrain",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/f18fafff-5153-4ff0-a8cb-8e7fac63cd7d.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32625/swamp-hole"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "KILLS DRAGONS OF 2 OR LESS STRENGTH.",
+  "lore": "",
+  "all_printings": [
+    "83848074-e26b-494d-957d-08cbb325c57a",
+    "ecadd0f9-85ca-45d2-b99a-e72f8e203ade",
+    "f18fafff-5153-4ff0-a8cb-8e7fac63cd7d"
+  ]
 }

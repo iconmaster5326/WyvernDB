@@ -1,14 +1,21 @@
 {
-    "id": "38f2788c-717d-4752-a8f4-bd80ff0f47b9",
-    "name": "Frozen Lake",
-    "set": "premiere",
-    "number": "35",
-    "image": "https://iconmaster.info/wyverndb/data/images/38f2788c-717d-4752-a8f4-bd80ff0f47b9.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/38f2788c-717d-4752-a8f4-bd80ff0f47b9.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32855/frozen-lake"
-    },
-    "rarity": "uncommon"
+  "id": "38f2788c-717d-4752-a8f4-bd80ff0f47b9",
+  "name": "Frozen Lake",
+  "set": "premiere",
+  "number": "35",
+  "image": "https://iconmaster.info/wyverndb/data/images/38f2788c-717d-4752-a8f4-bd80ff0f47b9.jpeg",
+  "type": "terrain",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/38f2788c-717d-4752-a8f4-bd80ff0f47b9.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32855/frozen-lake"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "KILLS DRAGONS OF 4 OR MORE STRENGTH.  HAS NO EFFECT ON ANY OTHER DRAGONS.",
+  "lore": "Big Dragons are on thin ice.",
+  "all_printings": [
+    "38f2788c-717d-4752-a8f4-bd80ff0f47b9",
+    "a70dcad4-60b7-4083-8cb5-b1db266daf78",
+    "b1cefef4-fd40-4d5e-8bba-8bc373079354"
+  ]
 }

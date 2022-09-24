@@ -1,14 +1,19 @@
 {
-    "id": "ea8127be-1d5f-496c-a2f1-6deb5846143e",
-    "name": "Runic Tablet",
-    "set": "chameleon",
-    "number": "88",
-    "image": "https://iconmaster.info/wyverndb/data/images/ea8127be-1d5f-496c-a2f1-6deb5846143e.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/ea8127be-1d5f-496c-a2f1-6deb5846143e.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321312/runic-tablet"
-    },
-    "rarity": "common"
+  "id": "ea8127be-1d5f-496c-a2f1-6deb5846143e",
+  "name": "Runic Tablet",
+  "set": "chameleon",
+  "number": "88",
+  "image": "https://iconmaster.info/wyverndb/data/images/ea8127be-1d5f-496c-a2f1-6deb5846143e.jpeg",
+  "type": "treasure",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/ea8127be-1d5f-496c-a2f1-6deb5846143e.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321312/runic-tablet"
+  },
+  "rarity": "common",
+  "special_abilities": "ACTION: THE NEXT GAME ACTIVITY YOU PERFORM THAT REQUIRES PAYMENT IS FREE.  RUNIC TABLET IS THEN GIVEN TO YOUR OPPONENT WHO PLACES IT IN ANY OPEN TREASURE POSITION.  RUNIC TABLET GETS DISCARDED AFTER ITS SECOND USE.",
+  "lore": "",
+  "all_printings": [
+    "ea8127be-1d5f-496c-a2f1-6deb5846143e"
+  ]
 }

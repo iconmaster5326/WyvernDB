@@ -1,14 +1,21 @@
 {
-    "id": "a9731460-354b-4b16-b906-e716347c87fd",
-    "name": "Celestial Charger",
-    "set": "kingdom",
-    "number": "267",
-    "image": "https://iconmaster.info/wyverndb/data/images/a9731460-354b-4b16-b906-e716347c87fd.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/a9731460-354b-4b16-b906-e716347c87fd.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321581/celestial-charger"
-    },
-    "rarity": "common"
+  "id": "a9731460-354b-4b16-b906-e716347c87fd",
+  "name": "Celestial Charger",
+  "set": "kingdom",
+  "number": "267",
+  "image": "https://iconmaster.info/wyverndb/data/images/a9731460-354b-4b16-b906-e716347c87fd.jpeg",
+  "type": "action",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/a9731460-354b-4b16-b906-e716347c87fd.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321581/celestial-charger"
+  },
+  "rarity": "common",
+  "subtype": "battle_action",
+  "special_abilities": "STRENGTH MODIFIER: +5 CAN ONLY BE PLAYED ON A DRAGON WITH A BASE STRENGTH OF 2 OR LESS.",
+  "lore": "",
+  "all_printings": [
+    "a9731460-354b-4b16-b906-e716347c87fd",
+    "c166e310-4992-4277-b138-ee009598201e"
+  ]
 }

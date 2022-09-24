@@ -1,14 +1,24 @@
 {
-    "id": "abc92256-b074-4fbd-88f3-4c9317c92ab1",
-    "name": "Tatzlwurm",
-    "set": "limited",
-    "number": "142",
-    "image": "https://iconmaster.info/wyverndb/data/images/abc92256-b074-4fbd-88f3-4c9317c92ab1.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/abc92256-b074-4fbd-88f3-4c9317c92ab1.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32723/tatzlwurm"
-    },
-    "rarity": "uncommon"
+  "id": "abc92256-b074-4fbd-88f3-4c9317c92ab1",
+  "name": "Tatzlwurm",
+  "set": "limited",
+  "number": "142",
+  "image": "https://iconmaster.info/wyverndb/data/images/abc92256-b074-4fbd-88f3-4c9317c92ab1.jpeg",
+  "type": "dragon",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/abc92256-b074-4fbd-88f3-4c9317c92ab1.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32723/tatzlwurm"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "GIANT ANTS CANNOT BE PLAYED BY EITHER SIDE IN A BATTLE TATZLWURM IS PART OF.",
+  "lore": "",
+  "all_printings": [
+    "1991f483-be44-4192-bdfb-7c9d7790748d",
+    "abc92256-b074-4fbd-88f3-4c9317c92ab1"
+  ],
+  "strength": 2,
+  "abilities": [
+    "subterranean"
+  ]
 }

@@ -1,14 +1,20 @@
 {
-    "id": "58f410cf-28da-4d87-80ea-16dc649ee70d",
-    "name": "Gold Dig",
-    "set": "chameleon",
-    "number": "38",
-    "image": "https://iconmaster.info/wyverndb/data/images/58f410cf-28da-4d87-80ea-16dc649ee70d.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/58f410cf-28da-4d87-80ea-16dc649ee70d.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321262/gold-dig"
-    },
-    "rarity": "common"
+  "id": "58f410cf-28da-4d87-80ea-16dc649ee70d",
+  "name": "Gold Dig",
+  "set": "chameleon",
+  "number": "38",
+  "image": "https://iconmaster.info/wyverndb/data/images/58f410cf-28da-4d87-80ea-16dc649ee70d.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/58f410cf-28da-4d87-80ea-16dc649ee70d.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321262/gold-dig"
+  },
+  "rarity": "common",
+  "subtype": "action",
+  "special_abilities": "YOU GAIN X GOLD PIECES; X EQUALS THE NUMBER OF GOLD SYMBOLS ON THE TOP CARD IN YOUR DRAGON LAIR DISCARD PILE.",
+  "lore": "",
+  "all_printings": [
+    "58f410cf-28da-4d87-80ea-16dc649ee70d"
+  ]
 }

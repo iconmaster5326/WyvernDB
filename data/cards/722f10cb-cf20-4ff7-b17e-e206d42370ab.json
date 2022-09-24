@@ -1,14 +1,22 @@
 {
-    "id": "722f10cb-cf20-4ff7-b17e-e206d42370ab",
-    "name": "Earthquake",
-    "set": "limited",
-    "number": "81",
-    "image": "https://iconmaster.info/wyverndb/data/images/722f10cb-cf20-4ff7-b17e-e206d42370ab.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/722f10cb-cf20-4ff7-b17e-e206d42370ab.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32662/earthquake"
-    },
-    "rarity": "common"
+  "id": "722f10cb-cf20-4ff7-b17e-e206d42370ab",
+  "name": "Earthquake",
+  "set": "limited",
+  "number": "81",
+  "image": "https://iconmaster.info/wyverndb/data/images/722f10cb-cf20-4ff7-b17e-e206d42370ab.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/722f10cb-cf20-4ff7-b17e-e206d42370ab.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32662/earthquake"
+  },
+  "rarity": "common",
+  "special_abilities": "ALL PLAYERS MUST DISCARD 1 CARD FROM THEIR HANDS.",
+  "lore": "",
+  "all_printings": [
+    "5f2374c9-3466-45bb-a643-f235a7e9053a",
+    "722f10cb-cf20-4ff7-b17e-e206d42370ab",
+    "ba7844d4-09ac-4216-9bb8-de647a9f0722"
+  ],
+  "subtype": "action"
 }

@@ -1,14 +1,20 @@
 {
-    "id": "c508ea3b-4fb4-417a-a49c-26c6f15db379",
-    "name": "Owl",
-    "set": "phoenix",
-    "number": "65",
-    "image": "https://iconmaster.info/wyverndb/data/images/c508ea3b-4fb4-417a-a49c-26c6f15db379.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/c508ea3b-4fb4-417a-a49c-26c6f15db379.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321199/owl"
-    },
-    "rarity": "uncommon"
+  "id": "c508ea3b-4fb4-417a-a49c-26c6f15db379",
+  "name": "Owl",
+  "set": "phoenix",
+  "number": "65",
+  "image": "https://iconmaster.info/wyverndb/data/images/c508ea3b-4fb4-417a-a49c-26c6f15db379.jpeg",
+  "type": "action",
+  "gold_cost": 4,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/c508ea3b-4fb4-417a-a49c-26c6f15db379.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321199/owl"
+  },
+  "rarity": "uncommon",
+  "subtype": "action",
+  "special_abilities": "REPLACE ONE CARD IN YOUR BATTLEFIELD WITH ANY CARD FROM YOUR DRAGON LAIR DRAW PILE.  PLACE THE NEW CARD FACE DOWN.  SHUFFLE YOUR DRAGON LAIR DRAW PILE AFTER USING THE OWL.",
+  "lore": "The owl provides a dual symbol of wisdom and darkness.",
+  "all_printings": [
+    "c508ea3b-4fb4-417a-a49c-26c6f15db379"
+  ]
 }

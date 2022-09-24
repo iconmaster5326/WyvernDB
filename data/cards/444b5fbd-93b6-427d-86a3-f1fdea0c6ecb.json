@@ -1,14 +1,19 @@
 {
-    "id": "444b5fbd-93b6-427d-86a3-f1fdea0c6ecb",
-    "name": "Swamp of Lernea",
-    "set": "chameleon",
-    "number": "65",
-    "image": "https://iconmaster.info/wyverndb/data/images/444b5fbd-93b6-427d-86a3-f1fdea0c6ecb.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/444b5fbd-93b6-427d-86a3-f1fdea0c6ecb.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321289/swamp-of-lernea"
-    },
-    "rarity": "common"
+  "id": "444b5fbd-93b6-427d-86a3-f1fdea0c6ecb",
+  "name": "Swamp of Lernea",
+  "set": "chameleon",
+  "number": "65",
+  "image": "https://iconmaster.info/wyverndb/data/images/444b5fbd-93b6-427d-86a3-f1fdea0c6ecb.jpeg",
+  "type": "terrain",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/444b5fbd-93b6-427d-86a3-f1fdea0c6ecb.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321289/swamp-of-lernea"
+  },
+  "rarity": "common",
+  "special_abilities": "A DRAGON IN THE SWAMP OF LERNEA MAY BE KILLED BY ANY DRAGON SLAYER, REGARDLESS OF WHAT THE DRAGON SLAYER CARD SAYS.",
+  "lore": "",
+  "all_printings": [
+    "444b5fbd-93b6-427d-86a3-f1fdea0c6ecb"
+  ]
 }

@@ -1,14 +1,20 @@
 {
-    "id": "9ff1c68f-b9ce-405c-b98f-fe891f06bbb7",
-    "name": "Scorpion Men",
-    "set": "chameleon",
-    "number": "46",
-    "image": "https://iconmaster.info/wyverndb/data/images/9ff1c68f-b9ce-405c-b98f-fe891f06bbb7.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/9ff1c68f-b9ce-405c-b98f-fe891f06bbb7.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321270/scorpion-men"
-    },
-    "rarity": "common"
+  "id": "9ff1c68f-b9ce-405c-b98f-fe891f06bbb7",
+  "name": "Scorpion Men",
+  "set": "chameleon",
+  "number": "46",
+  "image": "https://iconmaster.info/wyverndb/data/images/9ff1c68f-b9ce-405c-b98f-fe891f06bbb7.jpeg",
+  "type": "action",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/9ff1c68f-b9ce-405c-b98f-fe891f06bbb7.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321270/scorpion-men"
+  },
+  "rarity": "common",
+  "subtype": "battle_action",
+  "special_abilities": "THE PLAYER WHO WINS THIS BATTLE MUST DISCARD THE TOP TWO CARDS FROM HIS OR HER DRAGON LAIR DRAW PILE.",
+  "lore": "",
+  "all_printings": [
+    "9ff1c68f-b9ce-405c-b98f-fe891f06bbb7"
+  ]
 }

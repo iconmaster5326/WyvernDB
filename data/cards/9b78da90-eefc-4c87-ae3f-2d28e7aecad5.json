@@ -1,14 +1,23 @@
 {
-    "id": "9b78da90-eefc-4c87-ae3f-2d28e7aecad5",
-    "name": "Mixcoatl",
-    "set": "chameleon",
-    "number": "6",
-    "image": "https://iconmaster.info/wyverndb/data/images/9b78da90-eefc-4c87-ae3f-2d28e7aecad5.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/9b78da90-eefc-4c87-ae3f-2d28e7aecad5.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321230/mixcoatl"
-    },
-    "rarity": "uncommon"
+  "id": "9b78da90-eefc-4c87-ae3f-2d28e7aecad5",
+  "name": "Mixcoatl",
+  "set": "chameleon",
+  "number": "6",
+  "image": "https://iconmaster.info/wyverndb/data/images/9b78da90-eefc-4c87-ae3f-2d28e7aecad5.jpeg",
+  "type": "dragon",
+  "gold_cost": 6,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/9b78da90-eefc-4c87-ae3f-2d28e7aecad5.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321230/mixcoatl"
+  },
+  "rarity": "uncommon",
+  "strength": 0,
+  "abilities": [
+    "flying"
+  ],
+  "special_abilities": "WHILE ATTACKING, MIXCOATL USES AN ASSIGNED STRENGTH EQUAL TO THE NUMBER OF GOLD PIECES IN YOUR GOLD PILE AT THE MOMENT HE ATTACKS.",
+  "lore": "",
+  "all_printings": [
+    "9b78da90-eefc-4c87-ae3f-2d28e7aecad5"
+  ]
 }

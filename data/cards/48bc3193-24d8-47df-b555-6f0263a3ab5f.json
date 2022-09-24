@@ -1,14 +1,21 @@
 {
-    "id": "48bc3193-24d8-47df-b555-6f0263a3ab5f",
-    "name": "Secret Treasure",
-    "set": "premiere",
-    "number": "118",
-    "image": "https://iconmaster.info/wyverndb/data/images/48bc3193-24d8-47df-b555-6f0263a3ab5f.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/48bc3193-24d8-47df-b555-6f0263a3ab5f.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32938/secret-treasure"
-    },
-    "rarity": "common"
+  "id": "48bc3193-24d8-47df-b555-6f0263a3ab5f",
+  "name": "Secret Treasure",
+  "set": "premiere",
+  "number": "118",
+  "image": "https://iconmaster.info/wyverndb/data/images/48bc3193-24d8-47df-b555-6f0263a3ab5f.jpeg",
+  "type": "treasure",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/48bc3193-24d8-47df-b555-6f0263a3ab5f.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32938/secret-treasure"
+  },
+  "rarity": "common",
+  "special_abilities": "ACTION: DRAW ONE CARD FROM YOUR TREASURE HORDE DRAW PILE FOR EACH GOLD PIECE YOU PAY.",
+  "lore": "",
+  "all_printings": [
+    "48bc3193-24d8-47df-b555-6f0263a3ab5f",
+    "5d2b328b-4166-4a9b-b0ca-f006b6ea108c",
+    "5eebd585-17c4-4695-93ac-de63c8ac61eb"
+  ]
 }

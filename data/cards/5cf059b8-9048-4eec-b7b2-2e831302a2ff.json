@@ -1,14 +1,21 @@
 {
-    "id": "5cf059b8-9048-4eec-b7b2-2e831302a2ff",
-    "name": "Minotaur",
-    "set": "kingdom",
-    "number": "243",
-    "image": "https://iconmaster.info/wyverndb/data/images/5cf059b8-9048-4eec-b7b2-2e831302a2ff.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/5cf059b8-9048-4eec-b7b2-2e831302a2ff.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321557/minotaur"
-    },
-    "rarity": "common"
+  "id": "5cf059b8-9048-4eec-b7b2-2e831302a2ff",
+  "name": "Minotaur",
+  "set": "kingdom",
+  "number": "243",
+  "image": "https://iconmaster.info/wyverndb/data/images/5cf059b8-9048-4eec-b7b2-2e831302a2ff.jpeg",
+  "type": "action",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/5cf059b8-9048-4eec-b7b2-2e831302a2ff.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321557/minotaur"
+  },
+  "rarity": "common",
+  "subtype": "battle_action",
+  "special_abilities": "STRENGTH MODIFIER: +4 CAN ONLY BE PLAYED ON DRAGONS WITH A BASE STRENGTH OF 2 OR LESS.",
+  "lore": "",
+  "all_printings": [
+    "5cf059b8-9048-4eec-b7b2-2e831302a2ff",
+    "a1ba7bf8-d8a5-4c3b-ba2c-ee8297986cfa"
+  ]
 }

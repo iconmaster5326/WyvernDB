@@ -1,14 +1,24 @@
 {
-    "id": "eb784d4a-b9ce-4f9d-bfbb-520f414d4a9d",
-    "name": "Mo-o",
-    "set": "kingdom",
-    "number": "139",
-    "image": "https://iconmaster.info/wyverndb/data/images/eb784d4a-b9ce-4f9d-bfbb-520f414d4a9d.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/eb784d4a-b9ce-4f9d-bfbb-520f414d4a9d.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321453/mo-o"
-    },
-    "rarity": "uncommon"
+  "id": "eb784d4a-b9ce-4f9d-bfbb-520f414d4a9d",
+  "name": "Mo-o",
+  "set": "kingdom",
+  "number": "139",
+  "image": "https://iconmaster.info/wyverndb/data/images/eb784d4a-b9ce-4f9d-bfbb-520f414d4a9d.jpeg",
+  "type": "dragon",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/eb784d4a-b9ce-4f9d-bfbb-520f414d4a9d.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321453/mo-o"
+  },
+  "rarity": "uncommon",
+  "strength": 0,
+  "abilities": [
+    "scout"
+  ],
+  "special_abilities": "GET ONE GOLD PIECE FROM THE GOLD MINE EACH TIME MO-O DISCOVERS A TERRAIN.",
+  "lore": "Mo-o is one of many Hawaiian Dragons.",
+  "all_printings": [
+    "e42530ca-4643-491e-9dbe-d068ca5dae07",
+    "eb784d4a-b9ce-4f9d-bfbb-520f414d4a9d"
+  ]
 }

@@ -1,14 +1,22 @@
 {
-    "id": "dafae63b-d717-481e-9027-7e7a8e67eca5",
-    "name": "Volcanic Eruption",
-    "set": "limited",
-    "number": "123",
-    "image": "https://iconmaster.info/wyverndb/data/images/dafae63b-d717-481e-9027-7e7a8e67eca5.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/dafae63b-d717-481e-9027-7e7a8e67eca5.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32704/volcanic-eruption"
-    },
-    "rarity": "common"
+  "id": "dafae63b-d717-481e-9027-7e7a8e67eca5",
+  "name": "Volcanic Eruption",
+  "set": "limited",
+  "number": "123",
+  "image": "https://iconmaster.info/wyverndb/data/images/dafae63b-d717-481e-9027-7e7a8e67eca5.jpeg",
+  "type": "action",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/dafae63b-d717-481e-9027-7e7a8e67eca5.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32704/volcanic-eruption"
+  },
+  "rarity": "common",
+  "special_abilities": "BRING ANY CARD BACK FROM YOUR TREASURE HORDE DISCARD PILE TO YOUR HAND.",
+  "lore": "",
+  "all_printings": [
+    "3ae20dc6-e98d-45e5-9348-782ea9502c58",
+    "cb7171a4-9d91-49a3-ad52-d9e5028a8425",
+    "dafae63b-d717-481e-9027-7e7a8e67eca5"
+  ],
+  "subtype": "action"
 }

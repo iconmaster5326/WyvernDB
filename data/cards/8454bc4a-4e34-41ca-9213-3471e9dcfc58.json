@@ -1,14 +1,21 @@
 {
-    "id": "8454bc4a-4e34-41ca-9213-3471e9dcfc58",
-    "name": "Dragon of Deerhurst",
-    "set": "chameleon",
-    "number": "13",
-    "image": "https://iconmaster.info/wyverndb/data/images/8454bc4a-4e34-41ca-9213-3471e9dcfc58.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/8454bc4a-4e34-41ca-9213-3471e9dcfc58.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321237/dragon-of-deerhurst"
-    },
-    "rarity": "uncommon"
+  "id": "8454bc4a-4e34-41ca-9213-3471e9dcfc58",
+  "name": "Dragon of Deerhurst",
+  "set": "chameleon",
+  "number": "13",
+  "image": "https://iconmaster.info/wyverndb/data/images/8454bc4a-4e34-41ca-9213-3471e9dcfc58.jpeg",
+  "type": "dragon",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/8454bc4a-4e34-41ca-9213-3471e9dcfc58.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321237/dragon-of-deerhurst"
+  },
+  "rarity": "uncommon",
+  "strength": 3,
+  "abilities": [],
+  "special_abilities": "ACTION OR BATTLE ACTION: PAY ONE GOLD PIECE TO REMOVE ALL NEGATIVE STRENGTH MODIFIERS FROM DRAGON OF DEERHURST.",
+  "lore": "",
+  "all_printings": [
+    "8454bc4a-4e34-41ca-9213-3471e9dcfc58"
+  ]
 }

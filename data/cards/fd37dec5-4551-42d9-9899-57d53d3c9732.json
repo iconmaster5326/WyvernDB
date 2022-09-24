@@ -1,14 +1,20 @@
 {
-    "id": "fd37dec5-4551-42d9-9899-57d53d3c9732",
-    "name": "Feast",
-    "set": "kingdom",
-    "number": "219",
-    "image": "https://iconmaster.info/wyverndb/data/images/fd37dec5-4551-42d9-9899-57d53d3c9732.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/fd37dec5-4551-42d9-9899-57d53d3c9732.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321533/feast"
-    },
-    "rarity": "rare"
+  "id": "fd37dec5-4551-42d9-9899-57d53d3c9732",
+  "name": "Feast",
+  "set": "kingdom",
+  "number": "219",
+  "image": "https://iconmaster.info/wyverndb/data/images/fd37dec5-4551-42d9-9899-57d53d3c9732.jpeg",
+  "type": "treasure",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/fd37dec5-4551-42d9-9899-57d53d3c9732.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321533/feast"
+  },
+  "rarity": "rare",
+  "special_abilities": "ALL DRAGONS OF 4 OR MORE BASE STRENGTH LOSE TWO STRENGTH FOR AS LONG AS THE FEAST IS IN PLAY.",
+  "lore": "Big Dragons tend to eat too much.",
+  "all_printings": [
+    "08951353-38ff-4bc4-a970-1f1ceadb0517",
+    "fd37dec5-4551-42d9-9899-57d53d3c9732"
+  ]
 }

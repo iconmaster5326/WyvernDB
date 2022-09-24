@@ -1,14 +1,25 @@
 {
-    "id": "86d3d879-dcb6-48ef-a853-b82b4de796d8",
-    "name": "Gryphon",
-    "set": "kingdom",
-    "number": "13",
-    "image": "https://iconmaster.info/wyverndb/data/images/86d3d879-dcb6-48ef-a853-b82b4de796d8.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/86d3d879-dcb6-48ef-a853-b82b4de796d8.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321327/gryphon"
-    },
-    "rarity": "uncommon"
+  "id": "86d3d879-dcb6-48ef-a853-b82b4de796d8",
+  "name": "Gryphon",
+  "set": "kingdom",
+  "number": "13",
+  "image": "https://iconmaster.info/wyverndb/data/images/86d3d879-dcb6-48ef-a853-b82b4de796d8.jpeg",
+  "type": "dragon",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/86d3d879-dcb6-48ef-a853-b82b4de796d8.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321327/gryphon"
+  },
+  "rarity": "uncommon",
+  "strength": 1,
+  "abilities": [
+    "flying"
+  ],
+  "special_abilities": "",
+  "lore": "",
+  "all_printings": [
+    "6be1693b-4cd5-424a-a1d8-0d48cda36170",
+    "86d3d879-dcb6-48ef-a853-b82b4de796d8",
+    "9065e877-ee4b-4600-9c90-3205c1320b62"
+  ]
 }

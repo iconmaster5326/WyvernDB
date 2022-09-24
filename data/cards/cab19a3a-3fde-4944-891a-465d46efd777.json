@@ -1,14 +1,20 @@
 {
-    "id": "cab19a3a-3fde-4944-891a-465d46efd777",
-    "name": "Tortoise",
-    "set": "phoenix",
-    "number": "3",
-    "image": "https://iconmaster.info/wyverndb/data/images/cab19a3a-3fde-4944-891a-465d46efd777.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/cab19a3a-3fde-4944-891a-465d46efd777.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321137/tortoise"
-    },
-    "rarity": "common"
+  "id": "cab19a3a-3fde-4944-891a-465d46efd777",
+  "name": "Tortoise",
+  "set": "phoenix",
+  "number": "3",
+  "image": "https://iconmaster.info/wyverndb/data/images/cab19a3a-3fde-4944-891a-465d46efd777.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/cab19a3a-3fde-4944-891a-465d46efd777.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321137/tortoise"
+  },
+  "rarity": "common",
+  "subtype": "hidden_action",
+  "special_abilities": "PLACE FACE DOWN UNDER ONE OF YOUR FACE DOWN DRAGONS.  THE DRAGON GAINS +1 STRENGTH WHEN DEFENDING AS LONG AS THE TORTOISE IS ON THE DRAGON.  CAN'T USE ON FLYERS OR SUBTERRANEAN DRAGONS.",
+  "lore": "In Chinese mythology, the Tortoise could not be killed by Dragons and could not kill Dragons.",
+  "all_printings": [
+    "cab19a3a-3fde-4944-891a-465d46efd777"
+  ]
 }

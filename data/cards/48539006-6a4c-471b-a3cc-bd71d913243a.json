@@ -1,14 +1,21 @@
 {
-    "id": "48539006-6a4c-471b-a3cc-bd71d913243a",
-    "name": "Mountains",
-    "set": "kingdom",
-    "number": "106",
-    "image": "https://iconmaster.info/wyverndb/data/images/48539006-6a4c-471b-a3cc-bd71d913243a.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/48539006-6a4c-471b-a3cc-bd71d913243a.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321420/mountains"
-    },
-    "rarity": "uncommon"
+  "id": "48539006-6a4c-471b-a3cc-bd71d913243a",
+  "name": "Mountains",
+  "set": "kingdom",
+  "number": "106",
+  "image": "https://iconmaster.info/wyverndb/data/images/48539006-6a4c-471b-a3cc-bd71d913243a.jpeg",
+  "type": "terrain",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/48539006-6a4c-471b-a3cc-bd71d913243a.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321420/mountains"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "STRENGTH MODIFIER: -2",
+  "lore": "",
+  "all_printings": [
+    "48539006-6a4c-471b-a3cc-bd71d913243a",
+    "824be458-bacb-4f92-a57f-85d1c8ca6b90",
+    "edf42784-cb77-44e6-abef-3b2d27360a8d"
+  ]
 }

@@ -1,14 +1,22 @@
 {
-    "id": "d941ea3c-5648-4c67-88f8-746f678ce4d7",
-    "name": "St. George",
-    "set": "kingdom",
-    "number": "85",
-    "image": "https://iconmaster.info/wyverndb/data/images/d941ea3c-5648-4c67-88f8-746f678ce4d7.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/d941ea3c-5648-4c67-88f8-746f678ce4d7.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321399/st-george"
-    },
-    "rarity": "common"
+  "id": "d941ea3c-5648-4c67-88f8-746f678ce4d7",
+  "name": "St. George",
+  "set": "kingdom",
+  "number": "85",
+  "image": "https://iconmaster.info/wyverndb/data/images/d941ea3c-5648-4c67-88f8-746f678ce4d7.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/d941ea3c-5648-4c67-88f8-746f678ce4d7.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321399/st-george"
+  },
+  "rarity": "common",
+  "subtype": "slayer_action",
+  "special_abilities": "ST. GEORGE REMOVES ANY ONE TREASURE FROM THE GAME.",
+  "lore": "",
+  "all_printings": [
+    "b427a90d-0717-4cbd-917b-984dfa096c9a",
+    "d941ea3c-5648-4c67-88f8-746f678ce4d7",
+    "f98e5de9-d31b-47d5-8ab9-5cb2319791a8"
+  ]
 }

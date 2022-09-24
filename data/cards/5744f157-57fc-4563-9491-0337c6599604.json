@@ -1,14 +1,25 @@
 {
-    "id": "5744f157-57fc-4563-9491-0337c6599604",
-    "name": "Delphyne",
-    "set": "kingdom",
-    "number": "163",
-    "image": "https://iconmaster.info/wyverndb/data/images/5744f157-57fc-4563-9491-0337c6599604.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/5744f157-57fc-4563-9491-0337c6599604.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321477/delphyne"
-    },
-    "rarity": "uncommon"
+  "id": "5744f157-57fc-4563-9491-0337c6599604",
+  "name": "Delphyne",
+  "set": "kingdom",
+  "number": "163",
+  "image": "https://iconmaster.info/wyverndb/data/images/5744f157-57fc-4563-9491-0337c6599604.jpeg",
+  "type": "dragon",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/5744f157-57fc-4563-9491-0337c6599604.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321477/delphyne"
+  },
+  "rarity": "uncommon",
+  "strength": 0,
+  "abilities": [
+    "flying",
+    "scout"
+  ],
+  "special_abilities": "GET ONE CARD FROM YOUR TREASURE HORDE DRAW PILE EACH TIME DELPHYNE DISCOVERS A TERRAIN.",
+  "lore": "Delphyne is a she-Dragon from Greek mythology.",
+  "all_printings": [
+    "130d8986-684d-4b0c-96bd-9377c3e853fd",
+    "5744f157-57fc-4563-9491-0337c6599604"
+  ]
 }

@@ -1,14 +1,21 @@
 {
-    "id": "475d22c6-3a6b-4827-9ac3-27038603f85c",
-    "name": "Roc",
-    "set": "phoenix",
-    "number": "69",
-    "image": "https://iconmaster.info/wyverndb/data/images/475d22c6-3a6b-4827-9ac3-27038603f85c.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/475d22c6-3a6b-4827-9ac3-27038603f85c.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321203/roc"
-    },
-    "rarity": "uncommon"
+  "id": "475d22c6-3a6b-4827-9ac3-27038603f85c",
+  "name": "Roc",
+  "set": "phoenix",
+  "number": "69",
+  "image": "https://iconmaster.info/wyverndb/data/images/475d22c6-3a6b-4827-9ac3-27038603f85c.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/475d22c6-3a6b-4827-9ac3-27038603f85c.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321203/roc"
+  },
+  "rarity": "uncommon",
+  "subtype": "battle_action",
+  "special_abilities": "THE DRAGON THAT WINS THIS BATTLE LOSES ONE STRENGTH FOR EACH GOLD PIECE YOU PAY TO THE GOLD MINE.",
+  "lore": "Roc is an Arabian storm bird who feeds elephants to his young.",
+  "all_printings": [
+    "475d22c6-3a6b-4827-9ac3-27038603f85c",
+    "a8a494bb-79a1-4787-bc9b-1947e82b7ffa"
+  ]
 }

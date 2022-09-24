@@ -1,14 +1,20 @@
 {
-    "id": "b470a7c5-30ef-4ed3-8e56-67ce2bb0cb32",
-    "name": "Royal Archers",
-    "set": "chameleon",
-    "number": "53",
-    "image": "https://iconmaster.info/wyverndb/data/images/b470a7c5-30ef-4ed3-8e56-67ce2bb0cb32.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/b470a7c5-30ef-4ed3-8e56-67ce2bb0cb32.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321277/royal-archers"
-    },
-    "rarity": "common"
+  "id": "b470a7c5-30ef-4ed3-8e56-67ce2bb0cb32",
+  "name": "Royal Archers",
+  "set": "chameleon",
+  "number": "53",
+  "image": "https://iconmaster.info/wyverndb/data/images/b470a7c5-30ef-4ed3-8e56-67ce2bb0cb32.jpeg",
+  "type": "action",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/b470a7c5-30ef-4ed3-8e56-67ce2bb0cb32.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321277/royal-archers"
+  },
+  "rarity": "common",
+  "subtype": "battle_action",
+  "special_abilities": "STRENGTH MODIFIER: +2 PLAYABLE ONLY BY THE DEFENDING PLAYER, NOT ON A FLYING OR SUBTERRANEAN DRAGON.  IF TARGET DRAGON SURVIVES THIS BATTLE, PUT A +1 OR -1 STRENGTH COUNTER ON ANY FACE UP DRAGON.",
+  "lore": "",
+  "all_printings": [
+    "b470a7c5-30ef-4ed3-8e56-67ce2bb0cb32"
+  ]
 }

@@ -1,14 +1,20 @@
 {
-    "id": "04bf034f-4fb9-416e-884f-c3723a76758e",
-    "name": "Great Library of Ninevah",
-    "set": "limited",
-    "number": "214",
-    "image": "https://iconmaster.info/wyverndb/data/images/04bf034f-4fb9-416e-884f-c3723a76758e.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/04bf034f-4fb9-416e-884f-c3723a76758e.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32795/great-library-of-ninevah"
-    },
-    "rarity": "rare"
+  "id": "04bf034f-4fb9-416e-884f-c3723a76758e",
+  "name": "Great Library of Ninevah",
+  "set": "limited",
+  "number": "214",
+  "image": "https://iconmaster.info/wyverndb/data/images/04bf034f-4fb9-416e-884f-c3723a76758e.jpeg",
+  "type": "treasure",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/04bf034f-4fb9-416e-884f-c3723a76758e.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32795/great-library-of-ninevah"
+  },
+  "rarity": "rare",
+  "special_abilities": "YOU CANNOT BE FORCED TO DISCARD ANY CARDS FROM YOUR HAND.",
+  "lore": "",
+  "all_printings": [
+    "04bf034f-4fb9-416e-884f-c3723a76758e",
+    "b74160b4-415f-4b6c-be33-936fbe33a1de"
+  ]
 }

@@ -1,14 +1,19 @@
 {
-    "id": "54da3127-52fa-4848-b505-1d431419974c",
-    "name": "Nectar",
-    "set": "phoenix",
-    "number": "2",
-    "image": "https://iconmaster.info/wyverndb/data/images/54da3127-52fa-4848-b505-1d431419974c.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/54da3127-52fa-4848-b505-1d431419974c.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321136/nectar"
-    },
-    "rarity": "uncommon"
+  "id": "54da3127-52fa-4848-b505-1d431419974c",
+  "name": "Nectar",
+  "set": "phoenix",
+  "number": "2",
+  "image": "https://iconmaster.info/wyverndb/data/images/54da3127-52fa-4848-b505-1d431419974c.jpeg",
+  "type": "treasure",
+  "gold_cost": 4,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/54da3127-52fa-4848-b505-1d431419974c.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321136/nectar"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "DRAW ONE EXTRA CARD DURING EACH OF YOUR DRAW PHASES.",
+  "lore": "Nectar is the drink of the Gods.",
+  "all_printings": [
+    "54da3127-52fa-4848-b505-1d431419974c"
+  ]
 }

@@ -1,14 +1,21 @@
 {
-    "id": "42b9efd1-e871-4805-b65e-f736376919c9",
-    "name": "Ra",
-    "set": "limited",
-    "number": "187",
-    "image": "https://iconmaster.info/wyverndb/data/images/42b9efd1-e871-4805-b65e-f736376919c9.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/42b9efd1-e871-4805-b65e-f736376919c9.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32768/ra"
-    },
-    "rarity": "common"
+  "id": "42b9efd1-e871-4805-b65e-f736376919c9",
+  "name": "Ra",
+  "set": "limited",
+  "number": "187",
+  "image": "https://iconmaster.info/wyverndb/data/images/42b9efd1-e871-4805-b65e-f736376919c9.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/42b9efd1-e871-4805-b65e-f736376919c9.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32768/ra"
+  },
+  "rarity": "common",
+  "special_abilities": "THIS BATTLE CANNOT BE CANCELED.",
+  "lore": "Ra is the Sun God.",
+  "all_printings": [
+    "356a0dbb-9023-49e3-9681-372760621082",
+    "42b9efd1-e871-4805-b65e-f736376919c9"
+  ],
+  "subtype": "battle_reaction"
 }

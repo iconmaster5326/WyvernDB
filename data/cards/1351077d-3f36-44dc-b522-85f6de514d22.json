@@ -1,14 +1,20 @@
 {
-    "id": "1351077d-3f36-44dc-b522-85f6de514d22",
-    "name": "Torrential Rains",
-    "set": "chameleon",
-    "number": "31",
-    "image": "https://iconmaster.info/wyverndb/data/images/1351077d-3f36-44dc-b522-85f6de514d22.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/1351077d-3f36-44dc-b522-85f6de514d22.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321255/torrential-rains"
-    },
-    "rarity": "common"
+  "id": "1351077d-3f36-44dc-b522-85f6de514d22",
+  "name": "Torrential Rains",
+  "set": "chameleon",
+  "number": "31",
+  "image": "https://iconmaster.info/wyverndb/data/images/1351077d-3f36-44dc-b522-85f6de514d22.jpeg",
+  "type": "action",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/1351077d-3f36-44dc-b522-85f6de514d22.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321255/torrential-rains"
+  },
+  "rarity": "common",
+  "subtype": "action",
+  "special_abilities": "YOU MAY REARRANGE ALL THE CARDS IN AN OPPONENT'S BATTLEFIELD; NO CARDS MAY BE TURNED FACE UP OR FACE DOWN, AND ATTACHED CARDS MAY NOT CHANGE TARGETS.  YOU MAY NOT LOOK AT FACE DOWN CARDS.",
+  "lore": "",
+  "all_printings": [
+    "1351077d-3f36-44dc-b522-85f6de514d22"
+  ]
 }

@@ -1,14 +1,25 @@
 {
-    "id": "f930ca83-094a-4820-a8f9-a2f1876d6084",
-    "name": "Tiamat",
-    "set": "limited",
-    "number": "11",
-    "image": "https://iconmaster.info/wyverndb/data/images/f930ca83-094a-4820-a8f9-a2f1876d6084.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/f930ca83-094a-4820-a8f9-a2f1876d6084.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32592/tiamat"
-    },
-    "rarity": "uncommon"
+  "id": "f930ca83-094a-4820-a8f9-a2f1876d6084",
+  "name": "Tiamat",
+  "set": "limited",
+  "number": "11",
+  "image": "https://iconmaster.info/wyverndb/data/images/f930ca83-094a-4820-a8f9-a2f1876d6084.jpeg",
+  "type": "dragon",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/f930ca83-094a-4820-a8f9-a2f1876d6084.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32592/tiamat"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "",
+  "lore": "Tiamat is one of the few female dragons.",
+  "all_printings": [
+    "393c747a-08f3-4ce2-95a7-3f9e0a09e8d5",
+    "d9048064-3fe7-4744-a367-1e58eb6cf706",
+    "f930ca83-094a-4820-a8f9-a2f1876d6084"
+  ],
+  "strength": 3,
+  "abilities": [
+    "flying"
+  ]
 }

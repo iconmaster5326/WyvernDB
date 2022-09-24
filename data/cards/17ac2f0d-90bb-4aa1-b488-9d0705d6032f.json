@@ -1,14 +1,21 @@
 {
-    "id": "17ac2f0d-90bb-4aa1-b488-9d0705d6032f",
-    "name": "Ocean",
-    "set": "premiere",
-    "number": "48",
-    "image": "https://iconmaster.info/wyverndb/data/images/17ac2f0d-90bb-4aa1-b488-9d0705d6032f.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/17ac2f0d-90bb-4aa1-b488-9d0705d6032f.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32868/ocean"
-    },
-    "rarity": "common"
+  "id": "17ac2f0d-90bb-4aa1-b488-9d0705d6032f",
+  "name": "Ocean",
+  "set": "premiere",
+  "number": "48",
+  "image": "https://iconmaster.info/wyverndb/data/images/17ac2f0d-90bb-4aa1-b488-9d0705d6032f.jpeg",
+  "type": "terrain",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/17ac2f0d-90bb-4aa1-b488-9d0705d6032f.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32868/ocean"
+  },
+  "rarity": "common",
+  "special_abilities": "STRENGTH MODIFIER: -1",
+  "lore": "",
+  "all_printings": [
+    "17ac2f0d-90bb-4aa1-b488-9d0705d6032f",
+    "ad4fb90e-a641-481d-8e16-28e6a2113219",
+    "b70c5932-97c5-474c-a941-f30a735be205"
+  ]
 }

@@ -1,14 +1,21 @@
 {
-    "id": "2486ad8e-997f-4782-b516-a7318fe75c0f",
-    "name": "Steal Strength",
-    "set": "limited",
-    "number": "229",
-    "image": "https://iconmaster.info/wyverndb/data/images/2486ad8e-997f-4782-b516-a7318fe75c0f.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/2486ad8e-997f-4782-b516-a7318fe75c0f.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32810/steal-strength"
-    },
-    "rarity": "rare"
+  "id": "2486ad8e-997f-4782-b516-a7318fe75c0f",
+  "name": "Steal Strength",
+  "set": "limited",
+  "number": "229",
+  "image": "https://iconmaster.info/wyverndb/data/images/2486ad8e-997f-4782-b516-a7318fe75c0f.jpeg",
+  "type": "action",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/2486ad8e-997f-4782-b516-a7318fe75c0f.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32810/steal-strength"
+  },
+  "rarity": "rare",
+  "special_abilities": "PLAY IN RESPONSE TO A BATTLE ACTION CARD WITH THE WORDS STRENGTH MODIFIER ON IT.  YOU CAN PLACE THE BATTLE ACTION CARD ON A DRAGON OF YOUR CHOICE IN THIS BATTLE.",
+  "lore": "",
+  "all_printings": [
+    "2486ad8e-997f-4782-b516-a7318fe75c0f",
+    "ba6fa3ca-80c8-45c0-a8eb-04f5e52e7282"
+  ],
+  "subtype": "battle_reaction"
 }

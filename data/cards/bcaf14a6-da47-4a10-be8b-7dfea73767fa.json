@@ -1,14 +1,23 @@
 {
-    "id": "bcaf14a6-da47-4a10-be8b-7dfea73767fa",
-    "name": "Hege",
-    "set": "chameleon",
-    "number": "11",
-    "image": "https://iconmaster.info/wyverndb/data/images/bcaf14a6-da47-4a10-be8b-7dfea73767fa.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/bcaf14a6-da47-4a10-be8b-7dfea73767fa.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321235/hege"
-    },
-    "rarity": "uncommon"
+  "id": "bcaf14a6-da47-4a10-be8b-7dfea73767fa",
+  "name": "Hege",
+  "set": "chameleon",
+  "number": "11",
+  "image": "https://iconmaster.info/wyverndb/data/images/bcaf14a6-da47-4a10-be8b-7dfea73767fa.jpeg",
+  "type": "dragon",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/bcaf14a6-da47-4a10-be8b-7dfea73767fa.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321235/hege"
+  },
+  "rarity": "uncommon",
+  "strength": 2,
+  "abilities": [
+    "flying"
+  ],
+  "special_abilities": "ACTION OR BATTLE ACTION: ONCE ON EACH PLAYER'S TURN HEGE MAY USE ANY TREASURE IN PLAY AS IF IT WERE IN THIS ROW.",
+  "lore": "",
+  "all_printings": [
+    "bcaf14a6-da47-4a10-be8b-7dfea73767fa"
+  ]
 }

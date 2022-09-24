@@ -1,14 +1,21 @@
 {
-    "id": "6a6f472f-da48-41dc-84a3-6fbd02a682e2",
-    "name": "Valley",
-    "set": "limited",
-    "number": "195",
-    "image": "https://iconmaster.info/wyverndb/data/images/6a6f472f-da48-41dc-84a3-6fbd02a682e2.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/6a6f472f-da48-41dc-84a3-6fbd02a682e2.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32776/valley"
-    },
-    "rarity": "rare"
+  "id": "6a6f472f-da48-41dc-84a3-6fbd02a682e2",
+  "name": "Valley",
+  "set": "limited",
+  "number": "195",
+  "image": "https://iconmaster.info/wyverndb/data/images/6a6f472f-da48-41dc-84a3-6fbd02a682e2.jpeg",
+  "type": "action",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/6a6f472f-da48-41dc-84a3-6fbd02a682e2.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32776/valley"
+  },
+  "rarity": "rare",
+  "special_abilities": "PLAY THIS ON A FACE UP DRAGON.  THIS DRAGON CANNOT GET OR GIVE HELP FOR THIS TURN.",
+  "lore": "",
+  "all_printings": [
+    "18768d22-89a4-4106-985f-bcfd6665a104",
+    "6a6f472f-da48-41dc-84a3-6fbd02a682e2"
+  ],
+  "subtype": "action"
 }

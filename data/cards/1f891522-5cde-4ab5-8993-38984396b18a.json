@@ -1,14 +1,21 @@
 {
-    "id": "1f891522-5cde-4ab5-8993-38984396b18a",
-    "name": "Sir Galahad",
-    "set": "phoenix",
-    "number": "36",
-    "image": "https://iconmaster.info/wyverndb/data/images/1f891522-5cde-4ab5-8993-38984396b18a.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/1f891522-5cde-4ab5-8993-38984396b18a.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321170/sir-galahad"
-    },
-    "rarity": "common"
+  "id": "1f891522-5cde-4ab5-8993-38984396b18a",
+  "name": "Sir Galahad",
+  "set": "phoenix",
+  "number": "36",
+  "image": "https://iconmaster.info/wyverndb/data/images/1f891522-5cde-4ab5-8993-38984396b18a.jpeg",
+  "type": "action",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/1f891522-5cde-4ab5-8993-38984396b18a.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321170/sir-galahad"
+  },
+  "rarity": "common",
+  "subtype": "slayer_action",
+  "special_abilities": "KILLS ANY DRAGON OF 4 OR MORE STRENGTH.",
+  "lore": "Galahad is destined to find the Holy Grail.",
+  "all_printings": [
+    "1f891522-5cde-4ab5-8993-38984396b18a",
+    "403af81c-97d5-47ad-a73b-ddb53e6596bf"
+  ]
 }

@@ -1,14 +1,19 @@
 {
-    "id": "d8c69e53-9236-4929-b8cf-d000f01a24e9",
-    "name": "Price Hike",
-    "set": "phoenix",
-    "number": "33",
-    "image": "https://iconmaster.info/wyverndb/data/images/d8c69e53-9236-4929-b8cf-d000f01a24e9.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/d8c69e53-9236-4929-b8cf-d000f01a24e9.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321167/price-hike"
-    },
-    "rarity": "uncommon"
+  "id": "d8c69e53-9236-4929-b8cf-d000f01a24e9",
+  "name": "Price Hike",
+  "set": "phoenix",
+  "number": "33",
+  "image": "https://iconmaster.info/wyverndb/data/images/d8c69e53-9236-4929-b8cf-d000f01a24e9.jpeg",
+  "type": "treasure",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/d8c69e53-9236-4929-b8cf-d000f01a24e9.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321167/price-hike"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "ALL CARDS FROM PLAYERS' HANDS COST ONE MORE GOLD WHILE PRICE HIKE IS IN PLAY.",
+  "lore": "",
+  "all_printings": [
+    "d8c69e53-9236-4929-b8cf-d000f01a24e9"
+  ]
 }

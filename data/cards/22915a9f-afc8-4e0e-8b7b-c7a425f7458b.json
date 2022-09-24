@@ -1,14 +1,25 @@
 {
-    "id": "22915a9f-afc8-4e0e-8b7b-c7a425f7458b",
-    "name": "Celestial",
-    "set": "limited",
-    "number": "95",
-    "image": "https://iconmaster.info/wyverndb/data/images/22915a9f-afc8-4e0e-8b7b-c7a425f7458b.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/22915a9f-afc8-4e0e-8b7b-c7a425f7458b.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32676/celestial"
-    },
-    "rarity": "uncommon"
+  "id": "22915a9f-afc8-4e0e-8b7b-c7a425f7458b",
+  "name": "Celestial",
+  "set": "limited",
+  "number": "95",
+  "image": "https://iconmaster.info/wyverndb/data/images/22915a9f-afc8-4e0e-8b7b-c7a425f7458b.jpeg",
+  "type": "dragon",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/22915a9f-afc8-4e0e-8b7b-c7a425f7458b.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32676/celestial"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "",
+  "lore": "The Celestrial Dragon is the Dragon of Emperors and rules all Chinese Dragons.",
+  "all_printings": [
+    "22915a9f-afc8-4e0e-8b7b-c7a425f7458b",
+    "4c124677-3f15-4216-88db-fddbfea5327f",
+    "8e8137d3-89e5-4d2e-83df-f41c74481e88"
+  ],
+  "strength": 5,
+  "abilities": [
+    "flying"
+  ]
 }

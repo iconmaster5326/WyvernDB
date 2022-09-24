@@ -1,14 +1,22 @@
 {
-    "id": "d7e5b79c-8a19-46a2-bb4c-b992b575a76e",
-    "name": "Fire Bolt",
-    "set": "premiere",
-    "number": "77",
-    "image": "https://iconmaster.info/wyverndb/data/images/d7e5b79c-8a19-46a2-bb4c-b992b575a76e.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/d7e5b79c-8a19-46a2-bb4c-b992b575a76e.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32897/fire-bolt"
-    },
-    "rarity": "common"
+  "id": "d7e5b79c-8a19-46a2-bb4c-b992b575a76e",
+  "name": "Fire Bolt",
+  "set": "premiere",
+  "number": "77",
+  "image": "https://iconmaster.info/wyverndb/data/images/d7e5b79c-8a19-46a2-bb4c-b992b575a76e.jpeg",
+  "type": "action",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/d7e5b79c-8a19-46a2-bb4c-b992b575a76e.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32897/fire-bolt"
+  },
+  "rarity": "common",
+  "special_abilities": "STRENGTH MODIFIER: +3",
+  "lore": "",
+  "all_printings": [
+    "bcda332d-cd2b-43f8-af81-3674b3d5b9df",
+    "c3a8a53f-1e12-47c5-99fb-47a47c4bf4b5",
+    "d7e5b79c-8a19-46a2-bb4c-b992b575a76e"
+  ],
+  "subtype": "battle_action"
 }

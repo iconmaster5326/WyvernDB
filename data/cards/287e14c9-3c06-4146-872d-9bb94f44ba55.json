@@ -1,14 +1,22 @@
 {
-    "id": "287e14c9-3c06-4146-872d-9bb94f44ba55",
-    "name": "Heatwave",
-    "set": "kingdom",
-    "number": "125",
-    "image": "https://iconmaster.info/wyverndb/data/images/287e14c9-3c06-4146-872d-9bb94f44ba55.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/287e14c9-3c06-4146-872d-9bb94f44ba55.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321439/heatwave"
-    },
-    "rarity": "common"
+  "id": "287e14c9-3c06-4146-872d-9bb94f44ba55",
+  "name": "Heatwave",
+  "set": "kingdom",
+  "number": "125",
+  "image": "https://iconmaster.info/wyverndb/data/images/287e14c9-3c06-4146-872d-9bb94f44ba55.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/287e14c9-3c06-4146-872d-9bb94f44ba55.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321439/heatwave"
+  },
+  "rarity": "common",
+  "subtype": "action",
+  "special_abilities": "ALL DRAGONS WHO ARE FACE UP LOSE 1 STRENGTH FOR THIS TURN.",
+  "lore": "",
+  "all_printings": [
+    "1ccfb3b4-9f68-4b5b-86fc-ca8f1154af89",
+    "287e14c9-3c06-4146-872d-9bb94f44ba55",
+    "fa905b39-1ea4-4982-b77d-570384c88753"
+  ]
 }

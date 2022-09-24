@@ -1,14 +1,21 @@
 {
-    "id": "7da8b9fd-15b8-4aef-a65d-2536b0c33901",
-    "name": "Avalon",
-    "set": "kingdom",
-    "number": "247",
-    "image": "https://iconmaster.info/wyverndb/data/images/7da8b9fd-15b8-4aef-a65d-2536b0c33901.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/7da8b9fd-15b8-4aef-a65d-2536b0c33901.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321561/avalon"
-    },
-    "rarity": "uncommon"
+  "id": "7da8b9fd-15b8-4aef-a65d-2536b0c33901",
+  "name": "Avalon",
+  "set": "kingdom",
+  "number": "247",
+  "image": "https://iconmaster.info/wyverndb/data/images/7da8b9fd-15b8-4aef-a65d-2536b0c33901.jpeg",
+  "type": "action",
+  "gold_cost": 4,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/7da8b9fd-15b8-4aef-a65d-2536b0c33901.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321561/avalon"
+  },
+  "rarity": "uncommon",
+  "subtype": "action",
+  "special_abilities": "PLACE AVALON FACE UP IN A VACANT BATTLEFIELD POSITION.  IMMEDIATELY PLACE THE TOP CARD FROM YOUR DRAGON LAIR DRAW PILE FACE DOWN ON TOP OF AVALON.  YOU MAY NOT VOLUNTARILY REPLACE THE CARD THAT IS ON AVALON.  WHEN THE CARD IS DESTROYED, AVALON IS DISCARDED.",
+  "lore": "",
+  "all_printings": [
+    "7da8b9fd-15b8-4aef-a65d-2536b0c33901",
+    "d5ef72c8-6a4a-462e-b434-b8185db930c6"
+  ]
 }

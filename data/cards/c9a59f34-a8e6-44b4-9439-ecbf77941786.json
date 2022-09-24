@@ -1,14 +1,23 @@
 {
-    "id": "c9a59f34-a8e6-44b4-9439-ecbf77941786",
-    "name": "Guivre",
-    "set": "limited",
-    "number": "4",
-    "image": "https://iconmaster.info/wyverndb/data/images/c9a59f34-a8e6-44b4-9439-ecbf77941786.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/c9a59f34-a8e6-44b4-9439-ecbf77941786.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32585/guivre"
-    },
-    "rarity": "common"
+  "id": "c9a59f34-a8e6-44b4-9439-ecbf77941786",
+  "name": "Guivre",
+  "set": "limited",
+  "number": "4",
+  "image": "https://iconmaster.info/wyverndb/data/images/c9a59f34-a8e6-44b4-9439-ecbf77941786.jpeg",
+  "type": "dragon",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/c9a59f34-a8e6-44b4-9439-ecbf77941786.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32585/guivre"
+  },
+  "rarity": "common",
+  "special_abilities": "",
+  "lore": "",
+  "all_printings": [
+    "2cba79f7-7fd7-48f5-a330-b0cf05b49754",
+    "765cb586-3da3-46be-92ed-81ad30d6d1fd",
+    "c9a59f34-a8e6-44b4-9439-ecbf77941786"
+  ],
+  "strength": 2,
+  "abilities": []
 }

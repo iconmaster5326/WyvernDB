@@ -1,14 +1,22 @@
 {
-    "id": "e3b27c31-a31c-4be3-be4f-22dcbdcfd1fc",
-    "name": "Marina",
-    "set": "limited",
-    "number": "89",
-    "image": "https://iconmaster.info/wyverndb/data/images/e3b27c31-a31c-4be3-be4f-22dcbdcfd1fc.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/e3b27c31-a31c-4be3-be4f-22dcbdcfd1fc.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32670/marina"
-    },
-    "rarity": "common"
+  "id": "e3b27c31-a31c-4be3-be4f-22dcbdcfd1fc",
+  "name": "Marina",
+  "set": "limited",
+  "number": "89",
+  "image": "https://iconmaster.info/wyverndb/data/images/e3b27c31-a31c-4be3-be4f-22dcbdcfd1fc.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/e3b27c31-a31c-4be3-be4f-22dcbdcfd1fc.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32670/marina"
+  },
+  "rarity": "common",
+  "special_abilities": "MARINA COUNTERS THE PLAY OF A DRAGON SLAYER.",
+  "lore": "The Russian Sorceress Marina likes to seduce brave dragon slayers and change them into harmless magpies, pigs or oxen.",
+  "all_printings": [
+    "6b9607b0-f018-4456-af61-08d621a1f7f7",
+    "bbccca14-b028-486c-8388-28e96e5f47a3",
+    "e3b27c31-a31c-4be3-be4f-22dcbdcfd1fc"
+  ],
+  "subtype": "reaction"
 }

@@ -1,14 +1,19 @@
 {
-    "id": "b3b86241-db06-4ebc-9da3-b13cacedefcb",
-    "name": "Gold Wyvern",
-    "set": "premiere",
-    "number": "136",
-    "image": "https://iconmaster.info/wyverndb/data/images/b3b86241-db06-4ebc-9da3-b13cacedefcb.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/b3b86241-db06-4ebc-9da3-b13cacedefcb.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32957/gold-wyvern"
-    },
-    "rarity": "promo"
+  "id": "b3b86241-db06-4ebc-9da3-b13cacedefcb",
+  "name": "Gold Wyvern",
+  "set": "premiere",
+  "number": "136",
+  "image": "https://iconmaster.info/wyverndb/data/images/b3b86241-db06-4ebc-9da3-b13cacedefcb.jpeg",
+  "type": "dragon",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/b3b86241-db06-4ebc-9da3-b13cacedefcb.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32957/gold-wyvern"
+  },
+  "rarity": "promo",
+  "strength": 0,
+  "abilities": [],
+  "special_abilities": "SILVER, ADD +1 STRENGTH\nGOLD, ADD +2 STRENGTH\nGOLD & SILVER, ADD +4 STRENGTH\nOR",
+  "lore": "Card is Redeemable (see rule booklet)",
+  "all_printings": ["b3b86241-db06-4ebc-9da3-b13cacedefcb"]
 }

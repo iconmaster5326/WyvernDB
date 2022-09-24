@@ -1,14 +1,24 @@
 {
-    "id": "f30d4a65-802a-4e60-8cb5-0c0fb534398c",
-    "name": "Nidhoggr",
-    "set": "limited",
-    "number": "165",
-    "image": "https://iconmaster.info/wyverndb/data/images/f30d4a65-802a-4e60-8cb5-0c0fb534398c.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/f30d4a65-802a-4e60-8cb5-0c0fb534398c.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32746/nidhoggr"
-    },
-    "rarity": "uncommon"
+  "id": "f30d4a65-802a-4e60-8cb5-0c0fb534398c",
+  "name": "Nidhoggr",
+  "set": "limited",
+  "number": "165",
+  "image": "https://iconmaster.info/wyverndb/data/images/f30d4a65-802a-4e60-8cb5-0c0fb534398c.jpeg",
+  "type": "dragon",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/f30d4a65-802a-4e60-8cb5-0c0fb534398c.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32746/nidhoggr"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "",
+  "lore": "Nidhoggr is the first Nordic Dragon.  He is known for gnawing at the root of the Universal Tree.",
+  "all_printings": [
+    "ebe273e0-6cc0-476f-9c94-757aefe80974",
+    "f30d4a65-802a-4e60-8cb5-0c0fb534398c"
+  ],
+  "strength": 1,
+  "abilities": [
+    "subterranean"
+  ]
 }

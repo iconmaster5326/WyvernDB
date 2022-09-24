@@ -1,14 +1,19 @@
 {
-    "id": "bf9aad43-3b4f-4e4d-87d5-d4f299955c10",
-    "name": "Grotto",
-    "set": "chameleon",
-    "number": "73",
-    "image": "https://iconmaster.info/wyverndb/data/images/bf9aad43-3b4f-4e4d-87d5-d4f299955c10.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/bf9aad43-3b4f-4e4d-87d5-d4f299955c10.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321297/grotto"
-    },
-    "rarity": "uncommon"
+  "id": "bf9aad43-3b4f-4e4d-87d5-d4f299955c10",
+  "name": "Grotto",
+  "set": "chameleon",
+  "number": "73",
+  "image": "https://iconmaster.info/wyverndb/data/images/bf9aad43-3b4f-4e4d-87d5-d4f299955c10.jpeg",
+  "type": "terrain",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/bf9aad43-3b4f-4e4d-87d5-d4f299955c10.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321297/grotto"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "STRENGTH MODIFIER: -1 CHAMELEON REACTION: PAY FOUR GOLD PIECES TO CHANGE GROTTO TO A STRENGTH 3 SUBTERRANEAN DRAGON FOR THE REST OF THE GAME.",
+  "lore": "",
+  "all_printings": [
+    "bf9aad43-3b4f-4e4d-87d5-d4f299955c10"
+  ]
 }

@@ -1,14 +1,20 @@
 {
-    "id": "abfac977-8825-4ac2-a315-1ca25ffb2805",
-    "name": "Mermaid",
-    "set": "phoenix",
-    "number": "63",
-    "image": "https://iconmaster.info/wyverndb/data/images/abfac977-8825-4ac2-a315-1ca25ffb2805.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/abfac977-8825-4ac2-a315-1ca25ffb2805.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321197/mermaid"
-    },
-    "rarity": "uncommon"
+  "id": "abfac977-8825-4ac2-a315-1ca25ffb2805",
+  "name": "Mermaid",
+  "set": "phoenix",
+  "number": "63",
+  "image": "https://iconmaster.info/wyverndb/data/images/abfac977-8825-4ac2-a315-1ca25ffb2805.jpeg",
+  "type": "action",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/abfac977-8825-4ac2-a315-1ca25ffb2805.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321197/mermaid"
+  },
+  "rarity": "uncommon",
+  "subtype": "action",
+  "special_abilities": "REMOVE ALL CARDS THAT ARE ATTACHED TO OTHER CARDS IN BOTH BATTLEFIELDS.  THIS INCLUDES CARDS THAT ARE ATTACHED TO TREASURES.",
+  "lore": "",
+  "all_printings": [
+    "abfac977-8825-4ac2-a315-1ca25ffb2805"
+  ]
 }

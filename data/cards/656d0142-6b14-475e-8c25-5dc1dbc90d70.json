@@ -1,14 +1,20 @@
 {
-    "id": "656d0142-6b14-475e-8c25-5dc1dbc90d70",
-    "name": "Dragon Mother",
-    "set": "limited",
-    "number": "172",
-    "image": "https://iconmaster.info/wyverndb/data/images/656d0142-6b14-475e-8c25-5dc1dbc90d70.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/656d0142-6b14-475e-8c25-5dc1dbc90d70.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32753/dragon-mother"
-    },
-    "rarity": "rare"
+  "id": "656d0142-6b14-475e-8c25-5dc1dbc90d70",
+  "name": "Dragon Mother",
+  "set": "limited",
+  "number": "172",
+  "image": "https://iconmaster.info/wyverndb/data/images/656d0142-6b14-475e-8c25-5dc1dbc90d70.jpeg",
+  "type": "treasure",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/656d0142-6b14-475e-8c25-5dc1dbc90d70.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32753/dragon-mother"
+  },
+  "rarity": "rare",
+  "special_abilities": "WHEN DRAGON MOTHER IS IN PLAY THE TOP CARD OF ALL TREASURE HORDE DRAW PILES IS ALWAYS FACE UP.",
+  "lore": "The Dragon Mother can tell future events.",
+  "all_printings": [
+    "656d0142-6b14-475e-8c25-5dc1dbc90d70",
+    "ab55adea-b4b2-422b-b132-efe20a4b7543"
+  ]
 }

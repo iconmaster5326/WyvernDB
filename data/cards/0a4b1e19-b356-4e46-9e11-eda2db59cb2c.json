@@ -1,14 +1,21 @@
 {
-    "id": "0a4b1e19-b356-4e46-9e11-eda2db59cb2c",
-    "name": "Wyvern Shadow",
-    "set": "limited",
-    "number": "136",
-    "image": "https://iconmaster.info/wyverndb/data/images/0a4b1e19-b356-4e46-9e11-eda2db59cb2c.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/0a4b1e19-b356-4e46-9e11-eda2db59cb2c.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32717/wyvern-shadow"
-    },
-    "rarity": "rare"
+  "id": "0a4b1e19-b356-4e46-9e11-eda2db59cb2c",
+  "name": "Wyvern Shadow",
+  "set": "limited",
+  "number": "136",
+  "image": "https://iconmaster.info/wyverndb/data/images/0a4b1e19-b356-4e46-9e11-eda2db59cb2c.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/0a4b1e19-b356-4e46-9e11-eda2db59cb2c.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32717/wyvern-shadow"
+  },
+  "rarity": "rare",
+  "special_abilities": "PLAY ON FACE UP WYVERN.  ADDS +2 STRENGTH TO WYVERN FOR REST OF GAME.",
+  "lore": "",
+  "all_printings": [
+    "0a4b1e19-b356-4e46-9e11-eda2db59cb2c",
+    "4ed45621-68f4-4812-aa33-97d15f2403ab"
+  ],
+  "subtype": "action"
 }

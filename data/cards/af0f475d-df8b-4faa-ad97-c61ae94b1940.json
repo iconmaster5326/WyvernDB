@@ -1,14 +1,21 @@
 {
-    "id": "af0f475d-df8b-4faa-ad97-c61ae94b1940",
-    "name": "Miasma",
-    "set": "chameleon",
-    "number": "24",
-    "image": "https://iconmaster.info/wyverndb/data/images/af0f475d-df8b-4faa-ad97-c61ae94b1940.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/af0f475d-df8b-4faa-ad97-c61ae94b1940.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321248/miasma"
-    },
-    "rarity": "uncommon"
+  "id": "af0f475d-df8b-4faa-ad97-c61ae94b1940",
+  "name": "Miasma",
+  "set": "chameleon",
+  "number": "24",
+  "image": "https://iconmaster.info/wyverndb/data/images/af0f475d-df8b-4faa-ad97-c61ae94b1940.jpeg",
+  "type": "dragon",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/af0f475d-df8b-4faa-ad97-c61ae94b1940.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321248/miasma"
+  },
+  "rarity": "uncommon",
+  "strength": 0,
+  "abilities": [],
+  "special_abilities": "NATIVE TERRAIN: SWAMP X2",
+  "lore": "",
+  "all_printings": [
+    "af0f475d-df8b-4faa-ad97-c61ae94b1940"
+  ]
 }

@@ -1,14 +1,20 @@
 {
-    "id": "02b4eb92-f1c7-4253-8731-f915c8c0c7c4",
-    "name": "Abbey",
-    "set": "limited",
-    "number": "202",
-    "image": "https://iconmaster.info/wyverndb/data/images/02b4eb92-f1c7-4253-8731-f915c8c0c7c4.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/02b4eb92-f1c7-4253-8731-f915c8c0c7c4.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32783/abbey"
-    },
-    "rarity": "uncommon"
+  "id": "02b4eb92-f1c7-4253-8731-f915c8c0c7c4",
+  "name": "Abbey",
+  "set": "limited",
+  "number": "202",
+  "image": "https://iconmaster.info/wyverndb/data/images/02b4eb92-f1c7-4253-8731-f915c8c0c7c4.jpeg",
+  "type": "terrain",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/02b4eb92-f1c7-4253-8731-f915c8c0c7c4.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32783/abbey"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "THIS DRAGON CANNOT SURVIVE A LOST BATTLE NO MATTER WHAT CARDS ARE PLAYED, ARE IN PLAY, OR WHAT IT SAYS ON THE DRAGON.",
+  "lore": "",
+  "all_printings": [
+    "02b4eb92-f1c7-4253-8731-f915c8c0c7c4",
+    "3d8bd4d6-79b8-4a00-a64d-3b4baf6c1bbc"
+  ]
 }

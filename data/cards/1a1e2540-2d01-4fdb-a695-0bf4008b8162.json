@@ -1,14 +1,21 @@
 {
-    "id": "1a1e2540-2d01-4fdb-a695-0bf4008b8162",
-    "name": "Sabra",
-    "set": "limited",
-    "number": "192",
-    "image": "https://iconmaster.info/wyverndb/data/images/1a1e2540-2d01-4fdb-a695-0bf4008b8162.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/1a1e2540-2d01-4fdb-a695-0bf4008b8162.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32773/sabra"
-    },
-    "rarity": "rare"
+  "id": "1a1e2540-2d01-4fdb-a695-0bf4008b8162",
+  "name": "Sabra",
+  "set": "limited",
+  "number": "192",
+  "image": "https://iconmaster.info/wyverndb/data/images/1a1e2540-2d01-4fdb-a695-0bf4008b8162.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/1a1e2540-2d01-4fdb-a695-0bf4008b8162.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32773/sabra"
+  },
+  "rarity": "rare",
+  "special_abilities": "SABRA IS PLAYED IN RESPONSE TO THE PLAY OF ST. GEORGE.  YOU GET TWO GOLD FROM THE GOLD MINE AND YOU GET TO REMOVE ANY TREASURE IN PLAY.",
+  "lore": "Sabra is a princess who married St. George.",
+  "all_printings": [
+    "1a1e2540-2d01-4fdb-a695-0bf4008b8162",
+    "a9aaaeb0-a362-498f-bccc-12c817d2cfc0"
+  ],
+  "subtype": "reaction"
 }

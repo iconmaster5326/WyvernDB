@@ -1,14 +1,20 @@
 {
-    "id": "2124be78-56d4-4958-b536-dd52d0b54664",
-    "name": "Dwarven Legion",
-    "set": "chameleon",
-    "number": "57",
-    "image": "https://iconmaster.info/wyverndb/data/images/2124be78-56d4-4958-b536-dd52d0b54664.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/2124be78-56d4-4958-b536-dd52d0b54664.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321281/dwarven-legion"
-    },
-    "rarity": "uncommon"
+  "id": "2124be78-56d4-4958-b536-dd52d0b54664",
+  "name": "Dwarven Legion",
+  "set": "chameleon",
+  "number": "57",
+  "image": "https://iconmaster.info/wyverndb/data/images/2124be78-56d4-4958-b536-dd52d0b54664.jpeg",
+  "type": "action",
+  "gold_cost": 3,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/2124be78-56d4-4958-b536-dd52d0b54664.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321281/dwarven-legion"
+  },
+  "rarity": "uncommon",
+  "subtype": "battle_action",
+  "special_abilities": "STRENGTH MODIFIER: +2 THE PLAYER THAT WINS THIS BATTLE GAINS GOLD EACH TO THE STRENGTH DIFFERENCE BETWEEN THE TWO SIDES AT THE END OF THE BATTLE.  DWARVEN LEGION COUNTS AS A DWARVEN ARMY.",
+  "lore": "",
+  "all_printings": [
+    "2124be78-56d4-4958-b536-dd52d0b54664"
+  ]
 }

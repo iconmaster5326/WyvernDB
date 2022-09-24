@@ -1,14 +1,19 @@
 {
-    "id": "0446c02d-6f48-4bfa-a02c-f8353649655d",
-    "name": "Chaparral",
-    "set": "chameleon",
-    "number": "70",
-    "image": "https://iconmaster.info/wyverndb/data/images/0446c02d-6f48-4bfa-a02c-f8353649655d.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/0446c02d-6f48-4bfa-a02c-f8353649655d.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321294/chaparral"
-    },
-    "rarity": "uncommon"
+  "id": "0446c02d-6f48-4bfa-a02c-f8353649655d",
+  "name": "Chaparral",
+  "set": "chameleon",
+  "number": "70",
+  "image": "https://iconmaster.info/wyverndb/data/images/0446c02d-6f48-4bfa-a02c-f8353649655d.jpeg",
+  "type": "terrain",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/0446c02d-6f48-4bfa-a02c-f8353649655d.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321294/chaparral"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "STRENGTH MODIFIER: -1 CHAMELEON REACTION: PAY THREE GOLD PIECES TO CHANGE CHAPARRAL TO A STRENGTH 0 DRAGON FOR THE REST OF THE GAME.  WHILE ATTACKING, CHAPARRAL HAS AN ASSIGNED STRENGTH EQUAL TO THE NUMBER OF TERRAIN CARDS IN YOUR DISCARD PILE.",
+  "lore": "",
+  "all_printings": [
+    "0446c02d-6f48-4bfa-a02c-f8353649655d"
+  ]
 }

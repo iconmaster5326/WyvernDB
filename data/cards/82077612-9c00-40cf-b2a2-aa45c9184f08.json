@@ -1,14 +1,21 @@
 {
-    "id": "82077612-9c00-40cf-b2a2-aa45c9184f08",
-    "name": "Indra's Spell",
-    "set": "limited",
-    "number": "179",
-    "image": "https://iconmaster.info/wyverndb/data/images/82077612-9c00-40cf-b2a2-aa45c9184f08.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/82077612-9c00-40cf-b2a2-aa45c9184f08.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32760/indras-spell"
-    },
-    "rarity": "rare"
+  "id": "82077612-9c00-40cf-b2a2-aa45c9184f08",
+  "name": "Indra's Spell",
+  "set": "limited",
+  "number": "179",
+  "image": "https://iconmaster.info/wyverndb/data/images/82077612-9c00-40cf-b2a2-aa45c9184f08.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/82077612-9c00-40cf-b2a2-aa45c9184f08.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32760/indras-spell"
+  },
+  "rarity": "rare",
+  "special_abilities": "COUNTERS ANY WEATHER RELATED ACTION CARD (HEATWAVE, HIGH WINDS, FLOOD, ETC.) CAN BE USED DURING A BATTLE.",
+  "lore": "Indra is the Indian Weather God who can abruptly change the weather.",
+  "all_printings": [
+    "710ca202-5f41-451c-ac49-1e68550cfb7e",
+    "82077612-9c00-40cf-b2a2-aa45c9184f08"
+  ],
+  "subtype": "reaction"
 }

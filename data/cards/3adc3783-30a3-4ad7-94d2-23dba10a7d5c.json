@@ -1,14 +1,21 @@
 {
-    "id": "3adc3783-30a3-4ad7-94d2-23dba10a7d5c",
-    "name": "Coral Reef",
-    "set": "premiere",
-    "number": "33",
-    "image": "https://iconmaster.info/wyverndb/data/images/3adc3783-30a3-4ad7-94d2-23dba10a7d5c.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/3adc3783-30a3-4ad7-94d2-23dba10a7d5c.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32853/coral-reef"
-    },
-    "rarity": "common"
+  "id": "3adc3783-30a3-4ad7-94d2-23dba10a7d5c",
+  "name": "Coral Reef",
+  "set": "premiere",
+  "number": "33",
+  "image": "https://iconmaster.info/wyverndb/data/images/3adc3783-30a3-4ad7-94d2-23dba10a7d5c.jpeg",
+  "type": "terrain",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/3adc3783-30a3-4ad7-94d2-23dba10a7d5c.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32853/coral-reef"
+  },
+  "rarity": "common",
+  "special_abilities": "STRENGTH MODIFIER: -1",
+  "lore": "",
+  "all_printings": [
+    "0593823f-6bf5-4647-b0c9-8822f835530c",
+    "3adc3783-30a3-4ad7-94d2-23dba10a7d5c",
+    "b7478e87-0cac-4595-871c-4617ca4101a6"
+  ]
 }

@@ -1,14 +1,21 @@
 {
-    "id": "97e24b1c-7377-4511-bcc9-26a408712a5b",
-    "name": "Megalith",
-    "set": "chameleon",
-    "number": "14",
-    "image": "https://iconmaster.info/wyverndb/data/images/97e24b1c-7377-4511-bcc9-26a408712a5b.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/97e24b1c-7377-4511-bcc9-26a408712a5b.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321238/megalith"
-    },
-    "rarity": "uncommon"
+  "id": "97e24b1c-7377-4511-bcc9-26a408712a5b",
+  "name": "Megalith",
+  "set": "chameleon",
+  "number": "14",
+  "image": "https://iconmaster.info/wyverndb/data/images/97e24b1c-7377-4511-bcc9-26a408712a5b.jpeg",
+  "type": "dragon",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/97e24b1c-7377-4511-bcc9-26a408712a5b.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321238/megalith"
+  },
+  "rarity": "uncommon",
+  "strength": 3,
+  "abilities": [],
+  "special_abilities": "NATIVE TERRAIN: RUINS.  WHEN MEGALITH IS KILLED IN A BATTLE, ONE OPPOSING DRAGON MUST BE TURNED FACE DOWN.  IT MUST BE PAID FOR AGAIN WHEN IT IS TURNED FACE UP.",
+  "lore": "",
+  "all_printings": [
+    "97e24b1c-7377-4511-bcc9-26a408712a5b"
+  ]
 }

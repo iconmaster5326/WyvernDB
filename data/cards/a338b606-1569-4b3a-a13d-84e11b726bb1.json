@@ -1,14 +1,21 @@
 {
-    "id": "a338b606-1569-4b3a-a13d-84e11b726bb1",
-    "name": "Panther",
-    "set": "kingdom",
-    "number": "268",
-    "image": "https://iconmaster.info/wyverndb/data/images/a338b606-1569-4b3a-a13d-84e11b726bb1.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/a338b606-1569-4b3a-a13d-84e11b726bb1.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321582/panther"
-    },
-    "rarity": "rare"
+  "id": "a338b606-1569-4b3a-a13d-84e11b726bb1",
+  "name": "Panther",
+  "set": "kingdom",
+  "number": "268",
+  "image": "https://iconmaster.info/wyverndb/data/images/a338b606-1569-4b3a-a13d-84e11b726bb1.jpeg",
+  "type": "action",
+  "gold_cost": 4,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/a338b606-1569-4b3a-a13d-84e11b726bb1.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321582/panther"
+  },
+  "rarity": "rare",
+  "subtype": "battle_action",
+  "special_abilities": "STRENGTH MODIFIER: +5",
+  "lore": "",
+  "all_printings": [
+    "a338b606-1569-4b3a-a13d-84e11b726bb1",
+    "b4f9420c-ba4f-4d22-9790-44b96b9ecd54"
+  ]
 }

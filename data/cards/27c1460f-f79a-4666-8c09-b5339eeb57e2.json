@@ -1,14 +1,21 @@
 {
-    "id": "27c1460f-f79a-4666-8c09-b5339eeb57e2",
-    "name": "Frozen Assets",
-    "set": "kingdom",
-    "number": "236",
-    "image": "https://iconmaster.info/wyverndb/data/images/27c1460f-f79a-4666-8c09-b5339eeb57e2.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/27c1460f-f79a-4666-8c09-b5339eeb57e2.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321550/frozen-assets"
-    },
-    "rarity": "rare"
+  "id": "27c1460f-f79a-4666-8c09-b5339eeb57e2",
+  "name": "Frozen Assets",
+  "set": "kingdom",
+  "number": "236",
+  "image": "https://iconmaster.info/wyverndb/data/images/27c1460f-f79a-4666-8c09-b5339eeb57e2.jpeg",
+  "type": "action",
+  "gold_cost": 3,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/27c1460f-f79a-4666-8c09-b5339eeb57e2.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321550/frozen-assets"
+  },
+  "rarity": "rare",
+  "subtype": "action",
+  "special_abilities": "PLAYER OF YOUR CHOICE CANNOT SPEND ANY MORE GOLD ON ACTION OR BATTLE ACTION CARDS THIS TURN.",
+  "lore": "",
+  "all_printings": [
+    "052d6a42-3eb5-4764-ba0a-93bbc1ce80ca",
+    "27c1460f-f79a-4666-8c09-b5339eeb57e2"
+  ]
 }

@@ -1,14 +1,20 @@
 {
-    "id": "eb8c9580-ef5c-461e-8ec1-f70d1d15b3b7",
-    "name": "Labyrinth",
-    "set": "phoenix",
-    "number": "42",
-    "image": "https://iconmaster.info/wyverndb/data/images/eb8c9580-ef5c-461e-8ec1-f70d1d15b3b7.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/eb8c9580-ef5c-461e-8ec1-f70d1d15b3b7.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321176/labyrinth"
-    },
-    "rarity": "common"
+  "id": "eb8c9580-ef5c-461e-8ec1-f70d1d15b3b7",
+  "name": "Labyrinth",
+  "set": "phoenix",
+  "number": "42",
+  "image": "https://iconmaster.info/wyverndb/data/images/eb8c9580-ef5c-461e-8ec1-f70d1d15b3b7.jpeg",
+  "type": "terrain",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/eb8c9580-ef5c-461e-8ec1-f70d1d15b3b7.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321176/labyrinth"
+  },
+  "rarity": "common",
+  "special_abilities": "THE DRAGON IN THE LABYRINTH CAN NOT BE REPLACED BY CHOICE.  THE DRAGON CAN ONLY BE REPLACED IF THE OWNER CAN'T LEGALLY DO ANYTHING ELSE.",
+  "lore": "Daedalus built the Labyrinth for Minos, King of Crete, as a prison for the Minotaur.",
+  "all_printings": [
+    "a1539619-e43f-49a4-8672-ccaeb773fca3",
+    "eb8c9580-ef5c-461e-8ec1-f70d1d15b3b7"
+  ]
 }

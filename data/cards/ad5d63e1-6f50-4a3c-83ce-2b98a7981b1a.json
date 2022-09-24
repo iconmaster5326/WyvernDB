@@ -1,14 +1,21 @@
 {
-    "id": "ad5d63e1-6f50-4a3c-83ce-2b98a7981b1a",
-    "name": "Ambrosia",
-    "set": "phoenix",
-    "number": "1",
-    "image": "https://iconmaster.info/wyverndb/data/images/ad5d63e1-6f50-4a3c-83ce-2b98a7981b1a.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/ad5d63e1-6f50-4a3c-83ce-2b98a7981b1a.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321135/ambrosia"
-    },
-    "rarity": "common"
+  "id": "ad5d63e1-6f50-4a3c-83ce-2b98a7981b1a",
+  "name": "Ambrosia",
+  "set": "phoenix",
+  "number": "1",
+  "image": "https://iconmaster.info/wyverndb/data/images/ad5d63e1-6f50-4a3c-83ce-2b98a7981b1a.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/ad5d63e1-6f50-4a3c-83ce-2b98a7981b1a.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321135/ambrosia"
+  },
+  "rarity": "common",
+  "subtype": "action",
+  "special_abilities": "YOU MAY PLAY AS MANY TREASURES AS YOU WANT DURING YOUR ACTION PHASES THIS TURN.",
+  "lore": "Ambrosia is the food of the Gods.",
+  "all_printings": [
+    "1dd57632-5d66-4c51-8da1-79e7866600d8",
+    "ad5d63e1-6f50-4a3c-83ce-2b98a7981b1a"
+  ]
 }

@@ -1,14 +1,24 @@
 {
-    "id": "e81a58c8-1823-48ba-9c6d-2491533c39ce",
-    "name": "Apep",
-    "set": "limited",
-    "number": "153",
-    "image": "https://iconmaster.info/wyverndb/data/images/e81a58c8-1823-48ba-9c6d-2491533c39ce.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/e81a58c8-1823-48ba-9c6d-2491533c39ce.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32734/apep"
-    },
-    "rarity": "uncommon"
+  "id": "e81a58c8-1823-48ba-9c6d-2491533c39ce",
+  "name": "Apep",
+  "set": "limited",
+  "number": "153",
+  "image": "https://iconmaster.info/wyverndb/data/images/e81a58c8-1823-48ba-9c6d-2491533c39ce.jpeg",
+  "type": "dragon",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/e81a58c8-1823-48ba-9c6d-2491533c39ce.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32734/apep"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "",
+  "lore": "Apep is an Egyptian Dragon that symbolizes darkness and evil.",
+  "all_printings": [
+    "51dd9e5e-fd41-43a5-b654-95beea6a8054",
+    "e81a58c8-1823-48ba-9c6d-2491533c39ce"
+  ],
+  "strength": 3,
+  "abilities": [
+    "subterranean"
+  ]
 }

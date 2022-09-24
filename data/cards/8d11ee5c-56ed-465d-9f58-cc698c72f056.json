@@ -1,14 +1,22 @@
 {
-    "id": "8d11ee5c-56ed-465d-9f58-cc698c72f056",
-    "name": "Seaweed",
-    "set": "kingdom",
-    "number": "73",
-    "image": "https://iconmaster.info/wyverndb/data/images/8d11ee5c-56ed-465d-9f58-cc698c72f056.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/8d11ee5c-56ed-465d-9f58-cc698c72f056.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321387/seaweed"
-    },
-    "rarity": "common"
+  "id": "8d11ee5c-56ed-465d-9f58-cc698c72f056",
+  "name": "Seaweed",
+  "set": "kingdom",
+  "number": "73",
+  "image": "https://iconmaster.info/wyverndb/data/images/8d11ee5c-56ed-465d-9f58-cc698c72f056.jpeg",
+  "type": "action",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/8d11ee5c-56ed-465d-9f58-cc698c72f056.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321387/seaweed"
+  },
+  "rarity": "common",
+  "subtype": "action",
+  "special_abilities": "SEAWEED IS PLAYED ON A FACE UP DRAGON AND GIVES THAT DRAGON A -1 STRENGTH MODIFER FOR THIS TURN.",
+  "lore": "",
+  "all_printings": [
+    "3874ff06-9ed1-4d90-ad98-fdf73bc16ad9",
+    "8d11ee5c-56ed-465d-9f58-cc698c72f056",
+    "b644d13f-c7a6-4411-a5fb-d84b5d7c27d0"
+  ]
 }

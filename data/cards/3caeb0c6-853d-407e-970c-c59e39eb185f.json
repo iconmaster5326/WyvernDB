@@ -1,14 +1,22 @@
 {
-    "id": "3caeb0c6-853d-407e-970c-c59e39eb185f",
-    "name": "Red",
-    "set": "limited",
-    "number": "160",
-    "image": "https://iconmaster.info/wyverndb/data/images/3caeb0c6-853d-407e-970c-c59e39eb185f.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/3caeb0c6-853d-407e-970c-c59e39eb185f.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32741/red"
-    },
-    "rarity": "rare"
+  "id": "3caeb0c6-853d-407e-970c-c59e39eb185f",
+  "name": "Red",
+  "set": "limited",
+  "number": "160",
+  "image": "https://iconmaster.info/wyverndb/data/images/3caeb0c6-853d-407e-970c-c59e39eb185f.jpeg",
+  "type": "dragon",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/3caeb0c6-853d-407e-970c-c59e39eb185f.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32741/red"
+  },
+  "rarity": "rare",
+  "special_abilities": "IMMUNE TO DRAGON SLAYERS.  ADD +1 TO ALL BATTLE ACTION STRENGTH MODIFIERS WHEN PLAYED ON RED.",
+  "lore": "Chinese Dragon that rules over summer.",
+  "all_printings": [
+    "3caeb0c6-853d-407e-970c-c59e39eb185f",
+    "57a91432-fa63-442b-8905-0d6e15de89db"
+  ],
+  "strength": 6,
+  "abilities": []
 }

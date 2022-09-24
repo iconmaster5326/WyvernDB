@@ -1,14 +1,20 @@
 {
-    "id": "7d0b8506-b756-4709-94d5-7ca127408074",
-    "name": "Hurricane",
-    "set": "limited",
-    "number": "204",
-    "image": "https://iconmaster.info/wyverndb/data/images/7d0b8506-b756-4709-94d5-7ca127408074.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/7d0b8506-b756-4709-94d5-7ca127408074.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32785/hurricane"
-    },
-    "rarity": "uncommon"
+  "id": "7d0b8506-b756-4709-94d5-7ca127408074",
+  "name": "Hurricane",
+  "set": "limited",
+  "number": "204",
+  "image": "https://iconmaster.info/wyverndb/data/images/7d0b8506-b756-4709-94d5-7ca127408074.jpeg",
+  "type": "terrain",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/7d0b8506-b756-4709-94d5-7ca127408074.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32785/hurricane"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "KILLS ANY FLYING DRAGON.",
+  "lore": "",
+  "all_printings": [
+    "7d0b8506-b756-4709-94d5-7ca127408074",
+    "e4fa7f74-376b-4b0e-b07d-1ecfb470b511"
+  ]
 }

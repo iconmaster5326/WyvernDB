@@ -1,14 +1,19 @@
 {
-    "id": "c110ce4d-c4e2-45cd-a2cb-2143b56ab17c",
-    "name": "Trojan Horse",
-    "set": "phoenix",
-    "number": "52",
-    "image": "https://iconmaster.info/wyverndb/data/images/c110ce4d-c4e2-45cd-a2cb-2143b56ab17c.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/c110ce4d-c4e2-45cd-a2cb-2143b56ab17c.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321186/trojan-horse"
-    },
-    "rarity": "rare"
+  "id": "c110ce4d-c4e2-45cd-a2cb-2143b56ab17c",
+  "name": "Trojan Horse",
+  "set": "phoenix",
+  "number": "52",
+  "image": "https://iconmaster.info/wyverndb/data/images/c110ce4d-c4e2-45cd-a2cb-2143b56ab17c.jpeg",
+  "type": "treasure",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/c110ce4d-c4e2-45cd-a2cb-2143b56ab17c.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321186/trojan-horse"
+  },
+  "rarity": "rare",
+  "special_abilities": "ACTION: PLACE A BATTLE ACTION CARD FROM HAND UNDER TROJAN HORSE.  BATTLE ACTION: PLAY ALL CARDS FROM TROJAN HORSE AT NOT GOLD COST.  IF TROJAN HORSE IS REMOVED FROM PLAY, ALL CARDS UNDER IT ARE DISCARDED.",
+  "lore": "",
+  "all_printings": [
+    "c110ce4d-c4e2-45cd-a2cb-2143b56ab17c"
+  ]
 }

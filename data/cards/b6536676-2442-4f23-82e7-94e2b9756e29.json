@@ -1,14 +1,22 @@
 {
-    "id": "b6536676-2442-4f23-82e7-94e2b9756e29",
-    "name": "Beowulf",
-    "set": "kingdom",
-    "number": "132",
-    "image": "https://iconmaster.info/wyverndb/data/images/b6536676-2442-4f23-82e7-94e2b9756e29.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/b6536676-2442-4f23-82e7-94e2b9756e29.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321446/beowulf"
-    },
-    "rarity": "common"
+  "id": "b6536676-2442-4f23-82e7-94e2b9756e29",
+  "name": "Beowulf",
+  "set": "kingdom",
+  "number": "132",
+  "image": "https://iconmaster.info/wyverndb/data/images/b6536676-2442-4f23-82e7-94e2b9756e29.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/b6536676-2442-4f23-82e7-94e2b9756e29.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321446/beowulf"
+  },
+  "rarity": "common",
+  "subtype": "slayer_action",
+  "special_abilities": "BEOWULF KILLS ANY DRAGON OF 0 OR LESS STRENGTH.",
+  "lore": "",
+  "all_printings": [
+    "1601d7a3-588c-4695-b971-a9957694ea05",
+    "3c87831e-0b50-4d4f-9c8c-ca170521afa9",
+    "b6536676-2442-4f23-82e7-94e2b9756e29"
+  ]
 }

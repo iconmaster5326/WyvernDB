@@ -1,14 +1,21 @@
 {
-    "id": "ae8315cb-bdd6-42fa-b889-95e6253e8a04",
-    "name": "Gully",
-    "set": "limited",
-    "number": "197",
-    "image": "https://iconmaster.info/wyverndb/data/images/ae8315cb-bdd6-42fa-b889-95e6253e8a04.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/ae8315cb-bdd6-42fa-b889-95e6253e8a04.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32778/gully"
-    },
-    "rarity": "common"
+  "id": "ae8315cb-bdd6-42fa-b889-95e6253e8a04",
+  "name": "Gully",
+  "set": "limited",
+  "number": "197",
+  "image": "https://iconmaster.info/wyverndb/data/images/ae8315cb-bdd6-42fa-b889-95e6253e8a04.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/ae8315cb-bdd6-42fa-b889-95e6253e8a04.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32778/gully"
+  },
+  "rarity": "common",
+  "special_abilities": "NO HELP IS ALLOWED BY EITHER SIDE IN ANY BATTLE THIS TURN.",
+  "lore": "",
+  "all_printings": [
+    "ae8315cb-bdd6-42fa-b889-95e6253e8a04",
+    "c2c0326c-67fa-40ce-9490-b58cfed0a4e6"
+  ],
+  "subtype": "action"
 }

@@ -1,14 +1,23 @@
 {
-    "id": "29b7209f-ef41-4a15-ad2d-44acffa5958c",
-    "name": "Ti-Lung",
-    "set": "chameleon",
-    "number": "9",
-    "image": "https://iconmaster.info/wyverndb/data/images/29b7209f-ef41-4a15-ad2d-44acffa5958c.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/29b7209f-ef41-4a15-ad2d-44acffa5958c.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321233/ti-lung"
-    },
-    "rarity": "common"
+  "id": "29b7209f-ef41-4a15-ad2d-44acffa5958c",
+  "name": "Ti-Lung",
+  "set": "chameleon",
+  "number": "9",
+  "image": "https://iconmaster.info/wyverndb/data/images/29b7209f-ef41-4a15-ad2d-44acffa5958c.jpeg",
+  "type": "dragon",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/29b7209f-ef41-4a15-ad2d-44acffa5958c.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321233/ti-lung"
+  },
+  "rarity": "common",
+  "strength": 3,
+  "abilities": [
+    "subterranean"
+  ],
+  "special_abilities": "GAIN ONE GOLD PIECE EACH TIME AN OPPONENT EXCHANGES ONE OF THEIR BATTLE POSITIONS IN LIEU OF ATTACKING.",
+  "lore": "",
+  "all_printings": [
+    "29b7209f-ef41-4a15-ad2d-44acffa5958c"
+  ]
 }

@@ -1,14 +1,23 @@
 {
-    "id": "9e58cc42-f086-4df3-acf0-aa48f2c18849",
-    "name": "Basilisk",
-    "set": "kingdom",
-    "number": "15",
-    "image": "https://iconmaster.info/wyverndb/data/images/9e58cc42-f086-4df3-acf0-aa48f2c18849.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/9e58cc42-f086-4df3-acf0-aa48f2c18849.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321329/basilisk"
-    },
-    "rarity": "rare"
+  "id": "9e58cc42-f086-4df3-acf0-aa48f2c18849",
+  "name": "Basilisk",
+  "set": "kingdom",
+  "number": "15",
+  "image": "https://iconmaster.info/wyverndb/data/images/9e58cc42-f086-4df3-acf0-aa48f2c18849.jpeg",
+  "type": "dragon",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/9e58cc42-f086-4df3-acf0-aa48f2c18849.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321329/basilisk"
+  },
+  "rarity": "rare",
+  "strength": 3,
+  "abilities": [],
+  "special_abilities": "KILLS HIMSELF AND ONE OTHER DRAGON IN BATTLE.  NO BATTLE ACTION CARDS ARE PLAYED IN A BATTLE THAT BASILISK IS PART OF, AND THERE IS NO WINNER OR LOSER.",
+  "lore": "",
+  "all_printings": [
+    "9139ec07-3c23-436e-b3dd-69a5c89b0607",
+    "9e58cc42-f086-4df3-acf0-aa48f2c18849",
+    "ca8d6876-0c2f-4bdf-ae69-b6ac0aab0c91"
+  ]
 }

@@ -1,14 +1,22 @@
 {
-    "id": "9fe63d9d-8a4b-4840-ab81-d7276fee2a97",
-    "name": "Magical Healing",
-    "set": "limited",
-    "number": "126",
-    "image": "https://iconmaster.info/wyverndb/data/images/9fe63d9d-8a4b-4840-ab81-d7276fee2a97.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/9fe63d9d-8a4b-4840-ab81-d7276fee2a97.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32707/magical-healing"
-    },
-    "rarity": "common"
+  "id": "9fe63d9d-8a4b-4840-ab81-d7276fee2a97",
+  "name": "Magical Healing",
+  "set": "limited",
+  "number": "126",
+  "image": "https://iconmaster.info/wyverndb/data/images/9fe63d9d-8a4b-4840-ab81-d7276fee2a97.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/9fe63d9d-8a4b-4840-ab81-d7276fee2a97.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32707/magical-healing"
+  },
+  "rarity": "common",
+  "special_abilities": "ONE DRAGON OF YOUR CHOICE IS HEALED BACK TO FULL STRENGTH.",
+  "lore": "",
+  "all_printings": [
+    "95bd50b0-a098-4006-a9c5-f87c6e42456d",
+    "9fe63d9d-8a4b-4840-ab81-d7276fee2a97",
+    "be235355-4c5f-4591-b9fa-bf3ec5b0231e"
+  ],
+  "subtype": "action"
 }

@@ -1,14 +1,20 @@
 {
-    "id": "afd55939-5d35-4a54-809f-8db67499befb",
-    "name": "Chronos",
-    "set": "kingdom",
-    "number": "245",
-    "image": "https://iconmaster.info/wyverndb/data/images/afd55939-5d35-4a54-809f-8db67499befb.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/afd55939-5d35-4a54-809f-8db67499befb.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321559/chronos"
-    },
-    "rarity": "uncommon"
+  "id": "afd55939-5d35-4a54-809f-8db67499befb",
+  "name": "Chronos",
+  "set": "kingdom",
+  "number": "245",
+  "image": "https://iconmaster.info/wyverndb/data/images/afd55939-5d35-4a54-809f-8db67499befb.jpeg",
+  "type": "treasure",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/afd55939-5d35-4a54-809f-8db67499befb.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321559/chronos"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "YOU GO FIRST IN ALL ACTION AND BATTLE ACTION PHASES AS LONG AS CHRONOS IS IN PLAY.",
+  "lore": "",
+  "all_printings": [
+    "afd55939-5d35-4a54-809f-8db67499befb",
+    "c09b037c-5aec-4b24-9418-838cd686f64c"
+  ]
 }

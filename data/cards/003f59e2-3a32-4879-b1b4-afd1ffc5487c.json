@@ -1,14 +1,24 @@
 {
-    "id": "003f59e2-3a32-4879-b1b4-afd1ffc5487c",
-    "name": "White",
-    "set": "limited",
-    "number": "158",
-    "image": "https://iconmaster.info/wyverndb/data/images/003f59e2-3a32-4879-b1b4-afd1ffc5487c.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/003f59e2-3a32-4879-b1b4-afd1ffc5487c.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32739/white"
-    },
-    "rarity": "rare"
+  "id": "003f59e2-3a32-4879-b1b4-afd1ffc5487c",
+  "name": "White",
+  "set": "limited",
+  "number": "158",
+  "image": "https://iconmaster.info/wyverndb/data/images/003f59e2-3a32-4879-b1b4-afd1ffc5487c.jpeg",
+  "type": "dragon",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/003f59e2-3a32-4879-b1b4-afd1ffc5487c.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32739/white"
+  },
+  "rarity": "rare",
+  "special_abilities": "IMMUNE TO DRAGON SLAYERS.  WHEN WHITE IS FACE UP OPPONENT CAN'T PLAY TREASURE CARDS.",
+  "lore": "Chinese Dragon that rules autumn.",
+  "all_printings": [
+    "003f59e2-3a32-4879-b1b4-afd1ffc5487c",
+    "d58df540-e658-4238-a576-a3f8ae3fe546"
+  ],
+  "strength": 4,
+  "abilities": [
+    "flying"
+  ]
 }

@@ -1,14 +1,24 @@
 {
-    "id": "48bf82e5-e528-46f0-b67b-7f3171269534",
-    "name": "Geates",
-    "set": "kingdom",
-    "number": "140",
-    "image": "https://iconmaster.info/wyverndb/data/images/48bf82e5-e528-46f0-b67b-7f3171269534.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/48bf82e5-e528-46f0-b67b-7f3171269534.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321454/geates"
-    },
-    "rarity": "uncommon"
+  "id": "48bf82e5-e528-46f0-b67b-7f3171269534",
+  "name": "Geates",
+  "set": "kingdom",
+  "number": "140",
+  "image": "https://iconmaster.info/wyverndb/data/images/48bf82e5-e528-46f0-b67b-7f3171269534.jpeg",
+  "type": "dragon",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/48bf82e5-e528-46f0-b67b-7f3171269534.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321454/geates"
+  },
+  "rarity": "uncommon",
+  "strength": 2,
+  "abilities": [
+    "flying"
+  ],
+  "special_abilities": "WHEN GEATES WINS A BATTLE, ONE TREASURE IN ROW OF LOSING DRAGON IS DISCARDED.  YOU DECIDE WHICH ONE.",
+  "lore": "Geates is the Dragon slayed by Beowulf in Anglo-Saxon myth.",
+  "all_printings": [
+    "48bf82e5-e528-46f0-b67b-7f3171269534",
+    "f828d983-4e95-4b60-ba11-6fe215843259"
+  ]
 }

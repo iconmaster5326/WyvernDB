@@ -1,14 +1,20 @@
 {
-    "id": "b743a900-57fe-45c1-aa07-cd9faed42b00",
-    "name": "Pandora",
-    "set": "phoenix",
-    "number": "45",
-    "image": "https://iconmaster.info/wyverndb/data/images/b743a900-57fe-45c1-aa07-cd9faed42b00.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/b743a900-57fe-45c1-aa07-cd9faed42b00.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321179/pandora"
-    },
-    "rarity": "uncommon"
+  "id": "b743a900-57fe-45c1-aa07-cd9faed42b00",
+  "name": "Pandora",
+  "set": "phoenix",
+  "number": "45",
+  "image": "https://iconmaster.info/wyverndb/data/images/b743a900-57fe-45c1-aa07-cd9faed42b00.jpeg",
+  "type": "action",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/b743a900-57fe-45c1-aa07-cd9faed42b00.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321179/pandora"
+  },
+  "rarity": "uncommon",
+  "subtype": "action",
+  "special_abilities": "SWITCH HANDS WITH YOUR OPPONENT FOR THE REMAINDER OF THIS TURN.",
+  "lore": "All the ills of the world are contained in Pandora's box.",
+  "all_printings": [
+    "b743a900-57fe-45c1-aa07-cd9faed42b00"
+  ]
 }

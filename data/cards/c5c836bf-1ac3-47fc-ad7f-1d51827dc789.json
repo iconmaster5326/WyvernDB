@@ -1,14 +1,25 @@
 {
-    "id": "c5c836bf-1ac3-47fc-ad7f-1d51827dc789",
-    "name": "Ri-Riu",
-    "set": "kingdom",
-    "number": "273",
-    "image": "https://iconmaster.info/wyverndb/data/images/c5c836bf-1ac3-47fc-ad7f-1d51827dc789.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/c5c836bf-1ac3-47fc-ad7f-1d51827dc789.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321587/ri-riu"
-    },
-    "rarity": "common"
+  "id": "c5c836bf-1ac3-47fc-ad7f-1d51827dc789",
+  "name": "Ri-Riu",
+  "set": "kingdom",
+  "number": "273",
+  "image": "https://iconmaster.info/wyverndb/data/images/c5c836bf-1ac3-47fc-ad7f-1d51827dc789.jpeg",
+  "type": "dragon",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/c5c836bf-1ac3-47fc-ad7f-1d51827dc789.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321587/ri-riu"
+  },
+  "rarity": "common",
+  "strength": 0,
+  "abilities": [
+    "scout",
+    "super_flying"
+  ],
+  "special_abilities": "RI-RIU CAN ATTACK ANY CARD.",
+  "lore": "Ri-Riu can see more than a mile.",
+  "all_printings": [
+    "c5c836bf-1ac3-47fc-ad7f-1d51827dc789",
+    "ed42b6b6-6174-42e7-b332-d6042910c084"
+  ]
 }

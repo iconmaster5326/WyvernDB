@@ -1,14 +1,22 @@
 {
-    "id": "5ff3592c-3a9b-43da-b13d-614f1bafd47d",
-    "name": "Possession Spell",
-    "set": "limited",
-    "number": "131",
-    "image": "https://iconmaster.info/wyverndb/data/images/5ff3592c-3a9b-43da-b13d-614f1bafd47d.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/5ff3592c-3a9b-43da-b13d-614f1bafd47d.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32712/possession-spell"
-    },
-    "rarity": "common"
+  "id": "5ff3592c-3a9b-43da-b13d-614f1bafd47d",
+  "name": "Possession Spell",
+  "set": "limited",
+  "number": "131",
+  "image": "https://iconmaster.info/wyverndb/data/images/5ff3592c-3a9b-43da-b13d-614f1bafd47d.jpeg",
+  "type": "action",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/5ff3592c-3a9b-43da-b13d-614f1bafd47d.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32712/possession-spell"
+  },
+  "rarity": "common",
+  "special_abilities": "YOU MAY POSSESS THE BASE STRENGTH OF ANY FACE UP DRAGON IN ANY BATTLEFIELD AND ADD IT TO A DRAGON IN THIS BATTLE.  THE DRAGON POSSESSED CANNOT BE ONE THAT IS CURRENTLY IN THE BATTLE.  THE DRAGON POSSESSED NOW HAS A BASE STRENGTH OF 0 FOR THE REST OF THIS BATTLE.",
+  "lore": "",
+  "all_printings": [
+    "5ff3592c-3a9b-43da-b13d-614f1bafd47d",
+    "ddfeaa74-89b1-4309-87d8-34e00d9d668f",
+    "e54033c1-6498-4e0e-8b7f-36f17a1d0b7e"
+  ],
+  "subtype": "battle_action"
 }

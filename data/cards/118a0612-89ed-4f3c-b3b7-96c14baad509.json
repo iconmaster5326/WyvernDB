@@ -1,14 +1,24 @@
 {
-    "id": "118a0612-89ed-4f3c-b3b7-96c14baad509",
-    "name": "Illuyankus",
-    "set": "limited",
-    "number": "194",
-    "image": "https://iconmaster.info/wyverndb/data/images/118a0612-89ed-4f3c-b3b7-96c14baad509.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/118a0612-89ed-4f3c-b3b7-96c14baad509.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32775/illuyankus"
-    },
-    "rarity": "uncommon"
+  "id": "118a0612-89ed-4f3c-b3b7-96c14baad509",
+  "name": "Illuyankus",
+  "set": "limited",
+  "number": "194",
+  "image": "https://iconmaster.info/wyverndb/data/images/118a0612-89ed-4f3c-b3b7-96c14baad509.jpeg",
+  "type": "dragon",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/118a0612-89ed-4f3c-b3b7-96c14baad509.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32775/illuyankus"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "WHEN ILLUYANKUS IS ONE OF THE TWO DRAGONS STARTING A BATTLE NO HELP IS ALLOWED BY EITHER SIDE.",
+  "lore": "Illuyankus is a Dragon from Hittite mythology.",
+  "all_printings": [
+    "118a0612-89ed-4f3c-b3b7-96c14baad509",
+    "6630c6a8-0e2f-40db-a041-1fa5931e206c"
+  ],
+  "strength": 3,
+  "abilities": [
+    "flying"
+  ]
 }

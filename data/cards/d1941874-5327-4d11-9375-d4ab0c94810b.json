@@ -1,14 +1,21 @@
 {
-    "id": "d1941874-5327-4d11-9375-d4ab0c94810b",
-    "name": "Pearl",
-    "set": "premiere",
-    "number": "53",
-    "image": "https://iconmaster.info/wyverndb/data/images/d1941874-5327-4d11-9375-d4ab0c94810b.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/d1941874-5327-4d11-9375-d4ab0c94810b.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32873/pearl"
-    },
-    "rarity": "common"
+  "id": "d1941874-5327-4d11-9375-d4ab0c94810b",
+  "name": "Pearl",
+  "set": "premiere",
+  "number": "53",
+  "image": "https://iconmaster.info/wyverndb/data/images/d1941874-5327-4d11-9375-d4ab0c94810b.jpeg",
+  "type": "treasure",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/d1941874-5327-4d11-9375-d4ab0c94810b.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32873/pearl"
+  },
+  "rarity": "common",
+  "special_abilities": "WHEN A DRAGON IN THIS ROW WINS A BATTLE, DRAW ONE CARD FROM YOUR TREASURE HORDE DRAW PILE.",
+  "lore": "",
+  "all_printings": [
+    "871db94d-61c0-4a80-8431-b7d4c4690052",
+    "c88bf1b2-5def-49be-8b36-b94a7da92521",
+    "d1941874-5327-4d11-9375-d4ab0c94810b"
+  ]
 }

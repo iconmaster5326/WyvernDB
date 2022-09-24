@@ -1,14 +1,23 @@
 {
-    "id": "cb447710-2705-4153-9c6b-36d4c6d52faf",
-    "name": "Draco",
-    "set": "kingdom",
-    "number": "29",
-    "image": "https://iconmaster.info/wyverndb/data/images/cb447710-2705-4153-9c6b-36d4c6d52faf.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/cb447710-2705-4153-9c6b-36d4c6d52faf.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321343/draco"
-    },
-    "rarity": "rare"
+  "id": "cb447710-2705-4153-9c6b-36d4c6d52faf",
+  "name": "Draco",
+  "set": "kingdom",
+  "number": "29",
+  "image": "https://iconmaster.info/wyverndb/data/images/cb447710-2705-4153-9c6b-36d4c6d52faf.jpeg",
+  "type": "dragon",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/cb447710-2705-4153-9c6b-36d4c6d52faf.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321343/draco"
+  },
+  "rarity": "rare",
+  "strength": 3,
+  "abilities": [],
+  "special_abilities": "ONCE DRACO ATTACKS HE MUST CONTINUE TO ATTACK DURING THAT SAME TURN UNTIL HE DIES OR DISCOVERS TERRAIN.",
+  "lore": "Draco has a tail that can kill with one swipe.",
+  "all_printings": [
+    "ab8290a6-d8b4-447f-bc00-63441d572051",
+    "cb447710-2705-4153-9c6b-36d4c6d52faf",
+    "fa0ee7c7-f756-4fcc-b25c-ac5c3397438e"
+  ]
 }

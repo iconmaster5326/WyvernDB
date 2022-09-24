@@ -1,14 +1,24 @@
 {
-    "id": "e57c3367-cfa1-4ee4-ae49-024a6e60b637",
-    "name": "Dragon of Exe Valley",
-    "set": "kingdom",
-    "number": "276",
-    "image": "https://iconmaster.info/wyverndb/data/images/e57c3367-cfa1-4ee4-ae49-024a6e60b637.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/e57c3367-cfa1-4ee4-ae49-024a6e60b637.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321590/dragon-of-exe-valley"
-    },
-    "rarity": "uncommon"
+  "id": "e57c3367-cfa1-4ee4-ae49-024a6e60b637",
+  "name": "Dragon of Exe Valley",
+  "set": "kingdom",
+  "number": "276",
+  "image": "https://iconmaster.info/wyverndb/data/images/e57c3367-cfa1-4ee4-ae49-024a6e60b637.jpeg",
+  "type": "dragon",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/e57c3367-cfa1-4ee4-ae49-024a6e60b637.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321590/dragon-of-exe-valley"
+  },
+  "rarity": "uncommon",
+  "strength": 1,
+  "abilities": [
+    "flying"
+  ],
+  "special_abilities": "WHEN ATTACKING, DRAGON OF EXE VALLEY'S STRENGTH IS THE NUMBER OF TREASURES IN PLAY ON BOTH SIDES.",
+  "lore": "This is an English Dragon who flies across Exe Valley every night to guard Treasure Hordes at Cadbury Castle and Dolbury Hill.",
+  "all_printings": [
+    "73cc1cab-4cf3-4dfa-a123-e19404816821",
+    "e57c3367-cfa1-4ee4-ae49-024a6e60b637"
+  ]
 }

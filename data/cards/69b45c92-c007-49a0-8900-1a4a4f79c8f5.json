@@ -1,14 +1,23 @@
 {
-    "id": "69b45c92-c007-49a0-8900-1a4a4f79c8f5",
-    "name": "Jormungandr",
-    "set": "kingdom",
-    "number": "5",
-    "image": "https://iconmaster.info/wyverndb/data/images/69b45c92-c007-49a0-8900-1a4a4f79c8f5.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/69b45c92-c007-49a0-8900-1a4a4f79c8f5.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321319/jormungandr"
-    },
-    "rarity": "rare"
+  "id": "69b45c92-c007-49a0-8900-1a4a4f79c8f5",
+  "name": "Jormungandr",
+  "set": "kingdom",
+  "number": "5",
+  "image": "https://iconmaster.info/wyverndb/data/images/69b45c92-c007-49a0-8900-1a4a4f79c8f5.jpeg",
+  "type": "dragon",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/69b45c92-c007-49a0-8900-1a4a4f79c8f5.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321319/jormungandr"
+  },
+  "rarity": "rare",
+  "strength": 7,
+  "abilities": [],
+  "special_abilities": "",
+  "lore": "The Jormungandr is a serpent that wraps himself around the world.",
+  "all_printings": [
+    "4534ad49-18de-4197-9481-f6ca45bf37c9",
+    "69b45c92-c007-49a0-8900-1a4a4f79c8f5",
+    "e7766296-70ef-4336-8f90-b767c55648b8"
+  ]
 }

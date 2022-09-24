@@ -1,14 +1,20 @@
 {
-    "id": "1bb32501-dd4f-46fc-a204-b944247e9353",
-    "name": "Dragon Ashes",
-    "set": "kingdom",
-    "number": "176",
-    "image": "https://iconmaster.info/wyverndb/data/images/1bb32501-dd4f-46fc-a204-b944247e9353.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/1bb32501-dd4f-46fc-a204-b944247e9353.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321490/dragon-ashes"
-    },
-    "rarity": "rare"
+  "id": "1bb32501-dd4f-46fc-a204-b944247e9353",
+  "name": "Dragon Ashes",
+  "set": "kingdom",
+  "number": "176",
+  "image": "https://iconmaster.info/wyverndb/data/images/1bb32501-dd4f-46fc-a204-b944247e9353.jpeg",
+  "type": "treasure",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/1bb32501-dd4f-46fc-a204-b944247e9353.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321490/dragon-ashes"
+  },
+  "rarity": "rare",
+  "special_abilities": "DURING EACH OF YOUR DRAW PHASES YOU MAY PAY ONE GOLD PIECE AND DISCARD THE TOP 3 CARDS FROM YOUR OPPONENT'S TREASURE HORDE DRAW PILE.",
+  "lore": "",
+  "all_printings": [
+    "1bb32501-dd4f-46fc-a204-b944247e9353",
+    "c5ebb45b-a67f-40bc-b321-8539ea4f0cc9"
+  ]
 }

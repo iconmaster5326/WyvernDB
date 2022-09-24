@@ -1,14 +1,19 @@
 {
-    "id": "c18953c9-7cac-40a6-9608-d6d0451cdb4c",
-    "name": "Cracked Cauldron",
-    "set": "chameleon",
-    "number": "84",
-    "image": "https://iconmaster.info/wyverndb/data/images/c18953c9-7cac-40a6-9608-d6d0451cdb4c.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/c18953c9-7cac-40a6-9608-d6d0451cdb4c.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321308/cracked-cauldron"
-    },
-    "rarity": "common"
+  "id": "c18953c9-7cac-40a6-9608-d6d0451cdb4c",
+  "name": "Cracked Cauldron",
+  "set": "chameleon",
+  "number": "84",
+  "image": "https://iconmaster.info/wyverndb/data/images/c18953c9-7cac-40a6-9608-d6d0451cdb4c.jpeg",
+  "type": "treasure",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/c18953c9-7cac-40a6-9608-d6d0451cdb4c.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321308/cracked-cauldron"
+  },
+  "rarity": "common",
+  "special_abilities": "ACTION: TURN ONE DRAGON IN THIS ROW FACE UP (PAYING FOR IT, IF REQUIRED).  THIS ACTION MAY BE USED ONCE ON EACH OF YOUR TURNS.",
+  "lore": "",
+  "all_printings": [
+    "c18953c9-7cac-40a6-9608-d6d0451cdb4c"
+  ]
 }

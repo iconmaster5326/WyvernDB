@@ -1,14 +1,21 @@
 {
-    "id": "5c5c8785-77e2-47e3-879f-d697fa80a312",
-    "name": "Pan",
-    "set": "phoenix",
-    "number": "6",
-    "image": "https://iconmaster.info/wyverndb/data/images/5c5c8785-77e2-47e3-879f-d697fa80a312.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/5c5c8785-77e2-47e3-879f-d697fa80a312.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321140/pan"
-    },
-    "rarity": "uncommon"
+  "id": "5c5c8785-77e2-47e3-879f-d697fa80a312",
+  "name": "Pan",
+  "set": "phoenix",
+  "number": "6",
+  "image": "https://iconmaster.info/wyverndb/data/images/5c5c8785-77e2-47e3-879f-d697fa80a312.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/5c5c8785-77e2-47e3-879f-d697fa80a312.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321140/pan"
+  },
+  "rarity": "uncommon",
+  "subtype": "action",
+  "special_abilities": "OPPONENT MUST SHOW YOU HIS HAND AND LOSE ONE GOLD FOR EACH DRAGON SLAYER ACTION CARD IN HIS HAND THAT HE DOESN'T DISCARD.",
+  "lore": "Pan fills men with fears.",
+  "all_printings": [
+    "5c5c8785-77e2-47e3-879f-d697fa80a312",
+    "efc8cae3-a851-46c6-9c50-99adb9c2abd8"
+  ]
 }

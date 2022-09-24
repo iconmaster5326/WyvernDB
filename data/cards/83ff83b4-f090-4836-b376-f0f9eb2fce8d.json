@@ -1,14 +1,26 @@
 {
-    "id": "83ff83b4-f090-4836-b376-f0f9eb2fce8d",
-    "name": "Pan Lung",
-    "set": "limited",
-    "number": "105",
-    "image": "https://iconmaster.info/wyverndb/data/images/83ff83b4-f090-4836-b376-f0f9eb2fce8d.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/83ff83b4-f090-4836-b376-f0f9eb2fce8d.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32686/pan-lung"
-    },
-    "rarity": "uncommon"
+  "id": "83ff83b4-f090-4836-b376-f0f9eb2fce8d",
+  "name": "Pan Lung",
+  "set": "limited",
+  "number": "105",
+  "image": "https://iconmaster.info/wyverndb/data/images/83ff83b4-f090-4836-b376-f0f9eb2fce8d.jpeg",
+  "type": "dragon",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/83ff83b4-f090-4836-b376-f0f9eb2fce8d.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32686/pan-lung"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "FLYING DRAGONS LOSE ONE STRENGTH AFTER ANY BATTLE WITH PAN LUNG.",
+  "lore": "Pan Lung is a cloud Dragon that can cause storms and create fiery water.",
+  "all_printings": [
+    "83ff83b4-f090-4836-b376-f0f9eb2fce8d",
+    "9eee9757-71dd-47a2-acb1-491a6f41bba7",
+    "c73de9c1-21a1-4ec6-9413-62b5d453a4f8"
+  ],
+  "strength": 0,
+  "abilities": [
+    "flying",
+    "scout"
+  ]
 }

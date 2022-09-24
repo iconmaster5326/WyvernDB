@@ -1,14 +1,23 @@
 {
-    "id": "c9c1826a-0607-48a0-8f06-76c7dce4fc2b",
-    "name": "Lindwurm",
-    "set": "limited",
-    "number": "3",
-    "image": "https://iconmaster.info/wyverndb/data/images/c9c1826a-0607-48a0-8f06-76c7dce4fc2b.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/c9c1826a-0607-48a0-8f06-76c7dce4fc2b.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32584/lindwurm"
-    },
-    "rarity": "uncommon"
+  "id": "c9c1826a-0607-48a0-8f06-76c7dce4fc2b",
+  "name": "Lindwurm",
+  "set": "limited",
+  "number": "3",
+  "image": "https://iconmaster.info/wyverndb/data/images/c9c1826a-0607-48a0-8f06-76c7dce4fc2b.jpeg",
+  "type": "dragon",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/c9c1826a-0607-48a0-8f06-76c7dce4fc2b.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32584/lindwurm"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "LOSES ONE BATTLE WITHOUT DYING.",
+  "lore": "The Lindwurm has seven skins making it hard to kill.",
+  "all_printings": [
+    "3bc66391-c0ec-4184-ad9b-e762d7d85efe",
+    "522b037d-eea5-46fc-97d1-20919ff37dc4",
+    "c9c1826a-0607-48a0-8f06-76c7dce4fc2b"
+  ],
+  "strength": 0,
+  "abilities": []
 }

@@ -1,14 +1,21 @@
 {
-    "id": "50d7f512-4c84-4d03-9206-367e36f2d2c4",
-    "name": "Magic Potion",
-    "set": "kingdom",
-    "number": "114",
-    "image": "https://iconmaster.info/wyverndb/data/images/50d7f512-4c84-4d03-9206-367e36f2d2c4.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/50d7f512-4c84-4d03-9206-367e36f2d2c4.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321428/magic-potion"
-    },
-    "rarity": "common"
+  "id": "50d7f512-4c84-4d03-9206-367e36f2d2c4",
+  "name": "Magic Potion",
+  "set": "kingdom",
+  "number": "114",
+  "image": "https://iconmaster.info/wyverndb/data/images/50d7f512-4c84-4d03-9206-367e36f2d2c4.jpeg",
+  "type": "treasure",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/50d7f512-4c84-4d03-9206-367e36f2d2c4.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321428/magic-potion"
+  },
+  "rarity": "common",
+  "special_abilities": "BATTLE ACTION: ONE DRAGON IN THIS ROW CAN HELP ANY OTHER DRAGON IN THIS ROW IN A BATTLE.",
+  "lore": "",
+  "all_printings": [
+    "21d89863-1077-403b-9b7d-45c2ce86aeee",
+    "50d7f512-4c84-4d03-9206-367e36f2d2c4",
+    "612faed1-37c5-47ec-a6a4-953f9b0ed7d2"
+  ]
 }

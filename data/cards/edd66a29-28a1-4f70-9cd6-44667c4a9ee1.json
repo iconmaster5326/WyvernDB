@@ -1,14 +1,22 @@
 {
-    "id": "edd66a29-28a1-4f70-9cd6-44667c4a9ee1",
-    "name": "Hero",
-    "set": "limited",
-    "number": "68",
-    "image": "https://iconmaster.info/wyverndb/data/images/edd66a29-28a1-4f70-9cd6-44667c4a9ee1.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/edd66a29-28a1-4f70-9cd6-44667c4a9ee1.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32649/hero"
-    },
-    "rarity": "rare"
+  "id": "edd66a29-28a1-4f70-9cd6-44667c4a9ee1",
+  "name": "Hero",
+  "set": "limited",
+  "number": "68",
+  "image": "https://iconmaster.info/wyverndb/data/images/edd66a29-28a1-4f70-9cd6-44667c4a9ee1.jpeg",
+  "type": "action",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/edd66a29-28a1-4f70-9cd6-44667c4a9ee1.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32649/hero"
+  },
+  "rarity": "rare",
+  "special_abilities": "ONE OF YOUR DRAGONS CAN ATTACK TWICE DURING YOUR BATTLE PHASE THIS TURN.",
+  "lore": "",
+  "all_printings": [
+    "1da29aca-4bb2-4450-8232-57f5a4b849f7",
+    "41e31732-3d16-4b30-937d-dbe140fde2e0",
+    "edd66a29-28a1-4f70-9cd6-44667c4a9ee1"
+  ],
+  "subtype": "action"
 }

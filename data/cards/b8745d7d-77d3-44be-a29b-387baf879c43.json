@@ -1,14 +1,20 @@
 {
-    "id": "b8745d7d-77d3-44be-a29b-387baf879c43",
-    "name": "All or Nothing",
-    "set": "chameleon",
-    "number": "30",
-    "image": "https://iconmaster.info/wyverndb/data/images/b8745d7d-77d3-44be-a29b-387baf879c43.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/b8745d7d-77d3-44be-a29b-387baf879c43.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321254/all-or-nothing"
-    },
-    "rarity": "uncommon"
+  "id": "b8745d7d-77d3-44be-a29b-387baf879c43",
+  "name": "All or Nothing",
+  "set": "chameleon",
+  "number": "30",
+  "image": "https://iconmaster.info/wyverndb/data/images/b8745d7d-77d3-44be-a29b-387baf879c43.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/b8745d7d-77d3-44be-a29b-387baf879c43.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321254/all-or-nothing"
+  },
+  "rarity": "uncommon",
+  "subtype": "action",
+  "special_abilities": "ROLL A SIX-SIDED DIE.  ON A RESULT OF 1 THROUGH 5, YOU GAIN GOLD EQUAL TO DOUBLE THE NUMBER ROLLED.  ON A RESULT OF 6, YOU LOSE ALL OF YOUR POSITIONS AND THE GAME.  SCORE THE GAME NORMALLY.",
+  "lore": "",
+  "all_printings": [
+    "b8745d7d-77d3-44be-a29b-387baf879c43"
+  ]
 }

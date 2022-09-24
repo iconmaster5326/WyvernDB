@@ -1,14 +1,24 @@
 {
-    "id": "6eb9764a-881f-4c88-8865-40106f72d58e",
-    "name": "Python",
-    "set": "kingdom",
-    "number": "164",
-    "image": "https://iconmaster.info/wyverndb/data/images/6eb9764a-881f-4c88-8865-40106f72d58e.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/6eb9764a-881f-4c88-8865-40106f72d58e.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321478/python"
-    },
-    "rarity": "uncommon"
+  "id": "6eb9764a-881f-4c88-8865-40106f72d58e",
+  "name": "Python",
+  "set": "kingdom",
+  "number": "164",
+  "image": "https://iconmaster.info/wyverndb/data/images/6eb9764a-881f-4c88-8865-40106f72d58e.jpeg",
+  "type": "dragon",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/6eb9764a-881f-4c88-8865-40106f72d58e.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321478/python"
+  },
+  "rarity": "uncommon",
+  "strength": 2,
+  "abilities": [
+    "subterranean"
+  ],
+  "special_abilities": "",
+  "lore": "",
+  "all_printings": [
+    "6eb9764a-881f-4c88-8865-40106f72d58e",
+    "b4dc17b8-d154-49bc-ae16-25bcec2f428a"
+  ]
 }

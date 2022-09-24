@@ -1,14 +1,19 @@
 {
-    "id": "0523e7af-d707-4063-82c8-6e23e8e73628",
-    "name": "Ring of Power",
-    "set": "chameleon",
-    "number": "79",
-    "image": "https://iconmaster.info/wyverndb/data/images/0523e7af-d707-4063-82c8-6e23e8e73628.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/0523e7af-d707-4063-82c8-6e23e8e73628.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321303/ring-of-power"
-    },
-    "rarity": "uncommon"
+  "id": "0523e7af-d707-4063-82c8-6e23e8e73628",
+  "name": "Ring of Power",
+  "set": "chameleon",
+  "number": "79",
+  "image": "https://iconmaster.info/wyverndb/data/images/0523e7af-d707-4063-82c8-6e23e8e73628.jpeg",
+  "type": "treasure",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/0523e7af-d707-4063-82c8-6e23e8e73628.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321303/ring-of-power"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "ALL OF YOUR DWARVEN ARMY BATTLE ACTIONS GAIN +1 STRENGTH AND CAN'T BE CANCELLED OR COUNTERED.",
+  "lore": "The ring Draupnir, crafted by the Nibelungs, was worn by Odin.",
+  "all_printings": [
+    "0523e7af-d707-4063-82c8-6e23e8e73628"
+  ]
 }

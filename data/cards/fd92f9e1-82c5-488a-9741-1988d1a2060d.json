@@ -1,14 +1,21 @@
 {
-    "id": "fd92f9e1-82c5-488a-9741-1988d1a2060d",
-    "name": "Crevice",
-    "set": "premiere",
-    "number": "38",
-    "image": "https://iconmaster.info/wyverndb/data/images/fd92f9e1-82c5-488a-9741-1988d1a2060d.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/fd92f9e1-82c5-488a-9741-1988d1a2060d.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32858/crevice"
-    },
-    "rarity": "uncommon"
+  "id": "fd92f9e1-82c5-488a-9741-1988d1a2060d",
+  "name": "Crevice",
+  "set": "premiere",
+  "number": "38",
+  "image": "https://iconmaster.info/wyverndb/data/images/fd92f9e1-82c5-488a-9741-1988d1a2060d.jpeg",
+  "type": "terrain",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/fd92f9e1-82c5-488a-9741-1988d1a2060d.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32858/crevice"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "NO BATTLE ACTION CARDS CAN BE PLAYED IN A BATTLE THIS DRAGON IS PART OF.  THE CREVICE DOES NOT AFFECT FLYING DRAGONS.",
+  "lore": "",
+  "all_printings": [
+    "06c44a3a-1252-4711-9b3f-1f4abcd7f1d4",
+    "d5cf7767-457b-4e7d-ae67-8c8e99b1d8bb",
+    "fd92f9e1-82c5-488a-9741-1988d1a2060d"
+  ]
 }

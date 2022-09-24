@@ -1,14 +1,21 @@
 {
-    "id": "87fd0e25-d99e-4cc8-a77b-63c13d45e8b9",
-    "name": "Hercules",
-    "set": "kingdom",
-    "number": "190",
-    "image": "https://iconmaster.info/wyverndb/data/images/87fd0e25-d99e-4cc8-a77b-63c13d45e8b9.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/87fd0e25-d99e-4cc8-a77b-63c13d45e8b9.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321504/hercules"
-    },
-    "rarity": "common"
+  "id": "87fd0e25-d99e-4cc8-a77b-63c13d45e8b9",
+  "name": "Hercules",
+  "set": "kingdom",
+  "number": "190",
+  "image": "https://iconmaster.info/wyverndb/data/images/87fd0e25-d99e-4cc8-a77b-63c13d45e8b9.jpeg",
+  "type": "action",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/87fd0e25-d99e-4cc8-a77b-63c13d45e8b9.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321504/hercules"
+  },
+  "rarity": "common",
+  "subtype": "action",
+  "special_abilities": "PLAY ON A FACE UP DRAGON THAT IS IMMUNE TO DRAGON SLAYERS.  THE DRAGON IS NO LONGER IMMUNE TO DRAGON SLAYERS AS LONG AS HERCULES IS ON THE DRAGON.  DISCARD HERCULES IF DRAGON IS TURNED FACE DOWN.",
+  "lore": "",
+  "all_printings": [
+    "0d4d0b88-a651-4755-b119-e4b8d818105f",
+    "87fd0e25-d99e-4cc8-a77b-63c13d45e8b9"
+  ]
 }

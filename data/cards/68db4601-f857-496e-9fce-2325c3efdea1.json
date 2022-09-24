@@ -1,14 +1,24 @@
 {
-    "id": "68db4601-f857-496e-9fce-2325c3efdea1",
-    "name": "Osiris",
-    "set": "kingdom",
-    "number": "151",
-    "image": "https://iconmaster.info/wyverndb/data/images/68db4601-f857-496e-9fce-2325c3efdea1.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/68db4601-f857-496e-9fce-2325c3efdea1.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321465/osiris"
-    },
-    "rarity": "uncommon"
+  "id": "68db4601-f857-496e-9fce-2325c3efdea1",
+  "name": "Osiris",
+  "set": "kingdom",
+  "number": "151",
+  "image": "https://iconmaster.info/wyverndb/data/images/68db4601-f857-496e-9fce-2325c3efdea1.jpeg",
+  "type": "dragon",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/68db4601-f857-496e-9fce-2325c3efdea1.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321465/osiris"
+  },
+  "rarity": "uncommon",
+  "strength": 4,
+  "abilities": [
+    "subterranean"
+  ],
+  "special_abilities": "",
+  "lore": "Osiris is a Leviathan of the Deep.",
+  "all_printings": [
+    "34f1cb13-65ed-4b15-bd57-0235916372f9",
+    "68db4601-f857-496e-9fce-2325c3efdea1"
+  ]
 }

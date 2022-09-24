@@ -1,14 +1,21 @@
 {
-    "id": "c50853eb-f466-42c0-ac14-f3f18cb1a9d7",
-    "name": "Giant Anteater",
-    "set": "limited",
-    "number": "234",
-    "image": "https://iconmaster.info/wyverndb/data/images/c50853eb-f466-42c0-ac14-f3f18cb1a9d7.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/c50853eb-f466-42c0-ac14-f3f18cb1a9d7.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32815/giant-anteater"
-    },
-    "rarity": "rare"
+  "id": "c50853eb-f466-42c0-ac14-f3f18cb1a9d7",
+  "name": "Giant Anteater",
+  "set": "limited",
+  "number": "234",
+  "image": "https://iconmaster.info/wyverndb/data/images/c50853eb-f466-42c0-ac14-f3f18cb1a9d7.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/c50853eb-f466-42c0-ac14-f3f18cb1a9d7.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32815/giant-anteater"
+  },
+  "rarity": "rare",
+  "special_abilities": "NO GIANT ANTS CAN BE USED IN THIS BATTLE.",
+  "lore": "",
+  "all_printings": [
+    "a00f8a02-6611-45c9-a468-75e1f700d7b8",
+    "c50853eb-f466-42c0-ac14-f3f18cb1a9d7"
+  ],
+  "subtype": "battle_action"
 }

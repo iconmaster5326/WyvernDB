@@ -1,14 +1,22 @@
 {
-    "id": "4d46503f-daa4-4529-8463-eec328b6fa25",
-    "name": "Kane-Kua-Ana",
-    "set": "kingdom",
-    "number": "152",
-    "image": "https://iconmaster.info/wyverndb/data/images/4d46503f-daa4-4529-8463-eec328b6fa25.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/4d46503f-daa4-4529-8463-eec328b6fa25.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321466/kane-kua-ana"
-    },
-    "rarity": "uncommon"
+  "id": "4d46503f-daa4-4529-8463-eec328b6fa25",
+  "name": "Kane-Kua-Ana",
+  "set": "kingdom",
+  "number": "152",
+  "image": "https://iconmaster.info/wyverndb/data/images/4d46503f-daa4-4529-8463-eec328b6fa25.jpeg",
+  "type": "dragon",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/4d46503f-daa4-4529-8463-eec328b6fa25.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321466/kane-kua-ana"
+  },
+  "rarity": "uncommon",
+  "strength": 1,
+  "abilities": [],
+  "special_abilities": "YOU MAY DISCARD KANE-KUA-ANA FROM YOUR BATTLEFIELD INSTEAD OF A DRAGON THAT JUST LOST A BATTLE.  IF KANE-KUA-ANA IS FACE DOWN WHEN THIS HAPPENS THEN PAY THE 2 GOLD COST.",
+  "lore": "Kane-kua-ana is the Hawaiian Dragon that brought the oysters to Ewa Lagoon.",
+  "all_printings": [
+    "0952cb14-f43f-410c-b896-8173c4b8ebc4",
+    "4d46503f-daa4-4529-8463-eec328b6fa25"
+  ]
 }

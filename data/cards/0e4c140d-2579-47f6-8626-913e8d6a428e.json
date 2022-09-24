@@ -1,14 +1,22 @@
 {
-    "id": "0e4c140d-2579-47f6-8626-913e8d6a428e",
-    "name": "Vampire",
-    "set": "kingdom",
-    "number": "137",
-    "image": "https://iconmaster.info/wyverndb/data/images/0e4c140d-2579-47f6-8626-913e8d6a428e.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/0e4c140d-2579-47f6-8626-913e8d6a428e.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321451/vampire"
-    },
-    "rarity": "rare"
+  "id": "0e4c140d-2579-47f6-8626-913e8d6a428e",
+  "name": "Vampire",
+  "set": "kingdom",
+  "number": "137",
+  "image": "https://iconmaster.info/wyverndb/data/images/0e4c140d-2579-47f6-8626-913e8d6a428e.jpeg",
+  "type": "dragon",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/0e4c140d-2579-47f6-8626-913e8d6a428e.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321451/vampire"
+  },
+  "rarity": "rare",
+  "strength": 1,
+  "abilities": [],
+  "special_abilities": "WHEN VAMPIRE IS ATTACKING ONE STRENGTH IS TAKEN AWAY FROM EACH DEFENDING DRAGON AND ADDED TO VAMPIRE.  THESE STRENGTH CHANGES ARE PERMANENT.",
+  "lore": "",
+  "all_printings": [
+    "0e4c140d-2579-47f6-8626-913e8d6a428e",
+    "464591ee-acdd-4339-a157-a92abb3c1afd"
+  ]
 }

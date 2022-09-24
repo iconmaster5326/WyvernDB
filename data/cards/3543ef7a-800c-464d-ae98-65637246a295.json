@@ -1,14 +1,21 @@
 {
-    "id": "3543ef7a-800c-464d-ae98-65637246a295",
-    "name": "Oriental Princess",
-    "set": "limited",
-    "number": "59",
-    "image": "https://iconmaster.info/wyverndb/data/images/3543ef7a-800c-464d-ae98-65637246a295.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/3543ef7a-800c-464d-ae98-65637246a295.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32640/oriental-princess"
-    },
-    "rarity": "rare"
+  "id": "3543ef7a-800c-464d-ae98-65637246a295",
+  "name": "Oriental Princess",
+  "set": "limited",
+  "number": "59",
+  "image": "https://iconmaster.info/wyverndb/data/images/3543ef7a-800c-464d-ae98-65637246a295.jpeg",
+  "type": "treasure",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/3543ef7a-800c-464d-ae98-65637246a295.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32640/oriental-princess"
+  },
+  "rarity": "rare",
+  "special_abilities": "WHOEVER WINS A BATTLE GETS TWO GOLD PIECES UNTIL PRINCESS IS REMOVED FROM PLAY.",
+  "lore": "",
+  "all_printings": [
+    "270b81e7-70fd-4ae4-bdf3-519d5364ba7f",
+    "3543ef7a-800c-464d-ae98-65637246a295",
+    "f243340a-371c-4b18-92e2-32d2f744eb1a"
+  ]
 }

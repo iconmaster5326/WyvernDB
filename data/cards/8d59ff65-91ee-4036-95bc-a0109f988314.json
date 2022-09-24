@@ -1,14 +1,21 @@
 {
-    "id": "8d59ff65-91ee-4036-95bc-a0109f988314",
-    "name": "Lake",
-    "set": "kingdom",
-    "number": "49",
-    "image": "https://iconmaster.info/wyverndb/data/images/8d59ff65-91ee-4036-95bc-a0109f988314.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/8d59ff65-91ee-4036-95bc-a0109f988314.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321363/lake"
-    },
-    "rarity": "common"
+  "id": "8d59ff65-91ee-4036-95bc-a0109f988314",
+  "name": "Lake",
+  "set": "kingdom",
+  "number": "49",
+  "image": "https://iconmaster.info/wyverndb/data/images/8d59ff65-91ee-4036-95bc-a0109f988314.jpeg",
+  "type": "terrain",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/8d59ff65-91ee-4036-95bc-a0109f988314.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321363/lake"
+  },
+  "rarity": "common",
+  "special_abilities": "STRENGTH MODIFIER: -1",
+  "lore": "",
+  "all_printings": [
+    "708d3279-5995-41a5-b03a-7060f16f83e3",
+    "8d59ff65-91ee-4036-95bc-a0109f988314",
+    "d426a428-a069-4bf7-917a-6f616e14f90c"
+  ]
 }

@@ -1,14 +1,24 @@
 {
-    "id": "b6911b02-452f-4c1d-8276-3c42f05058dd",
-    "name": "Behomoth",
-    "set": "kingdom",
-    "number": "170",
-    "image": "https://iconmaster.info/wyverndb/data/images/b6911b02-452f-4c1d-8276-3c42f05058dd.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/b6911b02-452f-4c1d-8276-3c42f05058dd.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321484/behomoth"
-    },
-    "rarity": "rare"
+  "id": "b6911b02-452f-4c1d-8276-3c42f05058dd",
+  "name": "Behomoth",
+  "set": "kingdom",
+  "number": "170",
+  "image": "https://iconmaster.info/wyverndb/data/images/b6911b02-452f-4c1d-8276-3c42f05058dd.jpeg",
+  "type": "dragon",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/b6911b02-452f-4c1d-8276-3c42f05058dd.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321484/behomoth"
+  },
+  "rarity": "rare",
+  "strength": 7,
+  "abilities": [
+    "flying"
+  ],
+  "special_abilities": "",
+  "lore": "Behomoth with fight Leviathan at the end of the world.",
+  "all_printings": [
+    "3c2f689a-a956-41c3-9840-f2bf53d8c474",
+    "b6911b02-452f-4c1d-8276-3c42f05058dd"
+  ]
 }

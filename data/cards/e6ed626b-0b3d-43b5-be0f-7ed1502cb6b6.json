@@ -1,14 +1,20 @@
 {
-    "id": "e6ed626b-0b3d-43b5-be0f-7ed1502cb6b6",
-    "name": "Freya",
-    "set": "chameleon",
-    "number": "36",
-    "image": "https://iconmaster.info/wyverndb/data/images/e6ed626b-0b3d-43b5-be0f-7ed1502cb6b6.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/e6ed626b-0b3d-43b5-be0f-7ed1502cb6b6.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321260/freya"
-    },
-    "rarity": "common"
+  "id": "e6ed626b-0b3d-43b5-be0f-7ed1502cb6b6",
+  "name": "Freya",
+  "set": "chameleon",
+  "number": "36",
+  "image": "https://iconmaster.info/wyverndb/data/images/e6ed626b-0b3d-43b5-be0f-7ed1502cb6b6.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/e6ed626b-0b3d-43b5-be0f-7ed1502cb6b6.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321260/freya"
+  },
+  "rarity": "common",
+  "subtype": "action",
+  "special_abilities": "IMMEDIATELY EXCHANGE ANY DRAGON OR FACE DOWN TERRAIN IN YOUR BATTLEFIELD WITH THE TOP CARD OF YOUR DRAGON LAIR DRAW PILE.",
+  "lore": "",
+  "all_printings": [
+    "e6ed626b-0b3d-43b5-be0f-7ed1502cb6b6"
+  ]
 }

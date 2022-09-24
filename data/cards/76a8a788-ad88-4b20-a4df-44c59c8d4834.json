@@ -1,14 +1,20 @@
 {
-    "id": "76a8a788-ad88-4b20-a4df-44c59c8d4834",
-    "name": "Rustem",
-    "set": "chameleon",
-    "number": "27",
-    "image": "https://iconmaster.info/wyverndb/data/images/76a8a788-ad88-4b20-a4df-44c59c8d4834.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/76a8a788-ad88-4b20-a4df-44c59c8d4834.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321251/rustem"
-    },
-    "rarity": "common"
+  "id": "76a8a788-ad88-4b20-a4df-44c59c8d4834",
+  "name": "Rustem",
+  "set": "chameleon",
+  "number": "27",
+  "image": "https://iconmaster.info/wyverndb/data/images/76a8a788-ad88-4b20-a4df-44c59c8d4834.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/76a8a788-ad88-4b20-a4df-44c59c8d4834.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321251/rustem"
+  },
+  "rarity": "common",
+  "subtype": "slayer_action",
+  "special_abilities": "OPPONENT MUST DISCARD AN INTERCEPT ACTION FROM THEIR HAND.  IF THEY HAVE NO INTERCEPT ACTIONS YOU STILL MUST SKIP YOUR BATTLE PHASE.",
+  "lore": "",
+  "all_printings": [
+    "76a8a788-ad88-4b20-a4df-44c59c8d4834"
+  ]
 }

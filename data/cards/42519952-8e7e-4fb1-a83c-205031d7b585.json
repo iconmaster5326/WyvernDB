@@ -1,14 +1,21 @@
 {
-    "id": "42519952-8e7e-4fb1-a83c-205031d7b585",
-    "name": "All Bets Are Off",
-    "set": "kingdom",
-    "number": "224",
-    "image": "https://iconmaster.info/wyverndb/data/images/42519952-8e7e-4fb1-a83c-205031d7b585.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/42519952-8e7e-4fb1-a83c-205031d7b585.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321538/all-bets-are-off"
-    },
-    "rarity": "rare"
+  "id": "42519952-8e7e-4fb1-a83c-205031d7b585",
+  "name": "All Bets Are Off",
+  "set": "kingdom",
+  "number": "224",
+  "image": "https://iconmaster.info/wyverndb/data/images/42519952-8e7e-4fb1-a83c-205031d7b585.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/42519952-8e7e-4fb1-a83c-205031d7b585.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321538/all-bets-are-off"
+  },
+  "rarity": "rare",
+  "subtype": "battle_action",
+  "special_abilities": "NO GOLD CAN BE GAINED OR LOST AS A RESULT OF THIS BATTLE.  THIS INCLUDES GOLD FROM TREASURES, ACTION CARDS, AND DRAGON ABILITIES.",
+  "lore": "",
+  "all_printings": [
+    "260f8fed-a487-4dc9-b30f-080506f50de0",
+    "42519952-8e7e-4fb1-a83c-205031d7b585"
+  ]
 }

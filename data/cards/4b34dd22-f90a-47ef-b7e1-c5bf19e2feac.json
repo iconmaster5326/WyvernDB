@@ -1,14 +1,21 @@
 {
-    "id": "4b34dd22-f90a-47ef-b7e1-c5bf19e2feac",
-    "name": "Divine Naga",
-    "set": "phoenix",
-    "number": "81",
-    "image": "https://iconmaster.info/wyverndb/data/images/4b34dd22-f90a-47ef-b7e1-c5bf19e2feac.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/4b34dd22-f90a-47ef-b7e1-c5bf19e2feac.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321215/divine-naga"
-    },
-    "rarity": "common"
+  "id": "4b34dd22-f90a-47ef-b7e1-c5bf19e2feac",
+  "name": "Divine Naga",
+  "set": "phoenix",
+  "number": "81",
+  "image": "https://iconmaster.info/wyverndb/data/images/4b34dd22-f90a-47ef-b7e1-c5bf19e2feac.jpeg",
+  "type": "dragon",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/4b34dd22-f90a-47ef-b7e1-c5bf19e2feac.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321215/divine-naga"
+  },
+  "rarity": "common",
+  "strength": 2,
+  "abilities": [],
+  "special_abilities": "FLYING DRAGONS LOSE 2 STRENGTH FOR THE REST OF THE BATTLE IN WHICH DIVINE NAGA PARTICIPATES.",
+  "lore": "Divine Naga is an Indian Dragon that creates clouds and rain.",
+  "all_printings": [
+    "4b34dd22-f90a-47ef-b7e1-c5bf19e2feac"
+  ]
 }

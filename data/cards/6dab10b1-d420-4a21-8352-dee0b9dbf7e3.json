@@ -1,14 +1,19 @@
 {
-    "id": "6dab10b1-d420-4a21-8352-dee0b9dbf7e3",
-    "name": "Gold Vault",
-    "set": "chameleon",
-    "number": "77",
-    "image": "https://iconmaster.info/wyverndb/data/images/6dab10b1-d420-4a21-8352-dee0b9dbf7e3.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/6dab10b1-d420-4a21-8352-dee0b9dbf7e3.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321301/gold-vault"
-    },
-    "rarity": "common"
+  "id": "6dab10b1-d420-4a21-8352-dee0b9dbf7e3",
+  "name": "Gold Vault",
+  "set": "chameleon",
+  "number": "77",
+  "image": "https://iconmaster.info/wyverndb/data/images/6dab10b1-d420-4a21-8352-dee0b9dbf7e3.jpeg",
+  "type": "treasure",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/6dab10b1-d420-4a21-8352-dee0b9dbf7e3.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321301/gold-vault"
+  },
+  "rarity": "common",
+  "special_abilities": "ACTION: TRANSFER ANY NUMBER OF GOLD PIECES BETWEEN YOUR GOLD PILE AND THE GOLD VAULT.  GOLD IN THE VAULT MAY NOT BE SPENT FOR ANY REASON AND MAY NOT BE LOST OR STOLEN.  IF THE VAULT CHANGES OWNERS OR LEAVES PLAY, ALL GOLD IN THE VAULT GOES WITH IT.",
+  "lore": "",
+  "all_printings": [
+    "6dab10b1-d420-4a21-8352-dee0b9dbf7e3"
+  ]
 }

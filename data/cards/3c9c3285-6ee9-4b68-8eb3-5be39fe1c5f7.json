@@ -1,14 +1,23 @@
 {
-    "id": "3c9c3285-6ee9-4b68-8eb3-5be39fe1c5f7",
-    "name": "Dragon of Nunnington",
-    "set": "chameleon",
-    "number": "10",
-    "image": "https://iconmaster.info/wyverndb/data/images/3c9c3285-6ee9-4b68-8eb3-5be39fe1c5f7.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/3c9c3285-6ee9-4b68-8eb3-5be39fe1c5f7.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321234/dragon-of-nunnington"
-    },
-    "rarity": "uncommon"
+  "id": "3c9c3285-6ee9-4b68-8eb3-5be39fe1c5f7",
+  "name": "Dragon of Nunnington",
+  "set": "chameleon",
+  "number": "10",
+  "image": "https://iconmaster.info/wyverndb/data/images/3c9c3285-6ee9-4b68-8eb3-5be39fe1c5f7.jpeg",
+  "type": "dragon",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/3c9c3285-6ee9-4b68-8eb3-5be39fe1c5f7.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321234/dragon-of-nunnington"
+  },
+  "rarity": "uncommon",
+  "strength": 4,
+  "abilities": [
+    "flying"
+  ],
+  "special_abilities": "REACTION: PAY TWO GOLD PIECES TO COUNTER ANY DRAGON SLAYER ACTION AIMED AT DRAGON OF NUNNINGTON OR ANY TARGET ONE CARD AWAY (INCLUDING DIAGONALLY).",
+  "lore": "",
+  "all_printings": [
+    "3c9c3285-6ee9-4b68-8eb3-5be39fe1c5f7"
+  ]
 }

@@ -1,14 +1,21 @@
 {
-    "id": "a5eeddeb-6c17-4355-9fee-f08d56611d4e",
-    "name": "Pit",
-    "set": "premiere",
-    "number": "36",
-    "image": "https://iconmaster.info/wyverndb/data/images/a5eeddeb-6c17-4355-9fee-f08d56611d4e.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/a5eeddeb-6c17-4355-9fee-f08d56611d4e.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32856/pit"
-    },
-    "rarity": "uncommon"
+  "id": "a5eeddeb-6c17-4355-9fee-f08d56611d4e",
+  "name": "Pit",
+  "set": "premiere",
+  "number": "36",
+  "image": "https://iconmaster.info/wyverndb/data/images/a5eeddeb-6c17-4355-9fee-f08d56611d4e.jpeg",
+  "type": "terrain",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/a5eeddeb-6c17-4355-9fee-f08d56611d4e.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32856/pit"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "KILLS DRAGONS OF 3 OR LESS STRENGTH.",
+  "lore": "",
+  "all_printings": [
+    "0edfe3c0-8de2-452f-b8b7-94940a4db2ee",
+    "53242e64-9f74-4efa-bcc0-1007ae5cd5d1",
+    "a5eeddeb-6c17-4355-9fee-f08d56611d4e"
+  ]
 }

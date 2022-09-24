@@ -1,14 +1,22 @@
 {
-    "id": "7588c2f4-0b26-402e-9687-bbfa31705486",
-    "name": "Poison Chalice",
-    "set": "limited",
-    "number": "78",
-    "image": "https://iconmaster.info/wyverndb/data/images/7588c2f4-0b26-402e-9687-bbfa31705486.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/7588c2f4-0b26-402e-9687-bbfa31705486.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32659/poison-chalice"
-    },
-    "rarity": "rare"
+  "id": "7588c2f4-0b26-402e-9687-bbfa31705486",
+  "name": "Poison Chalice",
+  "set": "limited",
+  "number": "78",
+  "image": "https://iconmaster.info/wyverndb/data/images/7588c2f4-0b26-402e-9687-bbfa31705486.jpeg",
+  "type": "action",
+  "gold_cost": 3,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/7588c2f4-0b26-402e-9687-bbfa31705486.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32659/poison-chalice"
+  },
+  "rarity": "rare",
+  "special_abilities": "THE SIDE WITH THE LOWEST STRENGTH WINS THIS BATTLE.",
+  "lore": "",
+  "all_printings": [
+    "43c1ecc0-1cce-44e1-a507-1d934060a0c0",
+    "7588c2f4-0b26-402e-9687-bbfa31705486",
+    "e7f6f3a4-c2f7-42dd-a7b6-65c3fd1c503c"
+  ],
+  "subtype": "battle_action"
 }

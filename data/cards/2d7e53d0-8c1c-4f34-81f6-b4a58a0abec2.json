@@ -1,14 +1,22 @@
 {
-    "id": "2d7e53d0-8c1c-4f34-81f6-b4a58a0abec2",
-    "name": "Sigurd",
-    "set": "premiere",
-    "number": "86",
-    "image": "https://iconmaster.info/wyverndb/data/images/2d7e53d0-8c1c-4f34-81f6-b4a58a0abec2.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/2d7e53d0-8c1c-4f34-81f6-b4a58a0abec2.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32906/sigurd"
-    },
-    "rarity": "common"
+  "id": "2d7e53d0-8c1c-4f34-81f6-b4a58a0abec2",
+  "name": "Sigurd",
+  "set": "premiere",
+  "number": "86",
+  "image": "https://iconmaster.info/wyverndb/data/images/2d7e53d0-8c1c-4f34-81f6-b4a58a0abec2.jpeg",
+  "type": "action",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/2d7e53d0-8c1c-4f34-81f6-b4a58a0abec2.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32906/sigurd"
+  },
+  "rarity": "common",
+  "special_abilities": "SIGURD KILLS ANY DRAGON OF 2 OR LESS STRENGTH.",
+  "lore": "",
+  "all_printings": [
+    "12e4ecf3-cd85-45f9-b07f-1815fb94b72d",
+    "2d7e53d0-8c1c-4f34-81f6-b4a58a0abec2",
+    "2e057512-87b5-4299-9398-5f6161fe6320"
+  ],
+  "subtype": "slayer_action"
 }

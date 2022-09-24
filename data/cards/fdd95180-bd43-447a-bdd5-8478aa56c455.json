@@ -1,14 +1,20 @@
 {
-    "id": "fdd95180-bd43-447a-bdd5-8478aa56c455",
-    "name": "Tower of Babel",
-    "set": "chameleon",
-    "number": "56",
-    "image": "https://iconmaster.info/wyverndb/data/images/fdd95180-bd43-447a-bdd5-8478aa56c455.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/fdd95180-bd43-447a-bdd5-8478aa56c455.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321280/tower-of-babel"
-    },
-    "rarity": "common"
+  "id": "fdd95180-bd43-447a-bdd5-8478aa56c455",
+  "name": "Tower of Babel",
+  "set": "chameleon",
+  "number": "56",
+  "image": "https://iconmaster.info/wyverndb/data/images/fdd95180-bd43-447a-bdd5-8478aa56c455.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/fdd95180-bd43-447a-bdd5-8478aa56c455.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321280/tower-of-babel"
+  },
+  "rarity": "common",
+  "subtype": "battle_action",
+  "special_abilities": "EACH DRAGON HELPING IN THIS BATTLE COUNTS AS A -2 STRENGTH MODIFIER FOR ITS SIDE, INSTEAD OF ADDING ITS STRENGTH TO THE BATTLE.",
+  "lore": "",
+  "all_printings": [
+    "fdd95180-bd43-447a-bdd5-8478aa56c455"
+  ]
 }

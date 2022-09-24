@@ -1,14 +1,22 @@
 {
-    "id": "ea22f310-f46a-4ca4-8d5b-7f51940660c1",
-    "name": "Crystal Ball",
-    "set": "premiere",
-    "number": "130",
-    "image": "https://iconmaster.info/wyverndb/data/images/ea22f310-f46a-4ca4-8d5b-7f51940660c1.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/ea22f310-f46a-4ca4-8d5b-7f51940660c1.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32950/crystal-ball"
-    },
-    "rarity": "common"
+  "id": "ea22f310-f46a-4ca4-8d5b-7f51940660c1",
+  "name": "Crystal Ball",
+  "set": "premiere",
+  "number": "130",
+  "image": "https://iconmaster.info/wyverndb/data/images/ea22f310-f46a-4ca4-8d5b-7f51940660c1.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/ea22f310-f46a-4ca4-8d5b-7f51940660c1.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32950/crystal-ball"
+  },
+  "rarity": "common",
+  "special_abilities": "YOU MAY LOOK AT THE NEXT 5 CARDS IN ANY PLAYER'S TREASURE HORDE DRAW PILE.  YOU MAY THEN RESHUFFLE THE DRAW PILE OR REARRANGE THE 5 CARDS IN ANY ORDER YOU WISH.",
+  "lore": "",
+  "all_printings": [
+    "3adf61b2-2017-4152-b7cb-f389fc446ff5",
+    "954490cb-f9f8-40f4-b6c2-bb36be0d9ba6",
+    "ea22f310-f46a-4ca4-8d5b-7f51940660c1"
+  ],
+  "subtype": "action"
 }

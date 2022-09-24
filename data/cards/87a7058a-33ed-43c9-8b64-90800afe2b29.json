@@ -1,14 +1,21 @@
 {
-    "id": "87a7058a-33ed-43c9-8b64-90800afe2b29",
-    "name": "City",
-    "set": "kingdom",
-    "number": "199",
-    "image": "https://iconmaster.info/wyverndb/data/images/87a7058a-33ed-43c9-8b64-90800afe2b29.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/87a7058a-33ed-43c9-8b64-90800afe2b29.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321513/city"
-    },
-    "rarity": "common"
+  "id": "87a7058a-33ed-43c9-8b64-90800afe2b29",
+  "name": "City",
+  "set": "kingdom",
+  "number": "199",
+  "image": "https://iconmaster.info/wyverndb/data/images/87a7058a-33ed-43c9-8b64-90800afe2b29.jpeg",
+  "type": "action",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/87a7058a-33ed-43c9-8b64-90800afe2b29.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321513/city"
+  },
+  "rarity": "common",
+  "subtype": "action",
+  "special_abilities": "A DRAGON OF YOUR CHOICE CAN BE TURNED FACE DOWN.",
+  "lore": "",
+  "all_printings": [
+    "87a7058a-33ed-43c9-8b64-90800afe2b29",
+    "bc16fc96-57d2-486d-8cdd-c6c64a80e220"
+  ]
 }

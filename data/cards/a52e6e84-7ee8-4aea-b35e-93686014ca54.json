@@ -1,14 +1,20 @@
 {
-    "id": "a52e6e84-7ee8-4aea-b35e-93686014ca54",
-    "name": "Dracontias",
-    "set": "limited",
-    "number": "177",
-    "image": "https://iconmaster.info/wyverndb/data/images/a52e6e84-7ee8-4aea-b35e-93686014ca54.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/a52e6e84-7ee8-4aea-b35e-93686014ca54.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32758/dracontias"
-    },
-    "rarity": "rare"
+  "id": "a52e6e84-7ee8-4aea-b35e-93686014ca54",
+  "name": "Dracontias",
+  "set": "limited",
+  "number": "177",
+  "image": "https://iconmaster.info/wyverndb/data/images/a52e6e84-7ee8-4aea-b35e-93686014ca54.jpeg",
+  "type": "treasure",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/a52e6e84-7ee8-4aea-b35e-93686014ca54.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32758/dracontias"
+  },
+  "rarity": "rare",
+  "special_abilities": "DRAGONS IN THIS ROW COST ONE LESS GOLD WHEN TURNED FACE UP.",
+  "lore": "Dracontias is a gem found in the head of a Dragon.  It must be removed while the Dragon is living to be valuable.",
+  "all_printings": [
+    "487b7638-7a5e-4902-a92a-5302a0c77437",
+    "a52e6e84-7ee8-4aea-b35e-93686014ca54"
+  ]
 }

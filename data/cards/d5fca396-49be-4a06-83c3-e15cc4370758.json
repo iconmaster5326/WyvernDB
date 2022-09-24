@@ -1,14 +1,21 @@
 {
-    "id": "d5fca396-49be-4a06-83c3-e15cc4370758",
-    "name": "Subterranean River",
-    "set": "kingdom",
-    "number": "207",
-    "image": "https://iconmaster.info/wyverndb/data/images/d5fca396-49be-4a06-83c3-e15cc4370758.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/d5fca396-49be-4a06-83c3-e15cc4370758.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321521/subterranean-river"
-    },
-    "rarity": "common"
+  "id": "d5fca396-49be-4a06-83c3-e15cc4370758",
+  "name": "Subterranean River",
+  "set": "kingdom",
+  "number": "207",
+  "image": "https://iconmaster.info/wyverndb/data/images/d5fca396-49be-4a06-83c3-e15cc4370758.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/d5fca396-49be-4a06-83c3-e15cc4370758.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321521/subterranean-river"
+  },
+  "rarity": "common",
+  "subtype": "action",
+  "special_abilities": "THIS DRAGON IS NOW A SUBTERRANEAN DRAGON AND CAN ATTACK ANY CARD AS LONG AS THE SUBTERRANEAN RIVER IS ON HIM.  SUBTERRANEAN RIVER IS DISCARDED IF DRAGON IS TURNED FACE DOWN.",
+  "lore": "",
+  "all_printings": [
+    "d5fca396-49be-4a06-83c3-e15cc4370758",
+    "f626ecb6-5343-4d59-8f7c-da6414eb9e5f"
+  ]
 }

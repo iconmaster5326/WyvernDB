@@ -1,14 +1,19 @@
 {
-    "id": "0278dd4b-ec62-4972-a4ec-40f30bb7fca0",
-    "name": "Bifrost",
-    "set": "phoenix",
-    "number": "22",
-    "image": "https://iconmaster.info/wyverndb/data/images/0278dd4b-ec62-4972-a4ec-40f30bb7fca0.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/0278dd4b-ec62-4972-a4ec-40f30bb7fca0.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321156/bifrost"
-    },
-    "rarity": "uncommon"
+  "id": "0278dd4b-ec62-4972-a4ec-40f30bb7fca0",
+  "name": "Bifrost",
+  "set": "phoenix",
+  "number": "22",
+  "image": "https://iconmaster.info/wyverndb/data/images/0278dd4b-ec62-4972-a4ec-40f30bb7fca0.jpeg",
+  "type": "treasure",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/0278dd4b-ec62-4972-a4ec-40f30bb7fca0.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321156/bifrost"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "ALL FLYING DRAGONS IN THIS ROW ARE NOW SUPER FLYERS AND CAN ATTACK ANY CARD IN THE BATTLEFIELD.",
+  "lore": "The Bifrost is the Rainbow Bridge from Norse mythology that spans the air from Earth to Asgard, the home of the Gods.",
+  "all_printings": [
+    "0278dd4b-ec62-4972-a4ec-40f30bb7fca0"
+  ]
 }

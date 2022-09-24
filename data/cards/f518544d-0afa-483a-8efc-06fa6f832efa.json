@@ -1,14 +1,22 @@
 {
-    "id": "f518544d-0afa-483a-8efc-06fa6f832efa",
-    "name": "Firebreathing",
-    "set": "kingdom",
-    "number": "61",
-    "image": "https://iconmaster.info/wyverndb/data/images/f518544d-0afa-483a-8efc-06fa6f832efa.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/f518544d-0afa-483a-8efc-06fa6f832efa.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321375/firebreathing"
-    },
-    "rarity": "common"
+  "id": "f518544d-0afa-483a-8efc-06fa6f832efa",
+  "name": "Firebreathing",
+  "set": "kingdom",
+  "number": "61",
+  "image": "https://iconmaster.info/wyverndb/data/images/f518544d-0afa-483a-8efc-06fa6f832efa.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/f518544d-0afa-483a-8efc-06fa6f832efa.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321375/firebreathing"
+  },
+  "rarity": "common",
+  "subtype": "battle_action",
+  "special_abilities": "STRENGTH MODIFIER: +1",
+  "lore": "",
+  "all_printings": [
+    "19d0d51f-d414-4a46-878a-7d668578b4d5",
+    "85a65273-9a2d-41c1-8654-deb5ae49604b",
+    "f518544d-0afa-483a-8efc-06fa6f832efa"
+  ]
 }

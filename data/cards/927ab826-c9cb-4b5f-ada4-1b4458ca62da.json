@@ -1,14 +1,21 @@
 {
-    "id": "927ab826-c9cb-4b5f-ada4-1b4458ca62da",
-    "name": "Martha of Bethany",
-    "set": "limited",
-    "number": "185",
-    "image": "https://iconmaster.info/wyverndb/data/images/927ab826-c9cb-4b5f-ada4-1b4458ca62da.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/927ab826-c9cb-4b5f-ada4-1b4458ca62da.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32766/martha-of-bethany"
-    },
-    "rarity": "common"
+  "id": "927ab826-c9cb-4b5f-ada4-1b4458ca62da",
+  "name": "Martha of Bethany",
+  "set": "limited",
+  "number": "185",
+  "image": "https://iconmaster.info/wyverndb/data/images/927ab826-c9cb-4b5f-ada4-1b4458ca62da.jpeg",
+  "type": "action",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/927ab826-c9cb-4b5f-ada4-1b4458ca62da.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32766/martha-of-bethany"
+  },
+  "rarity": "common",
+  "special_abilities": "PLAY ON A FACE UP DRAGON.  THIS DRAGON IS IMMUNE TO DRAGON SLAYERS FOR AS LONG AS MARTHA IS ON THE DRAGON.  IF THIS DRAGON TURNS FACE DOWN, MARTHA IS DISCARDED.",
+  "lore": "Dragon Slayerrs have to eat too.",
+  "all_printings": [
+    "34446f4c-c9c6-487e-a862-9c2cca315254",
+    "927ab826-c9cb-4b5f-ada4-1b4458ca62da"
+  ],
+  "subtype": "action"
 }

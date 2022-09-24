@@ -1,14 +1,25 @@
 {
-    "id": "d3da9822-6df4-444c-b38f-6de7a544df72",
-    "name": "Kulkulcan",
-    "set": "premiere",
-    "number": "101",
-    "image": "https://iconmaster.info/wyverndb/data/images/d3da9822-6df4-444c-b38f-6de7a544df72.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/d3da9822-6df4-444c-b38f-6de7a544df72.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32921/kulkulcan"
-    },
-    "rarity": "uncommon"
+  "id": "d3da9822-6df4-444c-b38f-6de7a544df72",
+  "name": "Kulkulcan",
+  "set": "premiere",
+  "number": "101",
+  "image": "https://iconmaster.info/wyverndb/data/images/d3da9822-6df4-444c-b38f-6de7a544df72.jpeg",
+  "type": "dragon",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/d3da9822-6df4-444c-b38f-6de7a544df72.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32921/kulkulcan"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "KULKULCAN CAN ATTACK ANY CARD.",
+  "lore": "",
+  "all_printings": [
+    "b000eaeb-74f0-4d1a-a1a1-5c2dabac9cf8",
+    "d3da9822-6df4-444c-b38f-6de7a544df72",
+    "d3e5b590-7abc-4cd7-aa0c-a550e7252b9d"
+  ],
+  "strength": 3,
+  "abilities": [
+    "super_flying"
+  ]
 }

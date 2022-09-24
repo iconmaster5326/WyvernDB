@@ -1,14 +1,23 @@
 {
-    "id": "53e5c58f-9fc9-4e99-be61-f45ff0b7c9da",
-    "name": "Chi-Wen",
-    "set": "chameleon",
-    "number": "8",
-    "image": "https://iconmaster.info/wyverndb/data/images/53e5c58f-9fc9-4e99-be61-f45ff0b7c9da.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/53e5c58f-9fc9-4e99-be61-f45ff0b7c9da.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321232/chi-wen"
-    },
-    "rarity": "uncommon"
+  "id": "53e5c58f-9fc9-4e99-be61-f45ff0b7c9da",
+  "name": "Chi-Wen",
+  "set": "chameleon",
+  "number": "8",
+  "image": "https://iconmaster.info/wyverndb/data/images/53e5c58f-9fc9-4e99-be61-f45ff0b7c9da.jpeg",
+  "type": "dragon",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/53e5c58f-9fc9-4e99-be61-f45ff0b7c9da.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321232/chi-wen"
+  },
+  "rarity": "uncommon",
+  "strength": 0,
+  "abilities": [
+    "scout"
+  ],
+  "special_abilities": "PLACE A +1 STRENGTH COUNTER ON CHI-WEN EACH TIME CHI-WEN ATTACKS AND ELIMINATES A TERRAIN CARD.",
+  "lore": "",
+  "all_printings": [
+    "53e5c58f-9fc9-4e99-be61-f45ff0b7c9da"
+  ]
 }

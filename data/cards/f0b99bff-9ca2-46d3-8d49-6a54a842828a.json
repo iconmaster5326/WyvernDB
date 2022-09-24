@@ -1,14 +1,21 @@
 {
-    "id": "f0b99bff-9ca2-46d3-8d49-6a54a842828a",
-    "name": "Cricket",
-    "set": "phoenix",
-    "number": "55",
-    "image": "https://iconmaster.info/wyverndb/data/images/f0b99bff-9ca2-46d3-8d49-6a54a842828a.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/f0b99bff-9ca2-46d3-8d49-6a54a842828a.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321189/cricket"
-    },
-    "rarity": "common"
+  "id": "f0b99bff-9ca2-46d3-8d49-6a54a842828a",
+  "name": "Cricket",
+  "set": "phoenix",
+  "number": "55",
+  "image": "https://iconmaster.info/wyverndb/data/images/f0b99bff-9ca2-46d3-8d49-6a54a842828a.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/f0b99bff-9ca2-46d3-8d49-6a54a842828a.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321189/cricket"
+  },
+  "rarity": "common",
+  "subtype": "battle_action",
+  "special_abilities": "STRENGTH MODIFIER: +3 CAN ONLY BE PLAYED ON A DRAGON WITH A BASE STRENGTH OF 2 OR LESS.",
+  "lore": "",
+  "all_printings": [
+    "f0b99bff-9ca2-46d3-8d49-6a54a842828a",
+    "f71ccf70-bbd8-4871-a8fa-f44133b8fc17"
+  ]
 }

@@ -1,14 +1,21 @@
 {
-    "id": "5efb55b7-9dea-4980-828a-3eeea8ff4140",
-    "name": "Magic Wand",
-    "set": "kingdom",
-    "number": "115",
-    "image": "https://iconmaster.info/wyverndb/data/images/5efb55b7-9dea-4980-828a-3eeea8ff4140.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/5efb55b7-9dea-4980-828a-3eeea8ff4140.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321429/magic-wand"
-    },
-    "rarity": "common"
+  "id": "5efb55b7-9dea-4980-828a-3eeea8ff4140",
+  "name": "Magic Wand",
+  "set": "kingdom",
+  "number": "115",
+  "image": "https://iconmaster.info/wyverndb/data/images/5efb55b7-9dea-4980-828a-3eeea8ff4140.jpeg",
+  "type": "treasure",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/5efb55b7-9dea-4980-828a-3eeea8ff4140.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321429/magic-wand"
+  },
+  "rarity": "common",
+  "special_abilities": "ACTION: ANY DRAGON IN THIS ROW CAN BECOME A FLYER OR A NON-FLYER FOR THE REST OF THE TURN.",
+  "lore": "",
+  "all_printings": [
+    "29ce57dc-8fc4-4d1e-bad3-91253a20fc4b",
+    "5981a501-4935-482c-81d6-a00cb25ff0ad",
+    "5efb55b7-9dea-4980-828a-3eeea8ff4140"
+  ]
 }

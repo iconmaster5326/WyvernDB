@@ -1,14 +1,21 @@
 {
-    "id": "bac15509-fa47-4d58-a7c5-d38b69e0a926",
-    "name": "Fountain of Youth",
-    "set": "premiere",
-    "number": "112",
-    "image": "https://iconmaster.info/wyverndb/data/images/bac15509-fa47-4d58-a7c5-d38b69e0a926.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/bac15509-fa47-4d58-a7c5-d38b69e0a926.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32932/fountain-of-youth"
-    },
-    "rarity": "common"
+  "id": "bac15509-fa47-4d58-a7c5-d38b69e0a926",
+  "name": "Fountain of Youth",
+  "set": "premiere",
+  "number": "112",
+  "image": "https://iconmaster.info/wyverndb/data/images/bac15509-fa47-4d58-a7c5-d38b69e0a926.jpeg",
+  "type": "treasure",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/bac15509-fa47-4d58-a7c5-d38b69e0a926.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32932/fountain-of-youth"
+  },
+  "rarity": "common",
+  "special_abilities": "BATTLE ACTION: ONE DRAGON IN THIS ROW CAN SURVIVE A LOST BATTLE.  AS SOON AS  THIS HAPPENS YOU DISCARD THE FOUNTAIN OF YOUTH.",
+  "lore": "",
+  "all_printings": [
+    "7db9e464-866b-4750-b5b0-61f3668b73f2",
+    "bac15509-fa47-4d58-a7c5-d38b69e0a926",
+    "c0380af6-7408-4ac7-9ef0-e7a53c7f7a68"
+  ]
 }

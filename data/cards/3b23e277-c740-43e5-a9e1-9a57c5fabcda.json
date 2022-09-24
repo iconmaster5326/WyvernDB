@@ -1,14 +1,23 @@
 {
-    "id": "3b23e277-c740-43e5-a9e1-9a57c5fabcda",
-    "name": "Mokelembembe",
-    "set": "premiere",
-    "number": "96",
-    "image": "https://iconmaster.info/wyverndb/data/images/3b23e277-c740-43e5-a9e1-9a57c5fabcda.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/3b23e277-c740-43e5-a9e1-9a57c5fabcda.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32916/mokelembembe"
-    },
-    "rarity": "uncommon"
+  "id": "3b23e277-c740-43e5-a9e1-9a57c5fabcda",
+  "name": "Mokelembembe",
+  "set": "premiere",
+  "number": "96",
+  "image": "https://iconmaster.info/wyverndb/data/images/3b23e277-c740-43e5-a9e1-9a57c5fabcda.jpeg",
+  "type": "dragon",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/3b23e277-c740-43e5-a9e1-9a57c5fabcda.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32916/mokelembembe"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "IF MOKELEMBEMBE LOSES A BATTLE YOU DRAW A CARD FROM YOUR TREASURE HORDE DRAW PILE.",
+  "lore": "Mokelembembe is a vegetarian dragon that lives in a river cave.",
+  "all_printings": [
+    "0ac09b28-8513-4940-a57b-a539c57c5fab",
+    "3b23e277-c740-43e5-a9e1-9a57c5fabcda",
+    "3b8759d3-648d-4c7b-8040-4549f422a94f"
+  ],
+  "strength": 2,
+  "abilities": []
 }

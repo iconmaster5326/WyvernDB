@@ -1,14 +1,22 @@
 {
-    "id": "e7751d4c-d3c1-4012-a4c1-7c070e2503de",
-    "name": "Strangle Hold",
-    "set": "kingdom",
-    "number": "79",
-    "image": "https://iconmaster.info/wyverndb/data/images/e7751d4c-d3c1-4012-a4c1-7c070e2503de.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/e7751d4c-d3c1-4012-a4c1-7c070e2503de.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321393/strangle-hold"
-    },
-    "rarity": "rare"
+  "id": "e7751d4c-d3c1-4012-a4c1-7c070e2503de",
+  "name": "Strangle Hold",
+  "set": "kingdom",
+  "number": "79",
+  "image": "https://iconmaster.info/wyverndb/data/images/e7751d4c-d3c1-4012-a4c1-7c070e2503de.jpeg",
+  "type": "action",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/e7751d4c-d3c1-4012-a4c1-7c070e2503de.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321393/strangle-hold"
+  },
+  "rarity": "rare",
+  "subtype": "action",
+  "special_abilities": "PLAYER OF YOUR CHOICE MUST DISCARD 2 CARDS FROM HIS HAND.",
+  "lore": "",
+  "all_printings": [
+    "8a6c90ce-999e-4011-ad72-c64d06ce64b0",
+    "a0d5da62-92a5-42cd-9148-04599b08f60d",
+    "e7751d4c-d3c1-4012-a4c1-7c070e2503de"
+  ]
 }

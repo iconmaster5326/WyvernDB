@@ -1,14 +1,22 @@
 {
-    "id": "b88c63ef-8056-49b9-a9c2-a42b9532719f",
-    "name": "Night",
-    "set": "kingdom",
-    "number": "84",
-    "image": "https://iconmaster.info/wyverndb/data/images/b88c63ef-8056-49b9-a9c2-a42b9532719f.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/b88c63ef-8056-49b9-a9c2-a42b9532719f.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321398/night"
-    },
-    "rarity": "common"
+  "id": "b88c63ef-8056-49b9-a9c2-a42b9532719f",
+  "name": "Night",
+  "set": "kingdom",
+  "number": "84",
+  "image": "https://iconmaster.info/wyverndb/data/images/b88c63ef-8056-49b9-a9c2-a42b9532719f.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/b88c63ef-8056-49b9-a9c2-a42b9532719f.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321398/night"
+  },
+  "rarity": "common",
+  "subtype": "battle_action",
+  "special_abilities": "CANCELS CURRENT BATTLE.  DRAGONS GO BACK TO THEIR POSITIONS FACE UP.",
+  "lore": "",
+  "all_printings": [
+    "2da06e2e-09a6-4e5d-899a-ebe4f6e71b8a",
+    "329ad64b-6b22-4230-bae8-5d47675784d4",
+    "b88c63ef-8056-49b9-a9c2-a42b9532719f"
+  ]
 }

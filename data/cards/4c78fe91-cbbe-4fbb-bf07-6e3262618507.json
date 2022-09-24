@@ -1,14 +1,21 @@
 {
-    "id": "4c78fe91-cbbe-4fbb-bf07-6e3262618507",
-    "name": "Silver Chalice",
-    "set": "limited",
-    "number": "113",
-    "image": "https://iconmaster.info/wyverndb/data/images/4c78fe91-cbbe-4fbb-bf07-6e3262618507.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/4c78fe91-cbbe-4fbb-bf07-6e3262618507.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32694/silver-chalice"
-    },
-    "rarity": "rare"
+  "id": "4c78fe91-cbbe-4fbb-bf07-6e3262618507",
+  "name": "Silver Chalice",
+  "set": "limited",
+  "number": "113",
+  "image": "https://iconmaster.info/wyverndb/data/images/4c78fe91-cbbe-4fbb-bf07-6e3262618507.jpeg",
+  "type": "treasure",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/4c78fe91-cbbe-4fbb-bf07-6e3262618507.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32694/silver-chalice"
+  },
+  "rarity": "rare",
+  "special_abilities": "BATTLE ACTION: A DRAGON IN THIS ROW GAINS +1 STRENGTH WHEN ATTACKING FOR EACH GOLD PIECE PAID.",
+  "lore": "",
+  "all_printings": [
+    "4c78fe91-cbbe-4fbb-bf07-6e3262618507",
+    "b8efe85e-96a6-4e7c-9ca2-b70de883d9c7",
+    "bfa7175a-e17a-4f09-9b43-0d21fd591199"
+  ]
 }

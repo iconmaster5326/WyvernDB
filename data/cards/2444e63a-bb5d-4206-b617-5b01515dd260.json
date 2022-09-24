@@ -1,14 +1,21 @@
 {
-    "id": "2444e63a-bb5d-4206-b617-5b01515dd260",
-    "name": "Magic Shield",
-    "set": "kingdom",
-    "number": "120",
-    "image": "https://iconmaster.info/wyverndb/data/images/2444e63a-bb5d-4206-b617-5b01515dd260.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/2444e63a-bb5d-4206-b617-5b01515dd260.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321434/magic-shield"
-    },
-    "rarity": "rare"
+  "id": "2444e63a-bb5d-4206-b617-5b01515dd260",
+  "name": "Magic Shield",
+  "set": "kingdom",
+  "number": "120",
+  "image": "https://iconmaster.info/wyverndb/data/images/2444e63a-bb5d-4206-b617-5b01515dd260.jpeg",
+  "type": "treasure",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/2444e63a-bb5d-4206-b617-5b01515dd260.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321434/magic-shield"
+  },
+  "rarity": "rare",
+  "special_abilities": "BATTLE ACTION: A DRAGON IN THIS ROW GAINS +1 STRENGTH WHEN DEFENDING FOR EACH GOLD PIECE PAID.",
+  "lore": "",
+  "all_printings": [
+    "2444e63a-bb5d-4206-b617-5b01515dd260",
+    "42cd8904-d864-40d4-abc1-d34446aa6e6a",
+    "565e755c-5744-4ad5-baee-2ca2ca91df87"
+  ]
 }

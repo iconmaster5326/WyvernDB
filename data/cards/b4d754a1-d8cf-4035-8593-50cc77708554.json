@@ -1,14 +1,23 @@
 {
-    "id": "b4d754a1-d8cf-4035-8593-50cc77708554",
-    "name": "Gandarewa",
-    "set": "premiere",
-    "number": "103",
-    "image": "https://iconmaster.info/wyverndb/data/images/b4d754a1-d8cf-4035-8593-50cc77708554.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/b4d754a1-d8cf-4035-8593-50cc77708554.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32923/gandarewa"
-    },
-    "rarity": "uncommon"
+  "id": "b4d754a1-d8cf-4035-8593-50cc77708554",
+  "name": "Gandarewa",
+  "set": "premiere",
+  "number": "103",
+  "image": "https://iconmaster.info/wyverndb/data/images/b4d754a1-d8cf-4035-8593-50cc77708554.jpeg",
+  "type": "dragon",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/b4d754a1-d8cf-4035-8593-50cc77708554.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32923/gandarewa"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "GANDAREWA ATTACKS AT 4 STRENGTH FROM FACE DOWN AND 0 STRENGTH FROM FACE UP.",
+  "lore": "Gandarewa is a sea Dragon that is master of the water and its creatures.",
+  "all_printings": [
+    "a984b0c4-e9d6-4a7d-ab19-94747eb565a5",
+    "b4d754a1-d8cf-4035-8593-50cc77708554",
+    "cb6638e9-2784-438c-95d9-90cd0c249186"
+  ],
+  "strength": 3,
+  "abilities": []
 }

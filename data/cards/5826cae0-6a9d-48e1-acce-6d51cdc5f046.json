@@ -1,14 +1,23 @@
 {
-    "id": "5826cae0-6a9d-48e1-acce-6d51cdc5f046",
-    "name": "Gargouille",
-    "set": "kingdom",
-    "number": "98",
-    "image": "https://iconmaster.info/wyverndb/data/images/5826cae0-6a9d-48e1-acce-6d51cdc5f046.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/5826cae0-6a9d-48e1-acce-6d51cdc5f046.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321412/gargouille"
-    },
-    "rarity": "uncommon"
+  "id": "5826cae0-6a9d-48e1-acce-6d51cdc5f046",
+  "name": "Gargouille",
+  "set": "kingdom",
+  "number": "98",
+  "image": "https://iconmaster.info/wyverndb/data/images/5826cae0-6a9d-48e1-acce-6d51cdc5f046.jpeg",
+  "type": "dragon",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/5826cae0-6a9d-48e1-acce-6d51cdc5f046.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321412/gargouille"
+  },
+  "rarity": "uncommon",
+  "strength": 2,
+  "abilities": [],
+  "special_abilities": "PAY ONE GOLD PIECE TO INCREASE STRENGTH BY TWO FOR THIS BATTLE.  YOU CAN ONLY DO THIS ONCE PER BATTLE.",
+  "lore": "Gargouille is a French Dragon that produces and controls Gargoyles.",
+  "all_printings": [
+    "03d1ab7e-ca29-4e4f-82b4-b9436a3958ce",
+    "4859d58d-1822-419c-9785-3e8f11a98547",
+    "5826cae0-6a9d-48e1-acce-6d51cdc5f046"
+  ]
 }

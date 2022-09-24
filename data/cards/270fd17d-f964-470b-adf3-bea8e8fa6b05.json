@@ -1,14 +1,19 @@
 {
-    "id": "270fd17d-f964-470b-adf3-bea8e8fa6b05",
-    "name": "Spoils of War",
-    "set": "chameleon",
-    "number": "86",
-    "image": "https://iconmaster.info/wyverndb/data/images/270fd17d-f964-470b-adf3-bea8e8fa6b05.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/270fd17d-f964-470b-adf3-bea8e8fa6b05.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321310/spoils-of-war"
-    },
-    "rarity": "common"
+  "id": "270fd17d-f964-470b-adf3-bea8e8fa6b05",
+  "name": "Spoils of War",
+  "set": "chameleon",
+  "number": "86",
+  "image": "https://iconmaster.info/wyverndb/data/images/270fd17d-f964-470b-adf3-bea8e8fa6b05.jpeg",
+  "type": "treasure",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/270fd17d-f964-470b-adf3-bea8e8fa6b05.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321310/spoils-of-war"
+  },
+  "rarity": "common",
+  "special_abilities": "EACH TIME AN OPPONENT LOSES A BATTLE POSITION, DRAW ONE CARD FROM YOUR TREASURE HORDE DRAW PILE.",
+  "lore": "",
+  "all_printings": [
+    "270fd17d-f964-470b-adf3-bea8e8fa6b05"
+  ]
 }

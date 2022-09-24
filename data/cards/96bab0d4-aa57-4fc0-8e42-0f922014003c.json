@@ -1,14 +1,21 @@
 {
-    "id": "96bab0d4-aa57-4fc0-8e42-0f922014003c",
-    "name": "Fu-Tsang-Lung",
-    "set": "chameleon",
-    "number": "1",
-    "image": "https://iconmaster.info/wyverndb/data/images/96bab0d4-aa57-4fc0-8e42-0f922014003c.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/96bab0d4-aa57-4fc0-8e42-0f922014003c.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321225/fu-tsang-lung"
-    },
-    "rarity": "uncommon"
+  "id": "96bab0d4-aa57-4fc0-8e42-0f922014003c",
+  "name": "Fu-Tsang-Lung",
+  "set": "chameleon",
+  "number": "1",
+  "image": "https://iconmaster.info/wyverndb/data/images/96bab0d4-aa57-4fc0-8e42-0f922014003c.jpeg",
+  "type": "dragon",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/96bab0d4-aa57-4fc0-8e42-0f922014003c.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321225/fu-tsang-lung"
+  },
+  "rarity": "uncommon",
+  "strength": 4,
+  "abilities": [],
+  "special_abilities": "IN THE DISCARD PHASE OF EACH PLAYERS' TURN, ALL FACE UP DRAGONS WITH A CURRENT STRENGTH BELOW ZERO ARE KILLED AND NOT REPLACED.",
+  "lore": "Wounded dragons are his favorite prey.",
+  "all_printings": [
+    "96bab0d4-aa57-4fc0-8e42-0f922014003c"
+  ]
 }

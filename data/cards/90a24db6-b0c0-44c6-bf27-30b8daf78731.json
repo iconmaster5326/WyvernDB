@@ -1,14 +1,21 @@
 {
-    "id": "90a24db6-b0c0-44c6-bf27-30b8daf78731",
-    "name": "Cave",
-    "set": "premiere",
-    "number": "41",
-    "image": "https://iconmaster.info/wyverndb/data/images/90a24db6-b0c0-44c6-bf27-30b8daf78731.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/90a24db6-b0c0-44c6-bf27-30b8daf78731.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32861/cave"
-    },
-    "rarity": "common"
+  "id": "90a24db6-b0c0-44c6-bf27-30b8daf78731",
+  "name": "Cave",
+  "set": "premiere",
+  "number": "41",
+  "image": "https://iconmaster.info/wyverndb/data/images/90a24db6-b0c0-44c6-bf27-30b8daf78731.jpeg",
+  "type": "terrain",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/90a24db6-b0c0-44c6-bf27-30b8daf78731.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32861/cave"
+  },
+  "rarity": "common",
+  "special_abilities": "DRAGON CAN ONLY ATTACK FACE DOWN CARDS FOR THE REST OF THE GAME.  IF THERE ARE NO FACE DOWN CARDS TO ATTACK HE ATTACKS A FACE UP CARD HE COULD NORMALLY ATTACK AT -1 STRENGTH.",
+  "lore": "",
+  "all_printings": [
+    "1e481498-7b55-447e-9317-ad8685ffdfb4",
+    "4c8fcd62-d9df-4b16-98e8-9601d78a45fd",
+    "90a24db6-b0c0-44c6-bf27-30b8daf78731"
+  ]
 }

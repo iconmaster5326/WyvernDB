@@ -1,14 +1,24 @@
 {
-    "id": "072a4f24-ed5b-4e6e-b424-325297d45150",
-    "name": "Indra",
-    "set": "kingdom",
-    "number": "154",
-    "image": "https://iconmaster.info/wyverndb/data/images/072a4f24-ed5b-4e6e-b424-325297d45150.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/072a4f24-ed5b-4e6e-b424-325297d45150.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321468/indra"
-    },
-    "rarity": "rare"
+  "id": "072a4f24-ed5b-4e6e-b424-325297d45150",
+  "name": "Indra",
+  "set": "kingdom",
+  "number": "154",
+  "image": "https://iconmaster.info/wyverndb/data/images/072a4f24-ed5b-4e6e-b424-325297d45150.jpeg",
+  "type": "dragon",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/072a4f24-ed5b-4e6e-b424-325297d45150.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321468/indra"
+  },
+  "rarity": "rare",
+  "strength": 2,
+  "abilities": [
+    "flying"
+  ],
+  "special_abilities": "INDRA CAN HELP ANY DRAGON IN A BATTLE.",
+  "lore": "Indra is an Indian Dragon known as the Drought Dragon.",
+  "all_printings": [
+    "072a4f24-ed5b-4e6e-b424-325297d45150",
+    "0815316e-04c7-4f99-ba90-8f53a3f0e588"
+  ]
 }

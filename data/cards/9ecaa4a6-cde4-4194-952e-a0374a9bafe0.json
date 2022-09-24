@@ -1,14 +1,20 @@
 {
-    "id": "9ecaa4a6-cde4-4194-952e-a0374a9bafe0",
-    "name": "Trolls",
-    "set": "phoenix",
-    "number": "49",
-    "image": "https://iconmaster.info/wyverndb/data/images/9ecaa4a6-cde4-4194-952e-a0374a9bafe0.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/9ecaa4a6-cde4-4194-952e-a0374a9bafe0.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321183/trolls"
-    },
-    "rarity": "common"
+  "id": "9ecaa4a6-cde4-4194-952e-a0374a9bafe0",
+  "name": "Trolls",
+  "set": "phoenix",
+  "number": "49",
+  "image": "https://iconmaster.info/wyverndb/data/images/9ecaa4a6-cde4-4194-952e-a0374a9bafe0.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/9ecaa4a6-cde4-4194-952e-a0374a9bafe0.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321183/trolls"
+  },
+  "rarity": "common",
+  "subtype": "hidden_action",
+  "special_abilities": "PLACE FACE DOWN UNDER ONE OF YOUR FACE DOWN SUBTERRANEAN DRAGONS.  THE DRAGON GAINS +1 STRENGTH WHEN ATTACKING AS LONG AS THE TROLLS ARE ON HIM.",
+  "lore": "Trolls burst if sunlight touches them.",
+  "all_printings": [
+    "9ecaa4a6-cde4-4194-952e-a0374a9bafe0"
+  ]
 }

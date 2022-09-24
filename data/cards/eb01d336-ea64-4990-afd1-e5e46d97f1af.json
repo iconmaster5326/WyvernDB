@@ -1,14 +1,21 @@
 {
-    "id": "eb01d336-ea64-4990-afd1-e5e46d97f1af",
-    "name": "Golden Fleece",
-    "set": "limited",
-    "number": "51",
-    "image": "https://iconmaster.info/wyverndb/data/images/eb01d336-ea64-4990-afd1-e5e46d97f1af.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/eb01d336-ea64-4990-afd1-e5e46d97f1af.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32632/golden-fleece"
-    },
-    "rarity": "rare"
+  "id": "eb01d336-ea64-4990-afd1-e5e46d97f1af",
+  "name": "Golden Fleece",
+  "set": "limited",
+  "number": "51",
+  "image": "https://iconmaster.info/wyverndb/data/images/eb01d336-ea64-4990-afd1-e5e46d97f1af.jpeg",
+  "type": "treasure",
+  "gold_cost": 3,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/eb01d336-ea64-4990-afd1-e5e46d97f1af.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32632/golden-fleece"
+  },
+  "rarity": "rare",
+  "special_abilities": "DRAGONS IN THIS ROW GAIN +2 STRENGTH WHEN ATTACKING.",
+  "lore": "",
+  "all_printings": [
+    "79c13ea5-a369-4ff7-8b43-2ed16cedb4fe",
+    "ddfd42fa-ff27-44b4-879e-ecc6874c935a",
+    "eb01d336-ea64-4990-afd1-e5e46d97f1af"
+  ]
 }

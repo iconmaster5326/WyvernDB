@@ -1,14 +1,22 @@
 {
-    "id": "37d2031b-3a08-4863-836c-e139c06a9278",
-    "name": "Magical Sword",
-    "set": "kingdom",
-    "number": "72",
-    "image": "https://iconmaster.info/wyverndb/data/images/37d2031b-3a08-4863-836c-e139c06a9278.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/37d2031b-3a08-4863-836c-e139c06a9278.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321386/magical-sword"
-    },
-    "rarity": "common"
+  "id": "37d2031b-3a08-4863-836c-e139c06a9278",
+  "name": "Magical Sword",
+  "set": "kingdom",
+  "number": "72",
+  "image": "https://iconmaster.info/wyverndb/data/images/37d2031b-3a08-4863-836c-e139c06a9278.jpeg",
+  "type": "action",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/37d2031b-3a08-4863-836c-e139c06a9278.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321386/magical-sword"
+  },
+  "rarity": "common",
+  "subtype": "battle_action",
+  "special_abilities": "STRENGTH MODIFIER: +2",
+  "lore": "",
+  "all_printings": [
+    "2d4ceadf-acf0-4906-9c47-093445b7264b",
+    "37d2031b-3a08-4863-836c-e139c06a9278",
+    "76379d3a-2f54-4854-9e98-b771031c9e65"
+  ]
 }

@@ -1,14 +1,21 @@
 {
-    "id": "ca11a2d6-a3ff-4cb9-bb26-44322ea58f13",
-    "name": "Brush Fire",
-    "set": "limited",
-    "number": "109",
-    "image": "https://iconmaster.info/wyverndb/data/images/ca11a2d6-a3ff-4cb9-bb26-44322ea58f13.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/ca11a2d6-a3ff-4cb9-bb26-44322ea58f13.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32690/brush-fire"
-    },
-    "rarity": "uncommon"
+  "id": "ca11a2d6-a3ff-4cb9-bb26-44322ea58f13",
+  "name": "Brush Fire",
+  "set": "limited",
+  "number": "109",
+  "image": "https://iconmaster.info/wyverndb/data/images/ca11a2d6-a3ff-4cb9-bb26-44322ea58f13.jpeg",
+  "type": "terrain",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/ca11a2d6-a3ff-4cb9-bb26-44322ea58f13.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32690/brush-fire"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "THIS DRAGON CAN'T USE THE EFFECTS OF ANY TREASURE FOR THE REST OF THE GAME.",
+  "lore": "",
+  "all_printings": [
+    "7683e5c8-0292-4400-ba4e-d7e7652324a1",
+    "abc5b1f8-0a2f-49c6-8ac9-b8d71c01ae7c",
+    "ca11a2d6-a3ff-4cb9-bb26-44322ea58f13"
+  ]
 }

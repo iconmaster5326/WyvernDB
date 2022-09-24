@@ -1,14 +1,21 @@
 {
-    "id": "debcf9a6-22e6-4e8b-a431-b7016c22673c",
-    "name": "Marduk",
-    "set": "kingdom",
-    "number": "186",
-    "image": "https://iconmaster.info/wyverndb/data/images/debcf9a6-22e6-4e8b-a431-b7016c22673c.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/debcf9a6-22e6-4e8b-a431-b7016c22673c.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321500/marduk"
-    },
-    "rarity": "common"
+  "id": "debcf9a6-22e6-4e8b-a431-b7016c22673c",
+  "name": "Marduk",
+  "set": "kingdom",
+  "number": "186",
+  "image": "https://iconmaster.info/wyverndb/data/images/debcf9a6-22e6-4e8b-a431-b7016c22673c.jpeg",
+  "type": "action",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/debcf9a6-22e6-4e8b-a431-b7016c22673c.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321500/marduk"
+  },
+  "rarity": "common",
+  "subtype": "action",
+  "special_abilities": "NO BATTLE ACTION CARDS CAN BE PLAYED THIS TURN.",
+  "lore": "Marduk is the son of Tiamat.",
+  "all_printings": [
+    "08bdc6e5-e203-4c0b-b1d5-0cf46609b115",
+    "debcf9a6-22e6-4e8b-a431-b7016c22673c"
+  ]
 }

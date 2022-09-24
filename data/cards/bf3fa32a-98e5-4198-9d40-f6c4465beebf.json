@@ -1,14 +1,22 @@
 {
-    "id": "bf3fa32a-98e5-4198-9d40-f6c4465beebf",
-    "name": "Whirlpool",
-    "set": "kingdom",
-    "number": "74",
-    "image": "https://iconmaster.info/wyverndb/data/images/bf3fa32a-98e5-4198-9d40-f6c4465beebf.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/bf3fa32a-98e5-4198-9d40-f6c4465beebf.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321388/whirlpool"
-    },
-    "rarity": "rare"
+  "id": "bf3fa32a-98e5-4198-9d40-f6c4465beebf",
+  "name": "Whirlpool",
+  "set": "kingdom",
+  "number": "74",
+  "image": "https://iconmaster.info/wyverndb/data/images/bf3fa32a-98e5-4198-9d40-f6c4465beebf.jpeg",
+  "type": "action",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/bf3fa32a-98e5-4198-9d40-f6c4465beebf.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321388/whirlpool"
+  },
+  "rarity": "rare",
+  "subtype": "action",
+  "special_abilities": "DRAW 2 CARDS FROM YOUR TREASURE HORDE DRAW PILE.",
+  "lore": "",
+  "all_printings": [
+    "65bd954d-b5f8-4113-9e7c-f67c0aeb31d4",
+    "7d15bb05-a0cb-47f0-9235-889cbe413170",
+    "bf3fa32a-98e5-4198-9d40-f6c4465beebf"
+  ]
 }

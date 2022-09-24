@@ -1,14 +1,21 @@
 {
-    "id": "ea931004-cebb-47f7-91e0-af263428a45f",
-    "name": "Underwater Cave",
-    "set": "premiere",
-    "number": "110",
-    "image": "https://iconmaster.info/wyverndb/data/images/ea931004-cebb-47f7-91e0-af263428a45f.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/ea931004-cebb-47f7-91e0-af263428a45f.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32930/underwater-cave"
-    },
-    "rarity": "uncommon"
+  "id": "ea931004-cebb-47f7-91e0-af263428a45f",
+  "name": "Underwater Cave",
+  "set": "premiere",
+  "number": "110",
+  "image": "https://iconmaster.info/wyverndb/data/images/ea931004-cebb-47f7-91e0-af263428a45f.jpeg",
+  "type": "terrain",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/ea931004-cebb-47f7-91e0-af263428a45f.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32930/underwater-cave"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "DRAGON CAN ONLY ATTACK FACE UP CARDS FOR THE REST OF THE GAME.  IF THERE ARE NO FACE UP CARDS HE THEN ATTACKS A FACE DOWN CARD AT -1 STRENGTH.",
+  "lore": "",
+  "all_printings": [
+    "45dbfb0d-6b4c-4164-a5e7-8bff14b872c1",
+    "c267ea64-9a4e-4f63-bc6e-2e88a1dd784c",
+    "ea931004-cebb-47f7-91e0-af263428a45f"
+  ]
 }

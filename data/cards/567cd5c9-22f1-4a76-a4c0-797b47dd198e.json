@@ -1,14 +1,22 @@
 {
-    "id": "567cd5c9-22f1-4a76-a4c0-797b47dd198e",
-    "name": "Twister",
-    "set": "limited",
-    "number": "122",
-    "image": "https://iconmaster.info/wyverndb/data/images/567cd5c9-22f1-4a76-a4c0-797b47dd198e.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/567cd5c9-22f1-4a76-a4c0-797b47dd198e.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32703/twister"
-    },
-    "rarity": "common"
+  "id": "567cd5c9-22f1-4a76-a4c0-797b47dd198e",
+  "name": "Twister",
+  "set": "limited",
+  "number": "122",
+  "image": "https://iconmaster.info/wyverndb/data/images/567cd5c9-22f1-4a76-a4c0-797b47dd198e.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/567cd5c9-22f1-4a76-a4c0-797b47dd198e.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32703/twister"
+  },
+  "rarity": "common",
+  "special_abilities": "ALL PLAYERS MAY REARRANGE ALL CARDS IN THEIR BATTLEFIELD.",
+  "lore": "",
+  "all_printings": [
+    "22519a7a-646b-4285-a71a-4c55a9fa35d8",
+    "567cd5c9-22f1-4a76-a4c0-797b47dd198e",
+    "8de338af-71ac-4b7b-8fdf-357ab9bd8bb9"
+  ],
+  "subtype": "action"
 }

@@ -1,14 +1,25 @@
 {
-    "id": "d7a5f4a2-a3b4-49bb-be22-5616f8c8ab1f",
-    "name": "Midgard Serpent",
-    "set": "kingdom",
-    "number": "169",
-    "image": "https://iconmaster.info/wyverndb/data/images/d7a5f4a2-a3b4-49bb-be22-5616f8c8ab1f.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/d7a5f4a2-a3b4-49bb-be22-5616f8c8ab1f.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321483/midgard-serpent"
-    },
-    "rarity": "uncommon"
+  "id": "d7a5f4a2-a3b4-49bb-be22-5616f8c8ab1f",
+  "name": "Midgard Serpent",
+  "set": "kingdom",
+  "number": "169",
+  "image": "https://iconmaster.info/wyverndb/data/images/d7a5f4a2-a3b4-49bb-be22-5616f8c8ab1f.jpeg",
+  "type": "dragon",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/d7a5f4a2-a3b4-49bb-be22-5616f8c8ab1f.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321483/midgard-serpent"
+  },
+  "rarity": "uncommon",
+  "strength": 0,
+  "abilities": [
+    "scout",
+    "subterranean"
+  ],
+  "special_abilities": "",
+  "lore": "The Nordic Serpent of Midgard.",
+  "all_printings": [
+    "8671240b-29ea-457b-b6eb-529ae8010473",
+    "d7a5f4a2-a3b4-49bb-be22-5616f8c8ab1f"
+  ]
 }

@@ -1,14 +1,20 @@
 {
-    "id": "be6a8222-e361-4469-9420-d92c15659390",
-    "name": "Windsock Banner",
-    "set": "kingdom",
-    "number": "216",
-    "image": "https://iconmaster.info/wyverndb/data/images/be6a8222-e361-4469-9420-d92c15659390.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/be6a8222-e361-4469-9420-d92c15659390.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321530/windsock-banner"
-    },
-    "rarity": "rare"
+  "id": "be6a8222-e361-4469-9420-d92c15659390",
+  "name": "Windsock Banner",
+  "set": "kingdom",
+  "number": "216",
+  "image": "https://iconmaster.info/wyverndb/data/images/be6a8222-e361-4469-9420-d92c15659390.jpeg",
+  "type": "treasure",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/be6a8222-e361-4469-9420-d92c15659390.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321530/windsock-banner"
+  },
+  "rarity": "rare",
+  "special_abilities": "ALL YOUR ARCHERS GAIN +1 AND CANNOT BE STOPPED BY ANY BATTLE ACTION OR REACTION CARDS.",
+  "lore": "The Windsock Banner is used to help archerrs know which direction the wind is blowing.  It also scares the enemy.",
+  "all_printings": [
+    "4f3040f2-c808-4ce9-822e-63b219981f3c",
+    "be6a8222-e361-4469-9420-d92c15659390"
+  ]
 }

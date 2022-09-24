@@ -1,14 +1,21 @@
 {
-    "id": "e8b9e405-0bbc-43d6-bf84-36afcae58ec7",
-    "name": "Forest",
-    "set": "kingdom",
-    "number": "43",
-    "image": "https://iconmaster.info/wyverndb/data/images/e8b9e405-0bbc-43d6-bf84-36afcae58ec7.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/e8b9e405-0bbc-43d6-bf84-36afcae58ec7.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321357/forest"
-    },
-    "rarity": "common"
+  "id": "e8b9e405-0bbc-43d6-bf84-36afcae58ec7",
+  "name": "Forest",
+  "set": "kingdom",
+  "number": "43",
+  "image": "https://iconmaster.info/wyverndb/data/images/e8b9e405-0bbc-43d6-bf84-36afcae58ec7.jpeg",
+  "type": "terrain",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/e8b9e405-0bbc-43d6-bf84-36afcae58ec7.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321357/forest"
+  },
+  "rarity": "common",
+  "special_abilities": "STRENGTH MODIFIER: -1",
+  "lore": "",
+  "all_printings": [
+    "2c88ee2c-09cb-4ce1-bfb9-c5cf2e6f7c6b",
+    "d56a6aea-df12-4eab-a1a1-473e8a832566",
+    "e8b9e405-0bbc-43d6-bf84-36afcae58ec7"
+  ]
 }

@@ -1,14 +1,21 @@
 {
-    "id": "e7839ad8-072d-429f-8b89-0391e8ff0396",
-    "name": "Heavenly Naga",
-    "set": "phoenix",
-    "number": "80",
-    "image": "https://iconmaster.info/wyverndb/data/images/e7839ad8-072d-429f-8b89-0391e8ff0396.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/e7839ad8-072d-429f-8b89-0391e8ff0396.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321214/heavenly-naga"
-    },
-    "rarity": "common"
+  "id": "e7839ad8-072d-429f-8b89-0391e8ff0396",
+  "name": "Heavenly Naga",
+  "set": "phoenix",
+  "number": "80",
+  "image": "https://iconmaster.info/wyverndb/data/images/e7839ad8-072d-429f-8b89-0391e8ff0396.jpeg",
+  "type": "dragon",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/e7839ad8-072d-429f-8b89-0391e8ff0396.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321214/heavenly-naga"
+  },
+  "rarity": "common",
+  "strength": 4,
+  "abilities": [],
+  "special_abilities": "WHEN HEAVENLY NAGA IS FACE UP, NO TREASURE IN THIS ROW CAN BE REMOVED BY OPPONENT.",
+  "lore": "Heavenly Naga is the Indian Dragon who guards the Heavenly Palace.",
+  "all_printings": [
+    "e7839ad8-072d-429f-8b89-0391e8ff0396"
+  ]
 }

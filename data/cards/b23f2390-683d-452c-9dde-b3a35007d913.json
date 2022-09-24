@@ -1,14 +1,21 @@
 {
-    "id": "b23f2390-683d-452c-9dde-b3a35007d913",
-    "name": "Swamp",
-    "set": "limited",
-    "number": "34",
-    "image": "https://iconmaster.info/wyverndb/data/images/b23f2390-683d-452c-9dde-b3a35007d913.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/b23f2390-683d-452c-9dde-b3a35007d913.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32615/swamp"
-    },
-    "rarity": "common"
+  "id": "b23f2390-683d-452c-9dde-b3a35007d913",
+  "name": "Swamp",
+  "set": "limited",
+  "number": "34",
+  "image": "https://iconmaster.info/wyverndb/data/images/b23f2390-683d-452c-9dde-b3a35007d913.jpeg",
+  "type": "terrain",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/b23f2390-683d-452c-9dde-b3a35007d913.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32615/swamp"
+  },
+  "rarity": "common",
+  "special_abilities": "STRENGTH MODIFIER: -1",
+  "lore": "",
+  "all_printings": [
+    "5c71f088-cc40-4660-ad2f-a4e60d4c382e",
+    "b23f2390-683d-452c-9dde-b3a35007d913",
+    "c7ffb00a-d8ad-4dc9-887d-3f8894084a65"
+  ]
 }

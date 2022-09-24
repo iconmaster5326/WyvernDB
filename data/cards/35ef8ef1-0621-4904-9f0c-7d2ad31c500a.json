@@ -1,14 +1,22 @@
 {
-    "id": "35ef8ef1-0621-4904-9f0c-7d2ad31c500a",
-    "name": "Laidly Worm",
-    "set": "kingdom",
-    "number": "166",
-    "image": "https://iconmaster.info/wyverndb/data/images/35ef8ef1-0621-4904-9f0c-7d2ad31c500a.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/35ef8ef1-0621-4904-9f0c-7d2ad31c500a.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321480/laidly-worm"
-    },
-    "rarity": "uncommon"
+  "id": "35ef8ef1-0621-4904-9f0c-7d2ad31c500a",
+  "name": "Laidly Worm",
+  "set": "kingdom",
+  "number": "166",
+  "image": "https://iconmaster.info/wyverndb/data/images/35ef8ef1-0621-4904-9f0c-7d2ad31c500a.jpeg",
+  "type": "dragon",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/35ef8ef1-0621-4904-9f0c-7d2ad31c500a.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321480/laidly-worm"
+  },
+  "rarity": "uncommon",
+  "strength": 1,
+  "abilities": [],
+  "special_abilities": "WHEN LAIDLY WORM LOSES A BATTLE THE WINNING PLAYER MUST DISCARD ONE CARD AT RANDOM FROM HIS HAND.",
+  "lore": "The Laidly Worm used to be a beautiful girl who was turned into a Dragon.",
+  "all_printings": [
+    "35ef8ef1-0621-4904-9f0c-7d2ad31c500a",
+    "7bbd7106-b1fe-4015-a698-06f78ec17447"
+  ]
 }

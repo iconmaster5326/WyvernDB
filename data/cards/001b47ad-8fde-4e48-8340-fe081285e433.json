@@ -1,14 +1,20 @@
 {
-    "id": "001b47ad-8fde-4e48-8340-fe081285e433",
-    "name": "Trap",
-    "set": "limited",
-    "number": "203",
-    "image": "https://iconmaster.info/wyverndb/data/images/001b47ad-8fde-4e48-8340-fe081285e433.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/001b47ad-8fde-4e48-8340-fe081285e433.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32784/trap"
-    },
-    "rarity": "uncommon"
+  "id": "001b47ad-8fde-4e48-8340-fe081285e433",
+  "name": "Trap",
+  "set": "limited",
+  "number": "203",
+  "image": "https://iconmaster.info/wyverndb/data/images/001b47ad-8fde-4e48-8340-fe081285e433.jpeg",
+  "type": "terrain",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/001b47ad-8fde-4e48-8340-fe081285e433.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32784/trap"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "THIS DRAGON NOW BELONGS TO YOU.  IT STAYS ON THE TRAP IN YOUR BATTLEFIELD.  PAY TWO GOLD EACH OF YOUR DRAW PHASES TO KEEP DRAGON.  IF TRAP IS REMOVED, OR YOU DON'T PAY, DRAGON GOES BACK TO ORIGINAL OWNER'S BATTLEFIELD AND TRAP IS DISCARDED.",
+  "lore": "",
+  "all_printings": [
+    "001b47ad-8fde-4e48-8340-fe081285e433",
+    "788c917a-4407-468e-86fc-5a21bb7458fc"
+  ]
 }

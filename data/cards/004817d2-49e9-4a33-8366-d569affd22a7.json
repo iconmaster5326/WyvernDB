@@ -1,14 +1,21 @@
 {
-    "id": "004817d2-49e9-4a33-8366-d569affd22a7",
-    "name": "River",
-    "set": "limited",
-    "number": "47",
-    "image": "https://iconmaster.info/wyverndb/data/images/004817d2-49e9-4a33-8366-d569affd22a7.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/004817d2-49e9-4a33-8366-d569affd22a7.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32628/river"
-    },
-    "rarity": "common"
+  "id": "004817d2-49e9-4a33-8366-d569affd22a7",
+  "name": "River",
+  "set": "limited",
+  "number": "47",
+  "image": "https://iconmaster.info/wyverndb/data/images/004817d2-49e9-4a33-8366-d569affd22a7.jpeg",
+  "type": "terrain",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/004817d2-49e9-4a33-8366-d569affd22a7.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32628/river"
+  },
+  "rarity": "common",
+  "special_abilities": "STRENGTH MODIFIER: -1",
+  "lore": "",
+  "all_printings": [
+    "004817d2-49e9-4a33-8366-d569affd22a7",
+    "1795f9f9-4594-432d-8aa1-3006f040b800",
+    "1f5f18c2-c26b-41db-b5e1-48fa8ad36d5d"
+  ]
 }

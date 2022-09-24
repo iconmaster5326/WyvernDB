@@ -1,14 +1,23 @@
 {
-    "id": "632b6389-9cbe-4dc5-b8ef-5b78d8218b5d",
-    "name": "Hydra",
-    "set": "limited",
-    "number": "93",
-    "image": "https://iconmaster.info/wyverndb/data/images/632b6389-9cbe-4dc5-b8ef-5b78d8218b5d.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/632b6389-9cbe-4dc5-b8ef-5b78d8218b5d.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32674/hydra"
-    },
-    "rarity": "uncommon"
+  "id": "632b6389-9cbe-4dc5-b8ef-5b78d8218b5d",
+  "name": "Hydra",
+  "set": "limited",
+  "number": "93",
+  "image": "https://iconmaster.info/wyverndb/data/images/632b6389-9cbe-4dc5-b8ef-5b78d8218b5d.jpeg",
+  "type": "dragon",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/632b6389-9cbe-4dc5-b8ef-5b78d8218b5d.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32674/hydra"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "AFTER EACH BATTLE THE HYDRA LOSES 1 STRENGTH.  YOU MAY PAY ONE GOLD PIECE TO GROW ANOTHER HEAD AND INCREASE THE HYDRA'S STRENGTH BY ONE.  YOU MAY DO THIS ONCE A TURN.",
+  "lore": "",
+  "all_printings": [
+    "06ad3143-fdb5-4026-b233-e515621bbabc",
+    "632b6389-9cbe-4dc5-b8ef-5b78d8218b5d",
+    "e9500d42-f154-4112-ae39-b70d207a7184"
+  ],
+  "strength": 4,
+  "abilities": []
 }

@@ -1,14 +1,20 @@
 {
-    "id": "32676cb0-59fb-4947-8cb5-29f99d6ce4c7",
-    "name": "Horn of the Unicorn",
-    "set": "chameleon",
-    "number": "48",
-    "image": "https://iconmaster.info/wyverndb/data/images/32676cb0-59fb-4947-8cb5-29f99d6ce4c7.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/32676cb0-59fb-4947-8cb5-29f99d6ce4c7.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321272/horn-of-the-unicorn"
-    },
-    "rarity": "common"
+  "id": "32676cb0-59fb-4947-8cb5-29f99d6ce4c7",
+  "name": "Horn of the Unicorn",
+  "set": "chameleon",
+  "number": "48",
+  "image": "https://iconmaster.info/wyverndb/data/images/32676cb0-59fb-4947-8cb5-29f99d6ce4c7.jpeg",
+  "type": "action",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/32676cb0-59fb-4947-8cb5-29f99d6ce4c7.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321272/horn-of-the-unicorn"
+  },
+  "rarity": "common",
+  "subtype": "battle_action",
+  "special_abilities": "YOU MAY DISCARD ANY DRAGON IN YOUR BATTLEFIELD INSTEAD OF THE DRAGON THAT LOSES THIS BATTLE.  YOU MAY NOT DISCARD A DRAGON THAT WAS INVOLVED IN THE BATTLE.  DISCARDED DRAGON NEED NOT HAVE BEEN PAID FOR.",
+  "lore": "",
+  "all_printings": [
+    "32676cb0-59fb-4947-8cb5-29f99d6ce4c7"
+  ]
 }

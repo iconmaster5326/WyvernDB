@@ -1,14 +1,20 @@
 {
-    "id": "409d9a3f-361b-458e-8a54-8e4bfc9663f4",
-    "name": "Grave Diggers",
-    "set": "chameleon",
-    "number": "34",
-    "image": "https://iconmaster.info/wyverndb/data/images/409d9a3f-361b-458e-8a54-8e4bfc9663f4.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/409d9a3f-361b-458e-8a54-8e4bfc9663f4.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321258/grave-diggers"
-    },
-    "rarity": "common"
+  "id": "409d9a3f-361b-458e-8a54-8e4bfc9663f4",
+  "name": "Grave Diggers",
+  "set": "chameleon",
+  "number": "34",
+  "image": "https://iconmaster.info/wyverndb/data/images/409d9a3f-361b-458e-8a54-8e4bfc9663f4.jpeg",
+  "type": "action",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/409d9a3f-361b-458e-8a54-8e4bfc9663f4.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321258/grave-diggers"
+  },
+  "rarity": "common",
+  "subtype": "action",
+  "special_abilities": "RETURN ANY DRAGON SLAYER CARD FROM YOUR TREASURE HORDE DISCARD PILE TO YOUR HAND.",
+  "lore": "",
+  "all_printings": [
+    "409d9a3f-361b-458e-8a54-8e4bfc9663f4"
+  ]
 }

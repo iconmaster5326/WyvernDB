@@ -1,14 +1,21 @@
 {
-    "id": "9eff9551-96a7-493e-94c3-2b274d215a7f",
-    "name": "Dragon Egg",
-    "set": "kingdom",
-    "number": "55",
-    "image": "https://iconmaster.info/wyverndb/data/images/9eff9551-96a7-493e-94c3-2b274d215a7f.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/9eff9551-96a7-493e-94c3-2b274d215a7f.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321369/dragon-egg"
-    },
-    "rarity": "rare"
+  "id": "9eff9551-96a7-493e-94c3-2b274d215a7f",
+  "name": "Dragon Egg",
+  "set": "kingdom",
+  "number": "55",
+  "image": "https://iconmaster.info/wyverndb/data/images/9eff9551-96a7-493e-94c3-2b274d215a7f.jpeg",
+  "type": "treasure",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/9eff9551-96a7-493e-94c3-2b274d215a7f.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321369/dragon-egg"
+  },
+  "rarity": "rare",
+  "special_abilities": "ACTION: PAY 3 GOLD PIECES TO HATCH THE DRAGON EGG.  IT BECOMES A TWO STRENGTH DRAGON.  REPLACE A CARD IN YOUR BATTLEFIELD WITH EGG.  EGG STARTS FACE UP.",
+  "lore": "",
+  "all_printings": [
+    "9eff9551-96a7-493e-94c3-2b274d215a7f",
+    "c295b284-cf8a-413c-99d1-d237c39000f7",
+    "eed74239-0ff1-43ba-a7fb-7bce6745a8bd"
+  ]
 }

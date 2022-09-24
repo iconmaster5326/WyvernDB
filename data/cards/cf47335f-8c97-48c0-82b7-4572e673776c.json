@@ -1,14 +1,20 @@
 {
-    "id": "cf47335f-8c97-48c0-82b7-4572e673776c",
-    "name": "Bellerophon",
-    "set": "chameleon",
-    "number": "25",
-    "image": "https://iconmaster.info/wyverndb/data/images/cf47335f-8c97-48c0-82b7-4572e673776c.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/cf47335f-8c97-48c0-82b7-4572e673776c.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321249/bellerophon"
-    },
-    "rarity": "common"
+  "id": "cf47335f-8c97-48c0-82b7-4572e673776c",
+  "name": "Bellerophon",
+  "set": "chameleon",
+  "number": "25",
+  "image": "https://iconmaster.info/wyverndb/data/images/cf47335f-8c97-48c0-82b7-4572e673776c.jpeg",
+  "type": "action",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/cf47335f-8c97-48c0-82b7-4572e673776c.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321249/bellerophon"
+  },
+  "rarity": "common",
+  "subtype": "slayer_action",
+  "special_abilities": "BELLEROPHON KILLS ANY DRAGON WITH THE NATIVE TERRAIN SPECIAL ABILITY, OR ALLOWS YOU TO REMOVE FROM THE GAME UP TO THREE CARDS FROM YOUR OPPONENT'S DISCARD PILES.",
+  "lore": "",
+  "all_printings": [
+    "cf47335f-8c97-48c0-82b7-4572e673776c"
+  ]
 }

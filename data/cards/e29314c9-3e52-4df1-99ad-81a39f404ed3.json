@@ -1,14 +1,23 @@
 {
-    "id": "e29314c9-3e52-4df1-99ad-81a39f404ed3",
-    "name": "O-Gon-Cho",
-    "set": "phoenix",
-    "number": "85",
-    "image": "https://iconmaster.info/wyverndb/data/images/e29314c9-3e52-4df1-99ad-81a39f404ed3.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/e29314c9-3e52-4df1-99ad-81a39f404ed3.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321219/o-gon-cho"
-    },
-    "rarity": "uncommon"
+  "id": "e29314c9-3e52-4df1-99ad-81a39f404ed3",
+  "name": "O-Gon-Cho",
+  "set": "phoenix",
+  "number": "85",
+  "image": "https://iconmaster.info/wyverndb/data/images/e29314c9-3e52-4df1-99ad-81a39f404ed3.jpeg",
+  "type": "dragon",
+  "gold_cost": 3,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/e29314c9-3e52-4df1-99ad-81a39f404ed3.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321219/o-gon-cho"
+  },
+  "rarity": "uncommon",
+  "strength": 0,
+  "abilities": [
+    "flying"
+  ],
+  "special_abilities": "WHEN DEFENDING, O-GON-CHO'S STRENGTH IS THE NUMBER OF CARDS IN OPPONENT'S HAND AT THE START OF THE BATTLE PHASE.",
+  "lore": "O-Gon-Cho is a Japanese Dragon that lies in a deep pond and flies as a golden feathered bird every 50 years.",
+  "all_printings": [
+    "e29314c9-3e52-4df1-99ad-81a39f404ed3"
+  ]
 }

@@ -1,14 +1,25 @@
 {
-    "id": "436bbe30-bebb-4daa-b54b-7ad51c75550c",
-    "name": "Moghur",
-    "set": "limited",
-    "number": "10",
-    "image": "https://iconmaster.info/wyverndb/data/images/436bbe30-bebb-4daa-b54b-7ad51c75550c.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/436bbe30-bebb-4daa-b54b-7ad51c75550c.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32591/moghur"
-    },
-    "rarity": "uncommon"
+  "id": "436bbe30-bebb-4daa-b54b-7ad51c75550c",
+  "name": "Moghur",
+  "set": "limited",
+  "number": "10",
+  "image": "https://iconmaster.info/wyverndb/data/images/436bbe30-bebb-4daa-b54b-7ad51c75550c.jpeg",
+  "type": "dragon",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/436bbe30-bebb-4daa-b54b-7ad51c75550c.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32591/moghur"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "IF FIRST CARD ATTACKED IS TERRAIN, MOGHUR MAY THEN ATTACK A SECOND CARD ONE CARD AWAY FROM THE FIRST CARD.",
+  "lore": "Moghur is a Dragon that can kill with a look.",
+  "all_printings": [
+    "2347aaf8-3d3e-4130-b37a-3eec3d2f6675",
+    "436bbe30-bebb-4daa-b54b-7ad51c75550c",
+    "e22b51d4-2e44-4ad7-998c-98280c65b1e9"
+  ],
+  "strength": 0,
+  "abilities": [
+    "scout"
+  ]
 }

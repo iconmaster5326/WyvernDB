@@ -1,14 +1,21 @@
 {
-    "id": "a007c750-e32c-4de8-a501-76f58942dc9c",
-    "name": "Tunnel",
-    "set": "kingdom",
-    "number": "45",
-    "image": "https://iconmaster.info/wyverndb/data/images/a007c750-e32c-4de8-a501-76f58942dc9c.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/a007c750-e32c-4de8-a501-76f58942dc9c.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321359/tunnel"
-    },
-    "rarity": "uncommon"
+  "id": "a007c750-e32c-4de8-a501-76f58942dc9c",
+  "name": "Tunnel",
+  "set": "kingdom",
+  "number": "45",
+  "image": "https://iconmaster.info/wyverndb/data/images/a007c750-e32c-4de8-a501-76f58942dc9c.jpeg",
+  "type": "terrain",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/a007c750-e32c-4de8-a501-76f58942dc9c.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321359/tunnel"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "DRAGON CAN ONLY ATTACK CARDS IN A DIRECT LINE ACROSS FROM THE DRAGON'S CARD.  IF THERE ARE NO CARDS THERE TO ATTACK HE MAY ATTACK ANY CARD HE COULD NORMALLY ATTACK AT -1 STRENGTH.",
+  "lore": "",
+  "all_printings": [
+    "0033c9c5-b059-4425-b0a2-88fe66330024",
+    "2cd3c726-7729-4a6b-ac2f-31658f2a6fcd",
+    "a007c750-e32c-4de8-a501-76f58942dc9c"
+  ]
 }

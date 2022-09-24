@@ -1,14 +1,23 @@
 {
-    "id": "8a5e5983-71d1-4a21-9c32-a37ab5c7fea1",
-    "name": "Riparian",
-    "set": "chameleon",
-    "number": "23",
-    "image": "https://iconmaster.info/wyverndb/data/images/8a5e5983-71d1-4a21-9c32-a37ab5c7fea1.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/8a5e5983-71d1-4a21-9c32-a37ab5c7fea1.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321247/riparian"
-    },
-    "rarity": "uncommon"
+  "id": "8a5e5983-71d1-4a21-9c32-a37ab5c7fea1",
+  "name": "Riparian",
+  "set": "chameleon",
+  "number": "23",
+  "image": "https://iconmaster.info/wyverndb/data/images/8a5e5983-71d1-4a21-9c32-a37ab5c7fea1.jpeg",
+  "type": "dragon",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/8a5e5983-71d1-4a21-9c32-a37ab5c7fea1.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321247/riparian"
+  },
+  "rarity": "uncommon",
+  "strength": 3,
+  "abilities": [
+    "flying"
+  ],
+  "special_abilities": "NATIVE TERRAIN: RIVER.  ACTION: PAY ONE GOLD PIECE TO LOOK AT OPPONENT'S HAND; OPPONENT MUST DISCARD ALL DWARVEN ARMIES.",
+  "lore": "",
+  "all_printings": [
+    "8a5e5983-71d1-4a21-9c32-a37ab5c7fea1"
+  ]
 }

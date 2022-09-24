@@ -1,14 +1,24 @@
 {
-    "id": "af581045-c674-4f5b-be7d-bca96c1f03c3",
-    "name": "Cecrops",
-    "set": "kingdom",
-    "number": "147",
-    "image": "https://iconmaster.info/wyverndb/data/images/af581045-c674-4f5b-be7d-bca96c1f03c3.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/af581045-c674-4f5b-be7d-bca96c1f03c3.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321461/cecrops"
-    },
-    "rarity": "uncommon"
+  "id": "af581045-c674-4f5b-be7d-bca96c1f03c3",
+  "name": "Cecrops",
+  "set": "kingdom",
+  "number": "147",
+  "image": "https://iconmaster.info/wyverndb/data/images/af581045-c674-4f5b-be7d-bca96c1f03c3.jpeg",
+  "type": "dragon",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/af581045-c674-4f5b-be7d-bca96c1f03c3.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321461/cecrops"
+  },
+  "rarity": "uncommon",
+  "strength": 2,
+  "abilities": [
+    "flying"
+  ],
+  "special_abilities": "NO RAVENS CAN BE PLAYED BY EITHER SIDE IN A BATTLE THE CECROPS IS PART OF.",
+  "lore": "",
+  "all_printings": [
+    "af581045-c674-4f5b-be7d-bca96c1f03c3",
+    "e8b96054-17d8-4c47-a079-74976a7f07fd"
+  ]
 }

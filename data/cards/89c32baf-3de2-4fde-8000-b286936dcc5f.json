@@ -1,14 +1,20 @@
 {
-    "id": "89c32baf-3de2-4fde-8000-b286936dcc5f",
-    "name": "Ape",
-    "set": "phoenix",
-    "number": "53",
-    "image": "https://iconmaster.info/wyverndb/data/images/89c32baf-3de2-4fde-8000-b286936dcc5f.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/89c32baf-3de2-4fde-8000-b286936dcc5f.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321187/ape"
-    },
-    "rarity": "uncommon"
+  "id": "89c32baf-3de2-4fde-8000-b286936dcc5f",
+  "name": "Ape",
+  "set": "phoenix",
+  "number": "53",
+  "image": "https://iconmaster.info/wyverndb/data/images/89c32baf-3de2-4fde-8000-b286936dcc5f.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/89c32baf-3de2-4fde-8000-b286936dcc5f.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321187/ape"
+  },
+  "rarity": "uncommon",
+  "subtype": "intercept_action",
+  "special_abilities": "STRENGTH: 2 INTERCEPTOR ATTACKER MUST KILL APE BEFORE REACHING INTENDED TARGET.  APE COUNTS AS DRAGON IN ATTACKED ROW.  DISCARD APE AFTER BATTLE.",
+  "lore": "The ancient Egyptians venerate the Ape.",
+  "all_printings": [
+    "89c32baf-3de2-4fde-8000-b286936dcc5f"
+  ]
 }

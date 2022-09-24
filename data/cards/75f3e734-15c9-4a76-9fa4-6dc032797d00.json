@@ -1,14 +1,21 @@
 {
-    "id": "75f3e734-15c9-4a76-9fa4-6dc032797d00",
-    "name": "Clouds",
-    "set": "limited",
-    "number": "42",
-    "image": "https://iconmaster.info/wyverndb/data/images/75f3e734-15c9-4a76-9fa4-6dc032797d00.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/75f3e734-15c9-4a76-9fa4-6dc032797d00.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32623/clouds"
-    },
-    "rarity": "uncommon"
+  "id": "75f3e734-15c9-4a76-9fa4-6dc032797d00",
+  "name": "Clouds",
+  "set": "limited",
+  "number": "42",
+  "image": "https://iconmaster.info/wyverndb/data/images/75f3e734-15c9-4a76-9fa4-6dc032797d00.jpeg",
+  "type": "terrain",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/75f3e734-15c9-4a76-9fa4-6dc032797d00.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32623/clouds"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "STRENGTH MODIFIER: -2 THIS CARD AFFECTS FLYERS ONLY.",
+  "lore": "",
+  "all_printings": [
+    "75f3e734-15c9-4a76-9fa4-6dc032797d00",
+    "cd1ba65d-0f96-4c35-b07f-e6c11e23aa0e",
+    "ec951d0d-83da-4cd8-8db6-cea45894eb79"
+  ]
 }

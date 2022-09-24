@@ -1,14 +1,21 @@
 {
-    "id": "1abe6e21-e9fa-40b6-90eb-2c461dcdb363",
-    "name": "Medusa",
-    "set": "phoenix",
-    "number": "14",
-    "image": "https://iconmaster.info/wyverndb/data/images/1abe6e21-e9fa-40b6-90eb-2c461dcdb363.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/1abe6e21-e9fa-40b6-90eb-2c461dcdb363.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321148/medusa"
-    },
-    "rarity": "uncommon"
+  "id": "1abe6e21-e9fa-40b6-90eb-2c461dcdb363",
+  "name": "Medusa",
+  "set": "phoenix",
+  "number": "14",
+  "image": "https://iconmaster.info/wyverndb/data/images/1abe6e21-e9fa-40b6-90eb-2c461dcdb363.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/1abe6e21-e9fa-40b6-90eb-2c461dcdb363.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321148/medusa"
+  },
+  "rarity": "uncommon",
+  "subtype": "action",
+  "special_abilities": "A PLAYER OF YOUR CHOICE CANNOT MOVE ANY CARDS IN THE MOVEMENT PHASE OF HIS NEXT TURN.",
+  "lore": "If you look at Medusa you turn to stone.",
+  "all_printings": [
+    "1abe6e21-e9fa-40b6-90eb-2c461dcdb363",
+    "e60446b3-176b-4fec-b7cb-1e9da8104985"
+  ]
 }

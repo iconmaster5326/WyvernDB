@@ -1,14 +1,25 @@
 {
-    "id": "61076911-1604-41ac-9158-92d553129b09",
-    "name": "Azhi Dahaka",
-    "set": "premiere",
-    "number": "19",
-    "image": "https://iconmaster.info/wyverndb/data/images/61076911-1604-41ac-9158-92d553129b09.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/61076911-1604-41ac-9158-92d553129b09.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32839/azhi-dahaka"
-    },
-    "rarity": "uncommon"
+  "id": "61076911-1604-41ac-9158-92d553129b09",
+  "name": "Azhi Dahaka",
+  "set": "premiere",
+  "number": "19",
+  "image": "https://iconmaster.info/wyverndb/data/images/61076911-1604-41ac-9158-92d553129b09.jpeg",
+  "type": "dragon",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/61076911-1604-41ac-9158-92d553129b09.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32839/azhi-dahaka"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "",
+  "lore": "Azhi Dahaka breathes fire, poison and hypnotic gas.",
+  "all_printings": [
+    "110c3af5-95ac-4d36-a1af-8ea57fcf0333",
+    "61076911-1604-41ac-9158-92d553129b09",
+    "e4a47db0-c3a8-4854-9128-53e3b061b5ae"
+  ],
+  "strength": 2,
+  "abilities": [
+    "flying"
+  ]
 }

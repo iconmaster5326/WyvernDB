@@ -1,14 +1,20 @@
 {
-    "id": "75e72082-c617-4be1-97c3-a67f2c91ccc6",
-    "name": "Sanctuary",
-    "set": "chameleon",
-    "number": "29",
-    "image": "https://iconmaster.info/wyverndb/data/images/75e72082-c617-4be1-97c3-a67f2c91ccc6.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/75e72082-c617-4be1-97c3-a67f2c91ccc6.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321253/sanctuary"
-    },
-    "rarity": "common"
+  "id": "75e72082-c617-4be1-97c3-a67f2c91ccc6",
+  "name": "Sanctuary",
+  "set": "chameleon",
+  "number": "29",
+  "image": "https://iconmaster.info/wyverndb/data/images/75e72082-c617-4be1-97c3-a67f2c91ccc6.jpeg",
+  "type": "action",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/75e72082-c617-4be1-97c3-a67f2c91ccc6.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321253/sanctuary"
+  },
+  "rarity": "common",
+  "subtype": "action",
+  "special_abilities": "TARGET FACE UP DRAGON CAN'T BE ATTACKED BY A DRAGON UNLESS YOUR OPPONENT PAYS THREE GOLD PIECES TO THE GOLD MINE.  IN EACH OF YOUR DRAW PHASES, PAY TWO GOLD PIECES TO THE GOLD MINE OR DISCARD SANCTUARY FROM TARGET DRAGON.",
+  "lore": "",
+  "all_printings": [
+    "75e72082-c617-4be1-97c3-a67f2c91ccc6"
+  ]
 }

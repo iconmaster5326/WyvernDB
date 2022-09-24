@@ -1,14 +1,20 @@
 {
-    "id": "24ca2db0-57db-4658-a2c8-1a4dd7bb862d",
-    "name": "Flag of Truce",
-    "set": "chameleon",
-    "number": "51",
-    "image": "https://iconmaster.info/wyverndb/data/images/24ca2db0-57db-4658-a2c8-1a4dd7bb862d.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/24ca2db0-57db-4658-a2c8-1a4dd7bb862d.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321275/flag-of-truce"
-    },
-    "rarity": "common"
+  "id": "24ca2db0-57db-4658-a2c8-1a4dd7bb862d",
+  "name": "Flag of Truce",
+  "set": "chameleon",
+  "number": "51",
+  "image": "https://iconmaster.info/wyverndb/data/images/24ca2db0-57db-4658-a2c8-1a4dd7bb862d.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/24ca2db0-57db-4658-a2c8-1a4dd7bb862d.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321275/flag-of-truce"
+  },
+  "rarity": "common",
+  "subtype": "battle_action",
+  "special_abilities": "PAY TWO GOLD PIECES TO YOUR OPPONENT; ALL OF YOUR DRAGONS SURVIVE THIS BATTLE.",
+  "lore": "",
+  "all_printings": [
+    "24ca2db0-57db-4658-a2c8-1a4dd7bb862d"
+  ]
 }

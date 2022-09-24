@@ -1,14 +1,22 @@
 {
-    "id": "4b11d878-622b-4f5e-a2f4-0a7d658e8be1",
-    "name": "Armor",
-    "set": "limited",
-    "number": "83",
-    "image": "https://iconmaster.info/wyverndb/data/images/4b11d878-622b-4f5e-a2f4-0a7d658e8be1.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/4b11d878-622b-4f5e-a2f4-0a7d658e8be1.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32664/armor"
-    },
-    "rarity": "common"
+  "id": "4b11d878-622b-4f5e-a2f4-0a7d658e8be1",
+  "name": "Armor",
+  "set": "limited",
+  "number": "83",
+  "image": "https://iconmaster.info/wyverndb/data/images/4b11d878-622b-4f5e-a2f4-0a7d658e8be1.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/4b11d878-622b-4f5e-a2f4-0a7d658e8be1.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32664/armor"
+  },
+  "rarity": "common",
+  "special_abilities": "COUNTERS ANY BATTLE ACTION CARD WITH THE WORDS STRENGTH MODIFIER ON THE CARD.",
+  "lore": "",
+  "all_printings": [
+    "4b11d878-622b-4f5e-a2f4-0a7d658e8be1",
+    "67133d1b-b0f7-49d1-848d-dd079aec53f3",
+    "a16606fa-d697-46c3-8331-8bff465deec4"
+  ],
+  "subtype": "battle_reaction"
 }

@@ -1,14 +1,20 @@
 {
-    "id": "3c8906e4-9ec2-40cd-9ec3-18d4339a2f4e",
-    "name": "Alberich",
-    "set": "chameleon",
-    "number": "47",
-    "image": "https://iconmaster.info/wyverndb/data/images/3c8906e4-9ec2-40cd-9ec3-18d4339a2f4e.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/3c8906e4-9ec2-40cd-9ec3-18d4339a2f4e.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321271/alberich"
-    },
-    "rarity": "uncommon"
+  "id": "3c8906e4-9ec2-40cd-9ec3-18d4339a2f4e",
+  "name": "Alberich",
+  "set": "chameleon",
+  "number": "47",
+  "image": "https://iconmaster.info/wyverndb/data/images/3c8906e4-9ec2-40cd-9ec3-18d4339a2f4e.jpeg",
+  "type": "action",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/3c8906e4-9ec2-40cd-9ec3-18d4339a2f4e.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321271/alberich"
+  },
+  "rarity": "uncommon",
+  "subtype": "battle_action",
+  "special_abilities": "STRENGTH MODIFIER: +1 THE WINNER OF THIS BATTLE GAINS ONE ADDITIONAL TREASURE POSITION IN THIS ROW.  USE ALBERICH TO MARK THE NEW POSITION.  ALBERICH COUNTS AS A DWARVEN ARMY.",
+  "lore": "",
+  "all_printings": [
+    "3c8906e4-9ec2-40cd-9ec3-18d4339a2f4e"
+  ]
 }

@@ -1,14 +1,21 @@
 {
-    "id": "24574993-a39f-4d94-8fd5-80b338f0e9d7",
-    "name": "White-Eared Dragon",
-    "set": "phoenix",
-    "number": "89",
-    "image": "https://iconmaster.info/wyverndb/data/images/24574993-a39f-4d94-8fd5-80b338f0e9d7.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/24574993-a39f-4d94-8fd5-80b338f0e9d7.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321223/white-eared-dragon"
-    },
-    "rarity": "common"
+  "id": "24574993-a39f-4d94-8fd5-80b338f0e9d7",
+  "name": "White-Eared Dragon",
+  "set": "phoenix",
+  "number": "89",
+  "image": "https://iconmaster.info/wyverndb/data/images/24574993-a39f-4d94-8fd5-80b338f0e9d7.jpeg",
+  "type": "dragon",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/24574993-a39f-4d94-8fd5-80b338f0e9d7.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321223/white-eared-dragon"
+  },
+  "rarity": "common",
+  "strength": 4,
+  "abilities": [],
+  "special_abilities": "WHEN WHITE-EARED DRAGON WINS A BATTLE, YOU MAY TURN ANY FACE UP DRAGON FACE DOWN.",
+  "lore": "White-Eared Dragon is a Hindu Dragon from Valley of Indus.",
+  "all_printings": [
+    "24574993-a39f-4d94-8fd5-80b338f0e9d7"
+  ]
 }

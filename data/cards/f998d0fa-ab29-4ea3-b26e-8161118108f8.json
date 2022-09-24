@@ -1,14 +1,21 @@
 {
-    "id": "f998d0fa-ab29-4ea3-b26e-8161118108f8",
-    "name": "Teuton",
-    "set": "chameleon",
-    "number": "21",
-    "image": "https://iconmaster.info/wyverndb/data/images/f998d0fa-ab29-4ea3-b26e-8161118108f8.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/f998d0fa-ab29-4ea3-b26e-8161118108f8.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321245/teuton"
-    },
-    "rarity": "uncommon"
+  "id": "f998d0fa-ab29-4ea3-b26e-8161118108f8",
+  "name": "Teuton",
+  "set": "chameleon",
+  "number": "21",
+  "image": "https://iconmaster.info/wyverndb/data/images/f998d0fa-ab29-4ea3-b26e-8161118108f8.jpeg",
+  "type": "dragon",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/f998d0fa-ab29-4ea3-b26e-8161118108f8.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321245/teuton"
+  },
+  "rarity": "uncommon",
+  "strength": 1,
+  "abilities": [],
+  "special_abilities": "NATIVE TERRAIN: FOREST",
+  "lore": "",
+  "all_printings": [
+    "f998d0fa-ab29-4ea3-b26e-8161118108f8"
+  ]
 }

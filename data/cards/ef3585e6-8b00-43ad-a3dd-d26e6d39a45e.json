@@ -1,14 +1,20 @@
 {
-    "id": "ef3585e6-8b00-43ad-a3dd-d26e6d39a45e",
-    "name": "Lucky Strike",
-    "set": "chameleon",
-    "number": "60",
-    "image": "https://iconmaster.info/wyverndb/data/images/ef3585e6-8b00-43ad-a3dd-d26e6d39a45e.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/ef3585e6-8b00-43ad-a3dd-d26e6d39a45e.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321284/lucky-strike"
-    },
-    "rarity": "common"
+  "id": "ef3585e6-8b00-43ad-a3dd-d26e6d39a45e",
+  "name": "Lucky Strike",
+  "set": "chameleon",
+  "number": "60",
+  "image": "https://iconmaster.info/wyverndb/data/images/ef3585e6-8b00-43ad-a3dd-d26e6d39a45e.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/ef3585e6-8b00-43ad-a3dd-d26e6d39a45e.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321284/lucky-strike"
+  },
+  "rarity": "common",
+  "subtype": "battle_action",
+  "special_abilities": "WHOEVER IS BEHIND IN THIS BATTLE WHEN LUCKY STRIKE IS PLAYED GAINS ONE GOLD PIECE FROM THE GOLD MINE.",
+  "lore": "",
+  "all_printings": [
+    "ef3585e6-8b00-43ad-a3dd-d26e6d39a45e"
+  ]
 }

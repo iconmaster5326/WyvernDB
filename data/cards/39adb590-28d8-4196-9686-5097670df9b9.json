@@ -1,14 +1,20 @@
 {
-    "id": "39adb590-28d8-4196-9686-5097670df9b9",
-    "name": "Golden Grasshopper",
-    "set": "phoenix",
-    "number": "58",
-    "image": "https://iconmaster.info/wyverndb/data/images/39adb590-28d8-4196-9686-5097670df9b9.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/39adb590-28d8-4196-9686-5097670df9b9.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321192/golden-grasshopper"
-    },
-    "rarity": "uncommon"
+  "id": "39adb590-28d8-4196-9686-5097670df9b9",
+  "name": "Golden Grasshopper",
+  "set": "phoenix",
+  "number": "58",
+  "image": "https://iconmaster.info/wyverndb/data/images/39adb590-28d8-4196-9686-5097670df9b9.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/39adb590-28d8-4196-9686-5097670df9b9.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321192/golden-grasshopper"
+  },
+  "rarity": "uncommon",
+  "subtype": "battle_action",
+  "special_abilities": "WHENEVER THIS BATTLE IS TIED, THE DEFENDER IS AHEAD.",
+  "lore": "In ancient Greece, the Golden Grasshopper stood for nobility.",
+  "all_printings": [
+    "39adb590-28d8-4196-9686-5097670df9b9"
+  ]
 }

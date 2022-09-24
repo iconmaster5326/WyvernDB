@@ -1,14 +1,21 @@
 {
-    "id": "16edb3fb-4a18-4278-8b89-22dd63ac8be8",
-    "name": "Apollo",
-    "set": "limited",
-    "number": "180",
-    "image": "https://iconmaster.info/wyverndb/data/images/16edb3fb-4a18-4278-8b89-22dd63ac8be8.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/16edb3fb-4a18-4278-8b89-22dd63ac8be8.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32761/apollo"
-    },
-    "rarity": "rare"
+  "id": "16edb3fb-4a18-4278-8b89-22dd63ac8be8",
+  "name": "Apollo",
+  "set": "limited",
+  "number": "180",
+  "image": "https://iconmaster.info/wyverndb/data/images/16edb3fb-4a18-4278-8b89-22dd63ac8be8.jpeg",
+  "type": "action",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/16edb3fb-4a18-4278-8b89-22dd63ac8be8.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32761/apollo"
+  },
+  "rarity": "rare",
+  "special_abilities": "DRAW 2 CARDS FROM YOUR TREASURE HORDE DRAW PILE.",
+  "lore": "",
+  "all_printings": [
+    "0869699b-9fef-4ff9-81da-9d60019bb98f",
+    "16edb3fb-4a18-4278-8b89-22dd63ac8be8"
+  ],
+  "subtype": "battle_action"
 }

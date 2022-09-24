@@ -1,14 +1,20 @@
 {
-    "id": "caf68d6b-ee39-44fd-9ece-6ef60889d947",
-    "name": "Tablets of Destiny",
-    "set": "kingdom",
-    "number": "175",
-    "image": "https://iconmaster.info/wyverndb/data/images/caf68d6b-ee39-44fd-9ece-6ef60889d947.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/caf68d6b-ee39-44fd-9ece-6ef60889d947.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321489/tablets-of-destiny"
-    },
-    "rarity": "rare"
+  "id": "caf68d6b-ee39-44fd-9ece-6ef60889d947",
+  "name": "Tablets of Destiny",
+  "set": "kingdom",
+  "number": "175",
+  "image": "https://iconmaster.info/wyverndb/data/images/caf68d6b-ee39-44fd-9ece-6ef60889d947.jpeg",
+  "type": "treasure",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/caf68d6b-ee39-44fd-9ece-6ef60889d947.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321489/tablets-of-destiny"
+  },
+  "rarity": "rare",
+  "special_abilities": "DURING EACH OF YOUR DRAW PHASES YOU MAY PAY ONE GOLD PIECE AND CALL OUT A CARD.  OPPONENT MUST DISCARD ONE OF THAT CARD IF HE HAS IT.",
+  "lore": "The Tablets of Destiny were discovered by the Babylonian Marduk.",
+  "all_printings": [
+    "2dc915fc-58af-47c6-8c28-1ce524f91ef3",
+    "caf68d6b-ee39-44fd-9ece-6ef60889d947"
+  ]
 }

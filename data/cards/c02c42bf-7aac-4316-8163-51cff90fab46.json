@@ -1,14 +1,20 @@
 {
-    "id": "c02c42bf-7aac-4316-8163-51cff90fab46",
-    "name": "Camelot",
-    "set": "kingdom",
-    "number": "249",
-    "image": "https://iconmaster.info/wyverndb/data/images/c02c42bf-7aac-4316-8163-51cff90fab46.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/c02c42bf-7aac-4316-8163-51cff90fab46.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321563/camelot"
-    },
-    "rarity": "common"
+  "id": "c02c42bf-7aac-4316-8163-51cff90fab46",
+  "name": "Camelot",
+  "set": "kingdom",
+  "number": "249",
+  "image": "https://iconmaster.info/wyverndb/data/images/c02c42bf-7aac-4316-8163-51cff90fab46.jpeg",
+  "type": "terrain",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/c02c42bf-7aac-4316-8163-51cff90fab46.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321563/camelot"
+  },
+  "rarity": "common",
+  "special_abilities": "DRAGON CAN NOT BE TURNED FACE DOWN WHILE IN CAMELOT.",
+  "lore": "Camelot is the home of King Arthur's Court.",
+  "all_printings": [
+    "be2b6700-d050-4892-9dbb-b82c91055942",
+    "c02c42bf-7aac-4316-8163-51cff90fab46"
+  ]
 }

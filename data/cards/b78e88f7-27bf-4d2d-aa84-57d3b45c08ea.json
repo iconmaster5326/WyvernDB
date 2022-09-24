@@ -1,14 +1,22 @@
 {
-    "id": "b78e88f7-27bf-4d2d-aa84-57d3b45c08ea",
-    "name": "Power Switch",
-    "set": "kingdom",
-    "number": "127",
-    "image": "https://iconmaster.info/wyverndb/data/images/b78e88f7-27bf-4d2d-aa84-57d3b45c08ea.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/b78e88f7-27bf-4d2d-aa84-57d3b45c08ea.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321441/power-switch"
-    },
-    "rarity": "rare"
+  "id": "b78e88f7-27bf-4d2d-aa84-57d3b45c08ea",
+  "name": "Power Switch",
+  "set": "kingdom",
+  "number": "127",
+  "image": "https://iconmaster.info/wyverndb/data/images/b78e88f7-27bf-4d2d-aa84-57d3b45c08ea.jpeg",
+  "type": "action",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/b78e88f7-27bf-4d2d-aa84-57d3b45c08ea.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321441/power-switch"
+  },
+  "rarity": "rare",
+  "subtype": "battle_action",
+  "special_abilities": "THE TWO DRAGONS WHO STARTED THIS BATTLE SWITCH BASE STRENGTH NUMBERS UNTIL THE END OF THE BATTLE.",
+  "lore": "",
+  "all_printings": [
+    "47c6f125-0373-423f-9c82-27d986612680",
+    "b0d20a4f-dce3-4867-bc92-844ae48be55b",
+    "b78e88f7-27bf-4d2d-aa84-57d3b45c08ea"
+  ]
 }

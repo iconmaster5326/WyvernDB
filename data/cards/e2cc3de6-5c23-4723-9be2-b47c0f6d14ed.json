@@ -1,14 +1,23 @@
 {
-    "id": "e2cc3de6-5c23-4723-9be2-b47c0f6d14ed",
-    "name": "Leviathan",
-    "set": "limited",
-    "number": "14",
-    "image": "https://iconmaster.info/wyverndb/data/images/e2cc3de6-5c23-4723-9be2-b47c0f6d14ed.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/e2cc3de6-5c23-4723-9be2-b47c0f6d14ed.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32595/leviathan"
-    },
-    "rarity": "uncommon"
+  "id": "e2cc3de6-5c23-4723-9be2-b47c0f6d14ed",
+  "name": "Leviathan",
+  "set": "limited",
+  "number": "14",
+  "image": "https://iconmaster.info/wyverndb/data/images/e2cc3de6-5c23-4723-9be2-b47c0f6d14ed.jpeg",
+  "type": "dragon",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/e2cc3de6-5c23-4723-9be2-b47c0f6d14ed.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32595/leviathan"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "",
+  "lore": "Leviathan is one of the biggest dragons in the world.  He is a fire breathing sea serpent.",
+  "all_printings": [
+    "e2cc3de6-5c23-4723-9be2-b47c0f6d14ed",
+    "e414f592-97f9-4c28-b474-0cd028b07329",
+    "f012f485-5c61-4e1c-b41f-e68497639236"
+  ],
+  "strength": 5,
+  "abilities": []
 }

@@ -1,14 +1,20 @@
 {
-    "id": "d007c2fd-aa60-41d9-984e-6f04c44b1786",
-    "name": "Echo",
-    "set": "phoenix",
-    "number": "15",
-    "image": "https://iconmaster.info/wyverndb/data/images/d007c2fd-aa60-41d9-984e-6f04c44b1786.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/d007c2fd-aa60-41d9-984e-6f04c44b1786.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321149/echo"
-    },
-    "rarity": "common"
+  "id": "d007c2fd-aa60-41d9-984e-6f04c44b1786",
+  "name": "Echo",
+  "set": "phoenix",
+  "number": "15",
+  "image": "https://iconmaster.info/wyverndb/data/images/d007c2fd-aa60-41d9-984e-6f04c44b1786.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/d007c2fd-aa60-41d9-984e-6f04c44b1786.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321149/echo"
+  },
+  "rarity": "common",
+  "subtype": "hidden_action",
+  "special_abilities": "PLACE FACE DOWN UNDER ONE OF YOUR TERRAINS.  IF TERRAIN APPLIES TO A DRAGON ATTACKING IT, YOU GET TWO GOLD PIECES IN ADDITION TO ANY PIECES ALREADY ON THE TERRAIN CARD.",
+  "lore": "Echo is forbidden to speak anything but the last syllable of the previous speaker.",
+  "all_printings": [
+    "d007c2fd-aa60-41d9-984e-6f04c44b1786"
+  ]
 }

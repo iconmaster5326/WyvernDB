@@ -1,14 +1,22 @@
 {
-    "id": "572ff262-93ce-4146-8e0b-c9a63c6bb034",
-    "name": "Abraxus",
-    "set": "limited",
-    "number": "149",
-    "image": "https://iconmaster.info/wyverndb/data/images/572ff262-93ce-4146-8e0b-c9a63c6bb034.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/572ff262-93ce-4146-8e0b-c9a63c6bb034.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32730/abraxus"
-    },
-    "rarity": "uncommon"
+  "id": "572ff262-93ce-4146-8e0b-c9a63c6bb034",
+  "name": "Abraxus",
+  "set": "limited",
+  "number": "149",
+  "image": "https://iconmaster.info/wyverndb/data/images/572ff262-93ce-4146-8e0b-c9a63c6bb034.jpeg",
+  "type": "dragon",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/572ff262-93ce-4146-8e0b-c9a63c6bb034.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32730/abraxus"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "YOU MAY DISCARD ABRAXUS FROM YOUR BATTLEFIELD DURING A BATTLE TO GIVE ANY OTHER DRAGON +3.  IF ABRAXUS IS FACE DOWN WHEN YOU DO THIS, THEN PAY THE 1 GOLD COST.",
+  "lore": "Abraxus is the ruler of magical influence.",
+  "all_printings": [
+    "559a0a74-d191-4baf-9351-ac1c01ce180a",
+    "572ff262-93ce-4146-8e0b-c9a63c6bb034"
+  ],
+  "strength": 0,
+  "abilities": []
 }

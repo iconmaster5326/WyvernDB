@@ -1,14 +1,21 @@
 {
-    "id": "2f388724-4d67-4686-be56-62d81f4f9a63",
-    "name": "Bribery",
-    "set": "kingdom",
-    "number": "254",
-    "image": "https://iconmaster.info/wyverndb/data/images/2f388724-4d67-4686-be56-62d81f4f9a63.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/2f388724-4d67-4686-be56-62d81f4f9a63.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321568/bribery"
-    },
-    "rarity": "uncommon"
+  "id": "2f388724-4d67-4686-be56-62d81f4f9a63",
+  "name": "Bribery",
+  "set": "kingdom",
+  "number": "254",
+  "image": "https://iconmaster.info/wyverndb/data/images/2f388724-4d67-4686-be56-62d81f4f9a63.jpeg",
+  "type": "action",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/2f388724-4d67-4686-be56-62d81f4f9a63.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321568/bribery"
+  },
+  "rarity": "uncommon",
+  "subtype": "action",
+  "special_abilities": "PLAY BRIBERY ON A FACE UP DRAGON.  THIS DRAGON MAY NOT ATTACK DURING THIS TURN.",
+  "lore": "",
+  "all_printings": [
+    "2f388724-4d67-4686-be56-62d81f4f9a63",
+    "c96e2f70-d994-4b0d-9dea-bbb3400d69f3"
+  ]
 }

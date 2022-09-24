@@ -1,14 +1,22 @@
 {
-    "id": "75d8350e-4b87-491c-bc1d-8d0dde7d0284",
-    "name": "Hailstorm",
-    "set": "limited",
-    "number": "63",
-    "image": "https://iconmaster.info/wyverndb/data/images/75d8350e-4b87-491c-bc1d-8d0dde7d0284.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/75d8350e-4b87-491c-bc1d-8d0dde7d0284.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32644/hailstorm"
-    },
-    "rarity": "common"
+  "id": "75d8350e-4b87-491c-bc1d-8d0dde7d0284",
+  "name": "Hailstorm",
+  "set": "limited",
+  "number": "63",
+  "image": "https://iconmaster.info/wyverndb/data/images/75d8350e-4b87-491c-bc1d-8d0dde7d0284.jpeg",
+  "type": "action",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/75d8350e-4b87-491c-bc1d-8d0dde7d0284.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32644/hailstorm"
+  },
+  "rarity": "common",
+  "special_abilities": "ALL FLYING DRAGONS LOSE TWO STRENGTH FOR THE REST OF THIS BATTLE.",
+  "lore": "",
+  "all_printings": [
+    "75d8350e-4b87-491c-bc1d-8d0dde7d0284",
+    "bed779d4-90b9-45d8-9bf0-ed0425042c5a",
+    "ccf6f816-faa8-4898-9af2-1942f64d61ab"
+  ],
+  "subtype": "battle_action"
 }

@@ -1,14 +1,21 @@
 {
-    "id": "7f356746-4c33-42d4-8868-856d0c727da3",
-    "name": "Puk",
-    "set": "kingdom",
-    "number": "269",
-    "image": "https://iconmaster.info/wyverndb/data/images/7f356746-4c33-42d4-8868-856d0c727da3.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/7f356746-4c33-42d4-8868-856d0c727da3.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321583/puk"
-    },
-    "rarity": "common"
+  "id": "7f356746-4c33-42d4-8868-856d0c727da3",
+  "name": "Puk",
+  "set": "kingdom",
+  "number": "269",
+  "image": "https://iconmaster.info/wyverndb/data/images/7f356746-4c33-42d4-8868-856d0c727da3.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/7f356746-4c33-42d4-8868-856d0c727da3.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321583/puk"
+  },
+  "rarity": "common",
+  "subtype": "reaction",
+  "special_abilities": "COUNTERS ANY ATTEMPT TO DESTROY OR REMOVE A TREASURE FROM YOUR BATTLEFIELD.  WHEN USED AGAINST A PICK A TREASURE ATTEMPT THE PICK A TREASURE IS DISCARDED.",
+  "lore": "Puk is a Baltic Dragon who brings Treasures to the household he is protecting.",
+  "all_printings": [
+    "7f356746-4c33-42d4-8868-856d0c727da3",
+    "b2f508cc-46e8-4a81-8e35-5fc6c57b30f0"
+  ]
 }

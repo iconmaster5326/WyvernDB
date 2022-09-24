@@ -1,14 +1,21 @@
 {
-    "id": "cb8361a0-f5e4-4c2c-ba72-7687b0a0a787",
-    "name": "Hypnos",
-    "set": "phoenix",
-    "number": "39",
-    "image": "https://iconmaster.info/wyverndb/data/images/cb8361a0-f5e4-4c2c-ba72-7687b0a0a787.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/cb8361a0-f5e4-4c2c-ba72-7687b0a0a787.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321173/hypnos"
-    },
-    "rarity": "uncommon"
+  "id": "cb8361a0-f5e4-4c2c-ba72-7687b0a0a787",
+  "name": "Hypnos",
+  "set": "phoenix",
+  "number": "39",
+  "image": "https://iconmaster.info/wyverndb/data/images/cb8361a0-f5e4-4c2c-ba72-7687b0a0a787.jpeg",
+  "type": "action",
+  "gold_cost": 3,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/cb8361a0-f5e4-4c2c-ba72-7687b0a0a787.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321173/hypnos"
+  },
+  "rarity": "uncommon",
+  "subtype": "battle_action",
+  "special_abilities": "YOU CAN FORCE ANY FACE UP DRAGON TO HELP ON EITHER SIDE OF THIS BATTLE.  DRAGON CAN'T ALREADY BE IN THE BATTLE.",
+  "lore": "Hypnos is the god of sleep.",
+  "all_printings": [
+    "70c801bc-5cd1-4076-ab2b-c1feeaacc962",
+    "cb8361a0-f5e4-4c2c-ba72-7687b0a0a787"
+  ]
 }

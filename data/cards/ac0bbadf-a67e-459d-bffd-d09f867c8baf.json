@@ -1,14 +1,22 @@
 {
-    "id": "ac0bbadf-a67e-459d-bffd-d09f867c8baf",
-    "name": "Dwarven Army",
-    "set": "kingdom",
-    "number": "129",
-    "image": "https://iconmaster.info/wyverndb/data/images/ac0bbadf-a67e-459d-bffd-d09f867c8baf.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/ac0bbadf-a67e-459d-bffd-d09f867c8baf.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321443/dwarven-army"
-    },
-    "rarity": "common"
+  "id": "ac0bbadf-a67e-459d-bffd-d09f867c8baf",
+  "name": "Dwarven Army",
+  "set": "kingdom",
+  "number": "129",
+  "image": "https://iconmaster.info/wyverndb/data/images/ac0bbadf-a67e-459d-bffd-d09f867c8baf.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/ac0bbadf-a67e-459d-bffd-d09f867c8baf.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321443/dwarven-army"
+  },
+  "rarity": "common",
+  "subtype": "battle_action",
+  "special_abilities": "STRENGTH MODIFIER: +1",
+  "lore": "",
+  "all_printings": [
+    "736012a8-6282-4649-9cc1-c43b35a3e084",
+    "93025ab5-5a6f-461a-b154-00fc9f912bc1",
+    "ac0bbadf-a67e-459d-bffd-d09f867c8baf"
+  ]
 }

@@ -1,14 +1,24 @@
 {
-    "id": "387a3af7-daa6-40a8-83bc-3b09c3b0d865",
-    "name": "Black",
-    "set": "kingdom",
-    "number": "159",
-    "image": "https://iconmaster.info/wyverndb/data/images/387a3af7-daa6-40a8-83bc-3b09c3b0d865.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/387a3af7-daa6-40a8-83bc-3b09c3b0d865.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321473/black"
-    },
-    "rarity": "rare"
+  "id": "387a3af7-daa6-40a8-83bc-3b09c3b0d865",
+  "name": "Black",
+  "set": "kingdom",
+  "number": "159",
+  "image": "https://iconmaster.info/wyverndb/data/images/387a3af7-daa6-40a8-83bc-3b09c3b0d865.jpeg",
+  "type": "dragon",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/387a3af7-daa6-40a8-83bc-3b09c3b0d865.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321473/black"
+  },
+  "rarity": "rare",
+  "strength": 4,
+  "abilities": [
+    "subterranean"
+  ],
+  "special_abilities": "IMMUNE TO DRAGON SLAYERS.  OPPONENT LOSES ONE GOLD TO THE GOLD MINE ON EACH OF HIS DRAW PHASES THAT BLACK IS FACE UP.",
+  "lore": "Chinese Dragon that rules winter.",
+  "all_printings": [
+    "387a3af7-daa6-40a8-83bc-3b09c3b0d865",
+    "74298450-d294-4a2f-92f6-c39fbdd6be6a"
+  ]
 }

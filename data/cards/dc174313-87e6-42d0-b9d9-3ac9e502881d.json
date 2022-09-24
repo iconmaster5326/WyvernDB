@@ -1,14 +1,20 @@
 {
-    "id": "dc174313-87e6-42d0-b9d9-3ac9e502881d",
-    "name": "Subterranean Treasure",
-    "set": "limited",
-    "number": "217",
-    "image": "https://iconmaster.info/wyverndb/data/images/dc174313-87e6-42d0-b9d9-3ac9e502881d.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/dc174313-87e6-42d0-b9d9-3ac9e502881d.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32798/subterranean-treasure"
-    },
-    "rarity": "rare"
+  "id": "dc174313-87e6-42d0-b9d9-3ac9e502881d",
+  "name": "Subterranean Treasure",
+  "set": "limited",
+  "number": "217",
+  "image": "https://iconmaster.info/wyverndb/data/images/dc174313-87e6-42d0-b9d9-3ac9e502881d.jpeg",
+  "type": "treasure",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/dc174313-87e6-42d0-b9d9-3ac9e502881d.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32798/subterranean-treasure"
+  },
+  "rarity": "rare",
+  "special_abilities": "BATTLE ACTION: ALL YOUR SUBTERRANEAN DRAGONS CAN HELP EACH OTHER WHEN ATTACKING.",
+  "lore": "",
+  "all_printings": [
+    "dc174313-87e6-42d0-b9d9-3ac9e502881d",
+    "e14d3f88-0d71-4054-aa0a-0fb177ea521f"
+  ]
 }

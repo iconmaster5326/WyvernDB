@@ -1,14 +1,25 @@
 {
-    "id": "dd62babd-a4c2-45b2-99c4-2228b84e6189",
-    "name": "Kioh-Lung",
-    "set": "limited",
-    "number": "100",
-    "image": "https://iconmaster.info/wyverndb/data/images/dd62babd-a4c2-45b2-99c4-2228b84e6189.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/dd62babd-a4c2-45b2-99c4-2228b84e6189.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32681/kioh-lung"
-    },
-    "rarity": "uncommon"
+  "id": "dd62babd-a4c2-45b2-99c4-2228b84e6189",
+  "name": "Kioh-Lung",
+  "set": "limited",
+  "number": "100",
+  "image": "https://iconmaster.info/wyverndb/data/images/dd62babd-a4c2-45b2-99c4-2228b84e6189.jpeg",
+  "type": "dragon",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/dd62babd-a4c2-45b2-99c4-2228b84e6189.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32681/kioh-lung"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "IF KIOH-LUNG LOSES A BATTLE, DRAW ONE CARD FROM YOUR TREASURE HORDE DRAW PILE.",
+  "lore": "",
+  "all_printings": [
+    "0c802f5c-87a4-407f-b3db-ed7575807f46",
+    "85c3fc1c-0722-4f44-8fda-987b5bb9b038",
+    "dd62babd-a4c2-45b2-99c4-2228b84e6189"
+  ],
+  "strength": 0,
+  "abilities": [
+    "scout"
+  ]
 }

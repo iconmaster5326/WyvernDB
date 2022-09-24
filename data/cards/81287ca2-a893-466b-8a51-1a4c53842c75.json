@@ -1,14 +1,23 @@
 {
-    "id": "81287ca2-a893-466b-8a51-1a4c53842c75",
-    "name": "Rahah",
-    "set": "kingdom",
-    "number": "99",
-    "image": "https://iconmaster.info/wyverndb/data/images/81287ca2-a893-466b-8a51-1a4c53842c75.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/81287ca2-a893-466b-8a51-1a4c53842c75.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321413/rahah"
-    },
-    "rarity": "uncommon"
+  "id": "81287ca2-a893-466b-8a51-1a4c53842c75",
+  "name": "Rahah",
+  "set": "kingdom",
+  "number": "99",
+  "image": "https://iconmaster.info/wyverndb/data/images/81287ca2-a893-466b-8a51-1a4c53842c75.jpeg",
+  "type": "dragon",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/81287ca2-a893-466b-8a51-1a4c53842c75.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321413/rahah"
+  },
+  "rarity": "uncommon",
+  "strength": 1,
+  "abilities": [],
+  "special_abilities": "RAHAH ATTACKS AT 2 STRENGTH FROM FACE DOWN AND 0 STRENGTH FROM FACE UP.",
+  "lore": "Rahah is a Biblical Dragon that can only be destroyed by White magic.",
+  "all_printings": [
+    "1bf416df-5847-4415-8ef3-8d51bafb96b6",
+    "44ad0ada-f85e-459b-84e3-5fac1da58800",
+    "81287ca2-a893-466b-8a51-1a4c53842c75"
+  ]
 }

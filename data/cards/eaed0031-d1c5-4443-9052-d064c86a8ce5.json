@@ -1,14 +1,20 @@
 {
-    "id": "eaed0031-d1c5-4443-9052-d064c86a8ce5",
-    "name": "Elephants",
-    "set": "phoenix",
-    "number": "5",
-    "image": "https://iconmaster.info/wyverndb/data/images/eaed0031-d1c5-4443-9052-d064c86a8ce5.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/eaed0031-d1c5-4443-9052-d064c86a8ce5.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321139/elephants"
-    },
-    "rarity": "uncommon"
+  "id": "eaed0031-d1c5-4443-9052-d064c86a8ce5",
+  "name": "Elephants",
+  "set": "phoenix",
+  "number": "5",
+  "image": "https://iconmaster.info/wyverndb/data/images/eaed0031-d1c5-4443-9052-d064c86a8ce5.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/eaed0031-d1c5-4443-9052-d064c86a8ce5.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321139/elephants"
+  },
+  "rarity": "uncommon",
+  "subtype": "hidden_action",
+  "special_abilities": "PLACE  FACE DOWN AND SIDEWAYS UNDER AN OPPONENT'S FACE DOWN CARD.  IF IT IS UNDER A DRAGON, THE DRAGON LOSES 1 STRENGTH WHEN ATTACKING AS LONG AS ELEPHANTS ARE ON THE DRAGON.  DISCARD THE ELEPHANTS IF UNDER A TERRAIN CARD.",
+  "lore": "Elephants crush Dragons as they fall.",
+  "all_printings": [
+    "eaed0031-d1c5-4443-9052-d064c86a8ce5"
+  ]
 }

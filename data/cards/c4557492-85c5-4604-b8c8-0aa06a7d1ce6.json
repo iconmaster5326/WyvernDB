@@ -1,14 +1,22 @@
 {
-    "id": "c4557492-85c5-4604-b8c8-0aa06a7d1ce6",
-    "name": "Mount Chung",
-    "set": "limited",
-    "number": "161",
-    "image": "https://iconmaster.info/wyverndb/data/images/c4557492-85c5-4604-b8c8-0aa06a7d1ce6.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/c4557492-85c5-4604-b8c8-0aa06a7d1ce6.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32742/mount-chung"
-    },
-    "rarity": "uncommon"
+  "id": "c4557492-85c5-4604-b8c8-0aa06a7d1ce6",
+  "name": "Mount Chung",
+  "set": "limited",
+  "number": "161",
+  "image": "https://iconmaster.info/wyverndb/data/images/c4557492-85c5-4604-b8c8-0aa06a7d1ce6.jpeg",
+  "type": "dragon",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/c4557492-85c5-4604-b8c8-0aa06a7d1ce6.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32742/mount-chung"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "PAY TWO GOLD PIECES TO CANCEL ANY BATTLE THAT MOUNT CHUNG IS PART OF.",
+  "lore": "When the Mount Chung Dragon opens its eyes it's day and when he closes them it's night.",
+  "all_printings": [
+    "c4557492-85c5-4604-b8c8-0aa06a7d1ce6",
+    "f7015e4d-d1db-4999-8649-01cb9b62eac9"
+  ],
+  "strength": 3,
+  "abilities": []
 }

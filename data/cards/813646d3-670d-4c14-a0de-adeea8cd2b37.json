@@ -1,14 +1,23 @@
 {
-    "id": "813646d3-670d-4c14-a0de-adeea8cd2b37",
-    "name": "Lung Wong",
-    "set": "premiere",
-    "number": "21",
-    "image": "https://iconmaster.info/wyverndb/data/images/813646d3-670d-4c14-a0de-adeea8cd2b37.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/813646d3-670d-4c14-a0de-adeea8cd2b37.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32841/lung-wong"
-    },
-    "rarity": "uncommon"
+  "id": "813646d3-670d-4c14-a0de-adeea8cd2b37",
+  "name": "Lung Wong",
+  "set": "premiere",
+  "number": "21",
+  "image": "https://iconmaster.info/wyverndb/data/images/813646d3-670d-4c14-a0de-adeea8cd2b37.jpeg",
+  "type": "dragon",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/813646d3-670d-4c14-a0de-adeea8cd2b37.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32841/lung-wong"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "LUNG WONG DEFENDS AT 3 STRENGTH FROM FACE UP AND ATTACKS AT 1 STRENGTH FROM FACE UP.",
+  "lore": "",
+  "all_printings": [
+    "14d0c2d5-5bcc-4ca2-b6e6-fe85709f9103",
+    "813646d3-670d-4c14-a0de-adeea8cd2b37",
+    "9349ea09-6b80-4943-8ce8-652c84dbed28"
+  ],
+  "strength": 2,
+  "abilities": []
 }

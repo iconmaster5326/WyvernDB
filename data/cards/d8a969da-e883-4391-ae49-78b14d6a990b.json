@@ -1,14 +1,20 @@
 {
-    "id": "d8a969da-e883-4391-ae49-78b14d6a990b",
-    "name": "Hippolyte",
-    "set": "phoenix",
-    "number": "12",
-    "image": "https://iconmaster.info/wyverndb/data/images/d8a969da-e883-4391-ae49-78b14d6a990b.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/d8a969da-e883-4391-ae49-78b14d6a990b.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321146/hippolyte"
-    },
-    "rarity": "uncommon"
+  "id": "d8a969da-e883-4391-ae49-78b14d6a990b",
+  "name": "Hippolyte",
+  "set": "phoenix",
+  "number": "12",
+  "image": "https://iconmaster.info/wyverndb/data/images/d8a969da-e883-4391-ae49-78b14d6a990b.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/d8a969da-e883-4391-ae49-78b14d6a990b.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321146/hippolyte"
+  },
+  "rarity": "uncommon",
+  "subtype": "hidden_action",
+  "special_abilities": "PLACE FACE DOWN AND SIDEWAYS UNDER AN OPPONENT'S FACE DOWN CARD.  IF IT IS UNDER TERRAIN, THE TERRAIN OWNER GETS TWO GOLD LESS FROM THIS TERRAIN.  DISCARD HIPPOLYTE IF UNDER A DRAGON.",
+  "lore": "",
+  "all_printings": [
+    "d8a969da-e883-4391-ae49-78b14d6a990b"
+  ]
 }

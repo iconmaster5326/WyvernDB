@@ -1,14 +1,23 @@
 {
-    "id": "938954af-616f-4b97-a024-9397f5e01743",
-    "name": "Violet",
-    "set": "phoenix",
-    "number": "73",
-    "image": "https://iconmaster.info/wyverndb/data/images/938954af-616f-4b97-a024-9397f5e01743.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/938954af-616f-4b97-a024-9397f5e01743.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321207/violet"
-    },
-    "rarity": "common"
+  "id": "938954af-616f-4b97-a024-9397f5e01743",
+  "name": "Violet",
+  "set": "phoenix",
+  "number": "73",
+  "image": "https://iconmaster.info/wyverndb/data/images/938954af-616f-4b97-a024-9397f5e01743.jpeg",
+  "type": "dragon",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/938954af-616f-4b97-a024-9397f5e01743.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321207/violet"
+  },
+  "rarity": "common",
+  "strength": 2,
+  "abilities": [
+    "flying"
+  ],
+  "special_abilities": "DRAGONS WITH A BASE STRENGTH OF 4 OR MORE LOSE 2 STRENGTH FOR THE REST OF A BATTLE IN WHICH VIOLET PARTICIPATES.",
+  "lore": "Violet is the Japanese Dragon whose spittle becomes pure crystal.",
+  "all_printings": [
+    "938954af-616f-4b97-a024-9397f5e01743"
+  ]
 }

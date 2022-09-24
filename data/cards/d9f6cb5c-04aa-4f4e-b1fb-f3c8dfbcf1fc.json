@@ -1,14 +1,21 @@
 {
-    "id": "d9f6cb5c-04aa-4f4e-b1fb-f3c8dfbcf1fc",
-    "name": "Seth",
-    "set": "limited",
-    "number": "188",
-    "image": "https://iconmaster.info/wyverndb/data/images/d9f6cb5c-04aa-4f4e-b1fb-f3c8dfbcf1fc.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/d9f6cb5c-04aa-4f4e-b1fb-f3c8dfbcf1fc.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32769/seth"
-    },
-    "rarity": "rare"
+  "id": "d9f6cb5c-04aa-4f4e-b1fb-f3c8dfbcf1fc",
+  "name": "Seth",
+  "set": "limited",
+  "number": "188",
+  "image": "https://iconmaster.info/wyverndb/data/images/d9f6cb5c-04aa-4f4e-b1fb-f3c8dfbcf1fc.jpeg",
+  "type": "action",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/d9f6cb5c-04aa-4f4e-b1fb-f3c8dfbcf1fc.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32769/seth"
+  },
+  "rarity": "rare",
+  "special_abilities": "SETH ATTACKS AN OPPONENT'S FACE DOWN CARD.  TURN THE ATTACKED CARD FACE UP.  IF IT'S A TERRAIN CARD IT IS DISCARDED.  IF IT'S A DRAGON IT STAYS FACE UP AND IS NOT PAID FOR.",
+  "lore": "",
+  "all_printings": [
+    "a3a1b23d-85d1-449f-a304-8032ce01e681",
+    "d9f6cb5c-04aa-4f4e-b1fb-f3c8dfbcf1fc"
+  ],
+  "subtype": "slayer_action"
 }

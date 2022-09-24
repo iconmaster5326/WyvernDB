@@ -1,14 +1,20 @@
 {
-    "id": "90016283-9aef-4c85-9226-f15aaeef5c96",
-    "name": "Calypso",
-    "set": "phoenix",
-    "number": "23",
-    "image": "https://iconmaster.info/wyverndb/data/images/90016283-9aef-4c85-9226-f15aaeef5c96.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/90016283-9aef-4c85-9226-f15aaeef5c96.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321157/calypso"
-    },
-    "rarity": "uncommon"
+  "id": "90016283-9aef-4c85-9226-f15aaeef5c96",
+  "name": "Calypso",
+  "set": "phoenix",
+  "number": "23",
+  "image": "https://iconmaster.info/wyverndb/data/images/90016283-9aef-4c85-9226-f15aaeef5c96.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/90016283-9aef-4c85-9226-f15aaeef5c96.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321157/calypso"
+  },
+  "rarity": "uncommon",
+  "subtype": "reaction",
+  "special_abilities": "ACTION, REACTION, OR DRAGON SLAYER ACTION IS COUNTERED UNLESS OWNER PAYS TWO GOLD TO THE GOLDMINE.",
+  "lore": "",
+  "all_printings": [
+    "90016283-9aef-4c85-9226-f15aaeef5c96"
+  ]
 }

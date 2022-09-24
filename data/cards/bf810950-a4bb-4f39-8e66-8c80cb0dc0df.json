@@ -1,14 +1,21 @@
 {
-    "id": "bf810950-a4bb-4f39-8e66-8c80cb0dc0df",
-    "name": "Treasure Room",
-    "set": "premiere",
-    "number": "119",
-    "image": "https://iconmaster.info/wyverndb/data/images/bf810950-a4bb-4f39-8e66-8c80cb0dc0df.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/bf810950-a4bb-4f39-8e66-8c80cb0dc0df.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32939/treasure-room"
-    },
-    "rarity": "common"
+  "id": "bf810950-a4bb-4f39-8e66-8c80cb0dc0df",
+  "name": "Treasure Room",
+  "set": "premiere",
+  "number": "119",
+  "image": "https://iconmaster.info/wyverndb/data/images/bf810950-a4bb-4f39-8e66-8c80cb0dc0df.jpeg",
+  "type": "treasure",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/bf810950-a4bb-4f39-8e66-8c80cb0dc0df.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32939/treasure-room"
+  },
+  "rarity": "common",
+  "special_abilities": "WHEN ANY DRAGON IN THIS ROW LOSES A BATTLE YOU GET A GOLD PIECE.",
+  "lore": "",
+  "all_printings": [
+    "209024e0-ee07-45fe-9c73-5cef41133b07",
+    "5b4280fe-e0b7-4785-bd52-445fd2101866",
+    "bf810950-a4bb-4f39-8e66-8c80cb0dc0df"
+  ]
 }

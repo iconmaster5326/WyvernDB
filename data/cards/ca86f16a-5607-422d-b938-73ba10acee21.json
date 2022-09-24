@@ -1,14 +1,22 @@
 {
-    "id": "ca86f16a-5607-422d-b938-73ba10acee21",
-    "name": "Chen Lung",
-    "set": "kingdom",
-    "number": "144",
-    "image": "https://iconmaster.info/wyverndb/data/images/ca86f16a-5607-422d-b938-73ba10acee21.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/ca86f16a-5607-422d-b938-73ba10acee21.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321458/chen-lung"
-    },
-    "rarity": "uncommon"
+  "id": "ca86f16a-5607-422d-b938-73ba10acee21",
+  "name": "Chen Lung",
+  "set": "kingdom",
+  "number": "144",
+  "image": "https://iconmaster.info/wyverndb/data/images/ca86f16a-5607-422d-b938-73ba10acee21.jpeg",
+  "type": "dragon",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/ca86f16a-5607-422d-b938-73ba10acee21.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321458/chen-lung"
+  },
+  "rarity": "uncommon",
+  "strength": 3,
+  "abilities": [],
+  "special_abilities": "WHEN CHEN LUNG IS FACE UP YOU CANNOT BE FORCED TO DISCARD ANY CARDS FROM YOUR HAND.",
+  "lore": "Chen-Lung is a Chinese guardian Dragon.",
+  "all_printings": [
+    "6a062bf5-9d88-4d4e-904c-0f506ffa25a8",
+    "ca86f16a-5607-422d-b938-73ba10acee21"
+  ]
 }

@@ -1,14 +1,22 @@
 {
-    "id": "686001b0-4c24-4d32-be00-f49183c96f16",
-    "name": "Sacrifice",
-    "set": "kingdom",
-    "number": "70",
-    "image": "https://iconmaster.info/wyverndb/data/images/686001b0-4c24-4d32-be00-f49183c96f16.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/686001b0-4c24-4d32-be00-f49183c96f16.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321384/sacrifice"
-    },
-    "rarity": "common"
+  "id": "686001b0-4c24-4d32-be00-f49183c96f16",
+  "name": "Sacrifice",
+  "set": "kingdom",
+  "number": "70",
+  "image": "https://iconmaster.info/wyverndb/data/images/686001b0-4c24-4d32-be00-f49183c96f16.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/686001b0-4c24-4d32-be00-f49183c96f16.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321384/sacrifice"
+  },
+  "rarity": "common",
+  "subtype": "battle_action",
+  "special_abilities": "THE WINNER OF THIS BATTLE MUST PAY TWO GOLD PIECES TO THE LOSER.",
+  "lore": "",
+  "all_printings": [
+    "2721036c-fbcb-4766-8a9b-4380dbf6ea0d",
+    "686001b0-4c24-4d32-be00-f49183c96f16",
+    "df0648cf-916e-41ed-a5c2-c5afa8de6772"
+  ]
 }

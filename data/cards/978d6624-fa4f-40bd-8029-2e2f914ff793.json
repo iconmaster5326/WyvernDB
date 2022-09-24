@@ -1,14 +1,20 @@
 {
-    "id": "978d6624-fa4f-40bd-8029-2e2f914ff793",
-    "name": "Shifting Sands",
-    "set": "chameleon",
-    "number": "41",
-    "image": "https://iconmaster.info/wyverndb/data/images/978d6624-fa4f-40bd-8029-2e2f914ff793.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/978d6624-fa4f-40bd-8029-2e2f914ff793.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321265/shifting-sands"
-    },
-    "rarity": "common"
+  "id": "978d6624-fa4f-40bd-8029-2e2f914ff793",
+  "name": "Shifting Sands",
+  "set": "chameleon",
+  "number": "41",
+  "image": "https://iconmaster.info/wyverndb/data/images/978d6624-fa4f-40bd-8029-2e2f914ff793.jpeg",
+  "type": "action",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/978d6624-fa4f-40bd-8029-2e2f914ff793.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321265/shifting-sands"
+  },
+  "rarity": "common",
+  "subtype": "action",
+  "special_abilities": "YOU MAY REARRANGE ALL THE CARDS IN YOUR BATTLEFIELD.  NO CARDS MAY BE T URNED FACE UP OR FACE DOWN AND ATTACHED CARDS MAY NOT CHANGE TARGETS.",
+  "lore": "",
+  "all_printings": [
+    "978d6624-fa4f-40bd-8029-2e2f914ff793"
+  ]
 }

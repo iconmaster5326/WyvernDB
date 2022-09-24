@@ -1,14 +1,20 @@
 {
-    "id": "aa1eaf0c-af5f-4178-a55b-b299cea9b7cf",
-    "name": "Aaron's Rod",
-    "set": "kingdom",
-    "number": "171",
-    "image": "https://iconmaster.info/wyverndb/data/images/aa1eaf0c-af5f-4178-a55b-b299cea9b7cf.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/aa1eaf0c-af5f-4178-a55b-b299cea9b7cf.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321485/aarons-rod"
-    },
-    "rarity": "rare"
+  "id": "aa1eaf0c-af5f-4178-a55b-b299cea9b7cf",
+  "name": "Aaron's Rod",
+  "set": "kingdom",
+  "number": "171",
+  "image": "https://iconmaster.info/wyverndb/data/images/aa1eaf0c-af5f-4178-a55b-b299cea9b7cf.jpeg",
+  "type": "treasure",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/aa1eaf0c-af5f-4178-a55b-b299cea9b7cf.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321485/aarons-rod"
+  },
+  "rarity": "rare",
+  "special_abilities": "BATTLE ACTION: A DRAGON IN THIS ROW GAINS +1 STRENGTH FOR EACH CARD YOU DISCARD FROM YOUR HAND.",
+  "lore": "When Aaron cast t he rod before the Pharoah it became a serpent.",
+  "all_printings": [
+    "8e52ee88-4073-4365-83b4-8ee0e4d8e336",
+    "aa1eaf0c-af5f-4178-a55b-b299cea9b7cf"
+  ]
 }

@@ -1,14 +1,21 @@
 {
-    "id": "2e25c590-f11a-434d-97e3-4807249d2f11",
-    "name": "Sirens",
-    "set": "kingdom",
-    "number": "262",
-    "image": "https://iconmaster.info/wyverndb/data/images/2e25c590-f11a-434d-97e3-4807249d2f11.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/2e25c590-f11a-434d-97e3-4807249d2f11.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321576/sirens"
-    },
-    "rarity": "common"
+  "id": "2e25c590-f11a-434d-97e3-4807249d2f11",
+  "name": "Sirens",
+  "set": "kingdom",
+  "number": "262",
+  "image": "https://iconmaster.info/wyverndb/data/images/2e25c590-f11a-434d-97e3-4807249d2f11.jpeg",
+  "type": "action",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/2e25c590-f11a-434d-97e3-4807249d2f11.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321576/sirens"
+  },
+  "rarity": "common",
+  "subtype": "action",
+  "special_abilities": "PLAY DURING OPPONENT'S TURN.  OPPONENT MUST ATTACK WITH A FACE DOWN DRAGON IF POSSIBLE.  IF HE CAN'T ATTACK WITH A FACE DOWN DRAGON, HE MUST REPLACE A CARD IN HIS BATTLE PHASE.",
+  "lore": "Sirens live on an island near Scylla and Charybis and lure men to their death with melodious song.",
+  "all_printings": [
+    "2e25c590-f11a-434d-97e3-4807249d2f11",
+    "313e6219-e942-413a-a841-6890689854ca"
+  ]
 }

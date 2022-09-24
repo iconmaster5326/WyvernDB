@@ -1,14 +1,21 @@
 {
-    "id": "7ddd70df-2110-438e-819a-4b24e58569fd",
-    "name": "Golden Apples",
-    "set": "kingdom",
-    "number": "52",
-    "image": "https://iconmaster.info/wyverndb/data/images/7ddd70df-2110-438e-819a-4b24e58569fd.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/7ddd70df-2110-438e-819a-4b24e58569fd.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321366/golden-apples"
-    },
-    "rarity": "common"
+  "id": "7ddd70df-2110-438e-819a-4b24e58569fd",
+  "name": "Golden Apples",
+  "set": "kingdom",
+  "number": "52",
+  "image": "https://iconmaster.info/wyverndb/data/images/7ddd70df-2110-438e-819a-4b24e58569fd.jpeg",
+  "type": "treasure",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/7ddd70df-2110-438e-819a-4b24e58569fd.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321366/golden-apples"
+  },
+  "rarity": "common",
+  "special_abilities": "DRAGONS IN THIS ROW CAN'T BE KILLED BY TERRAIN.",
+  "lore": "",
+  "all_printings": [
+    "14264ef3-b581-4294-a3f3-a42e6fa7a7bd",
+    "7ddd70df-2110-438e-819a-4b24e58569fd",
+    "c5ca802a-1f68-4fe3-99d8-bc7b970c1751"
+  ]
 }

@@ -1,14 +1,21 @@
 {
-    "id": "11a39d6f-0b7b-46ec-99d8-49fcce6dc860",
-    "name": "Midas",
-    "set": "phoenix",
-    "number": "44",
-    "image": "https://iconmaster.info/wyverndb/data/images/11a39d6f-0b7b-46ec-99d8-49fcce6dc860.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/11a39d6f-0b7b-46ec-99d8-49fcce6dc860.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321178/midas"
-    },
-    "rarity": "uncommon"
+  "id": "11a39d6f-0b7b-46ec-99d8-49fcce6dc860",
+  "name": "Midas",
+  "set": "phoenix",
+  "number": "44",
+  "image": "https://iconmaster.info/wyverndb/data/images/11a39d6f-0b7b-46ec-99d8-49fcce6dc860.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/11a39d6f-0b7b-46ec-99d8-49fcce6dc860.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321178/midas"
+  },
+  "rarity": "uncommon",
+  "subtype": "action",
+  "special_abilities": "DISCARD ANY DRAGON FROM YOUR BATTLEFIELD AND GET GOLD FROM THE GOLD MINE EQUAL TO THE DISCARDED DRAGON'S STRENGTH PLUS GOLD SYMBOLS.  THE DRAGON IS NOT REPLACED.",
+  "lore": "Midas is a King of Phrygia with the famouse 'Midas Touch.'",
+  "all_printings": [
+    "11a39d6f-0b7b-46ec-99d8-49fcce6dc860",
+    "6ccff2ed-4f01-4303-b5fe-2043fc674985"
+  ]
 }

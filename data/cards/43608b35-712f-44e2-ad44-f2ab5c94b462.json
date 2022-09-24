@@ -1,14 +1,22 @@
 {
-    "id": "43608b35-712f-44e2-ad44-f2ab5c94b462",
-    "name": "Loki",
-    "set": "kingdom",
-    "number": "138",
-    "image": "https://iconmaster.info/wyverndb/data/images/43608b35-712f-44e2-ad44-f2ab5c94b462.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/43608b35-712f-44e2-ad44-f2ab5c94b462.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321452/loki"
-    },
-    "rarity": "uncommon"
+  "id": "43608b35-712f-44e2-ad44-f2ab5c94b462",
+  "name": "Loki",
+  "set": "kingdom",
+  "number": "138",
+  "image": "https://iconmaster.info/wyverndb/data/images/43608b35-712f-44e2-ad44-f2ab5c94b462.jpeg",
+  "type": "dragon",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/43608b35-712f-44e2-ad44-f2ab5c94b462.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321452/loki"
+  },
+  "rarity": "uncommon",
+  "strength": 2,
+  "abilities": [],
+  "special_abilities": "GET ONE GOLD PIECE FROM THE GOLD MINE FOR EACH WON BATTLE.",
+  "lore": "Loki is a Dragon from Icelandic legend.",
+  "all_printings": [
+    "1c311cb5-5337-4dd2-a24c-c603205fdfc2",
+    "43608b35-712f-44e2-ad44-f2ab5c94b462"
+  ]
 }

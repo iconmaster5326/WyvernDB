@@ -1,14 +1,19 @@
 {
-    "id": "43c5ba86-4dab-4bb9-b135-40928e6fe940",
-    "name": "Nebula",
-    "set": "chameleon",
-    "number": "75",
-    "image": "https://iconmaster.info/wyverndb/data/images/43c5ba86-4dab-4bb9-b135-40928e6fe940.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/43c5ba86-4dab-4bb9-b135-40928e6fe940.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321299/nebula"
-    },
-    "rarity": "uncommon"
+  "id": "43c5ba86-4dab-4bb9-b135-40928e6fe940",
+  "name": "Nebula",
+  "set": "chameleon",
+  "number": "75",
+  "image": "https://iconmaster.info/wyverndb/data/images/43c5ba86-4dab-4bb9-b135-40928e6fe940.jpeg",
+  "type": "terrain",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/43c5ba86-4dab-4bb9-b135-40928e6fe940.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321299/nebula"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "STRENGTH MODIFIER: -1 CHAMELEON REACTION: PAY TWO GOLD PIECES TO CHANGE NEBULA TO A STRENGTH 1 FLYING DRAGON FOR THE REST OF THE GAME.",
+  "lore": "",
+  "all_printings": [
+    "43c5ba86-4dab-4bb9-b135-40928e6fe940"
+  ]
 }

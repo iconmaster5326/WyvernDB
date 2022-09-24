@@ -1,14 +1,23 @@
 {
-    "id": "a91a9245-8cbd-4dc5-8bb3-477d3947c32b",
-    "name": "Colchis",
-    "set": "premiere",
-    "number": "12",
-    "image": "https://iconmaster.info/wyverndb/data/images/a91a9245-8cbd-4dc5-8bb3-477d3947c32b.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/a91a9245-8cbd-4dc5-8bb3-477d3947c32b.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32832/colchis"
-    },
-    "rarity": "common"
+  "id": "a91a9245-8cbd-4dc5-8bb3-477d3947c32b",
+  "name": "Colchis",
+  "set": "premiere",
+  "number": "12",
+  "image": "https://iconmaster.info/wyverndb/data/images/a91a9245-8cbd-4dc5-8bb3-477d3947c32b.jpeg",
+  "type": "dragon",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/a91a9245-8cbd-4dc5-8bb3-477d3947c32b.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32832/colchis"
+  },
+  "rarity": "common",
+  "special_abilities": "",
+  "lore": "Colchis is the Dragon that guards the Golden Fleece.",
+  "all_printings": [
+    "a7a57b64-0aa8-4be2-bb93-1766da1f7644",
+    "a91a9245-8cbd-4dc5-8bb3-477d3947c32b",
+    "bd210cd4-788a-4964-9e14-9a1f90a59fc3"
+  ],
+  "strength": 1,
+  "abilities": []
 }

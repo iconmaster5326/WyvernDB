@@ -1,14 +1,21 @@
 {
-    "id": "db163c5c-7c10-46f6-8f81-1b0bb965fde8",
-    "name": "Gold Shortage",
-    "set": "kingdom",
-    "number": "227",
-    "image": "https://iconmaster.info/wyverndb/data/images/db163c5c-7c10-46f6-8f81-1b0bb965fde8.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/db163c5c-7c10-46f6-8f81-1b0bb965fde8.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321541/gold-shortage"
-    },
-    "rarity": "common"
+  "id": "db163c5c-7c10-46f6-8f81-1b0bb965fde8",
+  "name": "Gold Shortage",
+  "set": "kingdom",
+  "number": "227",
+  "image": "https://iconmaster.info/wyverndb/data/images/db163c5c-7c10-46f6-8f81-1b0bb965fde8.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/db163c5c-7c10-46f6-8f81-1b0bb965fde8.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321541/gold-shortage"
+  },
+  "rarity": "common",
+  "subtype": "action",
+  "special_abilities": "ALL PLAYERS TAKE TWO GOLD PIECES FROM THEIR GOLD PILES AND PUT THEM IN THE GOLD MINE.",
+  "lore": "",
+  "all_printings": [
+    "db163c5c-7c10-46f6-8f81-1b0bb965fde8",
+    "fe32dfec-e390-4d52-a971-47e05c231d3d"
+  ]
 }

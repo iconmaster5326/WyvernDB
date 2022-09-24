@@ -1,14 +1,26 @@
 {
-    "id": "ce8f9852-e119-4bfe-9609-c51e57a9bcf9",
-    "name": "Wyvern",
-    "set": "premiere",
-    "number": "1",
-    "image": "https://iconmaster.info/wyverndb/data/images/ce8f9852-e119-4bfe-9609-c51e57a9bcf9.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/ce8f9852-e119-4bfe-9609-c51e57a9bcf9.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/701597/wyvern"
-    },
-    "rarity": "promo"
+  "id": "ce8f9852-e119-4bfe-9609-c51e57a9bcf9",
+  "name": "Wyvern",
+  "set": "premiere",
+  "number": "1",
+  "image": "https://iconmaster.info/wyverndb/data/images/ce8f9852-e119-4bfe-9609-c51e57a9bcf9.jpeg",
+  "type": "dragon",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/ce8f9852-e119-4bfe-9609-c51e57a9bcf9.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/701597/wyvern"
+  },
+  "rarity": "promo",
+  "special_abilities": "",
+  "lore": "",
+  "all_printings": [
+    "5a506c50-bf80-4c50-b3ed-be6551d557f9",
+    "63827068-2099-4f9a-afad-c0e4b3bbaa81",
+    "c3c0246a-bed9-4347-a4b6-19342a0244e2",
+    "ce8f9852-e119-4bfe-9609-c51e57a9bcf9"
+  ],
+  "strength": 4,
+  "abilities": [
+    "flying"
+  ]
 }

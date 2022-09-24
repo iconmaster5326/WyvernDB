@@ -1,14 +1,22 @@
 {
-    "id": "b28f4e5f-8b1d-4d29-b9c0-44fe8aa99a3e",
-    "name": "Giant",
-    "set": "kingdom",
-    "number": "148",
-    "image": "https://iconmaster.info/wyverndb/data/images/b28f4e5f-8b1d-4d29-b9c0-44fe8aa99a3e.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/b28f4e5f-8b1d-4d29-b9c0-44fe8aa99a3e.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321462/giant"
-    },
-    "rarity": "uncommon"
+  "id": "b28f4e5f-8b1d-4d29-b9c0-44fe8aa99a3e",
+  "name": "Giant",
+  "set": "kingdom",
+  "number": "148",
+  "image": "https://iconmaster.info/wyverndb/data/images/b28f4e5f-8b1d-4d29-b9c0-44fe8aa99a3e.jpeg",
+  "type": "dragon",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/b28f4e5f-8b1d-4d29-b9c0-44fe8aa99a3e.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321462/giant"
+  },
+  "rarity": "uncommon",
+  "strength": 5,
+  "abilities": [],
+  "special_abilities": "GIANT COSTS 4 GOLD PIECES WHEN TURNED FACE UP AND LOSES ONE STRENGTH IN YOUR DRAW PHASE EACH TURN HIS IS FACE UP.  GIANT GOES BACK TO  5 STRENGTH IF HE IS TURNED FACE DOWN.",
+  "lore": "Giant is a serpent-footed Dragon of Roman mythology.",
+  "all_printings": [
+    "7ad06f31-e051-408b-9471-f2dd69f46885",
+    "b28f4e5f-8b1d-4d29-b9c0-44fe8aa99a3e"
+  ]
 }

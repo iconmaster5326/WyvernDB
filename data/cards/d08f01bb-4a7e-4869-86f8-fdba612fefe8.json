@@ -1,14 +1,21 @@
 {
-    "id": "d08f01bb-4a7e-4869-86f8-fdba612fefe8",
-    "name": "Vines",
-    "set": "kingdom",
-    "number": "32",
-    "image": "https://iconmaster.info/wyverndb/data/images/d08f01bb-4a7e-4869-86f8-fdba612fefe8.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/d08f01bb-4a7e-4869-86f8-fdba612fefe8.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321346/vines"
-    },
-    "rarity": "uncommon"
+  "id": "d08f01bb-4a7e-4869-86f8-fdba612fefe8",
+  "name": "Vines",
+  "set": "kingdom",
+  "number": "32",
+  "image": "https://iconmaster.info/wyverndb/data/images/d08f01bb-4a7e-4869-86f8-fdba612fefe8.jpeg",
+  "type": "terrain",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/d08f01bb-4a7e-4869-86f8-fdba612fefe8.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321346/vines"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "NO BATTLE ACTION CARDS CAN BE PLAYED IN A BATTLE THIS DRAGON IS PART OF.  VINES AFFECT FLYING DRAGONS ONLY.",
+  "lore": "",
+  "all_printings": [
+    "4c49db07-a20e-4512-8e2c-118f69337471",
+    "7fca60c6-570f-4e9f-8810-8b20e177d5a3",
+    "d08f01bb-4a7e-4869-86f8-fdba612fefe8"
+  ]
 }

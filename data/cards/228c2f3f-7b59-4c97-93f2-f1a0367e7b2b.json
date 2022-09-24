@@ -1,14 +1,23 @@
 {
-    "id": "228c2f3f-7b59-4c97-93f2-f1a0367e7b2b",
-    "name": "Ethiopian Dream",
-    "set": "phoenix",
-    "number": "86",
-    "image": "https://iconmaster.info/wyverndb/data/images/228c2f3f-7b59-4c97-93f2-f1a0367e7b2b.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/228c2f3f-7b59-4c97-93f2-f1a0367e7b2b.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321220/ethiopian-dream"
-    },
-    "rarity": "common"
+  "id": "228c2f3f-7b59-4c97-93f2-f1a0367e7b2b",
+  "name": "Ethiopian Dream",
+  "set": "phoenix",
+  "number": "86",
+  "image": "https://iconmaster.info/wyverndb/data/images/228c2f3f-7b59-4c97-93f2-f1a0367e7b2b.jpeg",
+  "type": "dragon",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/228c2f3f-7b59-4c97-93f2-f1a0367e7b2b.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321220/ethiopian-dream"
+  },
+  "rarity": "common",
+  "strength": 2,
+  "abilities": [
+    "flying"
+  ],
+  "special_abilities": "WHEN ETHIOPIAN DREAM LOSES A BATTLE, YOU CAN PUT A -1 STRENGTH COUNTER ON ANY FACE UP DRAGON.",
+  "lore": "Ethiopian Dream is an African Dragon.",
+  "all_printings": [
+    "228c2f3f-7b59-4c97-93f2-f1a0367e7b2b"
+  ]
 }

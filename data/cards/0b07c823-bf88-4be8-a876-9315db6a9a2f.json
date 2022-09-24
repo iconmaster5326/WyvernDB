@@ -1,14 +1,22 @@
 {
-    "id": "0b07c823-bf88-4be8-a876-9315db6a9a2f",
-    "name": "Knowledge",
-    "set": "premiere",
-    "number": "71",
-    "image": "https://iconmaster.info/wyverndb/data/images/0b07c823-bf88-4be8-a876-9315db6a9a2f.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/0b07c823-bf88-4be8-a876-9315db6a9a2f.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32891/knowledge"
-    },
-    "rarity": "common"
+  "id": "0b07c823-bf88-4be8-a876-9315db6a9a2f",
+  "name": "Knowledge",
+  "set": "premiere",
+  "number": "71",
+  "image": "https://iconmaster.info/wyverndb/data/images/0b07c823-bf88-4be8-a876-9315db6a9a2f.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/0b07c823-bf88-4be8-a876-9315db6a9a2f.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32891/knowledge"
+  },
+  "rarity": "common",
+  "special_abilities": "LOOK AT A PLAYER'S HAND.",
+  "lore": "",
+  "all_printings": [
+    "0b07c823-bf88-4be8-a876-9315db6a9a2f",
+    "41a62d53-ff91-406a-b010-b6c8906fb2c8",
+    "cbf6316c-364c-497a-986d-15cea50ee222"
+  ],
+  "subtype": "action"
 }

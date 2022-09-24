@@ -1,14 +1,23 @@
 {
-    "id": "8f66f12d-b2a1-455f-9e2b-549b51bec4c9",
-    "name": "Kakutan",
-    "set": "limited",
-    "number": "22",
-    "image": "https://iconmaster.info/wyverndb/data/images/8f66f12d-b2a1-455f-9e2b-549b51bec4c9.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/8f66f12d-b2a1-455f-9e2b-549b51bec4c9.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32603/kakutan"
-    },
-    "rarity": "uncommon"
+  "id": "8f66f12d-b2a1-455f-9e2b-549b51bec4c9",
+  "name": "Kakutan",
+  "set": "limited",
+  "number": "22",
+  "image": "https://iconmaster.info/wyverndb/data/images/8f66f12d-b2a1-455f-9e2b-549b51bec4c9.jpeg",
+  "type": "dragon",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/8f66f12d-b2a1-455f-9e2b-549b51bec4c9.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32603/kakutan"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "KAKUTAN DEFENDS AT 4 STRENGTH FROM FACE DOWN AND ATTACKS AT 2 STRENGTH FROM FACE DOWN.",
+  "lore": "Instead of flying, Kakutan runs like the wind.",
+  "all_printings": [
+    "80edbf42-d6ed-43c4-bdbd-2b06bb4b8b53",
+    "8f66f12d-b2a1-455f-9e2b-549b51bec4c9",
+    "9bcb961d-3982-4d30-9284-99b6e4d1595e"
+  ],
+  "strength": 3,
+  "abilities": []
 }

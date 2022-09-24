@@ -1,14 +1,20 @@
 {
-    "id": "f74ae98c-35f6-4516-8d9a-9aca61c500da",
-    "name": "Tengu",
-    "set": "phoenix",
-    "number": "71",
-    "image": "https://iconmaster.info/wyverndb/data/images/f74ae98c-35f6-4516-8d9a-9aca61c500da.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/f74ae98c-35f6-4516-8d9a-9aca61c500da.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321205/tengu"
-    },
-    "rarity": "common"
+  "id": "f74ae98c-35f6-4516-8d9a-9aca61c500da",
+  "name": "Tengu",
+  "set": "phoenix",
+  "number": "71",
+  "image": "https://iconmaster.info/wyverndb/data/images/f74ae98c-35f6-4516-8d9a-9aca61c500da.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/f74ae98c-35f6-4516-8d9a-9aca61c500da.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321205/tengu"
+  },
+  "rarity": "common",
+  "subtype": "battle_action",
+  "special_abilities": "IF BATTLE ENDS IN A TIE, BOTH DRAGONS ARE KILLED.  THERE IS NO WINNER OR LOSER.",
+  "lore": "Tengu is a Japanese Monster demon man-bird.",
+  "all_printings": [
+    "f74ae98c-35f6-4516-8d9a-9aca61c500da"
+  ]
 }

@@ -1,14 +1,22 @@
 {
-    "id": "8672e482-1a03-493b-97e8-2d6785f565b6",
-    "name": "Medea's Spell",
-    "set": "premiere",
-    "number": "75",
-    "image": "https://iconmaster.info/wyverndb/data/images/8672e482-1a03-493b-97e8-2d6785f565b6.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/8672e482-1a03-493b-97e8-2d6785f565b6.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32895/medeas-spell"
-    },
-    "rarity": "rare"
+  "id": "8672e482-1a03-493b-97e8-2d6785f565b6",
+  "name": "Medea's Spell",
+  "set": "premiere",
+  "number": "75",
+  "image": "https://iconmaster.info/wyverndb/data/images/8672e482-1a03-493b-97e8-2d6785f565b6.jpeg",
+  "type": "action",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/8672e482-1a03-493b-97e8-2d6785f565b6.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32895/medeas-spell"
+  },
+  "rarity": "rare",
+  "special_abilities": "A DRAGON OF YOUR CHOICE IS NOW 0 BASE STRENGTH FOR THE REST OF THIS BATTLE.",
+  "lore": "Medea is able to put dragons to sleep with her spell.",
+  "all_printings": [
+    "8672e482-1a03-493b-97e8-2d6785f565b6",
+    "d19d49a9-88db-418d-be00-08be9cb3b28b",
+    "e049a27b-43f8-4532-b12d-91070a59de27"
+  ],
+  "subtype": "battle_action"
 }

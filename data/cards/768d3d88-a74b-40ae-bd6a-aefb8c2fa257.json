@@ -1,14 +1,21 @@
 {
-    "id": "768d3d88-a74b-40ae-bd6a-aefb8c2fa257",
-    "name": "Dragon Man",
-    "set": "kingdom",
-    "number": "213",
-    "image": "https://iconmaster.info/wyverndb/data/images/768d3d88-a74b-40ae-bd6a-aefb8c2fa257.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/768d3d88-a74b-40ae-bd6a-aefb8c2fa257.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321527/dragon-man"
-    },
-    "rarity": "rare"
+  "id": "768d3d88-a74b-40ae-bd6a-aefb8c2fa257",
+  "name": "Dragon Man",
+  "set": "kingdom",
+  "number": "213",
+  "image": "https://iconmaster.info/wyverndb/data/images/768d3d88-a74b-40ae-bd6a-aefb8c2fa257.jpeg",
+  "type": "action",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/768d3d88-a74b-40ae-bd6a-aefb8c2fa257.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321527/dragon-man"
+  },
+  "rarity": "rare",
+  "subtype": "action",
+  "special_abilities": "IF TWO DRAGONS OF THE SAME NAME ARE FACE UP ON THE BATTLEFIELD, YOU DECIDE WHICH ONE IS IMMEDIATELY REPLACED FROM THE PLAYER'S DRAGON LAIR DRAW PILE.",
+  "lore": "",
+  "all_printings": [
+    "768d3d88-a74b-40ae-bd6a-aefb8c2fa257",
+    "e78934a9-6c31-42bb-b3bc-c0d582089a2c"
+  ]
 }

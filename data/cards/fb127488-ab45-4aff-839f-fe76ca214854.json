@@ -1,14 +1,20 @@
 {
-    "id": "fb127488-ab45-4aff-839f-fe76ca214854",
-    "name": "Stream",
-    "set": "kingdom",
-    "number": "196",
-    "image": "https://iconmaster.info/wyverndb/data/images/fb127488-ab45-4aff-839f-fe76ca214854.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/fb127488-ab45-4aff-839f-fe76ca214854.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321510/stream"
-    },
-    "rarity": "uncommon"
+  "id": "fb127488-ab45-4aff-839f-fe76ca214854",
+  "name": "Stream",
+  "set": "kingdom",
+  "number": "196",
+  "image": "https://iconmaster.info/wyverndb/data/images/fb127488-ab45-4aff-839f-fe76ca214854.jpeg",
+  "type": "terrain",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/fb127488-ab45-4aff-839f-fe76ca214854.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321510/stream"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "DRAGON'S OWNER MUST PAY ONE GOLD PIECE TO THE GOLD MINE EACH OF HIS DRAW PHASES THAT THE STREAM IS ON THE DRAGON.",
+  "lore": "",
+  "all_printings": [
+    "fb127488-ab45-4aff-839f-fe76ca214854",
+    "fd4cfe3c-2cb6-4cad-8a4c-73f8bb824fa3"
+  ]
 }

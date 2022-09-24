@@ -1,14 +1,20 @@
 {
-    "id": "c9155a5f-3d03-483e-9b52-a2cddaecda3c",
-    "name": "Lynx",
-    "set": "phoenix",
-    "number": "62",
-    "image": "https://iconmaster.info/wyverndb/data/images/c9155a5f-3d03-483e-9b52-a2cddaecda3c.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/c9155a5f-3d03-483e-9b52-a2cddaecda3c.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321196/lynx"
-    },
-    "rarity": "uncommon"
+  "id": "c9155a5f-3d03-483e-9b52-a2cddaecda3c",
+  "name": "Lynx",
+  "set": "phoenix",
+  "number": "62",
+  "image": "https://iconmaster.info/wyverndb/data/images/c9155a5f-3d03-483e-9b52-a2cddaecda3c.jpeg",
+  "type": "action",
+  "gold_cost": 3,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/c9155a5f-3d03-483e-9b52-a2cddaecda3c.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321196/lynx"
+  },
+  "rarity": "uncommon",
+  "subtype": "intercept_action",
+  "special_abilities": "STRENGTH: 5 INTERCEPTOR ATTACKER MUST KILL LYNX BEFORE REACHING INTENDED TARGET.  LYNX COUNTS AS DRAGON IN ATTACKED ROW.  DISCARD LYNX AFTER BATTLE.",
+  "lore": "",
+  "all_printings": [
+    "c9155a5f-3d03-483e-9b52-a2cddaecda3c"
+  ]
 }

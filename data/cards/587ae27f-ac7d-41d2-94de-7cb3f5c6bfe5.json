@@ -1,14 +1,19 @@
 {
-    "id": "587ae27f-ac7d-41d2-94de-7cb3f5c6bfe5",
-    "name": "Flying Boulder",
-    "set": "chameleon",
-    "number": "90",
-    "image": "https://iconmaster.info/wyverndb/data/images/587ae27f-ac7d-41d2-94de-7cb3f5c6bfe5.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/587ae27f-ac7d-41d2-94de-7cb3f5c6bfe5.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321314/flying-boulder"
-    },
-    "rarity": "uncommon"
+  "id": "587ae27f-ac7d-41d2-94de-7cb3f5c6bfe5",
+  "name": "Flying Boulder",
+  "set": "chameleon",
+  "number": "90",
+  "image": "https://iconmaster.info/wyverndb/data/images/587ae27f-ac7d-41d2-94de-7cb3f5c6bfe5.jpeg",
+  "type": "treasure",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/587ae27f-ac7d-41d2-94de-7cb3f5c6bfe5.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321314/flying-boulder"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "ACTION: DISCARD FLYING BOULDER AND PLACE THREE -1 STRENGTH COUNTERS ON ANY ONE FACE UP DRAGON.",
+  "lore": "",
+  "all_printings": [
+    "587ae27f-ac7d-41d2-94de-7cb3f5c6bfe5"
+  ]
 }

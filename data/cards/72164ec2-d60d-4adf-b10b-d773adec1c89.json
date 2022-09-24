@@ -1,14 +1,22 @@
 {
-    "id": "72164ec2-d60d-4adf-b10b-d773adec1c89",
-    "name": "Flood",
-    "set": "premiere",
-    "number": "62",
-    "image": "https://iconmaster.info/wyverndb/data/images/72164ec2-d60d-4adf-b10b-d773adec1c89.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/72164ec2-d60d-4adf-b10b-d773adec1c89.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32882/flood"
-    },
-    "rarity": "common"
+  "id": "72164ec2-d60d-4adf-b10b-d773adec1c89",
+  "name": "Flood",
+  "set": "premiere",
+  "number": "62",
+  "image": "https://iconmaster.info/wyverndb/data/images/72164ec2-d60d-4adf-b10b-d773adec1c89.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/72164ec2-d60d-4adf-b10b-d773adec1c89.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32882/flood"
+  },
+  "rarity": "common",
+  "special_abilities": "NO DWARVEN ARMIES ALLOWED IN THIS BATTLE.",
+  "lore": "",
+  "all_printings": [
+    "72164ec2-d60d-4adf-b10b-d773adec1c89",
+    "d65cb1f8-d676-4ebf-90b5-3f554ec36054",
+    "df9659f2-e0d5-473f-979c-121c98af9a33"
+  ],
+  "subtype": "battle_action"
 }

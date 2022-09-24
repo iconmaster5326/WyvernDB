@@ -1,14 +1,22 @@
 {
-    "id": "a629f436-fbbf-4b46-aad9-c4d327bb4a19",
-    "name": "Tsunami",
-    "set": "kingdom",
-    "number": "64",
-    "image": "https://iconmaster.info/wyverndb/data/images/a629f436-fbbf-4b46-aad9-c4d327bb4a19.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/a629f436-fbbf-4b46-aad9-c4d327bb4a19.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321378/tsunami"
-    },
-    "rarity": "common"
+  "id": "a629f436-fbbf-4b46-aad9-c4d327bb4a19",
+  "name": "Tsunami",
+  "set": "kingdom",
+  "number": "64",
+  "image": "https://iconmaster.info/wyverndb/data/images/a629f436-fbbf-4b46-aad9-c4d327bb4a19.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/a629f436-fbbf-4b46-aad9-c4d327bb4a19.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321378/tsunami"
+  },
+  "rarity": "common",
+  "subtype": "action",
+  "special_abilities": "FOR EVERY ONE OF YOUR DRAGONS YOU TURN FACE UP DURING THIS ACTION PHASE, DRAW ONE CARD FROM YOUR TREASURE HORDE DRAW PILE.  BE SURE TO PAY FOR ANY DRAGONS BEING TURNED UP FOR THE FIRST TIME.",
+  "lore": "",
+  "all_printings": [
+    "1c0317bd-f7f1-4e26-8fa1-17543d8a46ab",
+    "931f8bd0-f994-4383-8a7e-86fc2af7fa47",
+    "a629f436-fbbf-4b46-aad9-c4d327bb4a19"
+  ]
 }

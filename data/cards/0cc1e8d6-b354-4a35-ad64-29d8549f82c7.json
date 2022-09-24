@@ -1,14 +1,23 @@
 {
-    "id": "0cc1e8d6-b354-4a35-ad64-29d8549f82c7",
-    "name": "Ajatar",
-    "set": "premiere",
-    "number": "104",
-    "image": "https://iconmaster.info/wyverndb/data/images/0cc1e8d6-b354-4a35-ad64-29d8549f82c7.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/0cc1e8d6-b354-4a35-ad64-29d8549f82c7.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32924/ajatar"
-    },
-    "rarity": "rare"
+  "id": "0cc1e8d6-b354-4a35-ad64-29d8549f82c7",
+  "name": "Ajatar",
+  "set": "premiere",
+  "number": "104",
+  "image": "https://iconmaster.info/wyverndb/data/images/0cc1e8d6-b354-4a35-ad64-29d8549f82c7.jpeg",
+  "type": "dragon",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/0cc1e8d6-b354-4a35-ad64-29d8549f82c7.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32924/ajatar"
+  },
+  "rarity": "rare",
+  "special_abilities": "AJATAR ATTACKS AT 8 STRENGTH FROM FACE DOWN AND 0 STRENGTH FROM FACE UP.",
+  "lore": "Ajatar can cause disease and curses.",
+  "all_printings": [
+    "0cc1e8d6-b354-4a35-ad64-29d8549f82c7",
+    "3d42bc3b-51da-4c7e-b941-970e2d7c7a25",
+    "b1862e55-962a-43ff-a0f9-b86f6d056e25"
+  ],
+  "strength": 4,
+  "abilities": []
 }

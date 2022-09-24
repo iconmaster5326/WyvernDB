@@ -1,14 +1,21 @@
 {
-    "id": "4c3a66be-fa90-4371-a738-0da094386338",
-    "name": "Vishnu",
-    "set": "limited",
-    "number": "178",
-    "image": "https://iconmaster.info/wyverndb/data/images/4c3a66be-fa90-4371-a738-0da094386338.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/4c3a66be-fa90-4371-a738-0da094386338.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32759/vishnu"
-    },
-    "rarity": "rare"
+  "id": "4c3a66be-fa90-4371-a738-0da094386338",
+  "name": "Vishnu",
+  "set": "limited",
+  "number": "178",
+  "image": "https://iconmaster.info/wyverndb/data/images/4c3a66be-fa90-4371-a738-0da094386338.jpeg",
+  "type": "action",
+  "gold_cost": 4,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/4c3a66be-fa90-4371-a738-0da094386338.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32759/vishnu"
+  },
+  "rarity": "rare",
+  "special_abilities": "A FACE UP DRAGON OF YOUR CHOICE MUST BE TURNED FACE DOWN.  THIS DRAGON WILL HAVE TO BE PAID FOR AGAIN THE NEXT TIME IT IS TURNED FACE UP.",
+  "lore": "",
+  "all_printings": [
+    "00ed65e5-1a46-45aa-bf28-fda063345731",
+    "4c3a66be-fa90-4371-a738-0da094386338"
+  ],
+  "subtype": "action"
 }

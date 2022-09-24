@@ -1,14 +1,20 @@
 {
-    "id": "927918a7-c54c-41b1-964e-25250c4d477c",
-    "name": "Sorcerer",
-    "set": "chameleon",
-    "number": "61",
-    "image": "https://iconmaster.info/wyverndb/data/images/927918a7-c54c-41b1-964e-25250c4d477c.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/927918a7-c54c-41b1-964e-25250c4d477c.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321285/sorcerer"
-    },
-    "rarity": "uncommon"
+  "id": "927918a7-c54c-41b1-964e-25250c4d477c",
+  "name": "Sorcerer",
+  "set": "chameleon",
+  "number": "61",
+  "image": "https://iconmaster.info/wyverndb/data/images/927918a7-c54c-41b1-964e-25250c4d477c.jpeg",
+  "type": "action",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/927918a7-c54c-41b1-964e-25250c4d477c.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321285/sorcerer"
+  },
+  "rarity": "uncommon",
+  "subtype": "reaction",
+  "special_abilities": "THE SORCERER DUPLICATES ANY ACTION OR REACTION CARD JUST PLAYED BY YOUR OPPONENT.  THE SORCERER IS ALSO PLAYABLE AS A BATTLE REACTION TO DUPLICATE ANY BATTLE ACTION JUST PLAYED BY YOUR OPPONENT.",
+  "lore": "",
+  "all_printings": [
+    "927918a7-c54c-41b1-964e-25250c4d477c"
+  ]
 }

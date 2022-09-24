@@ -1,14 +1,24 @@
 {
-    "id": "131e82f5-b243-410f-a9af-17be5c891045",
-    "name": "Tatsu",
-    "set": "kingdom",
-    "number": "272",
-    "image": "https://iconmaster.info/wyverndb/data/images/131e82f5-b243-410f-a9af-17be5c891045.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/131e82f5-b243-410f-a9af-17be5c891045.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321586/tatsu"
-    },
-    "rarity": "common"
+  "id": "131e82f5-b243-410f-a9af-17be5c891045",
+  "name": "Tatsu",
+  "set": "kingdom",
+  "number": "272",
+  "image": "https://iconmaster.info/wyverndb/data/images/131e82f5-b243-410f-a9af-17be5c891045.jpeg",
+  "type": "dragon",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/131e82f5-b243-410f-a9af-17be5c891045.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321586/tatsu"
+  },
+  "rarity": "common",
+  "strength": 0,
+  "abilities": [
+    "scout"
+  ],
+  "special_abilities": "WHEN TATSU LOSES A BATTLE YOU CAN PUT A -1 STRENGTH COUNTER ON ANY FACE UP DRAGON.",
+  "lore": "In Japanese myth, Tatsu is the sign in the Zodiac we know as Leo.",
+  "all_printings": [
+    "131e82f5-b243-410f-a9af-17be5c891045",
+    "a07bea2b-dcb9-4117-8544-1408b250afb6"
+  ]
 }

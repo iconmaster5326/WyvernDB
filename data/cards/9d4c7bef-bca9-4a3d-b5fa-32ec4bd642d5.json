@@ -1,14 +1,21 @@
 {
-    "id": "9d4c7bef-bca9-4a3d-b5fa-32ec4bd642d5",
-    "name": "Banshee",
-    "set": "kingdom",
-    "number": "248",
-    "image": "https://iconmaster.info/wyverndb/data/images/9d4c7bef-bca9-4a3d-b5fa-32ec4bd642d5.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/9d4c7bef-bca9-4a3d-b5fa-32ec4bd642d5.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321562/banshee"
-    },
-    "rarity": "common"
+  "id": "9d4c7bef-bca9-4a3d-b5fa-32ec4bd642d5",
+  "name": "Banshee",
+  "set": "kingdom",
+  "number": "248",
+  "image": "https://iconmaster.info/wyverndb/data/images/9d4c7bef-bca9-4a3d-b5fa-32ec4bd642d5.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/9d4c7bef-bca9-4a3d-b5fa-32ec4bd642d5.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321562/banshee"
+  },
+  "rarity": "common",
+  "subtype": "battle_action",
+  "special_abilities": "THE WINNER OF THIS BATTLE LOSES ONE GOLD AND GETS NO DRAW PHASE NEXT TURN.",
+  "lore": "The Banshee is a spirit that can be heard wailing at the death of a family member to whom it is attached.",
+  "all_printings": [
+    "0c1661e0-d398-48b6-9fdb-c28fed1e680b",
+    "9d4c7bef-bca9-4a3d-b5fa-32ec4bd642d5"
+  ]
 }

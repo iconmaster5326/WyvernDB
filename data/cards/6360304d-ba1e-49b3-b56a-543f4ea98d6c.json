@@ -1,14 +1,23 @@
 {
-    "id": "6360304d-ba1e-49b3-b56a-543f4ea98d6c",
-    "name": "Ai-Wa",
-    "set": "chameleon",
-    "number": "2",
-    "image": "https://iconmaster.info/wyverndb/data/images/6360304d-ba1e-49b3-b56a-543f4ea98d6c.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/6360304d-ba1e-49b3-b56a-543f4ea98d6c.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321226/ai-wa"
-    },
-    "rarity": "common"
+  "id": "6360304d-ba1e-49b3-b56a-543f4ea98d6c",
+  "name": "Ai-Wa",
+  "set": "chameleon",
+  "number": "2",
+  "image": "https://iconmaster.info/wyverndb/data/images/6360304d-ba1e-49b3-b56a-543f4ea98d6c.jpeg",
+  "type": "dragon",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/6360304d-ba1e-49b3-b56a-543f4ea98d6c.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321226/ai-wa"
+  },
+  "rarity": "common",
+  "strength": 3,
+  "abilities": [
+    "subterranean"
+  ],
+  "special_abilities": "NON-SUBTERRANEAN DRAGONS GET A -2 STRENGTH MODIFER WHILE IN BATTLE WITH AI-WA.",
+  "lore": "",
+  "all_printings": [
+    "6360304d-ba1e-49b3-b56a-543f4ea98d6c"
+  ]
 }

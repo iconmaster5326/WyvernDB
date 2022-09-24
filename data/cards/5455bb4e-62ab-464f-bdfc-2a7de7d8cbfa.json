@@ -1,14 +1,22 @@
 {
-    "id": "5455bb4e-62ab-464f-bdfc-2a7de7d8cbfa",
-    "name": "Poison Breathing",
-    "set": "kingdom",
-    "number": "69",
-    "image": "https://iconmaster.info/wyverndb/data/images/5455bb4e-62ab-464f-bdfc-2a7de7d8cbfa.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/5455bb4e-62ab-464f-bdfc-2a7de7d8cbfa.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321383/poison-breathing"
-    },
-    "rarity": "common"
+  "id": "5455bb4e-62ab-464f-bdfc-2a7de7d8cbfa",
+  "name": "Poison Breathing",
+  "set": "kingdom",
+  "number": "69",
+  "image": "https://iconmaster.info/wyverndb/data/images/5455bb4e-62ab-464f-bdfc-2a7de7d8cbfa.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/5455bb4e-62ab-464f-bdfc-2a7de7d8cbfa.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321383/poison-breathing"
+  },
+  "rarity": "common",
+  "subtype": "battle_action",
+  "special_abilities": "THE DRAGON THAT WINS THIS BATTLE LOSES 1 STRENGTH.  THIS TAKES EFFECT AFTER BATTLE FOR REST OF GAME.",
+  "lore": "",
+  "all_printings": [
+    "5455bb4e-62ab-464f-bdfc-2a7de7d8cbfa",
+    "d674a7a6-6027-4b3b-933b-d18baf42b682",
+    "f2990885-3191-42e5-b441-7cfca2f545ab"
+  ]
 }

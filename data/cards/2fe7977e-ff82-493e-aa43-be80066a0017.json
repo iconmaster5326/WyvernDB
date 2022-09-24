@@ -1,14 +1,22 @@
 {
-    "id": "2fe7977e-ff82-493e-aa43-be80066a0017",
-    "name": "Jason",
-    "set": "premiere",
-    "number": "90",
-    "image": "https://iconmaster.info/wyverndb/data/images/2fe7977e-ff82-493e-aa43-be80066a0017.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/2fe7977e-ff82-493e-aa43-be80066a0017.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32910/jason"
-    },
-    "rarity": "rare"
+  "id": "2fe7977e-ff82-493e-aa43-be80066a0017",
+  "name": "Jason",
+  "set": "premiere",
+  "number": "90",
+  "image": "https://iconmaster.info/wyverndb/data/images/2fe7977e-ff82-493e-aa43-be80066a0017.jpeg",
+  "type": "action",
+  "gold_cost": 3,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/2fe7977e-ff82-493e-aa43-be80066a0017.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32910/jason"
+  },
+  "rarity": "rare",
+  "special_abilities": "JASON KILLS ANY DRAGON.",
+  "lore": "",
+  "all_printings": [
+    "2fe7977e-ff82-493e-aa43-be80066a0017",
+    "df0b8969-36d5-422e-849e-9dcef6cf6bc7",
+    "ee4a5646-390b-4762-83e1-df653fbe653f"
+  ],
+  "subtype": "slayer_action"
 }

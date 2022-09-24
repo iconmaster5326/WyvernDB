@@ -1,14 +1,23 @@
 {
-    "id": "fe875973-1db6-4edb-81fc-329ae79c267f",
-    "name": "Cynoprosopi",
-    "set": "limited",
-    "number": "28",
-    "image": "https://iconmaster.info/wyverndb/data/images/fe875973-1db6-4edb-81fc-329ae79c267f.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/fe875973-1db6-4edb-81fc-329ae79c267f.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32609/cynoprosopi"
-    },
-    "rarity": "rare"
+  "id": "fe875973-1db6-4edb-81fc-329ae79c267f",
+  "name": "Cynoprosopi",
+  "set": "limited",
+  "number": "28",
+  "image": "https://iconmaster.info/wyverndb/data/images/fe875973-1db6-4edb-81fc-329ae79c267f.jpeg",
+  "type": "dragon",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/fe875973-1db6-4edb-81fc-329ae79c267f.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32609/cynoprosopi"
+  },
+  "rarity": "rare",
+  "special_abilities": "CYNOPROSOPI MAY GET HELP FROM A DRAGON ONE CARD AWAY IN THIS BATTLE.  FLYERS MAY HELP CYNOPROSOPI FROM ANYWHERE IN YOUR BATTLEFIELD.",
+  "lore": "Cynoprosopi lives in the Sahara Desert.",
+  "all_printings": [
+    "07b62744-ec9e-412a-81d6-6c7782cd3f13",
+    "4f32121a-98bb-45de-8c8a-005bf967ebce",
+    "fe875973-1db6-4edb-81fc-329ae79c267f"
+  ],
+  "strength": 4,
+  "abilities": []
 }

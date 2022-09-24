@@ -1,14 +1,20 @@
 {
-    "id": "83b9e225-ca67-47e2-aff0-51cac2c99c1f",
-    "name": "Red Kangaroo",
-    "set": "phoenix",
-    "number": "61",
-    "image": "https://iconmaster.info/wyverndb/data/images/83b9e225-ca67-47e2-aff0-51cac2c99c1f.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/83b9e225-ca67-47e2-aff0-51cac2c99c1f.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321195/red-kangaroo"
-    },
-    "rarity": "uncommon"
+  "id": "83b9e225-ca67-47e2-aff0-51cac2c99c1f",
+  "name": "Red Kangaroo",
+  "set": "phoenix",
+  "number": "61",
+  "image": "https://iconmaster.info/wyverndb/data/images/83b9e225-ca67-47e2-aff0-51cac2c99c1f.jpeg",
+  "type": "action",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/83b9e225-ca67-47e2-aff0-51cac2c99c1f.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321195/red-kangaroo"
+  },
+  "rarity": "uncommon",
+  "subtype": "reaction",
+  "special_abilities": "INTERCEPT ACTION JUST PLAYED IS COUNTERED AND YOU CAN DESTROY ANY CARD ON THE TABLE.",
+  "lore": "The Red Kangaroo, or Kolakola, is an Australian Aboriginal myth.",
+  "all_printings": [
+    "83b9e225-ca67-47e2-aff0-51cac2c99c1f"
+  ]
 }

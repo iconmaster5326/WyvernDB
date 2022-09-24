@@ -1,14 +1,20 @@
 {
-    "id": "8bfc3a26-d92d-4fb9-b971-359dd54c21b6",
-    "name": "Prometheus",
-    "set": "phoenix",
-    "number": "46",
-    "image": "https://iconmaster.info/wyverndb/data/images/8bfc3a26-d92d-4fb9-b971-359dd54c21b6.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/8bfc3a26-d92d-4fb9-b971-359dd54c21b6.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321180/prometheus"
-    },
-    "rarity": "uncommon"
+  "id": "8bfc3a26-d92d-4fb9-b971-359dd54c21b6",
+  "name": "Prometheus",
+  "set": "phoenix",
+  "number": "46",
+  "image": "https://iconmaster.info/wyverndb/data/images/8bfc3a26-d92d-4fb9-b971-359dd54c21b6.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/8bfc3a26-d92d-4fb9-b971-359dd54c21b6.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321180/prometheus"
+  },
+  "rarity": "uncommon",
+  "subtype": "battle_action",
+  "special_abilities": "OPPONENT MUST SHOW YOU HIS HAND AND LOSE ONE GOLD FOR EACH BATTLE ACTION CARD IN HIS HAND THAT HE DOESN'T DISCARD.",
+  "lore": "Prometheus is forever chained and suffering, but remains confident that his cause will triumph.",
+  "all_printings": [
+    "8bfc3a26-d92d-4fb9-b971-359dd54c21b6"
+  ]
 }

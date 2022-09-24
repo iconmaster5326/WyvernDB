@@ -1,14 +1,20 @@
 {
-    "id": "383566a6-af7c-49a9-b3cc-89eb61c4dd92",
-    "name": "Deep Freeze",
-    "set": "chameleon",
-    "number": "52",
-    "image": "https://iconmaster.info/wyverndb/data/images/383566a6-af7c-49a9-b3cc-89eb61c4dd92.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/383566a6-af7c-49a9-b3cc-89eb61c4dd92.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321276/deep-freeze"
-    },
-    "rarity": "uncommon"
+  "id": "383566a6-af7c-49a9-b3cc-89eb61c4dd92",
+  "name": "Deep Freeze",
+  "set": "chameleon",
+  "number": "52",
+  "image": "https://iconmaster.info/wyverndb/data/images/383566a6-af7c-49a9-b3cc-89eb61c4dd92.jpeg",
+  "type": "action",
+  "gold_cost": 3,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/383566a6-af7c-49a9-b3cc-89eb61c4dd92.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321276/deep-freeze"
+  },
+  "rarity": "uncommon",
+  "subtype": "battle_action",
+  "special_abilities": "AT THE END OF THE BATTLE, THE WINNING DRAGON'S BASE STRENGTH BECOMES ZERO (AND REMAINS ZERO) AS LONG AS DEEP FREEZE IS ON IT.  DRAGON'S OWNER MAY DISCARD THREE CARDS FROM THEIR HAND (AS AN ACTION) TO REMOVE DEEP FREEZE.",
+  "lore": "",
+  "all_printings": [
+    "383566a6-af7c-49a9-b3cc-89eb61c4dd92"
+  ]
 }

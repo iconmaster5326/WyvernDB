@@ -1,14 +1,21 @@
 {
-    "id": "18fa937f-2419-4f45-b582-627edc1c97b5",
-    "name": "Archers",
-    "set": "kingdom",
-    "number": "230",
-    "image": "https://iconmaster.info/wyverndb/data/images/18fa937f-2419-4f45-b582-627edc1c97b5.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/18fa937f-2419-4f45-b582-627edc1c97b5.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321544/archers"
-    },
-    "rarity": "rare"
+  "id": "18fa937f-2419-4f45-b582-627edc1c97b5",
+  "name": "Archers",
+  "set": "kingdom",
+  "number": "230",
+  "image": "https://iconmaster.info/wyverndb/data/images/18fa937f-2419-4f45-b582-627edc1c97b5.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/18fa937f-2419-4f45-b582-627edc1c97b5.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321544/archers"
+  },
+  "rarity": "rare",
+  "subtype": "battle_action",
+  "special_abilities": "STRENGTH MODIFIER: +2 ARCHERS CAN ONLY BE USED WHEN DEFENDING.  CANNOT BE PLAYED ON FLYING OR SUBTERRANEAN DRAGONS.",
+  "lore": "",
+  "all_printings": [
+    "18fa937f-2419-4f45-b582-627edc1c97b5",
+    "8f65f6b8-07a2-402b-8548-f0dfec16c6da"
+  ]
 }

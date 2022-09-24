@@ -1,14 +1,20 @@
 {
-    "id": "0189b229-0eeb-46f2-865e-af1aeb76223c",
-    "name": "Firefly",
-    "set": "phoenix",
-    "number": "57",
-    "image": "https://iconmaster.info/wyverndb/data/images/0189b229-0eeb-46f2-865e-af1aeb76223c.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/0189b229-0eeb-46f2-865e-af1aeb76223c.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321191/firefly"
-    },
-    "rarity": "uncommon"
+  "id": "0189b229-0eeb-46f2-865e-af1aeb76223c",
+  "name": "Firefly",
+  "set": "phoenix",
+  "number": "57",
+  "image": "https://iconmaster.info/wyverndb/data/images/0189b229-0eeb-46f2-865e-af1aeb76223c.jpeg",
+  "type": "action",
+  "gold_cost": 3,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/0189b229-0eeb-46f2-865e-af1aeb76223c.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321191/firefly"
+  },
+  "rarity": "uncommon",
+  "subtype": "intercept_action",
+  "special_abilities": "YOU CAN REDIRECT ATTACKING DRAGON TO ANY CARD WHICH THE DRAGON CAN LEGALLY ATTACK IN YOUR BATTLEFIELD.",
+  "lore": "In Japanese myth, spirits can take the form of a firefly.",
+  "all_printings": [
+    "0189b229-0eeb-46f2-865e-af1aeb76223c"
+  ]
 }

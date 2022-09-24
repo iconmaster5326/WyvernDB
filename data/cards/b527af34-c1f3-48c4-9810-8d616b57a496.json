@@ -1,14 +1,19 @@
 {
-    "id": "b527af34-c1f3-48c4-9810-8d616b57a496",
-    "name": "Gold Market",
-    "set": "chameleon",
-    "number": "76",
-    "image": "https://iconmaster.info/wyverndb/data/images/b527af34-c1f3-48c4-9810-8d616b57a496.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/b527af34-c1f3-48c4-9810-8d616b57a496.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321300/gold-market"
-    },
-    "rarity": "common"
+  "id": "b527af34-c1f3-48c4-9810-8d616b57a496",
+  "name": "Gold Market",
+  "set": "chameleon",
+  "number": "76",
+  "image": "https://iconmaster.info/wyverndb/data/images/b527af34-c1f3-48c4-9810-8d616b57a496.jpeg",
+  "type": "treasure",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/b527af34-c1f3-48c4-9810-8d616b57a496.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321300/gold-market"
+  },
+  "rarity": "common",
+  "special_abilities": "WHEN YOU PLAY THE GOLD MARKET, PUT TWO OF YOUR GOLD PIECES ON IT.  IN EACH OF YOUR DRAW PHASE PLACE ONE GOLD PIECE FROM THE GOLD MINE ON IT.  ACTION: DISCARD GOLD MARKET AND PUT ALL T HE GOLD ON IT INTO YOUR GOLD PILE.",
+  "lore": "",
+  "all_printings": [
+    "b527af34-c1f3-48c4-9810-8d616b57a496"
+  ]
 }

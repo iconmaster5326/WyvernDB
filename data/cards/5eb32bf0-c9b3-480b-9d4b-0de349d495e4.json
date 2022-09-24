@@ -1,14 +1,23 @@
 {
-    "id": "5eb32bf0-c9b3-480b-9d4b-0de349d495e4",
-    "name": "Fafnir",
-    "set": "limited",
-    "number": "8",
-    "image": "https://iconmaster.info/wyverndb/data/images/5eb32bf0-c9b3-480b-9d4b-0de349d495e4.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/5eb32bf0-c9b3-480b-9d4b-0de349d495e4.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32589/fafnir"
-    },
-    "rarity": "uncommon"
+  "id": "5eb32bf0-c9b3-480b-9d4b-0de349d495e4",
+  "name": "Fafnir",
+  "set": "limited",
+  "number": "8",
+  "image": "https://iconmaster.info/wyverndb/data/images/5eb32bf0-c9b3-480b-9d4b-0de349d495e4.jpeg",
+  "type": "dragon",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/5eb32bf0-c9b3-480b-9d4b-0de349d495e4.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32589/fafnir"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "DWARVEN ARMIES CANNOT BE USED BY EITHER SIDE IN A BATTLE THAT FAFNIR IS PART OF.",
+  "lore": "This Germanic Dragon was once a Dwarf.  Upon dying his blood grants both knowledge and invulnerability.",
+  "all_printings": [
+    "213267bf-3724-4a0b-8be1-1a11d0b27c23",
+    "5eb32bf0-c9b3-480b-9d4b-0de349d495e4",
+    "ecdf26d0-b718-428f-9e1c-9b22cbc9e320"
+  ],
+  "strength": 2,
+  "abilities": []
 }

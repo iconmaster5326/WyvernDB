@@ -1,14 +1,21 @@
 {
-    "id": "6c3d82c0-d6e0-46d8-9430-df00d120f4fa",
-    "name": "Sword",
-    "set": "kingdom",
-    "number": "56",
-    "image": "https://iconmaster.info/wyverndb/data/images/6c3d82c0-d6e0-46d8-9430-df00d120f4fa.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/6c3d82c0-d6e0-46d8-9430-df00d120f4fa.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321370/sword"
-    },
-    "rarity": "common"
+  "id": "6c3d82c0-d6e0-46d8-9430-df00d120f4fa",
+  "name": "Sword",
+  "set": "kingdom",
+  "number": "56",
+  "image": "https://iconmaster.info/wyverndb/data/images/6c3d82c0-d6e0-46d8-9430-df00d120f4fa.jpeg",
+  "type": "treasure",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/6c3d82c0-d6e0-46d8-9430-df00d120f4fa.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321370/sword"
+  },
+  "rarity": "common",
+  "special_abilities": "DRAGONS IN THIS ROW GAIN +1 STRENGTH WHEN ATTACKING.",
+  "lore": "",
+  "all_printings": [
+    "6c3d82c0-d6e0-46d8-9430-df00d120f4fa",
+    "a9548cb2-51ef-4bf3-adf6-50011d3fd62a",
+    "dcb47396-4729-4bc4-81de-36aec82a3835"
+  ]
 }

@@ -1,14 +1,22 @@
 {
-    "id": "3e58f428-0266-43e7-8dcb-9ae72790ab82",
-    "name": "Meteor Shower",
-    "set": "kingdom",
-    "number": "124",
-    "image": "https://iconmaster.info/wyverndb/data/images/3e58f428-0266-43e7-8dcb-9ae72790ab82.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/3e58f428-0266-43e7-8dcb-9ae72790ab82.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321438/meteor-shower"
-    },
-    "rarity": "common"
+  "id": "3e58f428-0266-43e7-8dcb-9ae72790ab82",
+  "name": "Meteor Shower",
+  "set": "kingdom",
+  "number": "124",
+  "image": "https://iconmaster.info/wyverndb/data/images/3e58f428-0266-43e7-8dcb-9ae72790ab82.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/3e58f428-0266-43e7-8dcb-9ae72790ab82.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321438/meteor-shower"
+  },
+  "rarity": "common",
+  "subtype": "action",
+  "special_abilities": "ALL PLAYERS DISCARD THEIR HANDS AND DRAW 5 CARDS FROM THEIR TREASURE HORDE DRAW PILES.",
+  "lore": "",
+  "all_printings": [
+    "0972edb2-6d5c-4bf7-936b-366d4b7e3f8d",
+    "3e58f428-0266-43e7-8dcb-9ae72790ab82",
+    "ec8dbfd4-c58f-4fb8-854f-62348f812338"
+  ]
 }

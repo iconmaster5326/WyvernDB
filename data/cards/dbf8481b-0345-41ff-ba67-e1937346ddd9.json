@@ -1,14 +1,20 @@
 {
-    "id": "dbf8481b-0345-41ff-ba67-e1937346ddd9",
-    "name": "Harpies",
-    "set": "phoenix",
-    "number": "38",
-    "image": "https://iconmaster.info/wyverndb/data/images/dbf8481b-0345-41ff-ba67-e1937346ddd9.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/dbf8481b-0345-41ff-ba67-e1937346ddd9.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321172/harpies"
-    },
-    "rarity": "common"
+  "id": "dbf8481b-0345-41ff-ba67-e1937346ddd9",
+  "name": "Harpies",
+  "set": "phoenix",
+  "number": "38",
+  "image": "https://iconmaster.info/wyverndb/data/images/dbf8481b-0345-41ff-ba67-e1937346ddd9.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/dbf8481b-0345-41ff-ba67-e1937346ddd9.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321172/harpies"
+  },
+  "rarity": "common",
+  "subtype": "hidden_action",
+  "special_abilities": "PLAY HARPIES FACE DOWN UNDER ONE OF YOUR FACE DOWN FLYING DRAGONS.  DRAGON GAINS +1 STRENGTH WHEN ATTACKING AS LONG AS HARPIES ARE ON THE DRAGON.",
+  "lore": "",
+  "all_printings": [
+    "dbf8481b-0345-41ff-ba67-e1937346ddd9"
+  ]
 }

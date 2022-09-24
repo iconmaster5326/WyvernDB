@@ -1,14 +1,22 @@
 {
-    "id": "99314431-10fe-4019-90a1-469cfe4e9af0",
-    "name": "Yellow",
-    "set": "limited",
-    "number": "155",
-    "image": "https://iconmaster.info/wyverndb/data/images/99314431-10fe-4019-90a1-469cfe4e9af0.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/99314431-10fe-4019-90a1-469cfe4e9af0.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32736/yellow"
-    },
-    "rarity": "rare"
+  "id": "99314431-10fe-4019-90a1-469cfe4e9af0",
+  "name": "Yellow",
+  "set": "limited",
+  "number": "155",
+  "image": "https://iconmaster.info/wyverndb/data/images/99314431-10fe-4019-90a1-469cfe4e9af0.jpeg",
+  "type": "dragon",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/99314431-10fe-4019-90a1-469cfe4e9af0.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32736/yellow"
+  },
+  "rarity": "rare",
+  "special_abilities": "IMMUNE TO DRAGON SLAYERS.  YOU GET ONE GOLD FROM GOLD MINE EACH OF YOUR DRAW PHASES YELLOW DRAGON IS FACE UP.",
+  "lore": "Chinese Dragon that rules over the last month of summer.",
+  "all_printings": [
+    "99314431-10fe-4019-90a1-469cfe4e9af0",
+    "d261ffe2-98cf-4fe4-81f3-20c23142f5aa"
+  ],
+  "strength": 4,
+  "abilities": []
 }

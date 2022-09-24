@@ -1,14 +1,21 @@
 {
-    "id": "b23b7e30-ea69-4e9a-b233-cc9c0219c046",
-    "name": "Jewels",
-    "set": "kingdom",
-    "number": "54",
-    "image": "https://iconmaster.info/wyverndb/data/images/b23b7e30-ea69-4e9a-b233-cc9c0219c046.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/b23b7e30-ea69-4e9a-b233-cc9c0219c046.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321368/jewels"
-    },
-    "rarity": "common"
+  "id": "b23b7e30-ea69-4e9a-b233-cc9c0219c046",
+  "name": "Jewels",
+  "set": "kingdom",
+  "number": "54",
+  "image": "https://iconmaster.info/wyverndb/data/images/b23b7e30-ea69-4e9a-b233-cc9c0219c046.jpeg",
+  "type": "treasure",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/b23b7e30-ea69-4e9a-b233-cc9c0219c046.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321368/jewels"
+  },
+  "rarity": "common",
+  "special_abilities": "DRAGONS IN THIS ROW GAIN +1 STRENGTH WHEN DEFENDING.",
+  "lore": "",
+  "all_printings": [
+    "77a599f9-9277-406f-a23b-efad58f18879",
+    "b23b7e30-ea69-4e9a-b233-cc9c0219c046",
+    "b2773f5a-854f-4771-89a0-fb8cd7db94bf"
+  ]
 }

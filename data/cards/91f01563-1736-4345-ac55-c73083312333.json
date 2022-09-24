@@ -1,14 +1,22 @@
 {
-    "id": "91f01563-1736-4345-ac55-c73083312333",
-    "name": "Pi-Hsi",
-    "set": "limited",
-    "number": "143",
-    "image": "https://iconmaster.info/wyverndb/data/images/91f01563-1736-4345-ac55-c73083312333.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/91f01563-1736-4345-ac55-c73083312333.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32724/pi-hsi"
-    },
-    "rarity": "uncommon"
+  "id": "91f01563-1736-4345-ac55-c73083312333",
+  "name": "Pi-Hsi",
+  "set": "limited",
+  "number": "143",
+  "image": "https://iconmaster.info/wyverndb/data/images/91f01563-1736-4345-ac55-c73083312333.jpeg",
+  "type": "dragon",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/91f01563-1736-4345-ac55-c73083312333.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32724/pi-hsi"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "PI-HSI GAINS +2 STRENGTH IN CURRENT BATTLE IF A TREASURE IN THIS ROW IS DISCARDED.",
+  "lore": "Pi-Hsi is Dragon Ruler of the Rivers.",
+  "all_printings": [
+    "91f01563-1736-4345-ac55-c73083312333",
+    "c6544076-37c4-4557-8e94-0804a6a8c112"
+  ],
+  "strength": 2,
+  "abilities": []
 }

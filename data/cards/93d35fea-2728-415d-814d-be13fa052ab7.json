@@ -1,14 +1,21 @@
 {
-    "id": "93d35fea-2728-415d-814d-be13fa052ab7",
-    "name": "Quicksand",
-    "set": "limited",
-    "number": "46",
-    "image": "https://iconmaster.info/wyverndb/data/images/93d35fea-2728-415d-814d-be13fa052ab7.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/93d35fea-2728-415d-814d-be13fa052ab7.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32627/quicksand"
-    },
-    "rarity": "rare"
+  "id": "93d35fea-2728-415d-814d-be13fa052ab7",
+  "name": "Quicksand",
+  "set": "limited",
+  "number": "46",
+  "image": "https://iconmaster.info/wyverndb/data/images/93d35fea-2728-415d-814d-be13fa052ab7.jpeg",
+  "type": "terrain",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/93d35fea-2728-415d-814d-be13fa052ab7.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32627/quicksand"
+  },
+  "rarity": "rare",
+  "special_abilities": "QUICKSAND CAUSES DRAGON TO LOSE ONE STRENGTH IMMEDIATELY AND ONE STRENGTH DURING EACH OF DRAGON OWNER'S DRAW PHASES.",
+  "lore": "",
+  "all_printings": [
+    "93d35fea-2728-415d-814d-be13fa052ab7",
+    "aae87c2d-dc11-4c24-a8c6-20e3ed0e365b",
+    "c8d9aaa9-6c0c-45bb-8082-6bc36bf143fe"
+  ]
 }

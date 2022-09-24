@@ -1,14 +1,20 @@
 {
-    "id": "eb32bd33-c9f5-4d6e-b19d-ca73bcc45420",
-    "name": "Windfall",
-    "set": "chameleon",
-    "number": "40",
-    "image": "https://iconmaster.info/wyverndb/data/images/eb32bd33-c9f5-4d6e-b19d-ca73bcc45420.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/eb32bd33-c9f5-4d6e-b19d-ca73bcc45420.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321264/windfall"
-    },
-    "rarity": "common"
+  "id": "eb32bd33-c9f5-4d6e-b19d-ca73bcc45420",
+  "name": "Windfall",
+  "set": "chameleon",
+  "number": "40",
+  "image": "https://iconmaster.info/wyverndb/data/images/eb32bd33-c9f5-4d6e-b19d-ca73bcc45420.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/eb32bd33-c9f5-4d6e-b19d-ca73bcc45420.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321264/windfall"
+  },
+  "rarity": "common",
+  "subtype": "action",
+  "special_abilities": "EACH PLAYER GAINS ONE GOLD PIECE FROM THE GOLD MINE FOR EACH FACE UP DRAGON IN HIS OR HER BATTLEFIELD WHEN WINDFALL IS PLAYED.",
+  "lore": "",
+  "all_printings": [
+    "eb32bd33-c9f5-4d6e-b19d-ca73bcc45420"
+  ]
 }

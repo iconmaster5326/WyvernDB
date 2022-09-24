@@ -1,14 +1,24 @@
 {
-    "id": "e42530ca-4643-491e-9dbe-d068ca5dae07",
-    "name": "Mo-o",
-    "set": "limited",
-    "number": "139",
-    "image": "https://iconmaster.info/wyverndb/data/images/e42530ca-4643-491e-9dbe-d068ca5dae07.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/e42530ca-4643-491e-9dbe-d068ca5dae07.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32720/mo-o"
-    },
-    "rarity": "uncommon"
+  "id": "e42530ca-4643-491e-9dbe-d068ca5dae07",
+  "name": "Mo-o",
+  "set": "limited",
+  "number": "139",
+  "image": "https://iconmaster.info/wyverndb/data/images/e42530ca-4643-491e-9dbe-d068ca5dae07.jpeg",
+  "type": "dragon",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/e42530ca-4643-491e-9dbe-d068ca5dae07.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32720/mo-o"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "GET ONE GOLD PIECE FROM THE GOLD MINE EACH TIME MO-O DISCOVERS A TERRAIN.",
+  "lore": "Mo-o is one of many Hawaiian Dragons.",
+  "all_printings": [
+    "e42530ca-4643-491e-9dbe-d068ca5dae07",
+    "eb784d4a-b9ce-4f9d-bfbb-520f414d4a9d"
+  ],
+  "strength": 0,
+  "abilities": [
+    "scout"
+  ]
 }

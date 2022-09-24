@@ -1,14 +1,22 @@
 {
-    "id": "42d854ec-e3ff-4bf4-81fc-b8018e416546",
-    "name": "Earthly Naga",
-    "set": "phoenix",
-    "number": "82",
-    "image": "https://iconmaster.info/wyverndb/data/images/42d854ec-e3ff-4bf4-81fc-b8018e416546.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/42d854ec-e3ff-4bf4-81fc-b8018e416546.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321216/earthly-naga"
-    },
-    "rarity": "uncommon"
+  "id": "42d854ec-e3ff-4bf4-81fc-b8018e416546",
+  "name": "Earthly Naga",
+  "set": "phoenix",
+  "number": "82",
+  "image": "https://iconmaster.info/wyverndb/data/images/42d854ec-e3ff-4bf4-81fc-b8018e416546.jpeg",
+  "type": "dragon",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/42d854ec-e3ff-4bf4-81fc-b8018e416546.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321216/earthly-naga"
+  },
+  "rarity": "uncommon",
+  "strength": 0,
+  "abilities": [],
+  "special_abilities": "EARTHLY NAGA GAINS +1 STRENGTH FOR EACH TERRAIN CARD ON HIM.  IGNORE ALL OTHER EFFECTS OF TERRAIN CARD EXCEPT GOLD SYMBOLS.",
+  "lore": "Earthly Naga is the Indian Dragon that clears out rivers.",
+  "all_printings": [
+    "286dacee-927c-4400-8db9-bf44e12d78dc",
+    "42d854ec-e3ff-4bf4-81fc-b8018e416546"
+  ]
 }

@@ -1,14 +1,23 @@
 {
-    "id": "0a6ab658-87a1-4163-ad94-dbcb2393908e",
-    "name": "Echidna",
-    "set": "kingdom",
-    "number": "17",
-    "image": "https://iconmaster.info/wyverndb/data/images/0a6ab658-87a1-4163-ad94-dbcb2393908e.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/0a6ab658-87a1-4163-ad94-dbcb2393908e.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321331/echidna"
-    },
-    "rarity": "uncommon"
+  "id": "0a6ab658-87a1-4163-ad94-dbcb2393908e",
+  "name": "Echidna",
+  "set": "kingdom",
+  "number": "17",
+  "image": "https://iconmaster.info/wyverndb/data/images/0a6ab658-87a1-4163-ad94-dbcb2393908e.jpeg",
+  "type": "dragon",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/0a6ab658-87a1-4163-ad94-dbcb2393908e.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321331/echidna"
+  },
+  "rarity": "uncommon",
+  "strength": 3,
+  "abilities": [],
+  "special_abilities": "IF ECHIDNA WINS A BATTLE YOU MAY TURN ANY FACE UP DRAGON FACE DOWN.",
+  "lore": "Echidna dwells in the 'secret parts' of the earth underground.",
+  "all_printings": [
+    "03e9b03a-7120-424c-86b9-25e545485535",
+    "0a6ab658-87a1-4163-ad94-dbcb2393908e",
+    "bc8ad9d1-ee89-478f-8035-c1ee37214ed9"
+  ]
 }

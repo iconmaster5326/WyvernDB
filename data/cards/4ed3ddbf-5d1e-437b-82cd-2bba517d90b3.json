@@ -1,14 +1,23 @@
 {
-    "id": "4ed3ddbf-5d1e-437b-82cd-2bba517d90b3",
-    "name": "Shapeshifter",
-    "set": "kingdom",
-    "number": "30",
-    "image": "https://iconmaster.info/wyverndb/data/images/4ed3ddbf-5d1e-437b-82cd-2bba517d90b3.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/4ed3ddbf-5d1e-437b-82cd-2bba517d90b3.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321344/shapeshifter"
-    },
-    "rarity": "rare"
+  "id": "4ed3ddbf-5d1e-437b-82cd-2bba517d90b3",
+  "name": "Shapeshifter",
+  "set": "kingdom",
+  "number": "30",
+  "image": "https://iconmaster.info/wyverndb/data/images/4ed3ddbf-5d1e-437b-82cd-2bba517d90b3.jpeg",
+  "type": "dragon",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/4ed3ddbf-5d1e-437b-82cd-2bba517d90b3.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321344/shapeshifter"
+  },
+  "rarity": "rare",
+  "strength": 3,
+  "abilities": [],
+  "special_abilities": "SHAPESHIFTER TAKES ON THE BASE STRENGTH OF ONE DRAGON ATTACKING IT OR DEFENDING AGAINST IT.",
+  "lore": "",
+  "all_printings": [
+    "2cbed509-4a3c-4320-af24-684e6f847695",
+    "4ed3ddbf-5d1e-437b-82cd-2bba517d90b3",
+    "6cb69c26-d123-4c66-bbef-36bd6db6a42c"
+  ]
 }

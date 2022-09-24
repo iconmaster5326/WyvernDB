@@ -1,14 +1,21 @@
 {
-    "id": "39876206-d59c-46cf-8539-134f92ad85d1",
-    "name": "Fortuna",
-    "set": "phoenix",
-    "number": "29",
-    "image": "https://iconmaster.info/wyverndb/data/images/39876206-d59c-46cf-8539-134f92ad85d1.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/39876206-d59c-46cf-8539-134f92ad85d1.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321163/fortuna"
-    },
-    "rarity": "uncommon"
+  "id": "39876206-d59c-46cf-8539-134f92ad85d1",
+  "name": "Fortuna",
+  "set": "phoenix",
+  "number": "29",
+  "image": "https://iconmaster.info/wyverndb/data/images/39876206-d59c-46cf-8539-134f92ad85d1.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/39876206-d59c-46cf-8539-134f92ad85d1.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321163/fortuna"
+  },
+  "rarity": "uncommon",
+  "subtype": "battle_action",
+  "special_abilities": "ANY STRENGTH MODIFIER PLAYED DURING THIS BATTLE BY ANY PLAYER CANNOT BE STOPPED BY A BATTLE ACTION OR REACTION CARD.",
+  "lore": "Fortuna is the Roman Goddess of good luck.",
+  "all_printings": [
+    "39876206-d59c-46cf-8539-134f92ad85d1",
+    "f189d7d9-958d-4c87-a8d1-a606b4814cee"
+  ]
 }

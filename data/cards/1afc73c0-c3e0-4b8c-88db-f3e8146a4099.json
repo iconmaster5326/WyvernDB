@@ -1,14 +1,21 @@
 {
-    "id": "1afc73c0-c3e0-4b8c-88db-f3e8146a4099",
-    "name": "Village",
-    "set": "kingdom",
-    "number": "200",
-    "image": "https://iconmaster.info/wyverndb/data/images/1afc73c0-c3e0-4b8c-88db-f3e8146a4099.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/1afc73c0-c3e0-4b8c-88db-f3e8146a4099.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321514/village"
-    },
-    "rarity": "common"
+  "id": "1afc73c0-c3e0-4b8c-88db-f3e8146a4099",
+  "name": "Village",
+  "set": "kingdom",
+  "number": "200",
+  "image": "https://iconmaster.info/wyverndb/data/images/1afc73c0-c3e0-4b8c-88db-f3e8146a4099.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/1afc73c0-c3e0-4b8c-88db-f3e8146a4099.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321514/village"
+  },
+  "rarity": "common",
+  "subtype": "action",
+  "special_abilities": "REMOVE ANY ONE CARD FROM A DRAGON.",
+  "lore": "",
+  "all_printings": [
+    "1afc73c0-c3e0-4b8c-88db-f3e8146a4099",
+    "49eb3ee0-5cab-41da-a1b9-295a74d5e808"
+  ]
 }

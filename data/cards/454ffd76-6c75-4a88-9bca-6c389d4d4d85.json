@@ -1,14 +1,22 @@
 {
-    "id": "454ffd76-6c75-4a88-9bca-6c389d4d4d85",
-    "name": "Sito",
-    "set": "limited",
-    "number": "167",
-    "image": "https://iconmaster.info/wyverndb/data/images/454ffd76-6c75-4a88-9bca-6c389d4d4d85.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/454ffd76-6c75-4a88-9bca-6c389d4d4d85.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32748/sito"
-    },
-    "rarity": "uncommon"
+  "id": "454ffd76-6c75-4a88-9bca-6c389d4d4d85",
+  "name": "Sito",
+  "set": "limited",
+  "number": "167",
+  "image": "https://iconmaster.info/wyverndb/data/images/454ffd76-6c75-4a88-9bca-6c389d4d4d85.jpeg",
+  "type": "dragon",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/454ffd76-6c75-4a88-9bca-6c389d4d4d85.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32748/sito"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "WHEN SITO WINS A BATTLE YOU GET ONE GOLD PIECE FROM THE GOLD MINE.",
+  "lore": "Sito is the Devine Serpent of Egypt.",
+  "all_printings": [
+    "3c2369db-174d-4f38-ad86-93ce57e02144",
+    "454ffd76-6c75-4a88-9bca-6c389d4d4d85"
+  ],
+  "strength": 4,
+  "abilities": []
 }

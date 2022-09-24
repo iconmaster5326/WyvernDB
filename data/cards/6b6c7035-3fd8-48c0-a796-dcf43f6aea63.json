@@ -1,14 +1,20 @@
 {
-    "id": "6b6c7035-3fd8-48c0-a796-dcf43f6aea63",
-    "name": "Thor's Hammer",
-    "set": "chameleon",
-    "number": "58",
-    "image": "https://iconmaster.info/wyverndb/data/images/6b6c7035-3fd8-48c0-a796-dcf43f6aea63.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/6b6c7035-3fd8-48c0-a796-dcf43f6aea63.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321282/thors-hammer"
-    },
-    "rarity": "common"
+  "id": "6b6c7035-3fd8-48c0-a796-dcf43f6aea63",
+  "name": "Thor's Hammer",
+  "set": "chameleon",
+  "number": "58",
+  "image": "https://iconmaster.info/wyverndb/data/images/6b6c7035-3fd8-48c0-a796-dcf43f6aea63.jpeg",
+  "type": "action",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/6b6c7035-3fd8-48c0-a796-dcf43f6aea63.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321282/thors-hammer"
+  },
+  "rarity": "common",
+  "subtype": "battle_action",
+  "special_abilities": "TARGET DRAGON'S BASE STRENGTH IS DOUBLED FOR THE REST OF THIS BATTLE.  NO MORE THAN ONE THOR'S HAMMER MAY BE PLAYED ON EACH DRAGON.",
+  "lore": "",
+  "all_printings": [
+    "6b6c7035-3fd8-48c0-a796-dcf43f6aea63"
+  ]
 }

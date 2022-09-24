@@ -1,14 +1,20 @@
 {
-    "id": "19dd9b62-a381-441b-8ec4-baa2ff625b5a",
-    "name": "Badger",
-    "set": "phoenix",
-    "number": "54",
-    "image": "https://iconmaster.info/wyverndb/data/images/19dd9b62-a381-441b-8ec4-baa2ff625b5a.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/19dd9b62-a381-441b-8ec4-baa2ff625b5a.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321188/badger"
-    },
-    "rarity": "uncommon"
+  "id": "19dd9b62-a381-441b-8ec4-baa2ff625b5a",
+  "name": "Badger",
+  "set": "phoenix",
+  "number": "54",
+  "image": "https://iconmaster.info/wyverndb/data/images/19dd9b62-a381-441b-8ec4-baa2ff625b5a.jpeg",
+  "type": "action",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/19dd9b62-a381-441b-8ec4-baa2ff625b5a.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321188/badger"
+  },
+  "rarity": "uncommon",
+  "subtype": "battle_action",
+  "special_abilities": "TRADE HANDS WITH YOUR OPPONENT UNTIL THE END OF THIS BATTLE.",
+  "lore": "In Chinese myth, the badger is full of mischief and playfulness.  The badger is a shapeshifter in Japanese myth.",
+  "all_printings": [
+    "19dd9b62-a381-441b-8ec4-baa2ff625b5a"
+  ]
 }

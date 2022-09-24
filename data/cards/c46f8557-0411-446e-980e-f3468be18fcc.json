@@ -1,14 +1,19 @@
 {
-    "id": "c46f8557-0411-446e-980e-f3468be18fcc",
-    "name": "Hidden Gold",
-    "set": "chameleon",
-    "number": "89",
-    "image": "https://iconmaster.info/wyverndb/data/images/c46f8557-0411-446e-980e-f3468be18fcc.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/c46f8557-0411-446e-980e-f3468be18fcc.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321313/hidden-gold"
-    },
-    "rarity": "common"
+  "id": "c46f8557-0411-446e-980e-f3468be18fcc",
+  "name": "Hidden Gold",
+  "set": "chameleon",
+  "number": "89",
+  "image": "https://iconmaster.info/wyverndb/data/images/c46f8557-0411-446e-980e-f3468be18fcc.jpeg",
+  "type": "treasure",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/c46f8557-0411-446e-980e-f3468be18fcc.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321313/hidden-gold"
+  },
+  "rarity": "common",
+  "special_abilities": "ON EACH OF YOUR DRAW PHASES THAT YOU BEGIN WITH NO GOLD IN YOUR GOLD PILE, GAIN ONE GOLD PIECE FROM THE GOLD MINE.",
+  "lore": "",
+  "all_printings": [
+    "c46f8557-0411-446e-980e-f3468be18fcc"
+  ]
 }

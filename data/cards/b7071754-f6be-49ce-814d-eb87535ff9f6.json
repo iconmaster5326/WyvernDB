@@ -1,14 +1,22 @@
 {
-    "id": "b7071754-f6be-49ce-814d-eb87535ff9f6",
-    "name": "Battle Chaos",
-    "set": "limited",
-    "number": "133",
-    "image": "https://iconmaster.info/wyverndb/data/images/b7071754-f6be-49ce-814d-eb87535ff9f6.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/b7071754-f6be-49ce-814d-eb87535ff9f6.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32714/battle-chaos"
-    },
-    "rarity": "common"
+  "id": "b7071754-f6be-49ce-814d-eb87535ff9f6",
+  "name": "Battle Chaos",
+  "set": "limited",
+  "number": "133",
+  "image": "https://iconmaster.info/wyverndb/data/images/b7071754-f6be-49ce-814d-eb87535ff9f6.jpeg",
+  "type": "action",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/b7071754-f6be-49ce-814d-eb87535ff9f6.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32714/battle-chaos"
+  },
+  "rarity": "common",
+  "special_abilities": "ALL PLAYERS MAY BRING AS MANY DRAGONS AS THEY WANT INTO THIS BATTLE FROM ANYWHERE IN THEIR BATTLEFIELDS.",
+  "lore": "",
+  "all_printings": [
+    "b7071754-f6be-49ce-814d-eb87535ff9f6",
+    "cbfacc83-e329-4246-b39d-f83d88f65efa",
+    "d2436510-cd2f-40ca-a9f6-6e9338ee6618"
+  ],
+  "subtype": "battle_action"
 }

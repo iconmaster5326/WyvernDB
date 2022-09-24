@@ -1,14 +1,23 @@
 {
-    "id": "07f7244b-b0ed-49df-84de-5000ea813594",
-    "name": "Gani",
-    "set": "limited",
-    "number": "92",
-    "image": "https://iconmaster.info/wyverndb/data/images/07f7244b-b0ed-49df-84de-5000ea813594.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/07f7244b-b0ed-49df-84de-5000ea813594.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32673/gani"
-    },
-    "rarity": "uncommon"
+  "id": "07f7244b-b0ed-49df-84de-5000ea813594",
+  "name": "Gani",
+  "set": "limited",
+  "number": "92",
+  "image": "https://iconmaster.info/wyverndb/data/images/07f7244b-b0ed-49df-84de-5000ea813594.jpeg",
+  "type": "dragon",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/07f7244b-b0ed-49df-84de-5000ea813594.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32673/gani"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "IF GANI IS FACE UP NO TREASURE CAN BE REMOVED FROM THIS ROW BY OPPONENT.",
+  "lore": "Gani is a Persian Dragon that guards treasure.",
+  "all_printings": [
+    "07f7244b-b0ed-49df-84de-5000ea813594",
+    "a6ef2b57-2048-4022-bf3d-c819a29ba6b0",
+    "b1b44094-8bb3-44f3-bb2d-c05e8b8e460a"
+  ],
+  "strength": 3,
+  "abilities": []
 }

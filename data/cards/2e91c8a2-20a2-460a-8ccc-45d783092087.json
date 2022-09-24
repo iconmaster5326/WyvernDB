@@ -1,14 +1,23 @@
 {
-    "id": "2e91c8a2-20a2-460a-8ccc-45d783092087",
-    "name": "Drachenfels",
-    "set": "chameleon",
-    "number": "17",
-    "image": "https://iconmaster.info/wyverndb/data/images/2e91c8a2-20a2-460a-8ccc-45d783092087.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/2e91c8a2-20a2-460a-8ccc-45d783092087.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321241/drachenfels"
-    },
-    "rarity": "uncommon"
+  "id": "2e91c8a2-20a2-460a-8ccc-45d783092087",
+  "name": "Drachenfels",
+  "set": "chameleon",
+  "number": "17",
+  "image": "https://iconmaster.info/wyverndb/data/images/2e91c8a2-20a2-460a-8ccc-45d783092087.jpeg",
+  "type": "dragon",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/2e91c8a2-20a2-460a-8ccc-45d783092087.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321241/drachenfels"
+  },
+  "rarity": "uncommon",
+  "strength": 4,
+  "abilities": [
+    "flying"
+  ],
+  "special_abilities": "NATIVE TERRAIN: MOUNTAIN.  BATTLE ACTION: PAY ONE GOLD PIECE; OPPOSING DRAGON GETS A -1 STRENGTH COUNTER.  THIS MAY BE DONE ONCE PER BATTLE.",
+  "lore": "",
+  "all_printings": [
+    "2e91c8a2-20a2-460a-8ccc-45d783092087"
+  ]
 }

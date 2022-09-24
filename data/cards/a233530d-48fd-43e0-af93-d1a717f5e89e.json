@@ -1,14 +1,22 @@
 {
-    "id": "a233530d-48fd-43e0-af93-d1a717f5e89e",
-    "name": "Turn the Tables",
-    "set": "limited",
-    "number": "135",
-    "image": "https://iconmaster.info/wyverndb/data/images/a233530d-48fd-43e0-af93-d1a717f5e89e.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/a233530d-48fd-43e0-af93-d1a717f5e89e.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32716/turn-the-tables"
-    },
-    "rarity": "rare"
+  "id": "a233530d-48fd-43e0-af93-d1a717f5e89e",
+  "name": "Turn the Tables",
+  "set": "limited",
+  "number": "135",
+  "image": "https://iconmaster.info/wyverndb/data/images/a233530d-48fd-43e0-af93-d1a717f5e89e.jpeg",
+  "type": "action",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/a233530d-48fd-43e0-af93-d1a717f5e89e.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32716/turn-the-tables"
+  },
+  "rarity": "rare",
+  "special_abilities": "YOU MUST PLAY TURN THE TABLES DURING YOUR OPPONENT'S TURN.  YOU DECIDE WHICH CARD OF YOURS GETS ATTACKED THIS TURN.  OPPONENT MUST ATTACK IF POSSIBLE.",
+  "lore": "",
+  "all_printings": [
+    "2d4f04a8-5004-499f-9b0c-3eba089af128",
+    "a233530d-48fd-43e0-af93-d1a717f5e89e",
+    "d9d1c3e1-bbb3-409f-961b-5e4a8c97abb6"
+  ],
+  "subtype": "action"
 }

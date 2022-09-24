@@ -1,14 +1,20 @@
 {
-    "id": "dfdadf24-8f08-46e6-8056-97e8419d45e9",
-    "name": "Ruins",
-    "set": "kingdom",
-    "number": "206",
-    "image": "https://iconmaster.info/wyverndb/data/images/dfdadf24-8f08-46e6-8056-97e8419d45e9.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/dfdadf24-8f08-46e6-8056-97e8419d45e9.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321520/ruins"
-    },
-    "rarity": "uncommon"
+  "id": "dfdadf24-8f08-46e6-8056-97e8419d45e9",
+  "name": "Ruins",
+  "set": "kingdom",
+  "number": "206",
+  "image": "https://iconmaster.info/wyverndb/data/images/dfdadf24-8f08-46e6-8056-97e8419d45e9.jpeg",
+  "type": "terrain",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/dfdadf24-8f08-46e6-8056-97e8419d45e9.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321520/ruins"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "IF THIS DRAGON IS TURNED FACE DOWN IT MUST BE PAID FOR AGAIN WHEN IT IS TURNED FACE UP.",
+  "lore": "",
+  "all_printings": [
+    "4c29746a-bdf3-4264-97c5-ef36e6424b17",
+    "dfdadf24-8f08-46e6-8056-97e8419d45e9"
+  ]
 }

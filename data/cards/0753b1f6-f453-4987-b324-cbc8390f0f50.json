@@ -1,14 +1,22 @@
 {
-    "id": "0753b1f6-f453-4987-b324-cbc8390f0f50",
-    "name": "Lotan",
-    "set": "limited",
-    "number": "168",
-    "image": "https://iconmaster.info/wyverndb/data/images/0753b1f6-f453-4987-b324-cbc8390f0f50.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/0753b1f6-f453-4987-b324-cbc8390f0f50.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32749/lotan"
-    },
-    "rarity": "uncommon"
+  "id": "0753b1f6-f453-4987-b324-cbc8390f0f50",
+  "name": "Lotan",
+  "set": "limited",
+  "number": "168",
+  "image": "https://iconmaster.info/wyverndb/data/images/0753b1f6-f453-4987-b324-cbc8390f0f50.jpeg",
+  "type": "dragon",
+  "gold_cost": 1,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/0753b1f6-f453-4987-b324-cbc8390f0f50.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32749/lotan"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "NO BATTLE ACTION CARDS CAN BE USED BY EITHER SIDE IN BATTLE WITH LOTAN.",
+  "lore": "Lotan is a Primeval Serpent with seven heads from Cananite mythology.",
+  "all_printings": [
+    "0753b1f6-f453-4987-b324-cbc8390f0f50",
+    "80b6d85a-7f1c-48ab-b2cf-9ba99c56adf1"
+  ],
+  "strength": 3,
+  "abilities": []
 }

@@ -1,14 +1,20 @@
 {
-    "id": "f052aefa-78ed-400d-8e98-c02185250f00",
-    "name": "Valhalla",
-    "set": "phoenix",
-    "number": "50",
-    "image": "https://iconmaster.info/wyverndb/data/images/f052aefa-78ed-400d-8e98-c02185250f00.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/f052aefa-78ed-400d-8e98-c02185250f00.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321184/valhalla"
-    },
-    "rarity": "uncommon"
+  "id": "f052aefa-78ed-400d-8e98-c02185250f00",
+  "name": "Valhalla",
+  "set": "phoenix",
+  "number": "50",
+  "image": "https://iconmaster.info/wyverndb/data/images/f052aefa-78ed-400d-8e98-c02185250f00.jpeg",
+  "type": "treasure",
+  "gold_cost": 0,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/f052aefa-78ed-400d-8e98-c02185250f00.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321184/valhalla"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "ANY DRAGON SLAYER PLAYED BY ANY PLAYER COSTS ZERO GOLD TO PLAY AS LONG AS VALHALLA IS IN PLAY.",
+  "lore": "Valhalla is the great feasting hall of the castle Gladsheim in Asgard.",
+  "all_printings": [
+    "2fc616c3-265b-4c82-96fb-ec5d7d143055",
+    "f052aefa-78ed-400d-8e98-c02185250f00"
+  ]
 }

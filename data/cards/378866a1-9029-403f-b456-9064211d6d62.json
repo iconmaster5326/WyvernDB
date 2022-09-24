@@ -1,14 +1,22 @@
 {
-    "id": "378866a1-9029-403f-b456-9064211d6d62",
-    "name": "Magnetic Field",
-    "set": "limited",
-    "number": "128",
-    "image": "https://iconmaster.info/wyverndb/data/images/378866a1-9029-403f-b456-9064211d6d62.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/378866a1-9029-403f-b456-9064211d6d62.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/32709/magnetic-field"
-    },
-    "rarity": "rare"
+  "id": "378866a1-9029-403f-b456-9064211d6d62",
+  "name": "Magnetic Field",
+  "set": "limited",
+  "number": "128",
+  "image": "https://iconmaster.info/wyverndb/data/images/378866a1-9029-403f-b456-9064211d6d62.jpeg",
+  "type": "action",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/378866a1-9029-403f-b456-9064211d6d62.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/32709/magnetic-field"
+  },
+  "rarity": "rare",
+  "special_abilities": "THE MAGNETIC FIELD CAN BE PLAYED AT ANY TIME TO COUNTER THE PLAY OF ANY KIND OF ACTION CARD.",
+  "lore": "",
+  "all_printings": [
+    "2e9c601a-d6b7-41e9-b800-3601702662de",
+    "378866a1-9029-403f-b456-9064211d6d62",
+    "eaa16e40-9d0b-477a-85ad-24a9eb1fc2da"
+  ],
+  "subtype": "reaction"
 }

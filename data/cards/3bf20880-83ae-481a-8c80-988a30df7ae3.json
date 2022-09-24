@@ -1,14 +1,20 @@
 {
-    "id": "3bf20880-83ae-481a-8c80-988a30df7ae3",
-    "name": "Mental Domination",
-    "set": "chameleon",
-    "number": "49",
-    "image": "https://iconmaster.info/wyverndb/data/images/3bf20880-83ae-481a-8c80-988a30df7ae3.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/3bf20880-83ae-481a-8c80-988a30df7ae3.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321273/mental-domination"
-    },
-    "rarity": "uncommon"
+  "id": "3bf20880-83ae-481a-8c80-988a30df7ae3",
+  "name": "Mental Domination",
+  "set": "chameleon",
+  "number": "49",
+  "image": "https://iconmaster.info/wyverndb/data/images/3bf20880-83ae-481a-8c80-988a30df7ae3.jpeg",
+  "type": "action",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/3bf20880-83ae-481a-8c80-988a30df7ae3.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321273/mental-domination"
+  },
+  "rarity": "uncommon",
+  "subtype": "battle_action",
+  "special_abilities": "YOU CAN FORCE ANY FACE UP DRAGON OF TWO OR LESS BASE STRENGTH TO HELP ON EITHER SIDE OF THIS BATTLE.  TARGET DRAGON CAN'T ALREADY BE IN THE BATTLE.",
+  "lore": "",
+  "all_printings": [
+    "3bf20880-83ae-481a-8c80-988a30df7ae3"
+  ]
 }

@@ -1,14 +1,19 @@
 {
-    "id": "d2e0050d-3401-45db-9576-191e4d9e03c8",
-    "name": "Serpent Lance",
-    "set": "chameleon",
-    "number": "87",
-    "image": "https://iconmaster.info/wyverndb/data/images/d2e0050d-3401-45db-9576-191e4d9e03c8.jpeg",
-    "type": "",
-    "gold_cost": 0,
-    "links": {
-        "wyverndb": "https://iconmaster.info/wyverndb/d2e0050d-3401-45db-9576-191e4d9e03c8.html",
-        "ccgtrader": "https://www.ccgtrader.net/card/321311/serpent-lance"
-    },
-    "rarity": "uncommon"
+  "id": "d2e0050d-3401-45db-9576-191e4d9e03c8",
+  "name": "Serpent Lance",
+  "set": "chameleon",
+  "number": "87",
+  "image": "https://iconmaster.info/wyverndb/data/images/d2e0050d-3401-45db-9576-191e4d9e03c8.jpeg",
+  "type": "treasure",
+  "gold_cost": 2,
+  "links": {
+    "wyverndb": "https://iconmaster.info/wyverndb/d2e0050d-3401-45db-9576-191e4d9e03c8.html",
+    "ccgtrader": "https://www.ccgtrader.net/card/321311/serpent-lance"
+  },
+  "rarity": "uncommon",
+  "special_abilities": "ACTION: PLACE A -1 STRENGTH COUNTER ON ANY FACE UP DRAGON, THEN FLIP A WYVERN GOLD COIN.  HEADS: PLACE ANOTHER -1 COUNTER ON THE TARGET DRAGON.  TAILS: DISCARD SERPENT LANCE.  YOU MAY CONTINUE FLIPPING UNTIL TAILS RESULTS.",
+  "lore": "",
+  "all_printings": [
+    "d2e0050d-3401-45db-9576-191e4d9e03c8"
+  ]
 }
