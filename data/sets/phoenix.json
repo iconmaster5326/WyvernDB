@@ -98,8 +98,8 @@
       "name": "Booster Pack",
       "per_box": 60,
       "contents": [
-        "uncommon",
-        "uncommon",
+        {"4": "rare", "45": "uncommon"},
+        {"4": "rare", "45": "uncommon"},
         "common",
         "common",
         "common",

@@ -366,9 +366,51 @@
         "common",
         "common",
         "common",
-        "common"
+        "phoenix_reprint"
       ]
     }
   },
-  "order": 5
+  "order": 5,
+  "pack_pools": {
+    "phoenix_reprint": [
+      "000d2de2-1825-4c3f-bedc-982ce1b355d1",
+      "131e82f5-b243-410f-a9af-17be5c891045",
+      "1dd57632-5d66-4c51-8da1-79e7866600d8",
+      "286dacee-927c-4400-8db9-bf44e12d78dc",
+      "2e25c590-f11a-434d-97e3-4807249d2f11",
+      "2f388724-4d67-4686-be56-62d81f4f9a63",
+      "2fc616c3-265b-4c82-96fb-ec5d7d143055",
+      "3678a32d-36d4-434d-8a9d-6fb15d2802ab",
+      "403af81c-97d5-47ad-a73b-ddb53e6596bf",
+      "41072c0f-6759-44bd-8192-4389fe0ec945",
+      "5cf059b8-9048-4eec-b7b2-2e831302a2ff",
+      "6ccff2ed-4f01-4303-b5fe-2043fc674985",
+      "70c801bc-5cd1-4076-ab2b-c1feeaacc962",
+      "7af62596-43b5-4b60-b5a7-1fb21fb44b25",
+      "7da8b9fd-15b8-4aef-a65d-2536b0c33901",
+      "7f356746-4c33-42d4-8868-856d0c727da3",
+      "881d60f8-fa6a-4885-af33-d0faff0188a8",
+      "92a07da0-482e-4231-9852-69b4a66614bd",
+      "994b5f24-8aba-4ebc-931f-95b7db2d6f48",
+      "9d4c7bef-bca9-4a3d-b5fa-32ec4bd642d5",
+      "a1539619-e43f-49a4-8672-ccaeb773fca3",
+      "a338b606-1569-4b3a-a13d-84e11b726bb1",
+      "a8692f5f-2b84-424d-923e-90c7c4149f85",
+      "a8a494bb-79a1-4787-bc9b-1947e82b7ffa",
+      "a9731460-354b-4b16-b906-e716347c87fd",
+      "afd55939-5d35-4a54-809f-8db67499befb",
+      "bca0a97a-93df-49f4-b824-d37eb4e97a17",
+      "c02c42bf-7aac-4316-8163-51cff90fab46",
+      "c56dd031-76bf-4e24-8a3e-c4a0c54bd16a",
+      "c5c836bf-1ac3-47fc-ad7f-1d51827dc789",
+      "d6718e64-769c-46a7-b706-b9f0f17b9561",
+      "e57c3367-cfa1-4ee4-ae49-024a6e60b637",
+      "e60446b3-176b-4fec-b7cb-1e9da8104985",
+      "ea28b9f5-fcc1-4926-82b8-16ccee6f32c3",
+      "efc8cae3-a851-46c6-9c50-99adb9c2abd8",
+      "f189d7d9-958d-4c87-a8d1-a606b4814cee",
+      "f71ccf70-bbd8-4871-a8fa-f44133b8fc17",
+      "fc0878ac-7999-464c-a23a-3e29cdddfaf6"
+    ]
+  }
 }

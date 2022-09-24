@@ -231,5 +231,11 @@
       ]
     }
   },
-  "order": 1
+  "order": 1,
+  "pack_pools": {
+    "gold_or_silver": [
+      "0542d5d1-6a8f-4691-9dd6-80e3281c8db4",
+      "b3b86241-db06-4ebc-9da3-b13cacedefcb"
+    ]
+  }
 }
