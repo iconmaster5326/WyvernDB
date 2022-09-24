@@ -56,8 +56,10 @@
           <div class="text-center p-4">
             {% if card["type"] == "dragon" %}
             <div>
+              {% if "strength" in card %}
               <span>STRENGTH:</span>
               <span>{{ card["strength"] }}</span>
+              {% endif %}
               {% for ability in card.get("abilities") %}
               <span>{{ ability_string(card, ability) }}</span>
               {% endfor %}
