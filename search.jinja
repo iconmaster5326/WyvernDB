@@ -19,6 +19,7 @@
     ></script>
     {% include 'navbar.jinja' %}
     <h1 class="text-center">Search Results</h1>
+    <div class="text-center" id="searchCount"></div>
     <div
       id="searchResults"
       class="d-flex justify-content-center p-4 flex-wrap"
@@ -31,28 +32,43 @@
 
       function populateResults() {
         var resultsDiv = document.getElementById("searchResults");
+        var countDiv = document.getElementById("searchCount");
         resultsDiv.innerHTML = "";
 
-        var query = new URLSearchParams(window.location.search).get("query") || "";
-        var results = new SearchEnv().filter(Object.values(cards), parseTerm(query));
+        var query =
+          new URLSearchParams(window.location.search).get("query") || "";
+        var results = new SearchEnv().filter(
+          Object.values(cards),
+          parseTerm(query)
+        );
         if (results.length === 1) {
           window.location.replace(results[0]["id"] + ".html");
         } else {
-          results.forEach(result => {
-              var cardDiv = document.createElement("a");
-              cardDiv.setAttribute("class", "text-center border p-2 flex-fill w-25")
-              cardDiv.setAttribute("href", result["id"]+".html")
+          countDiv.innerText = results.length + " results found";
+          results.forEach((result) => {
+            var cardDiv = document.createElement("a");
+            cardDiv.setAttribute(
+              "class",
+              "text-center border p-2 flex-fill w-25"
+            );
+            cardDiv.setAttribute("href", result["id"] + ".html");
 
-              var name = document.createElement("div");
-              name.innerText = result["name"] + " ("+sets[result["set"]]["name"] + " #" + result["number"] + ")";
-              cardDiv.appendChild(name);
+            var name = document.createElement("div");
+            name.innerText =
+              result["name"] +
+              " (" +
+              sets[result["set"]]["name"] +
+              " #" +
+              result["number"] +
+              ")";
+            cardDiv.appendChild(name);
 
-              var img = document.createElement("img");
-              img.setAttribute("src", result["image"].replace(BASE_URL, ""));
-              img.setAttribute("height", 200);
-              cardDiv.appendChild(img);
+            var img = document.createElement("img");
+            img.setAttribute("src", result["image"].replace(BASE_URL, ""));
+            img.setAttribute("height", 200);
+            cardDiv.appendChild(img);
 
-              resultsDiv.appendChild(cardDiv);
+            resultsDiv.appendChild(cardDiv);
           });
         }
       }
