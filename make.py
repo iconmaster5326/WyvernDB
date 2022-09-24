@@ -70,6 +70,10 @@ def ability_string(card, ability):
     }[ability]
 
 
+def sort_by_set(cardids):
+    return list(sorted(cardids, key=lambda cardid: sets[cards[cardid]["set"]]["order"]))
+
+
 with open(os.path.join("docs", "data", "cards.json"), "w") as json_file:
     json.dump(list(cards.keys()), json_file)
 
@@ -88,6 +92,7 @@ jinja_vars = dict(
     card_type_string=card_type_string,
     rarity_string=rarity_string,
     ability_string=ability_string,
+    sort_by_set=sort_by_set,
     repr=repr,
     len=len,
     list=list,

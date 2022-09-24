@@ -59,20 +59,41 @@
               {% if "strength" in card %}
               <span>STRENGTH:</span>
               <span>{{ card["strength"] }}</span>
-              {% endif %}
-              {% for ability in card.get("abilities") %}
+              {% endif %} {% for ability in card.get("abilities") %}
               <span>{{ ability_string(card, ability) }}</span>
               {% endfor %}
             </div>
             {% endif %}
+            <div>{{ card["special_abilities"].replace('\n', '<br />') }}</div>
             <div>
-              {{ card["special_abilities"].replace('\n', '<br>') }}
+              <em> {{ card["lore"].replace('\n', '<br />') }} </em>
             </div>
-            <div>
-              <em>
-                {{ card["lore"].replace('\n', '<br>') }}
-              </em>
-            </div>
+          </div>
+          <div class="text-center container justify-content-center">
+            <table class="table border">
+              <thead>
+                <tr>
+                  <th scope="col" colspan="3">All Printings</th>
+                </tr>
+              </thead>
+              <tbody>
+                {% for printing in sort_by_set(card["all_printings"]) %}
+                <tr>
+                  <td>
+                    {% if printing != card['id'] %}
+                    <a href="{{ printing }}.html">
+                      {% endif %}
+                      {{ sets[cards[printing]["set"]]["name"] }}
+                      {% if printing != card['id'] %}
+                    </a>
+                    {% endif %}
+                  </td>
+                  <td>#{{ cards[printing]["number"] }}</td>
+                  <td>{{ rarity_string(cards[printing]) }}</td>
+                </tr>
+                {% endfor %}
+              </tbody>
+            </table>
           </div>
         </div>
       </div>
