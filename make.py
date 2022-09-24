@@ -32,6 +32,44 @@ for set_ in os.listdir(SETS_DIR):
         set_ = json.load(input_json_file)
         sets[set_["id"]] = set_
 
+
+def card_type_string(card):
+    if card["type"] == "action":
+        return {
+            "action": "Action",
+            "battle_action": "Battle Action",
+            "reaction": "Reaction",
+            "battle_reaction": "Battle Reaction",
+            "slayer_action": "Dragon Slayer Action",
+            "hidden_action": "Hidden Action",
+            "intercept_action": "Intercept Action",
+        }[card["subtype"]]
+    else:
+        return {
+            "dragon": "Dragon",
+            "terrain": "Terrain",
+            "treasure": "Treasure",
+        }[card["type"]]
+
+
+def rarity_string(card):
+    return {
+        "common": "Common",
+        "uncommon": "Uncommon",
+        "rare": "Rare",
+        "promo": "Promotional",
+    }[card["rarity"]]
+
+
+def ability_string(card, ability):
+    return {
+        "flying": "FLYING",
+        "scout": "SCOUT",
+        "super_flying": "SUPER FLYER",
+        "subterranean": "SUBTERRANEAN",
+    }[ability]
+
+
 with open(os.path.join("docs", "data", "cards.json"), "w") as json_file:
     json.dump(list(cards.keys()), json_file)
 
@@ -43,47 +81,31 @@ for card in cards.values():
     cards_by_name.setdefault(card["name"], [])
     cards_by_name[card["name"]].append(card["id"])
 
+jinja_vars = dict(
+    cards=cards,
+    sets=sets,
+    cards_by_name=cards_by_name,
+    card_type_string=card_type_string,
+    rarity_string=rarity_string,
+    ability_string=ability_string,
+    repr=repr,
+    len=len,
+    list=list,
+    BASE_URL=BASE_URL,
+)
+
 for page in ["index", "search", "random", "syntax"]:
     with open(os.path.join("docs", page + ".html"), "w") as output_html_file:
         output_html_file.write(
-            jinja_env.get_template(page + ".jinja").render(
-                cards=cards,
-                sets=sets,
-                cards_by_name=cards_by_name,
-                repr=repr,
-                len=len,
-                list=list,
-                BASE_URL=BASE_URL,
-            )
+            jinja_env.get_template(page + ".jinja").render(**jinja_vars)
         )
 
 for card in cards.values():
     with open(os.path.join("docs", card["id"] + ".html"), "w") as output_html_file:
         output_html_file.write(
-            card_template.render(
-                card=card,
-                set=sets[card["set"]],
-                cards=cards,
-                sets=sets,
-                cards_by_name=cards_by_name,
-                repr=repr,
-                len=len,
-                list=list,
-                BASE_URL=BASE_URL,
-            )
+            card_template.render(card=card, set=sets[card["set"]], **jinja_vars)
         )
 
 for set_ in sets.values():
     with open(os.path.join("docs", set_["id"] + ".html"), "w") as output_html_file:
-        output_html_file.write(
-            set_template.render(
-                set=set_,
-                cards=cards,
-                sets=sets,
-                cards_by_name=cards_by_name,
-                repr=repr,
-                len=len,
-                list=list,
-                BASE_URL=BASE_URL,
-            )
-        )
+        output_html_file.write(set_template.render(set=set_, **jinja_vars))

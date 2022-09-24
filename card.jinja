@@ -22,45 +22,56 @@
     <div class="container">
       <div class="row">
         <div class="col">
-          <img src="{{ card['image'].replace(BASE_URL, '') }}" />
+          <img
+            src="{{ card['image'].replace(BASE_URL, '') }}"
+            class="img-fluid"
+          />
         </div>
         <div class="col">
           <h1 class="text-center">{{ card["name"] }}</h1>
           <div class="container">
             <div class="row">
               <strong class="col">Type:</strong
-              ><span class="col">{{ card["type"] }}</span>
+              ><span class="col">{{ card_type_string(card) }}</span>
             </div>
             <div class="row">
               <strong class="col">Gold cost:</strong
               ><span class="col">{{ card["gold_cost"] }}</span>
             </div>
             <div class="row">
-                <strong class="col">Rarity:</strong
-                ><span class="col">{{ card["rarity"] }}</span>
-              </div>
+              <strong class="col">Rarity:</strong
+              ><span class="col">{{ rarity_string(card) }}</span>
+            </div>
             <div class="row">
               <strong class="col">Set:</strong
-              ><span class="col">{{ card["set"] }}</span>
+              ><a class="col" href="{{ card['set'] }}.html">{{
+                sets[card["set"]]["name"]
+              }}</a>
             </div>
             <div class="row">
               <strong class="col">Number:</strong
               ><span class="col">{{ card["number"] }}</span>
             </div>
           </div>
-          {% if card["type"] == "dragon" %}
-          <div>
-            <span>STRENGTH:</span>
-            <span>{{ card["strength"] }}</span>
-            {% for ability in card.get("abilities") %}
-            <span>{{ ability }}</span>
-            {% endfor %}
+          <div class="text-center p-4">
+            {% if card["type"] == "dragon" %}
+            <div>
+              <span>STRENGTH:</span>
+              <span>{{ card["strength"] }}</span>
+              {% for ability in card.get("abilities") %}
+              <span>{{ ability_string(card, ability) }}</span>
+              {% endfor %}
+            </div>
+            {% endif %}
+            <div>
+              {{ card["special_abilities"].replace('\n', '<br>') }}
+            </div>
+            <div>
+              <em>
+                {{ card["lore"].replace('\n', '<br>') }}
+              </em>
+            </div>
           </div>
-          {% endif %} {% if "special_abilities" in card %}
-          <div>
-            {{ card["special_abilities"] }}
-          </div>
-          {% endif %}
         </div>
       </div>
     </div>
