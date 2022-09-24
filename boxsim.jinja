@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Wyvern DB</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT"
+      crossorigin="anonymous"
+    />
+  </head>
+  <body>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8"
+      crossorigin="anonymous"
+    ></script>
+    {% include 'navbar.jinja' %}
+    <form class="text-center p-4" id="boxSimForm">
+      <h1>Box Opening Simulator</h1>
+      <div class="container justify-content-center">
+        <table class="table align-middle border">
+          <thead>
+            <tr>
+              <th scope="col">Sealed Product</th>
+              <th scope="col"># Packs</th>
+              <th scope="col"># Boxes</th>
+            </tr>
+          </thead>
+          <tbody>
+            {% for pack in packs %}
+            <tr>
+              <td scope="row">
+                <div>
+                  <u>
+                    {{ sets[pack[0]]["name"] }}
+                    {{ sets[pack[0]]["packs"][pack[1]]["name"] }}
+                  </u>
+                </div>
+                <div>
+                  <em>
+                    {{ len(sets[pack[0]]["packs"][pack[1]]["contents"]) }} cards
+                    per pack,
+                    {{ sets[pack[0]]["packs"][pack[1]]["per_box"] }} packs per
+                    box
+                  </em>
+                </div>
+              </td>
+              <td>
+                <input
+                  class="form-control"
+                  type="number"
+                  value="0"
+                  id="{{ pack[0] }}-{{ pack[1] }}-packs"
+                />
+              </td>
+              <td>
+                <input
+                  class="form-control"
+                  type="number"
+                  value="0"
+                  id="{{ pack[0] }}-{{ pack[1] }}-boxes"
+                />
+              </td>
+            </tr>
+            {% endfor %}
+          </tbody>
+        </table>
+      </div>
+      <div>
+        <button type="submit" class="btn btn-primary w-50">Open Boxes!</button>
+      </div>
+    </form>
+    <div id="boxSimResults" class="text-center p-4" hidden>
+      <h1>Results</h1>
+      <table class="table align-middle border" id="boxSimResultsTable">
+        <thead>
+          <tr>
+            <th
+              scope="col"
+              onclick="sortTable(0, true)"
+              style="cursor: pointer"
+            >
+              #
+            </th>
+            <th
+              scope="col"
+              onclick="sortTable(1, false)"
+              style="cursor: pointer"
+            >
+              Name
+            </th>
+            <th
+              scope="col"
+              onclick="sortTable(2, false)"
+              style="cursor: pointer"
+            >
+              Set
+            </th>
+            <th
+              scope="col"
+              onclick="sortTable(3, false)"
+              style="cursor: pointer"
+            >
+              Rarity
+            </th>
+          </tr>
+        </thead>
+        <tbody id="boxSimResultsBody"></tbody>
+      </table>
+      <div class="container">
+        <div class="row">
+          <div class="col">
+            <button class="btn btn-secondary" onclick="exportToClipboard()">
+              Export to Clipboard
+            </button>
+          </div>
+          <div class="col">
+            <button class="btn btn-secondary" onclick="exportToFile()">
+              Export to File
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script>
+      var cards = {{ repr(cards) }};
+      var sets = {{ repr(sets) }};
+      var packs = {{ repr(packs) }};
+
+      function pickUnweighted(choices) {
+        return choices[Math.floor(Math.random() * choices.length)];
+      }
+
+      function pickWeighted(weights) {
+        var totalWeights = Object.keys(weights)
+          .map((n) => Number.parseInt(n))
+          .reduce((a, b) => a + b, 0);
+        var randomPick = Math.floor(Math.random() * totalWeights);
+        var entries = Object.entries(weights).map((kv) => [
+          Number.parseInt(kv[0]),
+          kv[1],
+        ]);
+        for (var i = 0; i < entries.length; i++) {
+          randomPick -= entries[i][0];
+          if (randomPick < 0) {
+            return entries[i][1];
+          }
+        }
+      }
+
+      var cardsPulled;
+      document.getElementById("boxSimForm").addEventListener("submit", (e) => {
+        e.preventDefault();
+        var body = document.getElementById("boxSimResultsBody");
+        body.innerHTML = "";
+        document.getElementById("boxSimResults").removeAttribute("hidden");
+        cardsPulled = {};
+
+        function addCard(id) {
+          if (!(id in cardsPulled)) {
+            cardsPulled[id] = 1;
+          } else {
+            cardsPulled[id]++;
+          }
+        }
+
+        packs.forEach((pack) => {
+          var set = sets[pack[0]];
+          var packInfo = set["packs"][pack[1]];
+
+          function rollForCard(cardPool) {
+            if ("pack_pools" in set && cardPool in set["pack_pools"]) {
+              // a single card from a card pool
+              addCard(pickUnweighted(set["pack_pools"][cardPool]));
+            } else {
+              // a single card of a given rarity
+              addCard(
+                pickUnweighted(
+                  set["cards"].filter((id) => cards[id]["rarity"] === cardPool)
+                )
+              );
+            }
+          }
+
+          var nPacks =
+            Number.parseInt(
+              document.getElementById(pack[0] + "-" + pack[1] + "-packs").value
+            ) +
+            Number.parseInt(
+              document.getElementById(pack[0] + "-" + pack[1] + "-boxes").value
+            ) *
+              packInfo["per_box"];
+          for (var i = 0; i < nPacks; i++) {
+            packInfo["contents"].forEach((cardPool) => {
+              if (typeof cardPool === "string") {
+                // a single card
+                rollForCard(cardPool);
+              } else {
+                // object representing a weighted random chance
+                var cardsPicked = pickWeighted(cardPool);
+                if (typeof cardsPicked === "string") {
+                  cardsPicked = [cardsPicked];
+                }
+                cardsPicked.forEach((cardPool) => {
+                  rollForCard(cardPool);
+                });
+              }
+            });
+          }
+        });
+
+        Object.keys(cardsPulled).forEach((pulled) => {
+          var tr = document.createElement("tr");
+
+          var tdNumber = document.createElement("td");
+          tdNumber.innerText = cardsPulled[pulled];
+          tr.appendChild(tdNumber);
+
+          var tdName = document.createElement("td");
+          var link = document.createElement("a");
+          link.innerText = cards[pulled]["name"];
+          link.setAttribute("href", cards[pulled]["id"] + ".html");
+          tdName.appendChild(link);
+          tr.appendChild(tdName);
+
+          var tdSet = document.createElement("td");
+          link = document.createElement("a");
+          link.innerText = sets[cards[pulled]["set"]]["name"];
+          link.setAttribute("href", cards[pulled]["set"] + ".html");
+          tdSet.appendChild(link);
+          tr.appendChild(tdSet);
+
+          var tdRarity = document.createElement("td");
+          tdRarity.innerText = rarityString(cards[pulled]);
+          tr.appendChild(tdRarity);
+
+          body.appendChild(tr);
+        });
+      });
+
+      function sortTable(n, isNumeric) {
+        var sortFn, invSortFn;
+        if (!isNumeric) {
+          sortFn = (x, y) =>
+            x.textContent.toLowerCase() > y.textContent.toLowerCase();
+          invSortFn = (x, y) =>
+            x.textContent.toLowerCase() < y.textContent.toLowerCase();
+        } else {
+          sortFn = (x, y) => Number(x.textContent) > Number(y.textContent);
+          invSortFn = (x, y) => Number(x.textContent) < Number(y.textContent);
+        }
+
+        var table,
+          rows,
+          switching,
+          i,
+          x,
+          y,
+          shouldSwitch,
+          dir,
+          switchcount = 0;
+        table = document.getElementById("boxSimResultsTable");
+        switching = true;
+        dir = "asc";
+        while (switching) {
+          switching = false;
+          rows = table.rows;
+          for (i = 1; i < rows.length - 1; i++) {
+            shouldSwitch = false;
+            x = rows[i].getElementsByTagName("TD")[n];
+            y = rows[i + 1].getElementsByTagName("TD")[n];
+            if (dir == "asc") {
+              if (sortFn(x, y)) {
+                shouldSwitch = true;
+                break;
+              }
+            } else if (dir == "desc") {
+              if (invSortFn(x, y)) {
+                shouldSwitch = true;
+                break;
+              }
+            }
+          }
+          if (shouldSwitch) {
+            rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
+            switching = true;
+            switchcount++;
+          } else {
+            if (switchcount == 0 && dir == "asc") {
+              dir = "desc";
+              switching = true;
+            }
+          }
+        }
+      }
+
+      function exportPulls() {
+        result = "";
+        var hoard = Object.keys(cardsPulled).filter(
+          (id) =>
+            cards[id]["type"] === "treasure" || cards[id]["type"] === "action"
+        );
+        var lair = Object.keys(cardsPulled).filter(
+          (id) =>
+            cards[id]["type"] === "dragon" || cards[id]["type"] === "terrain"
+        );
+        hoard.forEach((id) => {
+          result += cardsPulled[id] + "\t" + cards[id]["name"] + "\n";
+        });
+        result += "Dragon Lair:\n";
+        lair.forEach((id) => {
+          result += cardsPulled[id] + "\t" + cards[id]["name"] + "\n";
+        });
+        return result;
+      }
+
+      function exportToClipboard() {
+        navigator.clipboard
+          .writeText(exportPulls())
+          .then(() => {
+            console.log("Clipboard operation success!");
+          })
+          .catch((reason) => {
+            console.error("Clipboard operation failure: " + reason);
+            alert(
+              "Could not paste to clipboard. Try 'Export to File' instead."
+            );
+          });
+      }
+
+      function exportToFile() {
+        var element = document.createElement("a");
+        element.setAttribute(
+          "href",
+          "data:text/plain;charset=utf-8," + encodeURIComponent(exportPulls())
+        );
+        element.setAttribute(
+          "download",
+          "wyvern-boxsim-" + Date.now() + ".txt"
+        );
+        element.style.display = "none";
+        document.body.appendChild(element);
+        element.click();
+        document.body.removeChild(element);
+      }
+    </script>
+  </body>
+</html>

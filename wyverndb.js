@@ -265,3 +265,12 @@ function parseTerm(query) {
   completeWord();
   return groupStack[0];
 }
+
+function rarityString(card) {
+  return {
+    common: "Common",
+    uncommon: "Uncommon",
+    rare: "Rare",
+    promo: "Promotional",
+  }[card["rarity"]];
+}

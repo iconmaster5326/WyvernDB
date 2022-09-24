@@ -26,12 +26,16 @@ for card in os.listdir(CARDS_DIR):
         cards[card["id"]] = card
 
 sets = {}
+packs = []
 SETS_DIR = os.path.join("data", "sets")
 for set_ in os.listdir(SETS_DIR):
     with open(os.path.join(SETS_DIR, set_), "r") as input_json_file:
         set_ = json.load(input_json_file)
         sets[set_["id"]] = set_
-
+        if "packs" in set_:
+            for pack in set_["packs"]:
+                packs.append([set_["id"], pack])
+packs.sort(key=lambda p: sets[p[0]]["order"])
 
 def card_type_string(card):
     if card["type"] == "action":
@@ -88,6 +92,7 @@ for card in cards.values():
 jinja_vars = dict(
     cards=cards,
     sets=sets,
+    packs=packs,
     cards_by_name=cards_by_name,
     card_type_string=card_type_string,
     rarity_string=rarity_string,
@@ -99,7 +104,7 @@ jinja_vars = dict(
     BASE_URL=BASE_URL,
 )
 
-for page in ["index", "search", "random", "syntax"]:
+for page in ["index", "search", "random", "syntax", "boxsim"]:
     with open(os.path.join("docs", page + ".html"), "w") as output_html_file:
         output_html_file.write(
             jinja_env.get_template(page + ".jinja").render(**jinja_vars)
