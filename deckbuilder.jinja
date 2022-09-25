@@ -95,10 +95,14 @@
         </div>
       </div>
       <div class="container p-4">
-        <div class="row">
-          <div class="col-12" id="grandTotal">0 cards grand total</div>
+        <div class="row p-2">
+          <div class="col-4" id="grandTotal">0 cards grand total</div>
+          <div class="col-2" id="breakdown-dragon">0 dragon (0%)</div>
+          <div class="col-2" id="breakdown-terrain">0 terrain (0%)</div>
+          <div class="col-2" id="breakdown-treasure">0 treasure (0%)</div>
+          <div class="col-2" id="breakdown-action">0 action (0%)</div>
         </div>
-        <div class="row">
+        <div class="row p-2">
           <div class="col">
             <button class="btn btn-secondary" onclick="importFromClipboard()">
               Import from Clipboard
@@ -168,9 +172,31 @@
             )
           )
           .reduce((a, b) => a + b, 0);
+
         lairTotal.innerText = nLair + " cards total";
         hoardTotal.innerText = nHoard + " cards total";
         grandTotal.innerText = nLair + nHoard + " cards grand total";
+
+        var typesToQty = { dragon: 0, terrain: 0, treasure: 0, action: 0 };
+        [...lairBody.children, ...hoardBody.children].forEach((tr) => {
+          var card = cards[tr.id];
+          typesToQty[card["type"]] += Number(
+            tr.getElementsByTagName("td")[0].getElementsByTagName("input")[0]
+              .value
+          );
+        });
+        var totalQty = Object.values(typesToQty).reduce((a, b) => a + b, 0);
+        Object.keys(typesToQty).forEach((t) => {
+          document.getElementById("breakdown-" + t).innerText =
+            typesToQty[t] +
+            " " +
+            t +
+            " (" +
+            Math.round((typesToQty[t] / totalQty) * 100) +
+            "%)";
+        });
+
+        saveData();
       }
 
       function addCardToDeck(card, qty = 1) {
@@ -366,6 +392,24 @@
         .getElementById("dropZone")
         .addEventListener("dragover", (event) => {
           event.preventDefault();
+        });
+
+        window.addEventListener("load", (event) => {
+          var saveData = window.localStorage.getItem("wdbDeckBuilderSaveData");
+          if (saveData) {
+            saveData = JSON.parse(saveData);
+            Object.keys(saveData).forEach((id) => {
+              addCardToDeck(cards[id], saveData[id]);
+            });
+          }
+        });
+
+        function saveData() {
+          window.localStorage.setItem("wdbDeckBuilderSaveData", JSON.stringify(getDecklist()));
+        }
+
+        window.addEventListener("close", (event) => {
+          saveData();
         });
     </script>
   </body>
