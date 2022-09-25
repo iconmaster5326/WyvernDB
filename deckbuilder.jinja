@@ -8,7 +8,7 @@
     {% include 'navbar.jinja' %}
     <div class="text-center">
       <h1>Deck Builder</h1>
-      <div class="container p-4">
+      <div class="container align-items-center p-4">
         <div class="row">
           <div class="col-3 text-start">Search for cards to add:</div>
           <div class="col-6 text-start">
@@ -22,6 +22,12 @@
             style="min-height: 200px"
             id="deckBuilderSearchResults"
           ></div>
+        </div>
+        <div class="row">
+          <div class="col-2">Filter:</div>
+          <div class="col-10">
+            <input type="text" id="filterDeck" class="form-control">
+          </div>
         </div>
       </div>
       <h2>Dragon Lair</h2>
@@ -161,6 +167,7 @@
       var hoardTotal = document.getElementById("hoardTotal");
       var grandTotal = document.getElementById("grandTotal");
       var searchTotal = document.getElementById("searchTotal");
+      var filterDeck = document.getElementById("filterDeck");
 
       function updateCounts() {
         var nLair = [...lairBody.children]
@@ -222,6 +229,12 @@
             "%)";
         });
 
+        var env = new SearchEnv();
+        var term = parseTerm(filterDeck.value);
+        [...lairBody.children, ...hoardBody.children].forEach(tr => {
+          tr.hidden = !term.match(env, cards[tr.id]);
+        });
+
         saveData();
       }
 
@@ -237,6 +250,7 @@
           var numberInput = document.createElement("input");
           numberInput.type = "number";
           numberInput.value = qty;
+          numberInput.setAttribute("class", "form-control");
           numberInput.addEventListener("input", (event) => {
             if (Number(numberInput.value) <= 0) {
               numberInput.value = 1;
@@ -453,6 +467,10 @@
 
       window.addEventListener("close", (event) => {
         saveData();
+      });
+
+      filterDeck.addEventListener("input", (event) => {
+        updateCounts();
       });
     </script>
   </body>
