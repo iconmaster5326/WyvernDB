@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {% include 'header.jinja' %}
+    <title>Wyvern DB</title>
+  </head>
+  <body id="dropZone">
+    {% include 'navbar.jinja' %}
+    <div class="text-center">
+      <h1>Deck Builder</h1>
+      <div class="container p-4">
+        <div class="row">
+          <div class="col-3 text-start">Search for cards to add:</div>
+          <div class="col-6 text-start">
+            <input class="form-control" type="text" id="deckBuilderSearch" />
+          </div>
+          <div class="col-3 text-end" id="searchTotal">0 results</div>
+        </div>
+        <div class="row">
+          <div
+            class="col-12 d-flex justify-content-center flex-wrap border"
+            style="min-height: 200px"
+            id="deckBuilderSearchResults"
+          ></div>
+        </div>
+      </div>
+      <h2>Dragon Lair</h2>
+      <div id="lairTotal">0 cards total</div>
+      <div class="container p-4">
+        <div class="row">
+          <div class="col">
+            <table
+              class="table table-hover align-middle border"
+              id="deckBuilderLair"
+            >
+              <thead>
+                <tr>
+                  <th
+                    class="col-1"
+                    scope="col"
+                    onclick="sortLair(0, sortTableKeyNumericInput)"
+                    style="cursor: pointer"
+                  >
+                    #
+                  </th>
+                  <th
+                    class="col-9"
+                    scope="col"
+                    onclick="sortLair(1, sortTableKeyText)"
+                    style="cursor: pointer"
+                  >
+                    Name
+                  </th>
+                  <th scope="col" class="col-2">Actions</th>
+                </tr>
+              </thead>
+              <tbody id="lairBody"></tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+      <h2>Treasure Hoard</h2>
+      <div id="hoardTotal">0 cards total</div>
+      <div class="container p-4">
+        <div class="row">
+          <div class="col">
+            <table
+              class="table table-hover align-middle border"
+              id="deckBuilderHoard"
+            >
+              <thead>
+                <tr>
+                  <th
+                    scope="col"
+                    class="col-1"
+                    onclick="sortHoard(0, sortTableKeyNumericInput)"
+                    style="cursor: pointer"
+                  >
+                    #
+                  </th>
+                  <th
+                    scope="col"
+                    class="col-9"
+                    onclick="sortHoard(1, sortTableKeyText)"
+                    style="cursor: pointer"
+                  >
+                    Name
+                  </th>
+                  <th scope="col" class="col-2">Actions</th>
+                </tr>
+              </thead>
+              <tbody id="hoardBody"></tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+      <div class="container p-4">
+        <div class="row">
+          <div class="col-12" id="grandTotal">0 cards grand total</div>
+        </div>
+        <div class="row">
+          <div class="col">
+            <button class="btn btn-secondary" onclick="importFromClipboard()">
+              Import from Clipboard
+            </button>
+          </div>
+          <div class="col">
+            <button class="btn btn-secondary" onclick="importFromFile()">
+              Import from File
+            </button>
+          </div>
+          <div class="col">
+            <button class="btn btn-secondary" onclick="clearDeck()">
+              Clear Deck
+            </button>
+          </div>
+          <div class="col">
+            <button class="btn btn-secondary" onclick="optimize()">
+              Unify Printings
+            </button>
+          </div>
+          <div class="col">
+            <button class="btn btn-secondary" onclick="exportToClipboard()">
+              Export to Clipboard
+            </button>
+          </div>
+          <div class="col">
+            <button class="btn btn-secondary" onclick="exportToFile()">
+              Export to File
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script>
+      BASE_URL = "{{ BASE_URL }}";
+      cards = {{ repr(cards) }};
+      sets = {{ repr(sets) }};
+
+      sortLair = sortTableFn("deckBuilderLair");
+      sortHoard = sortTableFn("deckBuilderHoard");
+
+      var lair = document.getElementById("deckBuilderLair");
+      var lairBody = document.getElementById("lairBody");
+      var hoard = document.getElementById("deckBuilderHoard");
+      var hoardBody = document.getElementById("hoardBody");
+      var searchBar = document.getElementById("deckBuilderSearch");
+      var searchResults = document.getElementById("deckBuilderSearchResults");
+      var lairTotal = document.getElementById("lairTotal");
+      var hoardTotal = document.getElementById("hoardTotal");
+      var grandTotal = document.getElementById("grandTotal");
+      var searchTotal = document.getElementById("searchTotal");
+
+      function updateCounts() {
+        var nLair = [...lairBody.children]
+          .map((tr) =>
+            Number(
+              tr.getElementsByTagName("td")[0].getElementsByTagName("input")[0]
+                .value
+            )
+          )
+          .reduce((a, b) => a + b, 0);
+        var nHoard = [...hoardBody.children]
+          .map((tr) =>
+            Number(
+              tr.getElementsByTagName("td")[0].getElementsByTagName("input")[0]
+                .value
+            )
+          )
+          .reduce((a, b) => a + b, 0);
+        lairTotal.innerText = nLair + " cards total";
+        hoardTotal.innerText = nHoard + " cards total";
+        grandTotal.innerText = nLair + nHoard + " cards grand total";
+      }
+
+      function addCardToDeck(card, qty = 1) {
+        var tr = document.getElementById(card["id"]);
+        if (!tr) {
+          tr = document.createElement("tr");
+          tr.id = card["id"];
+
+          var numberTD = document.createElement("td");
+          tr.appendChild(numberTD);
+
+          var numberInput = document.createElement("input");
+          numberInput.type = "number";
+          numberInput.value = qty;
+          numberInput.addEventListener("input", (event) => {
+            if (Number(numberInput.value) <= 0) {
+              numberInput.value = 1;
+            }
+            updateCounts();
+          });
+          numberTD.appendChild(numberInput);
+
+          var nameTD = document.createElement("td");
+          tr.appendChild(nameTD);
+
+          var nameLink = document.createElement("a");
+          nameLink.href = card["id"] + ".html";
+          nameLink.innerText = card["name"];
+          nameLink.setAttribute("data-bs-toggle", "tooltip");
+          nameLink.setAttribute(
+            "data-bs-title",
+            '<img src="data/images/' + card["id"] + '.jpeg" height="200px">'
+          );
+          nameTD.appendChild(nameLink);
+
+          var actionsTD = document.createElement("td");
+          tr.appendChild(actionsTD);
+
+          var actionsDelete = document.createElement("button");
+          actionsDelete.setAttribute("class", "btn btn-secondary");
+          actionsDelete.innerHTML = '<i class="bi bi-trash"></i>';
+          actionsDelete.addEventListener("click", (event) => {
+            tr.parentElement.removeChild(tr);
+            updateCounts();
+          });
+          actionsTD.appendChild(actionsDelete);
+
+          switch (card["type"]) {
+            case "dragon":
+            case "terrain":
+              lairBody.appendChild(tr);
+              break;
+            case "action":
+            case "treasure":
+              hoardBody.appendChild(tr);
+              break;
+            default:
+              console.error("Could not add card!");
+          }
+
+          new bootstrap.Tooltip(nameLink, { html: true });
+        } else {
+          var input = tr
+            .getElementsByTagName("td")[0]
+            .getElementsByTagName("input")[0];
+          input.value = Number(input.value) + qty;
+        }
+
+        updateCounts();
+      }
+
+      searchBar.addEventListener("input", (event) => {
+        searchResults.innerHTML = "";
+        var results = new SearchEnv().filter(
+          Object.values(cards),
+          parseTerm(searchBar.value)
+        );
+        searchTotal.innerText = results.length + " results";
+        results.slice(0, 4).forEach((result) => {
+          addSearchResult(searchResults, result, (event) => {
+            event.preventDefault();
+            addCardToDeck(result);
+          });
+        });
+      });
+
+      function importFromClipboard() {
+        lairBody.innerHTML = hoardBody.innerHTML = "";
+      }
+
+      function importFromFile() {
+        lairBody.innerHTML = hoardBody.innerHTML = "";
+      }
+
+      function optimize() {
+        var namesToQty = {};
+        [...lairBody.children, ...hoardBody.children].forEach((tr) => {
+          var cols = tr.getElementsByTagName("td");
+          var k = cols[1].textContent;
+          var v = Number(cols[0].getElementsByTagName("input")[0].value);
+          if (k in namesToQty) {
+            namesToQty[k] += v;
+          } else {
+            namesToQty[k] = v;
+          }
+        });
+        lairBody.innerHTML = hoardBody.innerHTML = "";
+        Object.keys(namesToQty).forEach((name) => {
+          addCardToDeck(newestPrintingWithName(name), namesToQty[name]);
+        });
+      }
+
+      function getDecklist() {
+        var result = {};
+        [...lairBody.children, ...hoardBody.children].forEach((tr) => {
+          var k = tr.id;
+          var v = Number(
+            tr.getElementsByTagName("td")[0].getElementsByTagName("input")[0]
+              .value
+          );
+          if (k in result) {
+            result[k] += v;
+          } else {
+            result[k] = v;
+          }
+        });
+        return result;
+      }
+
+      function clearDeck() {
+        lairBody.innerHTML = hoardBody.innerHTML = "";
+        updateCounts();
+      }
+
+      function exportToClipboard() {
+        exportTextToClipboard(exportDecklist(getDecklist()));
+      }
+
+      function exportToFile() {
+        exportTextToFile(
+          exportDecklist(getDecklist()),
+          "deck-" + Date.now() + ".txt"
+        );
+      }
+
+      function importFromClipboard() {
+        clearDeck();
+        importTextFromClipboard().then((idToQty) => {
+          Object.keys(idToQty).forEach((id) => {
+            addCardToDeck(cards[id], idToQty[id]);
+          });
+        });
+      }
+
+      function importFromFile() {
+        clearDeck();
+        importTextFromFile().then((idToQty) => {
+          Object.keys(idToQty).forEach((id) => {
+            addCardToDeck(cards[id], idToQty[id]);
+          });
+        });
+      }
+
+      document.getElementById("dropZone").addEventListener("drop", (event) => {
+        event.preventDefault();
+        clearDeck();
+
+        function importFile(f) {
+          var reader = new FileReader();
+          reader.readAsText(f, "UTF-8");
+          reader.onload = (readerEvent) => {
+            var idToQty = importDecklist(readerEvent.target.result);
+            Object.keys(idToQty).forEach((id) => {
+              addCardToDeck(cards[id], idToQty[id]);
+            });
+          };
+        }
+
+        if (event.dataTransfer.items) {
+          [...event.dataTransfer.items].forEach((item, i) => {
+            if (item.kind === "file") {
+              const file = item.getAsFile();
+              importFile(file);
+            }
+          });
+        } else {
+          [...event.dataTransfer.files].forEach((file, i) => {
+            importFile(file);
+          });
+        }
+      });
+      document
+        .getElementById("dropZone")
+        .addEventListener("dragover", (event) => {
+          event.preventDefault();
+        });
+    </script>
+  </body>
+</html>

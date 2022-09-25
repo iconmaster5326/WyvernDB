@@ -1,22 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    {% include 'header.jinja' %}
     <title>Wyvern DB</title>
-    <link
-      href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css"
-      rel="stylesheet"
-      integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT"
-      crossorigin="anonymous"
-    />
   </head>
   <body>
-    <script
-      src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js"
-      integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8"
-      crossorigin="anonymous"
-    ></script>
     {% include 'navbar.jinja' %}
     <form class="text-center p-4" id="boxSimForm">
       <h1>Box Opening Simulator</h1>
@@ -24,9 +12,9 @@
         <table class="table align-middle border">
           <thead>
             <tr>
-              <th scope="col">Sealed Product</th>
-              <th scope="col"># Packs</th>
-              <th scope="col"># Boxes</th>
+              <th scope="col" class="col-6">Sealed Product</th>
+              <th scope="col" class="col-3"># Packs</th>
+              <th scope="col" class="col-3"># Boxes</th>
             </tr>
           </thead>
           <tbody>
@@ -75,33 +63,40 @@
     </form>
     <div id="boxSimResults" class="text-center p-4" hidden>
       <h1>Results</h1>
-      <table class="table align-middle border" id="boxSimResultsTable">
+      <table
+        class="table table-hover align-middle border"
+        id="boxSimResultsTable"
+      >
         <thead>
           <tr>
             <th
               scope="col"
-              onclick="sortTable(0, true)"
+              class="col-1"
+              onclick="sortTable(0, sortTableKeyNumber)"
               style="cursor: pointer"
             >
               #
             </th>
             <th
               scope="col"
-              onclick="sortTable(1, false)"
+              class="col-5"
+              onclick="sortTable(1, sortTableKeyText)"
               style="cursor: pointer"
             >
               Name
             </th>
             <th
               scope="col"
-              onclick="sortTable(2, false)"
+              class="col-3"
+              onclick="sortTable(2, sortTableKeyText)"
               style="cursor: pointer"
             >
               Set
             </th>
             <th
               scope="col"
-              onclick="sortTable(3, false)"
+              class="col-3"
+              onclick="sortTable(3, sortTableKeyRarity)"
               style="cursor: pointer"
             >
               Rarity
@@ -223,14 +218,21 @@
           var link = document.createElement("a");
           link.innerText = cards[pulled]["name"];
           link.setAttribute("href", cards[pulled]["id"] + ".html");
+          link.setAttribute("data-bs-toggle", "tooltip");
+          link.setAttribute(
+            "data-bs-title",
+            '<img src="data/images/' +
+              cards[pulled]["id"] +
+              '.jpeg" height="200px">'
+          );
           tdName.appendChild(link);
           tr.appendChild(tdName);
 
           var tdSet = document.createElement("td");
-          link = document.createElement("a");
-          link.innerText = sets[cards[pulled]["set"]]["name"];
-          link.setAttribute("href", cards[pulled]["set"] + ".html");
-          tdSet.appendChild(link);
+          var link2 = document.createElement("a");
+          link2.innerText = sets[cards[pulled]["set"]]["name"];
+          link2.setAttribute("href", cards[pulled]["set"] + ".html");
+          tdSet.appendChild(link2);
           tr.appendChild(tdSet);
 
           var tdRarity = document.createElement("td");
@@ -238,113 +240,18 @@
           tr.appendChild(tdRarity);
 
           body.appendChild(tr);
+          new bootstrap.Tooltip(link, { html: true });
         });
       });
 
-      function sortTable(n, isNumeric) {
-        var sortFn, invSortFn;
-        if (!isNumeric) {
-          sortFn = (x, y) =>
-            x.textContent.toLowerCase() > y.textContent.toLowerCase();
-          invSortFn = (x, y) =>
-            x.textContent.toLowerCase() < y.textContent.toLowerCase();
-        } else {
-          sortFn = (x, y) => Number(x.textContent) > Number(y.textContent);
-          invSortFn = (x, y) => Number(x.textContent) < Number(y.textContent);
-        }
-
-        var table,
-          rows,
-          switching,
-          i,
-          x,
-          y,
-          shouldSwitch,
-          dir,
-          switchcount = 0;
-        table = document.getElementById("boxSimResultsTable");
-        switching = true;
-        dir = "asc";
-        while (switching) {
-          switching = false;
-          rows = table.rows;
-          for (i = 1; i < rows.length - 1; i++) {
-            shouldSwitch = false;
-            x = rows[i].getElementsByTagName("TD")[n];
-            y = rows[i + 1].getElementsByTagName("TD")[n];
-            if (dir == "asc") {
-              if (sortFn(x, y)) {
-                shouldSwitch = true;
-                break;
-              }
-            } else if (dir == "desc") {
-              if (invSortFn(x, y)) {
-                shouldSwitch = true;
-                break;
-              }
-            }
-          }
-          if (shouldSwitch) {
-            rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
-            switching = true;
-            switchcount++;
-          } else {
-            if (switchcount == 0 && dir == "asc") {
-              dir = "desc";
-              switching = true;
-            }
-          }
-        }
-      }
-
-      function exportPulls() {
-        result = "";
-        var hoard = Object.keys(cardsPulled).filter(
-          (id) =>
-            cards[id]["type"] === "treasure" || cards[id]["type"] === "action"
-        );
-        var lair = Object.keys(cardsPulled).filter(
-          (id) =>
-            cards[id]["type"] === "dragon" || cards[id]["type"] === "terrain"
-        );
-        hoard.forEach((id) => {
-          result += cardsPulled[id] + "\t" + cards[id]["name"] + "\n";
-        });
-        result += "Dragon Lair:\n";
-        lair.forEach((id) => {
-          result += cardsPulled[id] + "\t" + cards[id]["name"] + "\n";
-        });
-        return result;
-      }
+      sortTable = sortTableFn("boxSimResultsTable");
 
       function exportToClipboard() {
-        navigator.clipboard
-          .writeText(exportPulls())
-          .then(() => {
-            console.log("Clipboard operation success!");
-          })
-          .catch((reason) => {
-            console.error("Clipboard operation failure: " + reason);
-            alert(
-              "Could not paste to clipboard. Try 'Export to File' instead."
-            );
-          });
+        exportTextToClipboard(exportDecklist(cardsPulled));
       }
 
       function exportToFile() {
-        var element = document.createElement("a");
-        element.setAttribute(
-          "href",
-          "data:text/plain;charset=utf-8," + encodeURIComponent(exportPulls())
-        );
-        element.setAttribute(
-          "download",
-          "wyvern-boxsim-" + Date.now() + ".txt"
-        );
-        element.style.display = "none";
-        document.body.appendChild(element);
-        element.click();
-        document.body.removeChild(element);
+        exportTextToFile(exportDecklist(cardsPulled), "wyvern-boxsim-" + Date.now() + ".txt");
       }
     </script>
   </body>

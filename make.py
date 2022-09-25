@@ -104,7 +104,7 @@ jinja_vars = dict(
     BASE_URL=BASE_URL,
 )
 
-for page in ["index", "search", "random", "syntax", "boxsim"]:
+for page in ["index", "search", "random", "syntax", "boxsim", "deckbuilder"]:
     with open(os.path.join("docs", page + ".html"), "w") as output_html_file:
         output_html_file.write(
             jinja_env.get_template(page + ".jinja").render(**jinja_vars)
