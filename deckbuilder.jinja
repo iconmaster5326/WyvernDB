@@ -103,6 +103,13 @@
           <div class="col-2" id="breakdown-action">0 action (0%)</div>
         </div>
         <div class="row p-2">
+          <div class="col-4"></div>
+          <div class="col-2" id="rarity-common">0 common (0%)</div>
+          <div class="col-2" id="rarity-uncommon">0 uncommon (0%)</div>
+          <div class="col-2" id="rarity-rare">0 rare (0%)</div>
+          <div class="col-2" id="rarity-promo">0 promo (0%)</div>
+        </div>
+        <div class="row p-2">
           <div class="col">
             <button class="btn btn-secondary" onclick="importFromClipboard()">
               Import from Clipboard
@@ -193,6 +200,25 @@
             t +
             " (" +
             Math.round((typesToQty[t] / totalQty) * 100) +
+            "%)";
+        });
+
+        var rarityToQty = {common: 0, uncommon: 0, rare: 0, promo: 0};
+        [...lairBody.children, ...hoardBody.children].forEach((tr) => {
+          var card = cards[tr.id];
+          rarityToQty[card["rarity"]] += Number(
+            tr.getElementsByTagName("td")[0].getElementsByTagName("input")[0]
+              .value
+          );
+        });
+        var totalQty2 = Object.values(rarityToQty).reduce((a, b) => a + b, 0);
+        Object.keys(rarityToQty).forEach((r) => {
+          document.getElementById("rarity-" + r).innerText =
+          rarityToQty[r] +
+            " " +
+            r +
+            " (" +
+            Math.round((rarityToQty[r] / totalQty2) * 100) +
             "%)";
         });
 
