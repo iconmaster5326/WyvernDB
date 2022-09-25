@@ -362,9 +362,9 @@
 
       document.getElementById("dropZone").addEventListener("drop", (event) => {
         event.preventDefault();
-        clearDeck();
 
         function importFile(f) {
+          clearDeck();
           var reader = new FileReader();
           reader.readAsText(f, "UTF-8");
           reader.onload = (readerEvent) => {
@@ -376,10 +376,24 @@
         }
 
         if (event.dataTransfer.items) {
+          var foundLinks = {};
           [...event.dataTransfer.items].forEach((item, i) => {
             if (item.kind === "file") {
               const file = item.getAsFile();
-              importFile(file);
+              if (file.type == "text/plain") {
+                importFile(file);
+              }
+            } else {
+              item.getAsString((s) => {
+                var idMatch = s.match(
+                  /([0-9a-fA-F]{8}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{4}\-[0-9a-fA-F]{12})\.html$/
+                );
+                if (idMatch) {
+                  if (idMatch[1] in foundLinks) return;
+                  addCardToDeck(cards[idMatch[1]]);
+                  foundLinks[idMatch[1]] = true;
+                }
+              });
             }
           });
         } else {
@@ -394,23 +408,26 @@
           event.preventDefault();
         });
 
-        window.addEventListener("load", (event) => {
-          var saveData = window.localStorage.getItem("wdbDeckBuilderSaveData");
-          if (saveData) {
-            saveData = JSON.parse(saveData);
-            Object.keys(saveData).forEach((id) => {
-              addCardToDeck(cards[id], saveData[id]);
-            });
-          }
-        });
-
-        function saveData() {
-          window.localStorage.setItem("wdbDeckBuilderSaveData", JSON.stringify(getDecklist()));
+      window.addEventListener("load", (event) => {
+        var saveData = window.localStorage.getItem("wdbDeckBuilderSaveData");
+        if (saveData) {
+          saveData = JSON.parse(saveData);
+          Object.keys(saveData).forEach((id) => {
+            addCardToDeck(cards[id], saveData[id]);
+          });
         }
+      });
 
-        window.addEventListener("close", (event) => {
-          saveData();
-        });
+      function saveData() {
+        window.localStorage.setItem(
+          "wdbDeckBuilderSaveData",
+          JSON.stringify(getDecklist())
+        );
+      }
+
+      window.addEventListener("close", (event) => {
+        saveData();
+      });
     </script>
   </body>
 </html>
