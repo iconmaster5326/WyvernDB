@@ -12,11 +12,27 @@
       id="searchResults"
       class="d-flex justify-content-center p-4 flex-wrap"
     ></div>
+    <div class="text-center container p-4">
+      <div class="row p-2">
+        <div class="col">
+          <button class="btn btn-secondary" onclick="exportToClipboard()">
+            Export to Clipboard
+          </button>
+        </div>
+        <div class="col">
+          <button class="btn btn-secondary" onclick="exportToFile()">
+            Export to File
+          </button>
+        </div>
+      </div>
+    </div>
     <script>
       BASE_URL = "{{ BASE_URL }}";
       cards = {{ repr(cards) }};
       sets = {{ repr(sets) }};
       cardsByName = {{ repr(cards_by_name) }};
+
+      var results = undefined;
 
       function populateResults() {
         var resultsDiv = document.getElementById("searchResults");
@@ -25,7 +41,7 @@
 
         var query =
           new URLSearchParams(window.location.search).get("query") || "";
-        var results = new SearchEnv().filter(
+        results = new SearchEnv().filter(
           Object.values(cards),
           parseTerm(query)
         );
@@ -40,6 +56,18 @@
       }
 
       populateResults();
+
+      function getCardlist() {
+        return Object.fromEntries(results.map((c) => [c["id"], 1]));
+      }
+
+      function exportToClipboard() {
+        exportTextToClipboard(exportDecklist(getCardlist()));
+      }
+
+      function exportToFile() {
+        exportTextToFile(exportDecklist(getCardlist()), "search-"+Date.now()+".txt");
+      }
     </script>
   </body>
 </html>

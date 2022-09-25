@@ -101,8 +101,42 @@ class FilterRarity extends BasicFilter {
   }
 }
 
+class FilterNumber extends BasicFilter {
+  constructor() {
+    super("n", "num", "number");
+  }
+  value(env, card) {
+    return Number(card["number"]);
+  }
+}
+
+class FilterType extends BasicFilter {
+  constructor() {
+    super("t", "type");
+  }
+  value(env, card) {
+    return card["subtype"] || card["type"];
+  }
+}
+
+class FilterGold extends BasicFilter {
+  constructor() {
+    super("g", "gc", "gold", "goldcost");
+  }
+  value(env, card) {
+    return card["gold_cost"];
+  }
+}
+
 const FILTERS = {};
-[new FilterName(), new FilterSet(), new FilterRarity()].forEach((filter) => {
+[
+  new FilterName(),
+  new FilterSet(),
+  new FilterRarity(),
+  new FilterNumber(),
+  new FilterType(),
+  new FilterGold(),
+].forEach((filter) => {
   filter.names.forEach((name) => {
     FILTERS[name] = filter;
   });

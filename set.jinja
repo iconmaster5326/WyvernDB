@@ -20,5 +20,40 @@
       </a>
       {% endfor %}
     </div>
+    <div class="text-center container p-4">
+      <div class="row p-2">
+        <div class="col">
+          <button class="btn btn-secondary" onclick="exportToClipboard()">
+            Export to Clipboard
+          </button>
+        </div>
+        <div class="col">
+          <button class="btn btn-secondary" onclick="exportToFile()">
+            Export to File
+          </button>
+        </div>
+      </div>
+    </div>
+    <script>
+      BASE_URL = "{{ BASE_URL }}";
+      cards = {{ repr(cards) }};
+      sets = {{ repr(sets) }};
+
+      function getSetlist() {
+        return Object.fromEntries(
+          Object.values(cards)
+            .filter((c) => c["set"] === "{{ set['id'] }}")
+            .map((c) => [c["id"], 1])
+        );
+      }
+
+      function exportToClipboard() {
+        exportTextToClipboard(exportDecklist(getSetlist()));
+      }
+
+      function exportToFile() {
+        exportTextToFile(exportDecklist(getSetlist()), "{{ set['id'] }}.txt");
+      }
+    </script>
   </body>
 </html>
